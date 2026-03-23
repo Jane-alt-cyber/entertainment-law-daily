@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entertainment Law Daily</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Noto+Serif+SC:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ===== Reset & Base ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #FAF8F5;
+      --card:     #FFFFFF;
+      --accent:   #C45A3C;
+      --accent-light: #F2E8E4;
+      --text:     #1A1A1A;
+      --muted:    #6B6460;
+      --border:   #E5E0DA;
+      --dark-card:#2C2420;
+      --radius:   12px;
+      --shadow:   0 2px 16px rgba(0,0,0,0.07);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Source Serif 4', 'Noto Serif SC', Georgia, serif;
+      font-size: 17px;
+      line-height: 1.75;
+      padding: 0 16px 80px;
+    }
+
+    /* ===== Layout ===== */
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    /* ===== Header / Masthead ===== */
+    .masthead {
+      border-bottom: 2px solid var(--text);
+      padding: 28px 0 16px;
+      margin-bottom: 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .masthead-brand {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 13px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .masthead-date {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    /* ===== Section Card ===== */
+    .section-card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 28px 32px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .section-card { padding: 20px 18px; }
+    }
+
+    .section-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ===== Hero / Title Section ===== */
+    .hero-badge {
+      display: inline-block;
+      background: var(--accent-light);
+      color: var(--accent);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 4px;
+      margin-bottom: 16px;
+    }
+
+    .hero-title-en {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: clamp(24px, 5vw, 34px);
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 10px;
+      color: var(--text);
+    }
+
+    .hero-title-cn {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 16px;
+      color: var(--muted);
+      font-weight: 400;
+      margin-bottom: 16px;
+    }
+
+    .hero-source {
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+      border-left: 3px solid var(--border);
+      padding-left: 12px;
+    }
+
+    /* ===== Reading Section ===== */
+    .reading-controls {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .word-count {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      margin-left: auto;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 14px;
+      border-radius: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      border: 1.5px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+      transition: all 0.15s;
+      user-select: none;
+    }
+
+    .btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .btn-primary:hover { background: #a84d32; border-color: #a84d32; color: #fff; }
+
+    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .reading-body p {
+      border-left: 3px solid var(--accent-light);
+      padding-left: 18px;
+      margin-bottom: 20px;
+      font-size: 17px;
+      line-height: 1.85;
+    }
+
+    .reading-body p:last-child { margin-bottom: 0; }
+
+    /* ===== Vocabulary ===== */
+    .vocab-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
+    }
+
+    .vocab-card {
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      cursor: pointer;
+      transition: border-color 0.15s, box-shadow 0.15s;
+      position: relative;
+    }
+
+    .vocab-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(196,90,60,0.1); }
+
+    .vocab-card.open { border-color: var(--accent); }
+
+    .vocab-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 4px;
+    }
+
+    .vocab-term {
+      font-family: 'Source Serif 4', serif;
+      font-weight: 600;
+      font-size: 16px;
+      color: var(--text);
+    }
+
+    .vocab-phonetic {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .vocab-cn {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 13px;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .vocab-example {
+      display: none;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+      color: var(--muted);
+      font-style: italic;
+      line-height: 1.6;
+    }
+
+    .vocab-card.open .vocab-example { display: block; }
+
+    .vocab-toggle {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      font-size: 16px;
+      color: var(--muted);
+      transition: transform 0.2s;
+    }
+
+    .vocab-card.open .vocab-toggle { transform: rotate(45deg); color: var(--accent); }
+
+    /* ===== Sentence Patterns ===== */
+    .pattern-item {
+      border-left: 3px solid var(--accent);
+      padding: 14px 18px;
+      margin-bottom: 16px;
+      background: var(--bg);
+      border-radius: 0 8px 8px 0;
+    }
+
+    .pattern-item:last-child { margin-bottom: 0; }
+
+    .pattern-template {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      color: var(--accent);
+      margin-bottom: 8px;
+      line-height: 1.6;
+    }
+
+    .pattern-example {
+      font-size: 15px;
+      color: var(--text);
+      margin-bottom: 6px;
+      line-height: 1.7;
+    }
+
+    .pattern-cn {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    /* ===== Legal Analysis ===== */
+    .legal-body {
+      font-family: 'Noto Serif SC', serif;
+      font-size: 15.5px;
+      line-height: 1.9;
+      color: var(--text);
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .law-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 20px;
+    }
+
+    .law-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 4px 10px;
+      color: var(--muted);
+    }
+
+    /* ===== Discussion Question ===== */
+    .discussion-card {
+      background: var(--dark-card);
+      border-radius: var(--radius);
+      padding: 28px 32px;
+      margin-bottom: 20px;
+    }
+
+    .discussion-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .discussion-q {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: clamp(16px, 3vw, 20px);
+      color: #F5F0EB;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 600px) {
+      .discussion-card { padding: 20px 18px; }
+    }
+
+    /* ===== TTS Active State ===== */
+    .reading-body p.tts-active {
+      background: linear-gradient(90deg, var(--accent-light), transparent);
+      border-left-color: var(--accent);
+      transition: background 0.3s;
+    }
+
+    /* ===== Skeleton Loading ===== */
+    .skeleton {
+      background: linear-gradient(90deg, var(--border) 25%, #ede8e2 50%, var(--border) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 4px;
+      display: block;
+    }
+
+    @keyframes shimmer {
+      0%   { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    .skeleton-line { height: 18px; margin-bottom: 10px; }
+    .skeleton-title { height: 36px; width: 80%; margin-bottom: 16px; }
+    .skeleton-para  { height: 14px; margin-bottom: 8px; }
+
+    /* ===== Error State ===== */
+    .error-box {
+      background: #FEF2F0;
+      border: 1.5px solid #f3c0b3;
+      border-radius: var(--radius);
+      padding: 28px 32px;
+      text-align: center;
+    }
+
+    .error-box h2 {
+      font-family: 'Playfair Display', serif;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    .error-box p { color: var(--muted); font-size: 14px; }
+
+    /* ===== Footer ===== */
+    .footer {
+      text-align: center;
+      padding: 32px 0 0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    /* ===== Nav / Archive link ===== */
+    .archive-nav {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 12px;
+    }
+
+    .archive-nav a {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .archive-nav a:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Masthead -->
+    <header class="masthead">
+      <div class="masthead-brand">Entertainment Law Daily</div>
+      <div class="masthead-date" id="hdr-date">Loading…</div>
+    </header>
+
+    <!-- Main content rendered here -->
+    <main id="main">
+      <!-- Skeleton while loading -->
+      <div id="skeleton">
+        <div class="section-card">
+          <span class="skeleton skeleton-title"></span>
+          <span class="skeleton skeleton-line" style="width:60%"></span>
+          <span class="skeleton skeleton-line" style="width:40%;margin-top:8px"></span>
+        </div>
+        <div class="section-card">
+          <span class="skeleton skeleton-line"></span>
+          <span class="skeleton skeleton-para"></span>
+          <span class="skeleton skeleton-para" style="width:90%"></span>
+          <span class="skeleton skeleton-para" style="width:95%"></span>
+          <span class="skeleton skeleton-para" style="width:85%"></span>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      Powered by Claude AI · Generated daily for English entertainment law study
+    </footer>
+  </div>
+
+  <script>
+  // ================================================================
+  //  Helpers
+  // ================================================================
+  const $ = (sel, ctx = document) => ctx.querySelector(sel);
+  const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
+
+  const BADGE_MAP = {
+    case:       'Case Study',
+    news:       'Industry News',
+    deal:       'Deal & Contract',
+    ip:         'IP & Copyright',
+    regulation: 'Regulation',
+  };
+
+  function countWords(str) {
+    return str.trim().split(/\s+/).filter(Boolean).length;
+  }
+
+  function formatDate(iso) {
+    const d = new Date(iso + 'T00:00:00');
+    return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  function el(tag, attrs = {}, ...children) {
+    const node = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === 'className') node.className = v;
+      else if (k === 'html') node.innerHTML = v;
+      else node.setAttribute(k, v);
+    }
+    children.forEach(c => {
+      if (typeof c === 'string') node.appendChild(document.createTextNode(c));
+      else if (c) node.appendChild(c);
+    });
+    return node;
+  }
+
+  // ================================================================
+  //  TTS (Web Speech API)
+  // ================================================================
+  const TTS = (() => {
+    let utterance = null;
+    let paragraphs = [];
+    let currentIdx = 0;
+    let playing = false;
+
+    function highlightPara(idx) {
+      $$('.reading-body p').forEach((p, i) => {
+        p.classList.toggle('tts-active', i === idx);
+      });
+    }
+
+    function clearHighlight() {
+      $$('.reading-body p').forEach(p => p.classList.remove('tts-active'));
+    }
+
+    function updateBtns(state) {
+      const btnPlay = $('#btn-play');
+      const btnPause = $('#btn-pause');
+      const btnStop = $('#btn-stop');
+      if (!btnPlay) return;
+      btnPlay.disabled  = state === 'playing';
+      btnPause.disabled = state !== 'playing';
+      btnStop.disabled  = state === 'idle';
+      btnPlay.textContent = state === 'paused' ? '▶ Resume' : '▶ Play';
+    }
+
+    function speakIdx(idx) {
+      if (idx >= paragraphs.length) {
+        clearHighlight();
+        updateBtns('idle');
+        playing = false;
+        return;
+      }
+      currentIdx = idx;
+      highlightPara(idx);
+      utterance = new SpeechSynthesisUtterance(paragraphs[idx]);
+      utterance.lang = 'en-US';
+      utterance.rate = 0.85;
+      utterance.pitch = 1.0;
+      utterance.onend = () => {
+        if (playing) speakIdx(idx + 1);
+      };
+      utterance.onerror = () => {
+        clearHighlight();
+        updateBtns('idle');
+        playing = false;
+      };
+      speechSynthesis.speak(utterance);
+    }
+
+    return {
+      init(paras) {
+        paragraphs = paras;
+        currentIdx = 0;
+        playing = false;
+        updateBtns('idle');
+      },
+      play() {
+        if (!('speechSynthesis' in window)) { alert('TTS not supported in this browser.'); return; }
+        if (speechSynthesis.paused) {
+          speechSynthesis.resume();
+          playing = true;
+          updateBtns('playing');
+          return;
+        }
+        speechSynthesis.cancel();
+        playing = true;
+        updateBtns('playing');
+        speakIdx(currentIdx);
+      },
+      pause() {
+        speechSynthesis.pause();
+        playing = false;
+        updateBtns('paused');
+      },
+      stop() {
+        playing = false;
+        speechSynthesis.cancel();
+        clearHighlight();
+        currentIdx = 0;
+        updateBtns('idle');
+      },
+    };
+  })();
+
+  // ================================================================
+  //  Render Functions
+  // ================================================================
+  function renderHero(data) {
+    const badge = BADGE_MAP[data.content_type] || data.content_type;
+    return el('div', { className: 'section-card' },
+      el('div', { className: 'hero-badge' }, badge),
+      el('h1', { className: 'hero-title-en' }, data.title_en),
+      el('div', { className: 'hero-title-cn' }, data.title_cn),
+      el('div', { className: 'hero-source' }, data.source_hint || ''),
+    );
+  }
+
+  function renderReading(data) {
+    const p1 = data.reading.paragraph1 || '';
+    const p2 = data.reading.paragraph2 || '';
+    const wc = countWords(p1) + countWords(p2);
+
+    const card = el('div', { className: 'section-card' });
+
+    card.appendChild(el('div', { className: 'section-label' }, 'English Reading'));
+
+    const controls = el('div', { className: 'reading-controls' });
+    const btnPlay  = el('button', { className: 'btn btn-primary', id: 'btn-play'  }, '▶ Play');
+    const btnPause = el('button', { className: 'btn', id: 'btn-pause', disabled: '' }, '⏸ Pause');
+    const btnStop  = el('button', { className: 'btn', id: 'btn-stop',  disabled: '' }, '⏹ Stop');
+    const wcSpan   = el('span',   { className: 'word-count' }, `${wc} words`);
+
+    btnPlay.addEventListener('click',  () => TTS.play());
+    btnPause.addEventListener('click', () => TTS.pause());
+    btnStop.addEventListener('click',  () => TTS.stop());
+
+    controls.append(btnPlay, btnPause, btnStop, wcSpan);
+    card.appendChild(controls);
+
+    const body = el('div', { className: 'reading-body' });
+    if (p1) body.appendChild(el('p', {}, p1));
+    if (p2) body.appendChild(el('p', {}, p2));
+    card.appendChild(body);
+
+    TTS.init([p1, p2].filter(Boolean));
+    return card;
+  }
+
+  function renderVocabulary(data) {
+    const card = el('div', { className: 'section-card' });
+    card.appendChild(el('div', { className: 'section-label' }, 'Key Vocabulary'));
+
+    const grid = el('div', { className: 'vocab-grid' });
+
+    (data.vocabulary || []).forEach(item => {
+      const vc = el('div', { className: 'vocab-card' });
+
+      const toggle = el('span', { className: 'vocab-toggle' }, '+');
+      vc.appendChild(toggle);
+
+      const hdr = el('div', { className: 'vocab-header' });
+      hdr.appendChild(el('span', { className: 'vocab-term' }, item.term));
+      if (item.phonetic) hdr.appendChild(el('span', { className: 'vocab-phonetic' }, item.phonetic));
+      vc.appendChild(hdr);
+      vc.appendChild(el('div', { className: 'vocab-cn' }, item.cn));
+
+      if (item.example) {
+        const ex = el('div', { className: 'vocab-example' }, `"${item.example}"`);
+        vc.appendChild(ex);
+      }
+
+      vc.addEventListener('click', () => {
+        vc.classList.toggle('open');
+      });
+
+      grid.appendChild(vc);
+    });
+
+    card.appendChild(grid);
+    return card;
+  }
+
+  function renderPatterns(data) {
+    const card = el('div', { className: 'section-card' });
+    card.appendChild(el('div', { className: 'section-label' }, 'Sentence Patterns'));
+
+    (data.sentence_patterns || []).forEach(sp => {
+      const item = el('div', { className: 'pattern-item' });
+      item.appendChild(el('div', { className: 'pattern-template' }, sp.pattern));
+      item.appendChild(el('div', { className: 'pattern-example' }, sp.example));
+      item.appendChild(el('div', { className: 'pattern-cn' }, sp.cn_explanation));
+      card.appendChild(item);
+    });
+
+    return card;
+  }
+
+  function renderLegal(data) {
+    const card = el('div', { className: 'section-card' });
+    card.appendChild(el('div', { className: 'section-label' }, '法律解读 Legal Analysis'));
+
+    const analysis = data.legal_analysis || {};
+    if (analysis.summary_cn) {
+      card.appendChild(el('div', { className: 'legal-body' }, analysis.summary_cn));
+    }
+
+    const laws = analysis.key_laws_referenced || [];
+    if (laws.length) {
+      const tags = el('div', { className: 'law-tags' });
+      laws.forEach(law => tags.appendChild(el('span', { className: 'law-tag' }, law)));
+      card.appendChild(tags);
+    }
+
+    return card;
+  }
+
+  function renderDiscussion(data) {
+    const card = el('div', { className: 'discussion-card' });
+    card.appendChild(el('div', { className: 'discussion-label' }, 'Discussion Question'));
+    card.appendChild(el('p', { className: 'discussion-q' }, data.discussion_question || ''));
+    return card;
+  }
+
+  // ================================================================
+  //  Main render
+  // ================================================================
+  function renderCard(data) {
+    $('#hdr-date').textContent = formatDate(data.date);
+
+    const main = $('#main');
+    main.innerHTML = '';
+
+    main.appendChild(renderHero(data));
+    main.appendChild(renderReading(data));
+    main.appendChild(renderVocabulary(data));
+    main.appendChild(renderPatterns(data));
+    main.appendChild(renderLegal(data));
+    main.appendChild(renderDiscussion(data));
+  }
+
+  function showError(err) {
+    const main = $('#main');
+    main.innerHTML = '';
+    const box = el('div', { className: 'error-box' });
+    box.appendChild(el('h2', {}, 'Content Unavailable'));
+    box.appendChild(el('p', {}, "Today's content hasn't been generated yet, or there was a loading error."));
+    box.appendChild(el('p', { html: `<br><code style="font-size:11px;color:#999">${err}</code>` }));
+    main.appendChild(box);
+    $('#hdr-date').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  // ================================================================
+  //  Bootstrap
+  // ================================================================
+  (function init() {
+    const DATA_URL = './data/latest.json';
+
+    fetch(DATA_URL)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => renderCard(data))
+      .catch(err => showError(err.message || String(err)));
+  })();
+  </script>
+</body>
+</html>

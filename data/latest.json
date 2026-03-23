@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-23",
+  "title_en": "Streaming Platforms Face New Royalty Calculation Rules Under Revised MMA",
+  "title_cn": "流媒体平台面临《音乐现代化法案》修订后的版税计算新规",
+  "content_type": "regulation",
+  "source_hint": "Based on Billboard and Music Business Worldwide reporting, March 2026",
+  "reading": {
+    "paragraph1": "The Copyright Royalty Board (CRB) has issued revised mechanical royalty rates for on-demand streaming services, setting a new benchmark that music publishers say is long overdue. Under the updated Phonorecords IV ruling, streaming platforms such as Spotify, Apple Music, and Amazon Music will be required to remit a higher percentage of their total content acquisition costs to songwriters and music publishers — a figure that now rises incrementally from 15.1% to 17.5% over the next five years. The ruling, which follows a contentious multi-year proceeding, resolves a key ambiguity in the Music Modernization Act (MMA) concerning how 'service revenue' should be defined when bundled subscription packages are involved.",
+    "paragraph2": "Industry observers note that the decision carries significant implications for both independent songwriters and major publishing houses. While the National Music Publishers' Association (NMPA) hailed the ruling as a 'historic step forward in valuing the creative work of songwriters,' major streaming platforms have signaled they will seek judicial review. Legal experts point out that the core dispute centers on the definition of 'all-in costs' — whether subscriber fees from bundled services (e.g., a music-video package) constitute the full revenue base from which royalties are calculated. The outcome will likely reshape licensing negotiations industry-wide and could prompt further legislative clarification of the MMA's ambiguous bundling provisions."
+  },
+  "vocabulary": [
+    {
+      "term": "mechanical royalty",
+      "phonetic": "/məˈkænɪkəl ˈrɔɪəlti/",
+      "cn": "机械版税（因复制录音而支付给词曲作者的版税）",
+      "example": "Streaming platforms must remit mechanical royalties to songwriters for each on-demand stream."
+    },
+    {
+      "term": "Copyright Royalty Board (CRB)",
+      "phonetic": "/ˈkɒpɪraɪt ˈrɔɪəlti bɔːrd/",
+      "cn": "版权版税委员会（美国负责裁定法定版税率的机构）",
+      "example": "The CRB's Phonorecords IV ruling set new royalty rates for streaming services."
+    },
+    {
+      "term": "on-demand streaming",
+      "phonetic": "/ɒn dɪˈmɑːnd ˈstriːmɪŋ/",
+      "cn": "按需流媒体（用户可自主选择播放内容的流媒体服务）",
+      "example": "On-demand streaming services must comply with the new mechanical royalty framework."
+    },
+    {
+      "term": "bundled subscription",
+      "phonetic": "/ˈbʌndəld səbˈskrɪpʃən/",
+      "cn": "捆绑订阅（将多种服务打包销售的订阅模式）",
+      "example": "The ruling clarifies how royalties should be calculated when bundled subscriptions are involved."
+    },
+    {
+      "term": "judicial review",
+      "phonetic": "/dʒuːˈdɪʃəl rɪˈvjuː/",
+      "cn": "司法审查（法院对行政机关决定的合法性进行审查）",
+      "example": "Several streaming platforms announced they would seek judicial review of the CRB ruling."
+    },
+    {
+      "term": "content acquisition costs",
+      "phonetic": "/ˈkɒntent ˌækwɪˈzɪʃən kɒsts/",
+      "cn": "内容获取成本（平台为获得音乐授权所支付的总费用）",
+      "example": "The new rate is calculated as a percentage of total content acquisition costs."
+    },
+    {
+      "term": "licensing negotiation",
+      "phonetic": "/ˈlaɪsənsɪŋ nɪˌɡoʊʃɪˈeɪʃən/",
+      "cn": "授权谈判（围绕知识产权使用权展开的商业谈判）",
+      "example": "The ruling is expected to reshape licensing negotiations across the streaming industry."
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Authority] will be required to [obligation], a figure that [incremental change].",
+      "example": "Streaming platforms will be required to remit a higher percentage of their total content acquisition costs, a figure that now rises incrementally from 15.1% to 17.5% over the next five years.",
+      "cn_explanation": "「will be required to + 动词原形」表示法规强制义务；「a figure that」引导同位语从句，对前文数字进一步说明。常见于裁决书、监管通知。"
+    },
+    {
+      "pattern": "The core dispute centers on the definition of '___' — whether ___ constitute(s) ___.",
+      "example": "The core dispute centers on the definition of 'all-in costs' — whether subscriber fees from bundled services constitute the full revenue base from which royalties are calculated.",
+      "cn_explanation": "「centers on」表示争议焦点；破折号后用「whether」引出争议的具体内容，结构清晰，常用于判决书的争议点归纳。"
+    },
+    {
+      "pattern": "[Party] hailed [outcome] as a '___,' while [opposing party] signaled they would ___.",
+      "example": "The NMPA hailed the ruling as a 'historic step forward,' while major streaming platforms signaled they would seek judicial review.",
+      "cn_explanation": "「hailed ... as」表示高度赞扬；「signaled they would」表示预示将采取的行动。对比结构，常用于呈现多方立场。"
+    },
+    {
+      "pattern": "The outcome will likely reshape ___ and could prompt further ___ of ___.",
+      "example": "The outcome will likely reshape licensing negotiations industry-wide and could prompt further legislative clarification of the MMA's ambiguous bundling provisions.",
+      "cn_explanation": "「will likely + 动词」表示高可能性预测；「could prompt further」表示可能引发后续连锁反应。常用于分析裁决的行业影响。"
+    }
+  ],
+  "legal_analysis": {
+    "summary_cn": "本案涉及美国版权版税委员会（CRB）依据《音乐现代化法案》（MMA）重新厘定流媒体平台机械版税率的行政裁决，核心法律争议在于：当音乐服务以"捆绑订阅"形式销售时，版税计算基数（"all-in costs"）应如何界定。CRB最终采纳音乐出版商立场，将版税率从15.1%逐步提升至17.5%，并澄清了捆绑收入的计算口径。\n\n从美国法律框架看，MMA（2018年）将原先碎片化的机械版权许可制度统一整合，设立音乐授权集体组织（MLC），并授权CRB裁定法定版税率。本次Phonorecords IV裁决属于CRB的准司法权能，平台方寻求的"司法审查"将适用《行政程序法》（APA）下的任意性审查标准（arbitrary and capricious standard），推翻难度较大。\n\n对照中国法律，《著作权法》第46条及《著作权集体管理条例》规定了音乐作品的法定许可与集体管理制度，中国音乐著作权协会（MCSC）承担与美国MLC类似的集体许可职能。然而，中国尚无类似CRB的独立版税裁定机构，版税率主要由主管部门通过行政规章确定，市场化程度较低。本案对中国实务的启示在于：随着流媒体经济规模扩大，建立独立、透明的版税裁定机制将是著作权制度完善的重要方向；同时，国内音乐平台在布局海外市场时，须高度关注目的国的机械版税合规义务。",
+    "key_laws_referenced": [
+      "Music Modernization Act (MMA), 17 U.S.C. § 115",
+      "Administrative Procedure Act (APA)",
+      "CRB Phonorecords IV Ruling",
+      "中华人民共和国著作权法（第46条）",
+      "著作权集体管理条例"
+    ]
+  },
+  "discussion_question": "If a streaming platform offers a bundle that includes music, video, and cloud storage for a single monthly fee, how should regulators determine the portion of that fee attributable to music — and who should bear the burden of proof in a royalty dispute?"
+}
