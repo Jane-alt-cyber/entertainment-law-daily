@@ -1,94 +1,95 @@
 {
   "date": "2026-03-23",
-  "title_en": "Cox Communications v. Sony Music: Supreme Court Weighs $1 Billion Copyright Battle",
-  "title_cn": "Cox通信诉索尼音乐案：最高法院权衡10亿美元版权之争",
+  "title_en": "Supreme Court Weighs $1 Billion Copyright Verdict in Cox v. Sony Case",
+  "title_cn": "美国最高法院审理Cox诉Sony十亿美元版权侵权案",
   "content_type": "case",
-  "source_hint": "Based on Supreme Court oral arguments from December 2025, with decision pending June 2026",
+  "source_hint": "Based on Supreme Court oral arguments and legal analysis, December 2025-March 2026",
   "reading": {
-    "paragraph1": "<cite index=\"1-2,12-1\">Cox Communications, the third largest broadband provider in the U.S., faces a $1 billion penalty awarded by a jury to Sony Music Entertainment and other media companies that sued over the distribution of pirated content online. A jury in Alexandria, Virginia, found in 2019 that Cox owed the labels $1 billion for its secondary liability for the copyright infringement by its customers of more than 10,000 copyrights.</cite> <cite index=\"13-11,18-6\">Oral arguments were held December 1, 2025, and the Fourth Circuit affirmed the contributory infringement finding, setting up Cox's appeal to the Supreme Court.</cite> <cite index=\"1-1\">The justices will issue a decision in the dispute by the end of June 2026.</cite>",
-    "paragraph2": "<cite index=\"12-19,13-12\">During oral arguments, the Justices appeared skeptical of both parties' positions, searching for a middle ground that would hold bad actors accountable without imposing impossible burdens on ISPs. Court journalists said that the justices from both ends of the political spectrum were skeptical of arguments from both Cox and the music labels, with Sonia Sotomayor saying \"We are being put to two extremes here.\"</cite> <cite index=\"12-7,12-8\">If the Court affirms that an ISP's failure to act on infringement notices constitutes willful contributory infringement, it may influence future litigation involving streaming services, cloud storage providers, and artificial intelligence platforms. These entities often host or process vast amounts of user content, and a ruling against Cox could shape their liability exposure and operational policies for years to come.</cite>"
+    "paragraph1": "In a landmark case that could reshape internet liability law, the U.S. Supreme Court heard oral arguments in December 2025 concerning Cox Communications' challenge to a $1 billion copyright infringement verdict. <cite index='1-2,15-14'>Sony Music Entertainment and other record labels sued Cox, the nation's third-largest broadband provider, alleging it failed to terminate subscribers who repeatedly downloaded pirated music</cite>. <cite index='5-1,17-1'>The lower court ruled that Cox could not claim Digital Millennium Copyright Act (DMCA) safe harbor protections because it failed to reasonably implement a policy to terminate repeat infringers</cite>. <cite index='14-16,14-17'>During oral arguments, justices from both political spectrums appeared skeptical of extreme positions from both parties, with Justice Sonia Sotomayor noting they were \"being put to two extremes\"</cite>.",
+    "paragraph2": "<cite index='17-16,17-18'>The case stems from allegations that Cox knowingly enabled copyright piracy by failing to terminate over 6 million subscribers who repeatedly downloaded music illegally via BitTorrent and peer-to-peer protocols</cite>. <cite index='5-8,5-9'>The stakes extend far beyond music piracy, potentially influencing future litigation involving streaming services, cloud storage providers, and AI platforms that host vast amounts of user content</cite>. <cite index='14-18,14-19'>Justices questioned whether proposed remedies were too strict, such as slowing internet speeds at colleges due to repeat infringers, while court journalists noted the questioning appeared to favor Cox, following previous 2023 rulings that favored ISP liability protections</cite>. <cite index='17-2,17-3'>A decision is expected by June 2026, which will shape copyright enforcement in the digital age for decades and potentially affect liability questions for modern internet intermediaries</cite>."
   },
   "vocabulary": [
     {
       "term": "contributory infringement",
       "phonetic": "/kənˈtrɪbjʊˌtɔri ɪnˈfrɪndʒmənt/",
-      "cn": "帮助侵权，共同侵权",
-      "example": "The court affirmed the jury's finding of willful contributory infringement by Cox Communications."
+      "cn": "共同侵权；帮助侵权",
+      "example": "The court found Cox liable for contributory copyright infringement by providing service to repeat offenders."
     },
     {
-      "term": "vicarious liability",
-      "phonetic": "/vɪˈkɛriəs ˌlaɪəˈbɪləti/",
-      "cn": "替代责任，代位责任",
-      "example": "The Fourth Circuit reversed the finding of vicarious liability because Cox did not profit from subscriber infringement."
+      "term": "safe harbor provisions",
+      "phonetic": "/seɪf ˈhɑrbər prəˈvɪʒənz/",
+      "cn": "安全港条款（DMCA法案中保护网络服务提供商的条款）",
+      "example": "Cox lost its DMCA safe harbor protections due to inadequate repeat infringer policies."
     },
     {
-      "term": "safe harbor",
-      "phonetic": "/seɪf ˈhɑrbər/",
-      "cn": "安全港条款",
-      "example": "The DMCA provides safe harbor protections for ISPs if they reasonably implement policies to terminate repeat infringers."
+      "term": "repeat infringer",
+      "phonetic": "/rɪˈpit ɪnˈfrɪndʒər/",
+      "cn": "重复侵权者；惯常侵权人",
+      "example": "ISPs must reasonably implement policies to terminate repeat infringers under the DMCA."
     },
     {
       "term": "statutory damages",
       "phonetic": "/ˈstætʃəˌtɔri ˈdæmɪdʒɪz/",
       "cn": "法定损害赔偿",
-      "example": "The jury awarded Sony over $1 billion in statutory damages for copyright infringement."
+      "example": "The jury awarded Sony over $1 billion in statutory damages for willful copyright infringement."
     },
     {
-      "term": "repeat infringer",
-      "phonetic": "/rɪˈpit ɪnˈfrɪndʒər/",
-      "cn": "重复侵权者",
-      "example": "Cox was required to terminate internet service for repeat infringers under the DMCA policy."
+      "term": "peer-to-peer sharing",
+      "phonetic": "/pɪr tu pɪr ˈʃɛrɪŋ/",
+      "cn": "点对点共享；P2P文件分享",
+      "example": "Users engaged in peer-to-peer sharing of copyrighted music through BitTorrent protocols."
     },
     {
-      "term": "material contribution",
-      "phonetic": "/məˈtɪriəl ˌkɑntrəˈbjuʃən/",
-      "cn": "实质性贡献",
-      "example": "The music labels argued that Cox's continued service to known infringers constituted material contribution to copyright violation."
+      "term": "willful infringement",
+      "phonetic": "/ˈwɪlfəl ɪnˈfrɪndʒmənt/",
+      "cn": "故意侵权",
+      "example": "The jury found Cox guilty of willful contributory infringement, which increased potential damages."
     },
     {
-      "term": "secondary liability",
-      "phonetic": "/ˈsɛkənˌdɛri ˌlaɪəˈbɪləti/",
-      "cn": "间接责任，次要责任",
-      "example": "Justice Gorsuch noted that the law around secondary liability for service providers is murky and requires clarification."
+      "term": "intermediary liability",
+      "phonetic": "/ˌɪntərˈmidiˌɛri ˌlaɪəˈbɪləti/",
+      "cn": "中介责任；平台责任",
+      "example": "The case will determine the scope of intermediary liability for internet service providers."
     },
     {
-      "term": "peer-to-peer networking",
-      "phonetic": "/pɪr tu pɪr ˈnɛtˌwɜrkɪŋ/",
-      "cn": "点对点网络共享",
-      "example": "Cox subscribers allegedly used peer-to-peer networking software to illegally distribute copyrighted music."
+      "term": "infringement notices",
+      "phonetic": "/ɪnˈfrɪndʒmənt ˈnoʊtəsɪz/",
+      "cn": "侵权通知",
+      "example": "Cox received over 163,000 infringement notices identifying instances of illegal file sharing."
     }
   ],
   "sentence_patterns": [
     {
-      "pattern": "The court affirmed/reversed ___ on the grounds that ___",
-      "example": "The Fourth Circuit affirmed the contributory infringement finding on the grounds that Cox materially contributed to subscriber infringement.",
-      "cn_explanation": "中文句式说明：法庭确认/推翻某项判决的理由表述。结构为'法庭+动作(affirmed/reversed)+争议点+理由(on the grounds that)'，常用于描述上诉法庭对下级法庭判决的处理及其法理依据。"
-    },
-    {
-      "pattern": "___ faces a $__ penalty/judgment/award for ___",
-      "example": "Cox Communications faces a $1 billion penalty for its secondary liability in copyright infringement cases.",
-      "cn_explanation": "中文句式说明：描述某实体面临经济处罚的句式。结构为'主体+faces+金额+处罚类型+违法行为'，在法律报道中常用来突出案件的经济影响和严重程度。"
-    },
-    {
-      "pattern": "The stakes extend far beyond ___, as ___ could shape ___ for years to come",
-      "example": "The stakes extend far beyond music piracy, as a ruling against Cox could shape liability policies for tech companies for years to come.",
-      "cn_explanation": "中文句式说明：强调案件影响深远的表述方式。结构为'影响远超+具体领域+长远后果'，用于分析法律判决的广泛社会和行业影响，体现案件的重要性。"
+      "pattern": "The stakes extend far beyond ___, potentially influencing ___",
+      "example": "The stakes extend far beyond music piracy, potentially influencing future litigation involving streaming services and AI platforms.",
+      "cn_explanation": "中文句式说明：\"利害关系远不止于...，还可能影响...\" - 表达影响范围扩大的递进关系，常用于法律分析中强调案件的深远意义和广泛影响"
     },
     {
       "pattern": "Justices appeared skeptical of ___, searching for ___ that would ___",
-      "example": "Justices appeared skeptical of both parties' positions, searching for a middle ground that would balance copyright protection with internet freedom.",
-      "cn_explanation": "中文句式说明：描述法官在庭审中寻求平衡的态度。结构为'法官质疑+各方立场+寻找+折中方案+预期效果'，常用于报道复杂案件中法庭试图在对立观点间找到合理解决方案的情况。"
+      "example": "Justices appeared skeptical of both parties' positions, searching for a middle ground that would hold bad actors accountable without imposing impossible burdens.",
+      "cn_explanation": "中文句式说明：\"法官们对...表示怀疑，寻求...以便...\" - 描述法院审理中的平衡考量，体现司法审查中的理性分析和折中态度"
+    },
+    {
+      "pattern": "The court ruled that ___ could not claim ___ because ___",
+      "example": "The lower court ruled that Cox could not claim DMCA safe harbor protections because it failed to reasonably implement a policy to terminate repeat infringers.",
+      "cn_explanation": "中文句式说明：\"法院裁定...不能声称...，因为...\" - 表达否定性法律认定的因果关系，常用于解释法律保护条件不满足的情况"
+    },
+    {
+      "pattern": "A decision is expected by ___, which will ___",
+      "example": "A decision is expected by June 2026, which will shape copyright enforcement in the digital age for decades to come.",
+      "cn_explanation": "中文句式说明：\"预计在...前做出决定，这将...\" - 表达对未来法律发展的预测和影响，常用于分析重大案件的长远意义"
     }
   ],
   "legal_analysis": {
-    "summary_cn": "Cox通信诉索尼音乐案是当前美国最高法院审理的里程碑式版权案件，核心争议在于互联网服务提供商(ISP)对用户版权侵权行为承担间接责任的边界。本案起源于2019年弗吉尼亚联邦陪审团对Cox通信的10亿美元巨额判决，认定其对用户通过其网络进行的1万余件音乐作品侵权承担帮助侵权责任。第四巡回法院2024年部分推翻该判决，否定了替代责任但维持了帮助侵权认定，引发Cox向最高法院的上诉。\n\n从美国法律框架看，本案涉及《数字千年版权法》(DMCA)安全港条款与普通法帮助侵权理论的复杂互动。DMCA为ISP提供有条件的责任豁免，但要求其合理执行终止重复侵权者的政策。Cox的问题在于其对重复侵权者过于宽松的'13次警告'政策，以及内部邮件显示的对DMCA义务的轻视态度。最高法院将需要厘清：仅仅提供网络服务是否构成'实质性贡献'，以及ISP在多大程度上有义务主动监管用户行为。\n\n与中国法相比，本案反映了中美在网络版权保护理念上的差异。中国《网络安全法》《数据安全法》以及《著作权法》修正案更强调平台的主动监管义务和算法责任，而美国传统上更依赖'通知-删除'机制和事后救济。本案判决将直接影响中国互联网企业在美业务的合规策略，特别是对于字节跳动、腾讯等在美运营平台类业务的公司，需要重新评估其内容审核和用户管理政策，以应对可能更严格的间接责任标准。",
+    "summary_cn": "本案核心争议在于互联网服务提供商（ISP）对用户版权侵权行为的间接责任边界。争议焦点包括：①Cox公司是否因明知用户重复侵权而未终止服务构成\"重大贡献\"，从而承担共同侵权责任；②仅仅知晓他人直接侵权是否足以认定故意侵权。美国版权法框架下，ISP享有DMCA安全港保护，但前提是必须\"合理实施\"终止重复侵权者的政策。下级法院认定Cox未能满足此要求，因此不享有保护。最高法院面临的挑战是在保护版权持有人利益和避免对ISP施加过重负担之间寻求平衡。如果支持Sony立场，可能导致ISP基于未经验证的指控就切断用户网络；如果支持Cox，则可能削弱版权保护。此案判决将深刻影响流媒体、云存储、AI平台等现代互联网中介的责任认定标准。与中国《网络安全法》《数据安全法》中的\"通知-删除\"规则相比，美国DMCA制度更侧重程序性保护，而中国法更强调平台主动审查义务。本案为中国娱乐法实务提供的启示是：在数字版权保护中，应合理平衡权利人、平台和用户三方利益，建立既有效保护版权又不过分限制网络自由的制度框架。",
     "key_laws_referenced": [
       "Digital Millennium Copyright Act (DMCA)",
-      "Copyright Act",
-      "《中华人民共和国著作权法》",
-      "《网络安全法》",
-      "《数据安全法》"
+      "17 U.S.C. § 504(c)",
+      "MGM Studios v. Grokster precedent",
+      "中华人民共和国著作权法",
+      "网络安全法",
+      "数据安全法"
     ]
   },
-  "discussion_question": "Given that the Supreme Court appears to be seeking a middle ground between Cox's position (minimal ISP liability) and Sony's position (broad contributory liability), how should courts balance copyright holders' legitimate interests against the practical limitations and free speech concerns of internet service providers in the digital age?"
+  "discussion_question": "Given the Supreme Court's apparent search for middle ground between \"two extremes,\" how should courts balance copyright holders' enforcement needs against the practical realities of internet infrastructure management, and what lessons can this provide for emerging technologies like AI platforms that process vast amounts of user-generated content?"
 }
