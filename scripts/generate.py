@@ -16,6 +16,8 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
+import time
+
 import anthropic
 from json_repair import repair_json
 
@@ -325,6 +327,10 @@ def generate_lesson(week: int, day: int, phase_cfg: dict, topic: dict) -> dict:
     if not research:
         raise ValueError("Step 1 returned no text content")
     print(f"Step 1 done ({len(research)} chars of research)")
+
+    # Wait to avoid hitting the 30k input-token-per-minute rate limit
+    print("Waiting 65s for rate limit window to reset…")
+    time.sleep(65)
 
     # ── Step 2: JSON generation (no web_search, system prompt enforces JSON) ───
     print("Step 2: generating lesson JSON…")
