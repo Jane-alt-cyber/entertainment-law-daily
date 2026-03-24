@@ -42,7 +42,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OVERRIDE_DATE: ${{ github.event.inputs.override_date }}
-          FORCE_REGENERATE: ${{ github.event.inputs.force_regenerate }}
+          # Manual runs (workflow_dispatch) always overwrite; scheduled runs skip existing.
+          FORCE_REGENERATE: ${{ github.event_name == 'workflow_dispatch' && '1' || github.event.inputs.force_regenerate }}
         run: python scripts/generate.py
 
       - name: Commit and push
