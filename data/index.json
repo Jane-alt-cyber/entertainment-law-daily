@@ -1,0 +1,14 @@
+{
+  "lessons": [
+    {
+      "week": 1,
+      "day": 1,
+      "date": "2026-03-24",
+      "theme_en": "Entertainment Law Overview",
+      "theme_cn": "娱乐法概览",
+      "file": "week01/day1.json",
+      "audio": "week01/day1.mp3"
+    }
+  ],
+  "last_updated": "2026-03-24"
+}
