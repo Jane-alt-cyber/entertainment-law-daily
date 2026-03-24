@@ -17,6 +17,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 import anthropic
+from json_repair import repair_json
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 ROOT = Path(__file__).parent.parent
@@ -292,18 +293,19 @@ def _collect_text(response) -> str:
 
 
 def _parse_json(raw: str) -> dict:
-    """Parse JSON from raw string, with fallback extraction."""
+    """Parse JSON from raw string, with json-repair fallback."""
     # Strip accidental markdown fences
     raw = re.sub(r"^```[^\n]*\n?", "", raw)
     raw = re.sub(r"\n?```$", "", raw.strip())
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
-        # Try extracting outermost {...}
-        match = re.search(r"\{.*\}", raw, re.DOTALL)
-        if match:
-            return json.loads(match.group())
-        raise ValueError(f"No valid JSON found.\n--- First 500 chars ---\n{raw[:500]}")
+        # json-repair handles unescaped quotes, apostrophes, trailing commas, etc.
+        repaired = repair_json(raw, return_objects=True)
+        if isinstance(repaired, dict) and repaired:
+            print("Note: JSON was repaired (likely unescaped quotes in text)")
+            return repaired
+        raise ValueError(f"No valid JSON found even after repair.\n--- First 500 chars ---\n{raw[:500]}")
 
 
 def generate_lesson(week: int, day: int, phase_cfg: dict, topic: dict) -> dict:
