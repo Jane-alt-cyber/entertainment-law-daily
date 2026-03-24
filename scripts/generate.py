@@ -13,7 +13,7 @@ import json
 import os
 import re
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import anthropic
@@ -42,19 +42,26 @@ def calculate_position(curriculum: dict) -> tuple:
     # Allow manual override via env var (useful for workflow_dispatch testing)
     override = os.environ.get("OVERRIDE_DATE", "").strip()
     today = date.fromisoformat(override) if override else date.today()
-    delta = (today - start).days
 
-    if delta < 0:
+    if today < start:
         print(f"Course starts on {start}. Nothing to generate yet.")
         sys.exit(0)
 
-    # today.weekday(): 0=Mon…4=Fri, 5=Sat, 6=Sun
     if today.weekday() >= 5:
         print(f"Weekend ({today.strftime('%A')}), skipping generation.")
         sys.exit(0)
 
-    week_number = delta // 7 + 1
-    day_in_week = today.weekday() + 1   # 1=Mon…5=Fri
+    # Count working days elapsed since start_date (0-indexed).
+    # This ensures Day 1 = first weekday of the course regardless of which weekday it is.
+    working_day = 0
+    d = start
+    while d < today:
+        if d.weekday() < 5:
+            working_day += 1
+        d += timedelta(days=1)
+
+    week_number = working_day // 5 + 1   # Week 1, 2, …
+    day_in_week = working_day % 5 + 1    # Day 1–5
     return week_number, day_in_week, today
 
 
