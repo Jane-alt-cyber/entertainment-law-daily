@@ -512,20 +512,21 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 24px; height: 24px;
-      border: 1px solid var(--border);
-      border-radius: 50%;
-      background: var(--bg);
+      width: 20px; height: 20px;
+      border: none;
+      border-radius: 4px;
+      background: transparent;
       color: var(--muted);
-      font-size: 12px;
       cursor: pointer;
-      transition: all 0.15s;
+      transition: color 0.15s, background 0.15s;
       flex-shrink: 0;
-      margin-left: 4px;
+      margin-left: 2px;
+      padding: 0;
     }
 
-    .vocab-speak:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-lt); }
-    .vocab-speak.speaking { border-color: var(--accent); color: var(--accent); animation: pulse 0.6s infinite alternate; }
+    .vocab-speak svg { width: 14px; height: 14px; }
+    .vocab-speak:hover { color: var(--accent); background: var(--accent-lt); }
+    .vocab-speak.speaking { color: var(--accent); animation: pulse 0.6s infinite alternate; }
 
     @keyframes pulse { from { opacity: 1; } to { opacity: 0.4; } }
 
@@ -1424,7 +1425,7 @@ function renderVocabulary(vocab) {
       <div class="vocab-head">
         <span class="vocab-term">${esc(item.term)}</span>
         <span class="vocab-ipa">${esc(item.pronunciation || '')}</span>
-        <button class="vocab-speak" title="朗读单词">🔊</button>
+        <button class="vocab-speak" title="朗读单词"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6H1v4h2l4 3V3L3 6z"/><path d="M11.5 4.5a5 5 0 0 1 0 7"/><path d="M9.5 6.5a2.5 2.5 0 0 1 0 3"/></svg></button>
       </div>
       <div class="vocab-cn">${esc(item.definition_cn || '')}</div>
       <div class="vocab-example">${esc(item.example || '')}</div>
