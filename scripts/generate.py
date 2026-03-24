@@ -368,6 +368,14 @@ def main() -> None:
 
     print(f"Week {week}, Day {day} ({today})  |  Phase {phase_cfg['phase']}: {topic['theme_en']}")
 
+    # Guard: skip if this lesson already exists (prevents accidental overwrite).
+    # Set FORCE_REGENERATE=1 to bypass this check.
+    json_path_check = DATA_PATH / f"week{week:02d}" / f"day{day}.json"
+    if json_path_check.exists() and not os.environ.get("FORCE_REGENERATE"):
+        print(f"Lesson already exists at {json_path_check.relative_to(ROOT)}. Skipping.")
+        print("To regenerate, set FORCE_REGENERATE=1 or use OVERRIDE_DATE for a different day.")
+        sys.exit(0)
+
     # 1. Generate lesson JSON (with web search for real articles)
     prompt = build_prompt(week, day, phase_cfg, topic)
     lesson = generate_lesson(prompt)
