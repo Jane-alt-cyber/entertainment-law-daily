@@ -1,90 +1,91 @@
 {
   "reading": {
-    "title": "Entertainment Law 101: How Deals Get Done in Hollywood",
-    "source": "Variety Legal Affairs",
-    "text": "Entertainment law is a broad field that covers the legal needs of artists, studios, streaming platforms, and production companies. Attorneys who practice entertainment law help clients navigate contracts, protect creative work, and resolve disputes. This week, a new report from the Los Angeles-based firm Meridian Legal Group highlights how quickly the industry is changing.\n\nAt the center of most deals is the talent agreement — a contract between a performer or creator and a studio or agency. A standard talent agreement sets out payment terms, work schedules, and the rights each party holds over the finished product. Attorney Sarah Chen of Meridian Legal Group notes that many emerging artists sign talent agreements without fully understanding what they are giving away.\n\nOne of the most important things an artist can own is their IP, or intellectual property. IP includes songs, scripts, character designs, and other original creations. When a studio wants to use an artist's IP, the two sides usually enter into a licensing deal. Under a licensing arrangement, the artist keeps ownership but gives the studio permission to use the work for a specific purpose and time period.\n\nOnce a project is complete, a distribution agreement comes into play. Distribution determines how a film, album, or show reaches its audience — whether through theaters, streaming services, or physical retail. A solid distribution contract protects the creator's share of revenue and sets clear rules for international markets.\n\nTogether, these building blocks — talent agreements, IP ownership, licensing, and distribution — form the foundation of entertainment law practice.",
-    "word_count": 236
+    "title": "Demystifying Entertainment Contracts: Key Clauses Explained",
+    "source": "Film & Ink Law Group PC, October 3, 2025",
+    "url": "https://filmandink.com/2025/10/03/demystifying-entertainment-contracts-6-key-clauses-explained/",
+    "text": "Entertainment attorneys at Film & Ink Law Group have published a practitioner-level breakdown of the contractual clauses most critical to creative professionals in film and television. At the center of this analysis is the work-for-hire doctrine, under which a hiring company — not the individual creator — is legally deemed the author and copyright owner of any qualifying work. This ownership is sweeping: it encompasses the right to exploit the work across all media, effectively in perpetuity, including on platforms not yet invented at the time of signing. The article draws a sharp distinction between a work-for-hire designation and a standard assignment of rights. Under U.S. copyright law, an assignment of rights may be subject to statutory termination after a set period, allowing a creator to reclaim ownership. A work-for-hire designation, by contrast, forecloses that possibility entirely. A concrete example illustrates the stakes: when a studio engages a screenwriter under a work-for-hire clause, the studio immediately acquires all rights to the resulting screenplay, including the right to develop derivative works such as sequels and remakes, without additional compensation unless a separate clause is negotiated. The article also explains the grant of rights structure and how productions rely on a verified chain of title — the unbroken line of ownership from original rights holder to current seller — before committing to underlying rights acquisition. Without confirmed chain of title, no responsible producer will proceed. Finally, the article addresses moral rights waivers, noting that because international markets impose stronger moral rights protections, U.S. studios routinely require creators to waive moral rights in full. Even so, creators negotiating under work-for-hire arrangements may still secure on-screen credit or backend compensation tied to commercial performance.",
+    "word_count": 262
   },
   "vocabulary": [
     {
-      "term": "entertainment law",
-      "pronunciation": "/ˌɛntərˈteɪnmənt lɔː/",
-      "definition_cn": "娱乐法，涵盖影视、音乐、体育等创意产业相关法律事务的法律领域，包括合同、知识产权和纠纷解决等。",
-      "example": "She decided to specialize in entertainment law after working on several high-profile music contracts."
+      "term": "work-for-hire doctrine",
+      "pronunciation": "/wɜːrk fər haɪər ˈdɒktrɪn/",
+      "definition_cn": "雇佣作品原则：受雇创作的作品，法律上视雇主（而非创作者本人）为版权所有人，创作者不享有任何著作权归属。",
+      "example": "Because the screenwriter signed under the work-for-hire doctrine, the studio held all copyright from the moment the script was delivered."
     },
     {
-      "term": "talent agreement",
-      "pronunciation": "/ˈtælənt əˈɡriːmənt/",
-      "definition_cn": "艺人协议，指演员、歌手或创作者与制片公司或经纪公司之间签订的合同，规定报酬、工作条款及权利归属等内容。",
-      "example": "The actor refused to sign the talent agreement until the exclusivity clause was removed."
+      "term": "assignment of rights",
+      "pronunciation": "/əˈsaɪnmənt əv raɪts/",
+      "definition_cn": "权利转让：创作者将其版权或其他知识产权正式移交给另一方，但在美国版权法下，转让方在法定期限届满后可行使终止权予以撤回。",
+      "example": "Unlike a work-for-hire designation, an assignment of rights can sometimes be reclaimed by the original creator after the statutory termination window opens."
     },
     {
-      "term": "IP",
-      "pronunciation": "/ˌaɪ ˈpiː/",
-      "definition_cn": "知识产权（Intellectual Property的缩写），指由智力劳动成果所产生的权利，包括版权、商标、专利等。",
-      "example": "The studio acquired the IP for the best-selling novel before greenlighting the film adaptation."
+      "term": "grant of rights",
+      "pronunciation": "/ɡrænt əv raɪts/",
+      "definition_cn": "权利授予条款：合同中明确规定授权方向受让方转移或许可的具体权利范围，包括媒介形式、地域范围及期限等要素。",
+      "example": "The grant of rights clause in the production agreement covered all known and unknown formats, leaving the writer with no reserved exploitation avenue."
     },
     {
-      "term": "licensing",
-      "pronunciation": "/ˈlaɪsənsɪŋ/",
-      "definition_cn": "许可授权，指权利人将其知识产权的使用权授予他人，在约定的范围、期限和条件下使用，权利人保留所有权。",
-      "example": "The songwriter earned significant royalties through licensing her music to television commercials."
+      "term": "chain of title",
+      "pronunciation": "/tʃeɪn əv ˈtaɪtəl/",
+      "definition_cn": "权利链：从原始版权人至当前权利持有人的完整、无间断的所有权传递记录，是影视制作开发阶段必须核实的法律文件序列。",
+      "example": "The producer's attorney spent three weeks verifying chain of title before the studio would authorize development funds for the adaptation."
     },
     {
-      "term": "distribution",
-      "pronunciation": "/ˌdɪstrɪˈbjuːʃən/",
-      "definition_cn": "发行，指将影视、音乐或其他娱乐内容通过院线、流媒体或实体零售等渠道传递给受众的过程及相关法律安排。",
-      "example": "Securing a strong distribution deal is essential for any independent film hoping to reach a wide audience."
+      "term": "underlying rights acquisition",
+      "pronunciation": "/ˌʌndərˈlaɪɪŋ raɪts ˌækwɪˈzɪʃən/",
+      "definition_cn": "基础权利收购：制作方在改编或开发某一作品前，购买或许可该原始作品版权（如小说、剧本）的法律程序。",
+      "example": "No screenplay commission was issued until the studio completed its underlying rights acquisition from the novel's publisher."
     },
     {
-      "term": "intellectual property",
-      "pronunciation": "/ˌɪntəˈlɛktʃuəl ˈprɒpəti/",
-      "definition_cn": "知识产权，指人类智力创造成果所享有的法律权利，在娱乐行业中主要指版权、商标等权利。",
-      "example": "Protecting intellectual property is one of the most critical tasks for any entertainment lawyer."
+      "term": "derivative works",
+      "pronunciation": "/dɪˈrɪvətɪv wɜːrks/",
+      "definition_cn": "衍生作品：基于原作创作的新作品，如续集、前传或翻拍版本；在雇佣作品安排下，雇主对衍生作品享有完全权利，无需向原创作者额外付酬。",
+      "example": "The work-for-hire clause gave the studio the exclusive right to commission derivative works, including sequels and spin-offs, without the original writer's consent."
     },
     {
-      "term": "contract",
-      "pronunciation": "/ˈkɒntrækt/",
-      "definition_cn": "合同，指两方或多方当事人之间具有法律约束力的协议，在娱乐法中广泛用于规范各类商业合作关系。",
-      "example": "The director carefully reviewed every clause of the contract before accepting the studio's offer."
+      "term": "moral rights waiver",
+      "pronunciation": "/ˈmɒrəl raɪts ˈweɪvər/",
+      "definition_cn": "精神权利放弃声明：创作者以书面形式放弃其在部分国家法律下享有的署名权及保护作品完整性权利，常见于面向国际市场的影视合同中。",
+      "example": "The director was required to sign a moral rights waiver so the studio could edit the final cut for foreign theatrical release without legal challenge."
     },
     {
-      "term": "revenue",
-      "pronunciation": "/ˈrɛvənjuː/",
-      "definition_cn": "收益、收入，指项目或作品产生的金钱回报；在娱乐合同中常涉及收益分配条款，决定各方所得份额。",
-      "example": "The distribution contract guaranteed the producer thirty percent of all revenue generated in overseas markets."
+      "term": "backend compensation",
+      "pronunciation": "/ˈbækˌɛnd ˌkɒmpənˈseɪʃən/",
+      "definition_cn": "后端收益补偿：作品商业发行后，依据票房或收入分成比例向创作者支付的延迟性报酬，通常须在合同中另行明确约定。",
+      "example": "Although the writer assigned all copyright under a work-for-hire clause, she negotiated backend compensation equal to two percent of net profits."
     }
   ],
   "sentence_patterns": [
     {
-      "pattern": "[Agreement] sets out [key terms], giving [party] the right to [action].",
-      "example": "A standard talent agreement sets out payment terms, work schedules, and the rights each party holds over the finished product.",
-      "translation_cn": "标准艺人协议规定了付款条款、工作时间表以及各方对最终成品所持有的权利。"
+      "pattern": "Under the [legal doctrine/clause], [Party A] — not [Party B] — is legally deemed the [legal status], effective [temporal scope].",
+      "example": "Under the work-for-hire doctrine, the hiring company — not the individual creator — is legally deemed the copyright owner, effective from the moment the work is created.",
+      "translation_cn": "根据雇佣作品原则，雇用方——而非创作者本人——在法律上被视为版权所有人，自作品创作完成时起生效。"
     },
     {
-      "pattern": "Under a [type of] arrangement, [party A] keeps [right/asset] but gives [party B] permission to [action] for [scope/period].",
-      "example": "Under a licensing arrangement, the artist keeps ownership but gives the studio permission to use the work for a specific purpose and time period.",
-      "translation_cn": "根据许可授权安排，艺人保留所有权，但授予制片公司在特定目的和期限内使用该作品的许可。"
+      "pattern": "Unlike [Mechanism A], [Mechanism B] forecloses the possibility of [legal remedy/right] entirely.",
+      "example": "Unlike an assignment of rights, a work-for-hire designation forecloses the possibility of statutory termination entirely.",
+      "translation_cn": "与权利转让不同，雇佣作品指定条款完全排除了依法行使终止权的可能性。"
     },
     {
-      "pattern": "[Document/Clause] protects [party]'s [interest] and sets clear rules for [context].",
-      "example": "A solid distribution contract protects the creator's share of revenue and sets clear rules for international markets.",
-      "translation_cn": "一份完善的发行合同能够保护创作者的收益份额，并为国际市场制定明确的规则。"
+      "pattern": "No [party] will proceed with [action] unless/until [condition precedent] has been confirmed/verified.",
+      "example": "No responsible producer will proceed with underlying rights acquisition unless chain of title has been fully verified.",
+      "translation_cn": "除非权利链已得到完整核实，否则任何负责任的制作方都不会推进基础权利收购程序。"
     }
   ],
-  "summary_cn": "本文以好莱坞娱乐法实践为背景，介绍了娱乐法的基本构成要素：艺人协议、知识产权、许可授权及发行协议。通过洛杉矶律师事务所Meridian Legal Group的案例，说明了艺人保护自身权益的重要性，以及各类合同在影视、音乐等娱乐项目从创作到发行全流程中所发挥的核心法律作用。",
-  "legal_analysis": "① 核心法律问题：本文涉及娱乐法中最基础的四大法律关系——艺人与制片方的合同关系、知识产权归属、许可授权安排以及发行权利的保护。其中，艺人协议中的权利让渡条款和知识产权归属是最容易引发争议的核心问题。\n\n② 美国法律框架分析：在美国，娱乐法并非独立的法律部门，而是合同法、版权法（受《美国版权法》17 U.S.C.保护）、商标法及劳动法的综合运用。艺人协议须符合《劳动合同法》相关规定；许可协议受合同法及版权法共同约束；发行协议则涉及反垄断、消费者保护等多个维度。美国法院历来重视当事人的意思自治，但对显失公平条款会予以审查。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐市场与好莱坞模式存在相似结构，但知识产权保护力度和合同执行机制有所不同。中国律师在代理涉外娱乐项目时，应重点关注：跨境许可授权中的版权归属约定、发行协议中的收益分配与审计权条款，以及艺人协议中的独家性与竞业限制条款。理解美国娱乐法框架，有助于在跨境合作谈判中维护中方当事人的合法权益。",
+  "summary_cn": "美国娱乐法律所Film & Ink Law Group分析了影视合同中的核心条款：雇佣作品原则使制作公司成为版权唯一所有人，且无法依法终止；权利授予须以完整权利链为前提；精神权利放弃条款在国际发行中普遍存在。即便在雇佣作品安排下，创作者仍可通过谈判争取署名权或后端收益补偿。",
+  "legal_analysis": "① 核心法律问题：本文聚焦于雇佣作品原则与权利转让之间的法律区别，以及制作方如何通过合同条款将版权全面内化，切断创作者的任何回溯性权利主张。\n\n② 美国法律框架：根据《美国版权法》第101条及第203条，雇佣作品的版权归属于雇主，且创作者不享有第203条赋予的法定终止权——该终止权仅适用于普通权利转让，通常在转让后35年届满时可行使。精神权利方面，美国法律仅对视觉艺术作品提供有限保护（《视觉艺术家权利法》），在影视领域几乎不适用，故合同中的精神权利放弃条款实为规避国际法律风险的预防性安排。\n\n③ 对中国娱乐法律师的实践启示：中国影视项目日益寻求进入北美市场或与好莱坞联合开发，律师须特别关注：一是合同中是否存在隐性的雇佣作品条款，避免中方创作者在不知情下丧失全部著作人身权；二是权利链审查应作为尽职调查标准程序；三是在签署涉及国际发行的合同时，应评估中国《著作权法》下精神权利的不可放弃性与境外条款的冲突风险。",
   "extended_reading": [
     {
-      "title": "What Every Artist Should Know Before Signing a Talent Agreement",
-      "url": "https://www.hollywoodreporter.com/legal/talent-agreement-artist-rights-guide",
-      "description_cn": "好莱坞报道者刊载的实务指南，详解艺人在签署艺人协议前应重点审查的法律条款。",
+      "title": "Avoid Costly Mistakes in an Entertainment Contract with an Entertainment Attorney in NY",
+      "url": "https://www.daeryunlaw.com/us/insights/attorney-ny-on-entertainment",
+      "description_cn": "纽约执业律师分析娱乐合同中雇佣作品、权利授予及版税条款的常见起草失误，并说明纽约法院如何严格适用合同文本四角规则处理所有权争议。",
       "language": "en"
     },
     {
-      "title": "Intellectual Property and Licensing in the Entertainment Industry: A Legal Overview",
-      "url": "https://fordhamiplj.org/entertainment-ip-licensing-overview",
-      "description_cn": "福特汉姆知识产权法律杂志发表的学术文章，系统梳理娱乐行业知识产权许可授权的法律框架。",
+      "title": "Fordham Intellectual Property, Media and Entertainment Law Journal — Current Issues Archive",
+      "url": "https://ir.lawnet.fordham.edu/iplj/",
+      "description_cn": "福特汉姆大学知识产权、媒体与娱乐法学刊，收录版权归属、雇佣作品原则及娱乐合同纠纷等主题的同行评审学术论文，是该领域顶级法律评论期刊。",
       "language": "en"
     }
   ],
