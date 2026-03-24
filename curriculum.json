@@ -1,0 +1,135 @@
+{
+  "total_weeks": 12,
+  "days_per_week": 5,
+  "start_date": "2026-04-01",
+  "phases": [
+    {
+      "phase": 1,
+      "name": "基础构建期",
+      "name_en": "Foundation",
+      "weeks": [1, 2, 3, 4],
+      "reading_length": "200-300 words",
+      "vocab_count": 8,
+      "sources": ["hollywood reporter", "variety news"],
+      "features": ["reading", "vocabulary", "sentence_patterns", "summary_cn", "legal_analysis", "extended_reading", "audio"]
+    },
+    {
+      "phase": 2,
+      "name": "深化期",
+      "name_en": "Analysis",
+      "weeks": [5, 6, 7, 8],
+      "reading_length": "300-400 words",
+      "vocab_count": 10,
+      "sources": ["variety analysis", "law firm alerts", "podcast", "textbook cases"],
+      "features": ["reading", "vocabulary", "sentence_patterns", "summary_cn", "legal_analysis", "cn_us_comparison", "podcast_summary", "extended_reading", "audio"]
+    },
+    {
+      "phase": 3,
+      "name": "输出期",
+      "name_en": "Production",
+      "weeks": [9, 10, 11, 12],
+      "reading_length": "300-400 words",
+      "vocab_count": 10,
+      "sources": ["breaking news", "analysis", "podcast", "youtube"],
+      "features": ["reading", "vocabulary", "sentence_patterns", "summary_cn", "legal_analysis", "cn_us_comparison", "discussion_prompt", "writing_exercise", "youtube_rec", "extended_reading", "audio"]
+    }
+  ],
+  "weekly_topics": [
+    {
+      "week": 1,
+      "theme_en": "Entertainment Law Overview",
+      "theme_cn": "娱乐法概览",
+      "textbook_ref": "Ch.1 概述",
+      "key_terms": ["entertainment law", "talent agreement", "IP", "licensing", "distribution"],
+      "search_keywords": ["entertainment law overview", "talent agreement basics", "entertainment industry legal framework"]
+    },
+    {
+      "week": 2,
+      "theme_en": "Contracts & Talent Deals",
+      "theme_cn": "合同与人才协议",
+      "textbook_ref": "Ch.3 合同",
+      "key_terms": ["talent deal", "option agreement", "pay-or-play", "morality clause", "rider"],
+      "search_keywords": ["talent deal contract entertainment", "option agreement film", "pay-or-play clause Hollywood"]
+    },
+    {
+      "week": 3,
+      "theme_en": "Intellectual Property",
+      "theme_cn": "知识产权基础",
+      "textbook_ref": "Ch.5 IP",
+      "key_terms": ["copyright", "trademark", "right of publicity", "fair use", "derivative work"],
+      "search_keywords": ["entertainment copyright lawsuit", "right of publicity case", "fair use entertainment"]
+    },
+    {
+      "week": 4,
+      "theme_en": "Content Regulation & Ratings",
+      "theme_cn": "内容审查与分级",
+      "textbook_ref": "Ch.7 审查",
+      "key_terms": ["MPAA rating", "FCC regulation", "content moderation", "censorship", "obscenity"],
+      "search_keywords": ["content regulation entertainment", "MPAA rating system", "FCC entertainment broadcast"]
+    },
+    {
+      "week": 5,
+      "theme_en": "Streaming & Distribution Rights",
+      "theme_cn": "流媒体与分销权",
+      "textbook_ref": "Ch.9 分销",
+      "key_terms": ["streaming rights", "windowing", "residuals", "backend points", "first-look deal"],
+      "search_keywords": ["streaming rights dispute", "residuals streaming platforms", "distribution deal entertainment law"]
+    },
+    {
+      "week": 6,
+      "theme_en": "Music Industry Law",
+      "theme_cn": "音乐产业法律",
+      "textbook_ref": "Ch.11 音乐",
+      "key_terms": ["publishing rights", "mechanical license", "sampling", "sync license", "master recording"],
+      "search_keywords": ["music copyright lawsuit sampling", "sync license film music", "music publishing rights dispute"]
+    },
+    {
+      "week": 7,
+      "theme_en": "Labor Relations in Entertainment",
+      "theme_cn": "影视劳动关系",
+      "textbook_ref": "Ch.13 劳动",
+      "key_terms": ["SAG-AFTRA", "guild", "collective bargaining", "residual", "strike authorization"],
+      "search_keywords": ["SAG-AFTRA agreement", "guild collective bargaining entertainment", "entertainment labor dispute strike"]
+    },
+    {
+      "week": 8,
+      "theme_en": "International Co-production & Cross-border",
+      "theme_cn": "国际合拍与跨境交易",
+      "textbook_ref": "Ch.15 国际",
+      "key_terms": ["co-production treaty", "tax incentive", "territorial rights", "cross-border licensing", "foreign pre-sale"],
+      "search_keywords": ["co-production treaty film international", "entertainment territorial rights licensing", "cross-border entertainment deal"]
+    },
+    {
+      "week": 9,
+      "theme_en": "AI & Entertainment Law",
+      "theme_cn": "AI与娱乐法",
+      "textbook_ref": "前沿议题",
+      "key_terms": ["AI-generated content", "deepfake", "voice cloning", "training data", "opt-out"],
+      "search_keywords": ["AI entertainment law 2026", "deepfake legislation", "AI generated content copyright lawsuit"]
+    },
+    {
+      "week": 10,
+      "theme_en": "Data Privacy & Entertainment",
+      "theme_cn": "数据隐私与娱乐",
+      "textbook_ref": "前沿议题",
+      "key_terms": ["GDPR", "CCPA", "biometric data", "data breach", "right to be forgotten"],
+      "search_keywords": ["entertainment data privacy GDPR", "biometric data entertainment law", "streaming platform data breach"]
+    },
+    {
+      "week": 11,
+      "theme_en": "Sports & Entertainment Crossover",
+      "theme_cn": "体育与娱乐交叉",
+      "textbook_ref": "前沿议题",
+      "key_terms": ["NIL rights", "esports", "sports media rights", "likeness", "endorsement deal"],
+      "search_keywords": ["NIL rights athlete entertainment", "esports regulation law", "sports media rights deal"]
+    },
+    {
+      "week": 12,
+      "theme_en": "Emerging Issues & Review",
+      "theme_cn": "综合回顾与前沿展望",
+      "textbook_ref": "综合",
+      "key_terms": ["emerging issues", "regulatory landscape", "future of entertainment law", "convergence", "platform liability"],
+      "search_keywords": ["entertainment law trends 2026", "emerging legal issues entertainment media", "future entertainment regulation technology"]
+    }
+  ]
+}

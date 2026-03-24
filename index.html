@@ -1,141 +1,333 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Entertainment Law Daily</title>
-
-  <!-- Fonts -->
+  <title>Entertainment Law Daily — 娱乐法英文学习平台</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Noto+Serif+SC:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400;1,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Noto+Serif+SC:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
 
   <style>
-    /* ===== Reset & Base ===== */
+    /* ── Reset ─────────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    button { cursor: pointer; font-family: inherit; }
 
+    /* ── Tokens ────────────────────────────────────────────── */
     :root {
-      --bg:       #FAF8F5;
-      --card:     #FFFFFF;
-      --accent:   #C45A3C;
-      --accent-light: #F2E8E4;
-      --text:     #1A1A1A;
-      --muted:    #6B6460;
-      --border:   #E5E0DA;
-      --dark-card:#2C2420;
-      --radius:   12px;
-      --shadow:   0 2px 16px rgba(0,0,0,0.07);
+      --bg:         #FAF8F5;
+      --card:       #FFFFFF;
+      --accent:     #C45A3C;
+      --accent-lt:  #F2E8E4;
+      --text:       #1A1A1A;
+      --muted:      #6B6460;
+      --border:     #E5E0DA;
+      --dark-card:  #2C2420;
+      --sidebar-w:  240px;
+      --topbar-h:   58px;
+      --radius:     10px;
+      --shadow:     0 2px 14px rgba(0,0,0,0.07);
+      --mono:       'JetBrains Mono', monospace;
+      --serif:      'Source Serif 4', Georgia, serif;
+      --cn:         'Noto Serif SC', serif;
+      --display:    'Playfair Display', serif;
     }
 
     html { scroll-behavior: smooth; }
-
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: 'Source Serif 4', 'Noto Serif SC', Georgia, serif;
-      font-size: 17px;
+      font-family: var(--serif);
+      font-size: 16px;
       line-height: 1.75;
-      padding: 0 16px 80px;
     }
 
-    /* ===== Layout ===== */
-    .container {
-      max-width: 720px;
-      margin: 0 auto;
-    }
-
-    /* ===== Header / Masthead ===== */
-    .masthead {
-      border-bottom: 2px solid var(--text);
-      padding: 28px 0 16px;
-      margin-bottom: 32px;
+    /* ── Topbar ────────────────────────────────────────────── */
+    #topbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: var(--topbar-h);
+      background: var(--dark-card);
       display: flex;
-      justify-content: space-between;
-      align-items: flex-end;
-      gap: 12px;
-      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+      padding: 0 20px;
+      z-index: 100;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
     }
 
-    .masthead-brand {
-      font-family: 'Playfair Display', serif;
+    .topbar-logo {
+      font-family: var(--display);
       font-style: italic;
-      font-size: 13px;
+      font-size: 15px;
+      color: #F5F0EB;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .phase-nav {
+      display: flex;
+      gap: 4px;
+      flex-shrink: 0;
+    }
+
+    .phase-btn {
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 6px;
+      color: rgba(255,255,255,0.5);
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.05em;
+      padding: 5px 11px;
+      transition: all 0.15s;
+    }
+
+    .phase-btn:hover  { border-color: var(--accent); color: var(--accent); }
+    .phase-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    .progress-widget {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-left: auto;
+      flex-shrink: 0;
+    }
+
+    .progress-track {
+      width: 100px;
+      height: 4px;
+      background: rgba(255,255,255,0.12);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    #prog-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 2px;
+      width: 0%;
+      transition: width 0.4s;
+    }
+
+    #prog-label {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: rgba(255,255,255,0.4);
+      white-space: nowrap;
+    }
+
+    #vocab-count {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: rgba(255,255,255,0.3);
+      white-space: nowrap;
+    }
+
+    /* ── App layout ────────────────────────────────────────── */
+    #app {
+      display: flex;
+      padding-top: var(--topbar-h);
+      min-height: 100vh;
+    }
+
+    /* ── Sidebar ───────────────────────────────────────────── */
+    #sidebar {
+      width: var(--sidebar-w);
+      flex-shrink: 0;
+      position: fixed;
+      top: var(--topbar-h);
+      bottom: 0;
+      left: 0;
+      overflow-y: auto;
+      background: #fff;
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      padding: 12px 0;
+    }
+
+    #sidebar::-webkit-scrollbar { width: 4px; }
+    #sidebar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+    .sidebar-section-label {
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 12px 16px 6px;
+    }
+
+    .week-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: 100%;
+      text-align: left;
+      background: transparent;
+      border: none;
+      padding: 8px 16px;
+      transition: background 0.12s;
+      border-left: 3px solid transparent;
+    }
+
+    .week-item:hover:not(:disabled) { background: var(--accent-lt); }
+    .week-item.active { background: var(--accent-lt); border-left-color: var(--accent); }
+    .week-item:disabled { opacity: 0.35; cursor: default; }
+
+    .week-num {
+      font-family: var(--mono);
+      font-size: 9px;
+      color: var(--accent);
+      background: var(--accent-lt);
+      padding: 2px 5px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+
+    .week-item.active .week-num { background: var(--accent); color: #fff; }
+
+    .week-label {
+      font-family: var(--cn);
+      font-size: 12px;
+      color: var(--text);
+      flex: 1;
+      line-height: 1.3;
+    }
+
+    .week-prog {
+      font-family: var(--mono);
+      font-size: 9px;
+      color: var(--muted);
+    }
+
+    /* Day picker */
+    .day-picker-wrap {
+      margin-top: auto;
+      padding: 12px 16px;
+      border-top: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .day-picker-label {
+      font-family: var(--mono);
+      font-size: 9px;
       letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--muted);
+      margin-bottom: 8px;
     }
 
-    .masthead-date {
-      font-family: 'JetBrains Mono', monospace;
+    .day-picker {
+      display: flex;
+      gap: 6px;
+    }
+
+    .day-btn {
+      flex: 1;
+      padding: 7px 4px;
+      background: var(--card);
+      border: 1.5px solid var(--border);
+      border-radius: 6px;
+      font-family: var(--cn);
       font-size: 12px;
       color: var(--muted);
+      transition: all 0.12s;
+      position: relative;
     }
 
-    /* ===== Section Card ===== */
-    .section-card {
+    .day-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .day-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .day-btn.done::after {
+      content: '✓';
+      position: absolute;
+      top: -5px;
+      right: -3px;
+      font-size: 8px;
+      background: #2e7d32;
+      color: #fff;
+      border-radius: 50%;
+      width: 13px; height: 13px;
+      display: flex; align-items: center; justify-content: center;
+      line-height: 1;
+    }
+    .day-btn:disabled { opacity: 0.3; cursor: default; }
+
+    /* ── Content area ──────────────────────────────────────── */
+    #content-area {
+      flex: 1;
+      margin-left: var(--sidebar-w);
+      padding: 32px 40px 80px;
+      max-width: 820px;
+    }
+
+    /* ── Section card ──────────────────────────────────────── */
+    .s-card {
       background: var(--card);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
-      padding: 28px 32px;
-      margin-bottom: 20px;
+      padding: 24px 28px;
+      margin-bottom: 18px;
     }
 
-    @media (max-width: 600px) {
-      .section-card { padding: 20px 18px; }
-    }
-
-    .section-label {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      letter-spacing: 0.15em;
+    .s-label {
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.16em;
       text-transform: uppercase;
       color: var(--accent);
       margin-bottom: 14px;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
     }
 
-    .section-label::after {
+    .s-label::after {
       content: '';
       flex: 1;
       height: 1px;
       background: var(--border);
     }
 
-    /* ===== Hero / Title Section ===== */
-    .hero-badge {
-      display: inline-block;
-      background: var(--accent-light);
-      color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      padding: 4px 10px;
+    /* ── Hero ──────────────────────────────────────────────── */
+    .hero-badges {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+
+    .badge {
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.08em;
+      padding: 3px 9px;
       border-radius: 4px;
-      margin-bottom: 16px;
+      text-transform: uppercase;
     }
 
-    .hero-title-en {
-      font-family: 'Playfair Display', serif;
+    .badge-phase { background: var(--dark-card); color: rgba(255,255,255,0.7); }
+    .badge-week  { background: var(--accent-lt); color: var(--accent); }
+    .badge-day   { background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+
+    .hero-en {
+      font-family: var(--display);
       font-style: italic;
-      font-size: clamp(24px, 5vw, 34px);
       font-weight: 700;
+      font-size: clamp(22px, 4vw, 30px);
       line-height: 1.25;
-      margin-bottom: 10px;
-      color: var(--text);
+      margin-bottom: 8px;
     }
 
-    .hero-title-cn {
-      font-family: 'Noto Serif SC', serif;
-      font-size: 16px;
+    .hero-cn {
+      font-family: var(--cn);
+      font-size: 15px;
       color: var(--muted);
-      font-weight: 400;
-      margin-bottom: 16px;
+      margin-bottom: 14px;
     }
 
-    .hero-source {
+    .hero-meta {
       font-size: 12px;
       color: var(--muted);
       font-style: italic;
@@ -143,106 +335,154 @@
       padding-left: 12px;
     }
 
-    /* ===== Reading Section ===== */
-    .reading-controls {
+    /* ── Audio player ──────────────────────────────────────── */
+    .audio-player {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-bottom: 20px;
+    }
+
+    .audio-controls {
       display: flex;
-      gap: 8px;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
       align-items: center;
+      gap: 12px;
     }
 
-    .word-count {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      color: var(--muted);
-      margin-left: auto;
-    }
-
-    .btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 7px 14px;
-      border-radius: 6px;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      letter-spacing: 0.05em;
-      cursor: pointer;
-      border: 1.5px solid var(--border);
-      background: var(--card);
-      color: var(--text);
-      transition: all 0.15s;
-      user-select: none;
-    }
-
-    .btn:hover { border-color: var(--accent); color: var(--accent); }
-
-    .btn-primary {
+    .play-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
       background: var(--accent);
+      border: none;
       color: #fff;
-      border-color: var(--accent);
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.15s;
     }
 
-    .btn-primary:hover { background: #a84d32; border-color: #a84d32; color: #fff; }
+    .play-btn:hover { background: #a84d32; }
 
-    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .audio-track {
+      flex: 1;
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      cursor: pointer;
+      position: relative;
+    }
 
-    .reading-body p {
-      border-left: 3px solid var(--accent-light);
-      padding-left: 18px;
-      margin-bottom: 20px;
-      font-size: 17px;
+    .audio-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 2px;
+      width: 0%;
+      pointer-events: none;
+      transition: width 0.1s linear;
+    }
+
+    .audio-time {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .speed-row {
+      display: flex;
+      gap: 6px;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+      align-items: center;
+    }
+
+    .speed-label {
+      font-family: var(--mono);
+      font-size: 9px;
+      color: var(--muted);
+      margin-right: 4px;
+    }
+
+    .speed-btn {
+      font-family: var(--mono);
+      font-size: 10px;
+      padding: 3px 10px;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: var(--card);
+      color: var(--muted);
+      transition: all 0.12s;
+    }
+
+    .speed-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .speed-btn:hover:not(.active) { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Reading text ──────────────────────────────────────── */
+    .reading-text p {
+      border-left: 3px solid var(--accent-lt);
+      padding-left: 16px;
+      margin-bottom: 18px;
+      font-size: 16.5px;
       line-height: 1.85;
     }
 
-    .reading-body p:last-child { margin-bottom: 0; }
+    .reading-text p:last-child { margin-bottom: 0; }
 
-    /* ===== Vocabulary ===== */
+    .reading-wc {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 14px;
+    }
+
+    /* ── Vocabulary ────────────────────────────────────────── */
     .vocab-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 12px;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 10px;
     }
 
     .vocab-card {
       border: 1.5px solid var(--border);
       border-radius: 8px;
-      padding: 14px 16px;
+      padding: 12px 14px;
       cursor: pointer;
-      transition: border-color 0.15s, box-shadow 0.15s;
+      transition: border-color 0.12s, box-shadow 0.12s;
       position: relative;
     }
 
     .vocab-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(196,90,60,0.1); }
+    .vocab-card.open  { border-color: var(--accent); }
 
-    .vocab-card.open { border-color: var(--accent); }
-
-    .vocab-header {
+    .vocab-head {
       display: flex;
       align-items: baseline;
-      gap: 10px;
-      margin-bottom: 4px;
+      gap: 8px;
     }
 
     .vocab-term {
-      font-family: 'Source Serif 4', serif;
       font-weight: 600;
-      font-size: 16px;
-      color: var(--text);
+      font-size: 15px;
     }
 
-    .vocab-phonetic {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
+    .vocab-ipa {
+      font-family: var(--mono);
+      font-size: 10px;
       color: var(--muted);
     }
 
     .vocab-cn {
-      font-family: 'Noto Serif SC', serif;
+      font-family: var(--cn);
       font-size: 13px;
       color: var(--accent);
       font-weight: 600;
+      margin-top: 3px;
     }
 
     .vocab-example {
@@ -260,113 +500,272 @@
 
     .vocab-toggle {
       position: absolute;
-      top: 14px;
-      right: 14px;
-      font-size: 16px;
+      top: 12px; right: 12px;
+      font-size: 14px;
       color: var(--muted);
-      transition: transform 0.2s;
+      transition: transform 0.2s, color 0.15s;
     }
 
     .vocab-card.open .vocab-toggle { transform: rotate(45deg); color: var(--accent); }
 
-    /* ===== Sentence Patterns ===== */
+    /* ── Sentence Patterns ─────────────────────────────────── */
     .pattern-item {
       border-left: 3px solid var(--accent);
-      padding: 14px 18px;
-      margin-bottom: 16px;
+      padding: 12px 16px;
+      margin-bottom: 14px;
       background: var(--bg);
-      border-radius: 0 8px 8px 0;
+      border-radius: 0 6px 6px 0;
     }
 
     .pattern-item:last-child { margin-bottom: 0; }
 
     .pattern-template {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 13px;
+      font-family: var(--mono);
+      font-size: 12px;
       color: var(--accent);
-      margin-bottom: 8px;
+      margin-bottom: 7px;
       line-height: 1.6;
     }
 
     .pattern-example {
       font-size: 15px;
       color: var(--text);
-      margin-bottom: 6px;
+      margin-bottom: 5px;
       line-height: 1.7;
     }
 
     .pattern-cn {
-      font-family: 'Noto Serif SC', serif;
+      font-family: var(--cn);
       font-size: 13px;
       color: var(--muted);
-      line-height: 1.7;
     }
 
-    /* ===== Legal Analysis ===== */
-    .legal-body {
-      font-family: 'Noto Serif SC', serif;
-      font-size: 15.5px;
-      line-height: 1.9;
+    /* ── Chinese text sections ─────────────────────────────── */
+    .cn-text {
+      font-family: var(--cn);
+      font-size: 15px;
+      line-height: 2;
       color: var(--text);
       white-space: pre-wrap;
       word-break: break-word;
     }
 
-    .law-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 20px;
+    /* ── Comparison card ───────────────────────────────────── */
+    .comparison-card {
+      background: #F0F4FF;
+      border: 1px solid #C5D3F7;
+      border-radius: 8px;
+      padding: 16px 20px;
     }
 
-    .law-tag {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      background: var(--bg);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 4px 10px;
+    .comparison-head {
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #4A6CF7;
+      margin-bottom: 10px;
+    }
+
+    /* ── Podcast ───────────────────────────────────────────── */
+    .podcast-card {
+      background: #FFF8F0;
+      border: 1px solid #F0D9B5;
+      border-radius: 8px;
+      padding: 16px 20px;
+    }
+
+    .podcast-ep {
+      font-family: var(--display);
+      font-style: italic;
+      font-size: 16px;
+      margin-bottom: 8px;
+      color: #8B5A2B;
+    }
+
+    .podcast-desc {
+      font-family: var(--cn);
+      font-size: 14px;
+      color: var(--text);
+      line-height: 1.85;
+      margin-bottom: 12px;
+    }
+
+    .podcast-takeaways {
+      list-style: none;
+      padding: 0;
+    }
+
+    .podcast-takeaways li {
+      font-family: var(--cn);
+      font-size: 13px;
       color: var(--muted);
+      padding: 5px 0 5px 20px;
+      position: relative;
+      line-height: 1.6;
     }
 
-    /* ===== Discussion Question ===== */
-    .discussion-card {
+    .podcast-takeaways li::before {
+      content: '▸';
+      position: absolute;
+      left: 0;
+      color: #D4921E;
+    }
+
+    /* ── Discussion ────────────────────────────────────────── */
+    .discussion-wrap {
       background: var(--dark-card);
       border-radius: var(--radius);
-      padding: 28px 32px;
-      margin-bottom: 20px;
+      padding: 24px 28px;
+      margin-bottom: 18px;
     }
 
     .discussion-label {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 10px;
-      letter-spacing: 0.15em;
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.16em;
       text-transform: uppercase;
       color: var(--accent);
       margin-bottom: 14px;
     }
 
     .discussion-q {
-      font-family: 'Playfair Display', serif;
+      font-family: var(--display);
       font-style: italic;
-      font-size: clamp(16px, 3vw, 20px);
+      font-size: clamp(16px, 3vw, 21px);
       color: #F5F0EB;
       line-height: 1.5;
     }
 
-    @media (max-width: 600px) {
-      .discussion-card { padding: 20px 18px; }
+    /* ── Writing Exercise ──────────────────────────────────── */
+    .writing-prompt {
+      background: var(--bg);
+      border: 1px dashed var(--border);
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: 15px;
+      margin-bottom: 14px;
+      color: var(--text);
     }
 
-    /* ===== TTS Active State ===== */
-    .reading-body p.tts-active {
-      background: linear-gradient(90deg, var(--accent-light), transparent);
-      border-left-color: var(--accent);
-      transition: background 0.3s;
+    .writing-answer {
+      background: #F0FFF4;
+      border: 1px solid #B2DFC0;
+      border-radius: 6px;
+      padding: 14px 16px;
     }
 
-    /* ===== Skeleton Loading ===== */
-    .skeleton {
+    .writing-answer-label {
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #2e7d32;
+      margin-bottom: 8px;
+    }
+
+    /* ── YouTube ───────────────────────────────────────────── */
+    .yt-card {
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+      background: #FFF0F0;
+      border: 1px solid #FFCDD2;
+      border-radius: 8px;
+      padding: 14px 16px;
+    }
+
+    .yt-icon {
+      font-size: 24px;
+      flex-shrink: 0;
+      line-height: 1;
+    }
+
+    .yt-title {
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 3px;
+      color: var(--text);
+    }
+
+    .yt-channel {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: #C62828;
+      margin-bottom: 6px;
+    }
+
+    .yt-summary {
+      font-family: var(--cn);
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ── Extended reading ──────────────────────────────────── */
+    .ext-item {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .ext-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .ext-item:first-child { padding-top: 0; }
+
+    .ext-lang {
+      font-family: var(--mono);
+      font-size: 9px;
+      padding: 2px 6px;
+      border-radius: 3px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+
+    .ext-content a {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .ext-content a:hover { text-decoration: underline; }
+
+    .ext-desc {
+      font-family: var(--cn);
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 3px;
+      line-height: 1.6;
+    }
+
+    /* ── Completion ────────────────────────────────────────── */
+    .completion-row {
+      text-align: center;
+      padding: 8px 0 24px;
+    }
+
+    .btn-complete {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      padding: 10px 24px;
+      border-radius: 6px;
+      border: 2px solid var(--border);
+      background: var(--card);
+      color: var(--muted);
+      transition: all 0.15s;
+    }
+
+    .btn-complete:hover { border-color: #2e7d32; color: #2e7d32; }
+    .btn-complete.done { background: #2e7d32; border-color: #2e7d32; color: #fff; cursor: default; }
+
+    /* ── Skeleton ──────────────────────────────────────────── */
+    .sk {
       background: linear-gradient(90deg, var(--border) 25%, #ede8e2 50%, var(--border) 75%);
       background-size: 200% 100%;
       animation: shimmer 1.4s infinite;
@@ -374,378 +773,849 @@
       display: block;
     }
 
-    @keyframes shimmer {
-      0%   { background-position: 200% 0; }
-      100% { background-position: -200% 0; }
-    }
+    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
-    .skeleton-line { height: 18px; margin-bottom: 10px; }
-    .skeleton-title { height: 36px; width: 80%; margin-bottom: 16px; }
-    .skeleton-para  { height: 14px; margin-bottom: 8px; }
-
-    /* ===== Error State ===== */
-    .error-box {
-      background: #FEF2F0;
-      border: 1.5px solid #f3c0b3;
+    /* ── Empty / Error states ──────────────────────────────── */
+    .state-box {
+      background: var(--card);
       border-radius: var(--radius);
-      padding: 28px 32px;
+      box-shadow: var(--shadow);
+      padding: 48px 32px;
       text-align: center;
     }
 
-    .error-box h2 {
-      font-family: 'Playfair Display', serif;
-      color: var(--accent);
+    .state-box .emoji { font-size: 40px; margin-bottom: 16px; }
+
+    .state-box h2 {
+      font-family: var(--display);
+      font-style: italic;
+      font-size: 22px;
       margin-bottom: 10px;
     }
 
-    .error-box p { color: var(--muted); font-size: 14px; }
-
-    /* ===== Footer ===== */
-    .footer {
-      text-align: center;
-      padding: 32px 0 0;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
+    .state-box p {
+      font-family: var(--cn);
       color: var(--muted);
+      font-size: 14px;
+      line-height: 1.8;
     }
 
-    /* ===== Nav / Archive link ===== */
-    .archive-nav {
-      display: flex;
-      justify-content: flex-end;
-      margin-bottom: 12px;
-    }
+    /* ── Mobile ────────────────────────────────────────────── */
+    @media (max-width: 860px) {
+      #sidebar {
+        width: 100%;
+        height: auto;
+        position: static;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        padding: 0;
+        align-items: stretch;
+      }
 
-    .archive-nav a {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      color: var(--muted);
-      text-decoration: none;
-    }
+      #week-list {
+        display: flex;
+        flex-shrink: 0;
+        overflow-x: auto;
+      }
 
-    .archive-nav a:hover { color: var(--accent); }
+      .sidebar-section-label { display: none; }
+
+      .week-item {
+        flex-direction: column;
+        align-items: center;
+        gap: 3px;
+        padding: 10px 12px;
+        min-width: 64px;
+        border-left: none;
+        border-bottom: 3px solid transparent;
+      }
+
+      .week-item.active {
+        border-bottom-color: var(--accent);
+        background: var(--accent-lt);
+      }
+
+      .week-label { font-size: 10px; text-align: center; }
+      .week-prog  { font-size: 8px; }
+
+      .day-picker-wrap {
+        border-top: none;
+        border-left: 1px solid var(--border);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 8px 12px;
+        flex-shrink: 0;
+      }
+
+      .day-picker-label { display: none; }
+
+      .day-picker { gap: 4px; }
+
+      .day-btn {
+        width: 32px;
+        height: 32px;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 11px;
+      }
+
+      #content-area {
+        margin-left: 0;
+        padding: 20px 16px 60px;
+      }
+
+      #app { flex-direction: column; }
+
+      .phase-nav { display: none; }
+      .progress-widget { gap: 6px; }
+      .progress-track { width: 60px; }
+
+      .vocab-grid { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
-  <div class="container">
-    <!-- Masthead -->
-    <header class="masthead">
-      <div class="masthead-brand">Entertainment Law Daily</div>
-      <div class="masthead-date" id="hdr-date">Loading…</div>
-    </header>
 
-    <!-- Main content rendered here -->
-    <main id="main">
-      <!-- Skeleton while loading -->
-      <div id="skeleton">
-        <div class="section-card">
-          <span class="skeleton skeleton-title"></span>
-          <span class="skeleton skeleton-line" style="width:60%"></span>
-          <span class="skeleton skeleton-line" style="width:40%;margin-top:8px"></span>
-        </div>
-        <div class="section-card">
-          <span class="skeleton skeleton-line"></span>
-          <span class="skeleton skeleton-para"></span>
-          <span class="skeleton skeleton-para" style="width:90%"></span>
-          <span class="skeleton skeleton-para" style="width:95%"></span>
-          <span class="skeleton skeleton-para" style="width:85%"></span>
-        </div>
-      </div>
-    </main>
+<!-- ── Top bar ──────────────────────────────────────────────────────────── -->
+<header id="topbar">
+  <div class="topbar-logo">Entertainment Law Daily</div>
 
-    <footer class="footer">
-      Powered by Claude AI · Generated daily for English entertainment law study
-    </footer>
+  <nav class="phase-nav" id="phase-nav">
+    <button class="phase-btn active" data-phase="1">Phase 1 基础</button>
+    <button class="phase-btn" data-phase="2">Phase 2 深化</button>
+    <button class="phase-btn" data-phase="3">Phase 3 输出</button>
+  </nav>
+
+  <div class="progress-widget">
+    <span id="vocab-count" style="color:rgba(255,255,255,0.3);font-family:'JetBrains Mono',monospace;font-size:10px"></span>
+    <div class="progress-track"><div id="prog-fill"></div></div>
+    <span id="prog-label" style="color:rgba(255,255,255,0.4);font-family:'JetBrains Mono',monospace;font-size:10px">0/0 课</span>
   </div>
+</header>
 
-  <script>
-  // ================================================================
-  //  Helpers
-  // ================================================================
-  const $ = (sel, ctx = document) => ctx.querySelector(sel);
-  const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
+<!-- ── App ──────────────────────────────────────────────────────────────── -->
+<div id="app">
 
-  const BADGE_MAP = {
-    case:       'Case Study',
-    news:       'Industry News',
-    deal:       'Deal & Contract',
-    ip:         'IP & Copyright',
-    regulation: 'Regulation',
+  <!-- Sidebar -->
+  <nav id="sidebar">
+    <div class="sidebar-section-label">课程导航</div>
+    <div id="week-list"></div>
+    <div class="day-picker-wrap">
+      <div class="day-picker-label">选择日期</div>
+      <div class="day-picker" id="day-picker"></div>
+    </div>
+  </nav>
+
+  <!-- Content -->
+  <main id="content-area">
+    <div id="lesson-view">
+      <!-- Initial skeleton -->
+      <div class="s-card">
+        <span class="sk" style="height:18px;width:120px;display:block;margin-bottom:20px"></span>
+        <span class="sk" style="height:32px;width:80%;display:block;margin-bottom:12px"></span>
+        <span class="sk" style="height:16px;width:50%;display:block"></span>
+      </div>
+      <div class="s-card">
+        <span class="sk" style="height:12px;width:100%;display:block;margin-bottom:10px"></span>
+        <span class="sk" style="height:12px;width:92%;display:block;margin-bottom:10px"></span>
+        <span class="sk" style="height:12px;width:97%;display:block;margin-bottom:10px"></span>
+        <span class="sk" style="height:12px;width:85%;display:block"></span>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════════════════════
+//  CONSTANTS
+// ═══════════════════════════════════════════════════════════════════════════
+
+const WEEK_TOPICS = [
+  { week:  1, en: 'Entertainment Law Overview',            cn: '娱乐法概览'     },
+  { week:  2, en: 'Contracts & Talent Deals',              cn: '合同与人才协议' },
+  { week:  3, en: 'Intellectual Property',                 cn: '知识产权基础'   },
+  { week:  4, en: 'Content Regulation & Ratings',         cn: '内容审查与分级' },
+  { week:  5, en: 'Streaming & Distribution Rights',      cn: '流媒体与分销权' },
+  { week:  6, en: 'Music Industry Law',                   cn: '音乐产业法律'   },
+  { week:  7, en: 'Labor Relations in Entertainment',     cn: '影视劳动关系'   },
+  { week:  8, en: 'International Co-production',          cn: '国际合拍与跨境' },
+  { week:  9, en: 'AI & Entertainment Law',               cn: 'AI与娱乐法'     },
+  { week: 10, en: 'Data Privacy & Entertainment',         cn: '数据隐私与娱乐' },
+  { week: 11, en: 'Sports & Entertainment Crossover',     cn: '体育与娱乐交叉' },
+  { week: 12, en: 'Emerging Issues & Review',             cn: '综合回顾与前沿' },
+];
+
+const PHASE_WEEKS = { 1: [1,2,3,4], 2: [5,6,7,8], 3: [9,10,11,12] };
+const DAY_CN = ['', '周一', '周二', '周三', '周四', '周五'];
+const LS_KEY = 'eld_v2_completed';
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  STATE
+// ═══════════════════════════════════════════════════════════════════════════
+
+const S = {
+  index: null,       // data/index.json content
+  lesson: null,      // current lesson
+  week: 1,
+  day: 1,
+  phase: 1,
+  completed: new Set(),
+  audioEl: null,
+};
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  HELPERS
+// ═══════════════════════════════════════════════════════════════════════════
+
+const $ = (sel, ctx = document) => ctx.querySelector(sel);
+const qs = s => document.querySelector(s);
+
+function ck(week, day) { return `w${week}d${day}`; }
+
+function phaseForWeek(week) {
+  for (const [p, ws] of Object.entries(PHASE_WEEKS))
+    if (ws.includes(week)) return Number(p);
+  return 3;
+}
+
+function isAvailable(week, day) {
+  return S.index?.lessons?.some(l => l.week === week && l.day === day) ?? false;
+}
+
+function formatTime(sec) {
+  if (!sec || isNaN(sec)) return '0:00';
+  return `${Math.floor(sec / 60)}:${String(Math.floor(sec % 60)).padStart(2,'0')}`;
+}
+
+function wordCount(str) {
+  return (str || '').trim().split(/\s+/).filter(Boolean).length;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  LOCAL STORAGE
+// ═══════════════════════════════════════════════════════════════════════════
+
+function loadCompleted() {
+  try { S.completed = new Set(JSON.parse(localStorage.getItem(LS_KEY) || '[]')); }
+  catch { S.completed = new Set(); }
+}
+
+function saveCompleted() {
+  localStorage.setItem(LS_KEY, JSON.stringify([...S.completed]));
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  DATA FETCHING
+// ═══════════════════════════════════════════════════════════════════════════
+
+async function fetchIndex() {
+  try {
+    const r = await fetch('data/index.json');
+    if (r.ok) S.index = await r.json();
+    else S.index = { lessons: [] };
+  } catch {
+    S.index = { lessons: [] };
+  }
+}
+
+async function fetchLesson(week, day) {
+  const pad = String(week).padStart(2, '0');
+  const r = await fetch(`data/week${pad}/day${day}.json`);
+  if (!r.ok) throw new Error(`${r.status}`);
+  return r.json();
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  NAVIGATION RENDERING
+// ═══════════════════════════════════════════════════════════════════════════
+
+function renderWeekList() {
+  const wl = qs('#week-list');
+  wl.innerHTML = '';
+
+  WEEK_TOPICS.forEach(({ week, en, cn }) => {
+    const avail  = [1,2,3,4,5].some(d => isAvailable(week, d));
+    const doneN  = [1,2,3,4,5].filter(d => S.completed.has(ck(week, d))).length;
+    const availN = [1,2,3,4,5].filter(d => isAvailable(week, d)).length;
+
+    const btn = document.createElement('button');
+    btn.className = 'week-item' + (week === S.week ? ' active' : '');
+    btn.disabled = !avail;
+    btn.title = en;
+    btn.innerHTML = `
+      <span class="week-num">W${week}</span>
+      <span class="week-label">${cn}</span>
+      ${availN > 0 ? `<span class="week-prog">${doneN}/${availN}</span>` : ''}
+    `;
+    btn.onclick = () => selectWeek(week);
+    wl.appendChild(btn);
+  });
+}
+
+function renderDayPicker() {
+  const dp = qs('#day-picker');
+  dp.innerHTML = '';
+
+  for (let d = 1; d <= 5; d++) {
+    const avail = isAvailable(S.week, d);
+    const done  = S.completed.has(ck(S.week, d));
+    const btn = document.createElement('button');
+    btn.className = 'day-btn'
+      + (d === S.day ? ' active' : '')
+      + (done ? ' done' : '')
+      + (!avail ? ' locked' : '');
+    btn.disabled = !avail;
+    btn.textContent = DAY_CN[d];
+    btn.title = avail ? (done ? '已完成' : '点击学习') : '尚未生成';
+    btn.onclick = () => selectDay(d);
+    dp.appendChild(btn);
+  }
+}
+
+function renderPhaseNav() {
+  qs('#phase-nav').querySelectorAll('.phase-btn').forEach(btn => {
+    btn.classList.toggle('active', Number(btn.dataset.phase) === S.phase);
+  });
+}
+
+function updateProgress() {
+  const lessons = S.index?.lessons || [];
+  const total = lessons.length;
+  const done  = lessons.filter(l => S.completed.has(ck(l.week, l.day))).length;
+  const pct   = total ? Math.round(done / total * 100) : 0;
+
+  qs('#prog-fill').style.width = pct + '%';
+  qs('#prog-label').textContent = `${done}/${total} 课`;
+
+  const vocabEst = [...S.completed]
+    .filter(k => lessons.some(l => ck(l.week, l.day) === k)).length * 9;
+  if (vocabEst > 0)
+    qs('#vocab-count').textContent = `~${vocabEst} 词汇`;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  SELECTION
+// ═══════════════════════════════════════════════════════════════════════════
+
+async function selectWeek(week) {
+  S.week  = week;
+  S.phase = phaseForWeek(week);
+
+  // Find first available day this week
+  const firstDay = [1,2,3,4,5].find(d => isAvailable(week, d));
+  if (firstDay) {
+    S.day = firstDay;
+  }
+
+  renderWeekList();
+  renderDayPicker();
+  renderPhaseNav();
+
+  if (firstDay) {
+    await loadAndRender(week, S.day);
+  } else {
+    showNoContent(week);
+  }
+}
+
+async function selectDay(day) {
+  S.day = day;
+  renderDayPicker();
+  await loadAndRender(S.week, day);
+}
+
+// ── Phase tab clicks ────────────────────────────────────────────────────
+qs('#phase-nav').addEventListener('click', e => {
+  const btn = e.target.closest('.phase-btn');
+  if (!btn) return;
+  const phase = Number(btn.dataset.phase);
+  const firstWeek = PHASE_WEEKS[phase][0];
+  selectWeek(firstWeek);
+});
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  LOAD & RENDER
+// ═══════════════════════════════════════════════════════════════════════════
+
+async function loadAndRender(week, day) {
+  stopAudio();
+  const lv = qs('#lesson-view');
+  lv.innerHTML = skeletonHTML();
+
+  try {
+    const lesson = await fetchLesson(week, day);
+    S.lesson = lesson;
+    renderLesson(lv, lesson);
+  } catch {
+    showNoContent(week, day);
+  }
+}
+
+function skeletonHTML() {
+  return `
+    <div class="s-card">
+      <span class="sk" style="height:16px;width:120px;display:block;margin-bottom:18px"></span>
+      <span class="sk" style="height:30px;width:78%;display:block;margin-bottom:10px"></span>
+      <span class="sk" style="height:14px;width:48%;display:block"></span>
+    </div>
+    <div class="s-card">
+      <span class="sk" style="height:11px;display:block;margin-bottom:9px"></span>
+      <span class="sk" style="height:11px;width:92%;display:block;margin-bottom:9px"></span>
+      <span class="sk" style="height:11px;width:97%;display:block;margin-bottom:9px"></span>
+      <span class="sk" style="height:11px;width:80%;display:block"></span>
+    </div>`;
+}
+
+function showNoContent(week, day) {
+  const lv = qs('#lesson-view');
+  const topic = WEEK_TOPICS.find(t => t.week === (week || S.week));
+  lv.innerHTML = `
+    <div class="state-box">
+      <div class="emoji">📅</div>
+      <h2>内容尚未生成</h2>
+      <p>
+        第 ${week || S.week} 周${day ? '·第 ' + day + ' 天' : ''}的学习内容还没有生成。<br>
+        GitHub Actions 将在每个工作日北京时间早 7 点自动运行。<br>
+        ${topic ? `本周主题：<strong>${topic.cn}</strong>（${topic.en}）` : ''}
+      </p>
+    </div>`;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  LESSON RENDERING
+// ═══════════════════════════════════════════════════════════════════════════
+
+function renderLesson(container, lesson) {
+  const frags = [];
+
+  frags.push(renderHero(lesson));
+  frags.push(renderReading(lesson));
+
+  if (lesson.vocabulary?.length)       frags.push(renderVocabulary(lesson.vocabulary));
+  if (lesson.sentence_patterns?.length) frags.push(renderSentencePatterns(lesson.sentence_patterns));
+  if (lesson.summary_cn)               frags.push(renderSection('📝 中文摘要', lesson.summary_cn));
+  if (lesson.legal_analysis)           frags.push(renderSection('⚖️ 法律解读', lesson.legal_analysis));
+  if (lesson.cn_us_comparison)         frags.push(renderComparison(lesson.cn_us_comparison));
+  if (lesson.podcast_summary)          frags.push(renderPodcast(lesson.podcast_summary));
+  if (lesson.discussion_prompt)        frags.push(renderDiscussion(lesson.discussion_prompt));
+  if (lesson.writing_exercise)         frags.push(renderWritingExercise(lesson.writing_exercise));
+  if (lesson.youtube_rec)              frags.push(renderYouTube(lesson.youtube_rec));
+  if (lesson.extended_reading?.length) frags.push(renderExtReading(lesson.extended_reading));
+
+  frags.push(renderCompletion(lesson));
+
+  container.innerHTML = '';
+  frags.forEach(f => container.appendChild(f));
+  container.scrollTop = 0;
+  window.scrollTo(0, 0);
+}
+
+// ── Hero ─────────────────────────────────────────────────────────────────
+function renderHero(lesson) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+
+  const phaseLabel = { 1:'Phase 1 · 基础构建期', 2:'Phase 2 · 深化期', 3:'Phase 3 · 输出期' }[lesson.phase] || '';
+
+  div.innerHTML = `
+    <div class="hero-badges">
+      <span class="badge badge-phase">${phaseLabel}</span>
+      <span class="badge badge-week">Week ${lesson.week}</span>
+      <span class="badge badge-day">Day ${lesson.day}</span>
+    </div>
+    <div class="hero-en">${esc(lesson.reading?.title || lesson.theme_en || '')}</div>
+    <div class="hero-cn">${esc(lesson.theme_cn || '')}</div>
+    <div class="hero-meta">${esc(lesson.reading?.source || '')}${lesson.date ? ' · ' + lesson.date : ''}</div>
+  `;
+  return div;
+}
+
+// ── Reading + Audio ───────────────────────────────────────────────────────
+function renderReading(lesson) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+
+  const label = document.createElement('div');
+  label.className = 's-label';
+  label.textContent = '📖 精读';
+  div.appendChild(label);
+
+  // Audio player (if audio file exists)
+  if (lesson.audio_file) {
+    div.appendChild(buildAudioPlayer(`data/${lesson.audio_file}`));
+  }
+
+  // Reading text
+  const body = document.createElement('div');
+  body.className = 'reading-text';
+
+  const text = lesson.reading?.text || '';
+  // Split into paragraphs on double-newline or single newline
+  const paragraphs = text.split(/\n{2,}/).filter(Boolean);
+  if (paragraphs.length > 1) {
+    paragraphs.forEach(p => {
+      const pel = document.createElement('p');
+      pel.textContent = p.trim();
+      body.appendChild(pel);
+    });
+  } else {
+    // fallback: wrap entire text
+    const pel = document.createElement('p');
+    pel.textContent = text.trim();
+    body.appendChild(pel);
+  }
+
+  div.appendChild(body);
+
+  if (text) {
+    const wc = document.createElement('div');
+    wc.className = 'reading-wc';
+    wc.textContent = `${wordCount(text)} words`;
+    div.appendChild(wc);
+  }
+
+  return div;
+}
+
+// ── Audio Player ──────────────────────────────────────────────────────────
+function buildAudioPlayer(src) {
+  const wrap = document.createElement('div');
+  wrap.className = 'audio-player';
+
+  const audio = new Audio(src);
+  audio.preload = 'none';
+  S.audioEl = audio;
+
+  // Controls row
+  const ctrl = document.createElement('div');
+  ctrl.className = 'audio-controls';
+
+  const playBtn = document.createElement('button');
+  playBtn.className = 'play-btn';
+  playBtn.innerHTML = '▶';
+  playBtn.title = '播放 / 暂停';
+
+  const track = document.createElement('div');
+  track.className = 'audio-track';
+  const fill = document.createElement('div');
+  fill.className = 'audio-fill';
+  track.appendChild(fill);
+
+  const timeEl = document.createElement('span');
+  timeEl.className = 'audio-time';
+  timeEl.textContent = '0:00 / --:--';
+
+  ctrl.append(playBtn, track, timeEl);
+
+  // Speed row
+  const srow = document.createElement('div');
+  srow.className = 'speed-row';
+  const slabel = document.createElement('span');
+  slabel.className = 'speed-label';
+  slabel.textContent = '倍速';
+  srow.appendChild(slabel);
+
+  ['0.75', '1', '1.25'].forEach(rate => {
+    const sb = document.createElement('button');
+    sb.className = 'speed-btn' + (rate === '1' ? ' active' : '');
+    sb.textContent = rate + 'x';
+    sb.onclick = () => {
+      audio.playbackRate = parseFloat(rate);
+      srow.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+      sb.classList.add('active');
+    };
+    srow.appendChild(sb);
+  });
+
+  wrap.append(ctrl, srow);
+
+  // Events
+  let playing = false;
+  playBtn.onclick = () => {
+    if (playing) { audio.pause(); playBtn.innerHTML = '▶'; }
+    else         { audio.play(); playBtn.innerHTML  = '⏸'; }
+    playing = !playing;
   };
 
-  function countWords(str) {
-    return str.trim().split(/\s+/).filter(Boolean).length;
+  audio.ontimeupdate = () => {
+    const pct = audio.duration ? (audio.currentTime / audio.duration * 100) : 0;
+    fill.style.width = pct + '%';
+    timeEl.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+  };
+
+  audio.onended = () => { playing = false; playBtn.innerHTML = '▶'; };
+
+  audio.onerror = () => {
+    // If MP3 not found, hide the player silently
+    wrap.style.display = 'none';
+    S.audioEl = null;
+  };
+
+  track.onclick = e => {
+    if (!audio.duration) return;
+    const rect = track.getBoundingClientRect();
+    audio.currentTime = ((e.clientX - rect.left) / rect.width) * audio.duration;
+  };
+
+  return wrap;
+}
+
+function stopAudio() {
+  if (S.audioEl) {
+    S.audioEl.pause();
+    S.audioEl = null;
+  }
+}
+
+// ── Vocabulary ────────────────────────────────────────────────────────────
+function renderVocabulary(vocab) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">📚 词汇 · ${vocab.length} 个术语</div>`;
+
+  const grid = document.createElement('div');
+  grid.className = 'vocab-grid';
+
+  vocab.forEach(item => {
+    const card = document.createElement('div');
+    card.className = 'vocab-card';
+    card.innerHTML = `
+      <div class="vocab-head">
+        <span class="vocab-term">${esc(item.term)}</span>
+        <span class="vocab-ipa">${esc(item.pronunciation || '')}</span>
+      </div>
+      <div class="vocab-cn">${esc(item.definition_cn || '')}</div>
+      <div class="vocab-example">${esc(item.example || '')}</div>
+      <span class="vocab-toggle">+</span>
+    `;
+    card.onclick = () => card.classList.toggle('open');
+    grid.appendChild(card);
+  });
+
+  div.appendChild(grid);
+  return div;
+}
+
+// ── Sentence Patterns ─────────────────────────────────────────────────────
+function renderSentencePatterns(patterns) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">✍️ 句式提取</div>`;
+
+  patterns.forEach(item => {
+    const p = document.createElement('div');
+    p.className = 'pattern-item';
+    p.innerHTML = `
+      <div class="pattern-template">${esc(item.pattern || '')}</div>
+      <div class="pattern-example">${esc(item.example || '')}</div>
+      <div class="pattern-cn">${esc(item.translation_cn || item.cn_explanation || '')}</div>
+    `;
+    div.appendChild(p);
+  });
+
+  return div;
+}
+
+// ── Generic CN text section ───────────────────────────────────────────────
+function renderSection(labelText, text) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `
+    <div class="s-label">${labelText}</div>
+    <div class="cn-text">${esc(text)}</div>
+  `;
+  return div;
+}
+
+// ── CN-US Comparison ──────────────────────────────────────────────────────
+function renderComparison(text) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">🌐 中美法律对比</div>`;
+
+  const card = document.createElement('div');
+  card.className = 'comparison-card';
+  card.innerHTML = `
+    <div class="comparison-head">🇺🇸 United States  ↔  🇨🇳 中国</div>
+    <div class="cn-text">${esc(text)}</div>
+  `;
+  div.appendChild(card);
+  return div;
+}
+
+// ── Podcast ───────────────────────────────────────────────────────────────
+function renderPodcast(pod) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">🎙️ 播客摘要 · The Hollywood Lawyer</div>`;
+
+  const card = document.createElement('div');
+  card.className = 'podcast-card';
+
+  const takeawayItems = (pod.takeaways || [])
+    .map(t => `<li>${esc(t)}</li>`)
+    .join('');
+
+  card.innerHTML = `
+    <div class="podcast-ep">${esc(pod.episode || '')}</div>
+    <div class="podcast-desc">${esc(pod.description || '')}</div>
+    <ul class="podcast-takeaways">${takeawayItems}</ul>
+  `;
+  div.appendChild(card);
+  return div;
+}
+
+// ── Discussion Prompt ─────────────────────────────────────────────────────
+function renderDiscussion(prompt) {
+  const wrap = document.createElement('div');
+  wrap.className = 'discussion-wrap';
+  wrap.innerHTML = `
+    <div class="discussion-label">💬 Discussion Prompt</div>
+    <div class="discussion-q">${esc(prompt)}</div>
+  `;
+  return wrap;
+}
+
+// ── Writing Exercise ──────────────────────────────────────────────────────
+function renderWritingExercise(ex) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">✏️ 写作练习</div>`;
+
+  div.innerHTML += `
+    <div class="writing-prompt">${esc(ex.prompt || '')}</div>
+    <div class="writing-answer">
+      <div class="writing-answer-label">Model Answer</div>
+      <div style="font-size:14px;line-height:1.8;color:var(--text)">${esc(ex.model_answer || '')}</div>
+    </div>
+  `;
+  return div;
+}
+
+// ── YouTube Recommendation ────────────────────────────────────────────────
+function renderYouTube(yt) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">📺 视频推荐</div>`;
+
+  const card = document.createElement('div');
+  card.className = 'yt-card';
+  card.innerHTML = `
+    <div class="yt-icon">▶️</div>
+    <div>
+      <div class="yt-title">${esc(yt.title || '')}</div>
+      <div class="yt-channel">${esc(yt.channel || '')}</div>
+      <div class="yt-summary">${esc(yt.summary_cn || '')}</div>
+    </div>
+  `;
+  div.appendChild(card);
+  return div;
+}
+
+// ── Extended Reading ──────────────────────────────────────────────────────
+function renderExtReading(articles) {
+  const div = document.createElement('div');
+  div.className = 's-card';
+  div.innerHTML = `<div class="s-label">🔗 引申阅读</div>`;
+
+  articles.forEach(a => {
+    const item = document.createElement('div');
+    item.className = 'ext-item';
+    item.innerHTML = `
+      <span class="ext-lang">${esc((a.language || 'en').toUpperCase())}</span>
+      <div class="ext-content">
+        <a href="${esc(a.url || '#')}" target="_blank" rel="noopener">${esc(a.title || '')}</a>
+        <div class="ext-desc">${esc(a.description_cn || '')}</div>
+      </div>
+    `;
+    div.appendChild(item);
+  });
+
+  return div;
+}
+
+// ── Completion button ─────────────────────────────────────────────────────
+function renderCompletion(lesson) {
+  const wrap = document.createElement('div');
+  wrap.className = 'completion-row';
+
+  const key = ck(lesson.week, lesson.day);
+  const isDone = S.completed.has(key);
+
+  const btn = document.createElement('button');
+  btn.className = 'btn-complete' + (isDone ? ' done' : '');
+  btn.textContent = isDone ? '✓ 已完成' : '标记为已完成';
+  btn.disabled = isDone;
+
+  btn.onclick = () => {
+    S.completed.add(key);
+    saveCompleted();
+    btn.className = 'btn-complete done';
+    btn.textContent = '✓ 已完成';
+    btn.disabled = true;
+    renderWeekList();
+    renderDayPicker();
+    updateProgress();
+  };
+
+  wrap.appendChild(btn);
+  return wrap;
+}
+
+// ── XSS safe escape ───────────────────────────────────────────────────────
+function esc(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+//  INIT
+// ═══════════════════════════════════════════════════════════════════════════
+
+async function init() {
+  loadCompleted();
+  await fetchIndex();
+
+  renderWeekList();
+  updateProgress();
+
+  // Auto-select: find today's lesson or latest available
+  let startWeek = 1, startDay = 1;
+
+  const lessons = S.index?.lessons || [];
+  if (lessons.length > 0) {
+    const latest = lessons[lessons.length - 1];
+    startWeek = latest.week;
+    startDay  = latest.day;
   }
 
-  function formatDate(iso) {
-    const d = new Date(iso + 'T00:00:00');
-    return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  S.week  = startWeek;
+  S.day   = startDay;
+  S.phase = phaseForWeek(startWeek);
+
+  renderWeekList();
+  renderDayPicker();
+  renderPhaseNav();
+
+  if (lessons.length > 0) {
+    await loadAndRender(startWeek, startDay);
+  } else {
+    showNoContent(1, 1);
   }
+}
 
-  function el(tag, attrs = {}, ...children) {
-    const node = document.createElement(tag);
-    for (const [k, v] of Object.entries(attrs)) {
-      if (k === 'className') node.className = v;
-      else if (k === 'html') node.innerHTML = v;
-      else node.setAttribute(k, v);
-    }
-    children.forEach(c => {
-      if (typeof c === 'string') node.appendChild(document.createTextNode(c));
-      else if (c) node.appendChild(c);
-    });
-    return node;
-  }
-
-  // ================================================================
-  //  TTS (Web Speech API)
-  // ================================================================
-  const TTS = (() => {
-    let utterance = null;
-    let paragraphs = [];
-    let currentIdx = 0;
-    let playing = false;
-
-    function highlightPara(idx) {
-      $$('.reading-body p').forEach((p, i) => {
-        p.classList.toggle('tts-active', i === idx);
-      });
-    }
-
-    function clearHighlight() {
-      $$('.reading-body p').forEach(p => p.classList.remove('tts-active'));
-    }
-
-    function updateBtns(state) {
-      const btnPlay = $('#btn-play');
-      const btnPause = $('#btn-pause');
-      const btnStop = $('#btn-stop');
-      if (!btnPlay) return;
-      btnPlay.disabled  = state === 'playing';
-      btnPause.disabled = state !== 'playing';
-      btnStop.disabled  = state === 'idle';
-      btnPlay.textContent = state === 'paused' ? '▶ Resume' : '▶ Play';
-    }
-
-    function speakIdx(idx) {
-      if (idx >= paragraphs.length) {
-        clearHighlight();
-        updateBtns('idle');
-        playing = false;
-        return;
-      }
-      currentIdx = idx;
-      highlightPara(idx);
-      utterance = new SpeechSynthesisUtterance(paragraphs[idx]);
-      utterance.lang = 'en-US';
-      utterance.rate = 0.85;
-      utterance.pitch = 1.0;
-      utterance.onend = () => {
-        if (playing) speakIdx(idx + 1);
-      };
-      utterance.onerror = () => {
-        clearHighlight();
-        updateBtns('idle');
-        playing = false;
-      };
-      speechSynthesis.speak(utterance);
-    }
-
-    return {
-      init(paras) {
-        paragraphs = paras;
-        currentIdx = 0;
-        playing = false;
-        updateBtns('idle');
-      },
-      play() {
-        if (!('speechSynthesis' in window)) { alert('TTS not supported in this browser.'); return; }
-        if (speechSynthesis.paused) {
-          speechSynthesis.resume();
-          playing = true;
-          updateBtns('playing');
-          return;
-        }
-        speechSynthesis.cancel();
-        playing = true;
-        updateBtns('playing');
-        speakIdx(currentIdx);
-      },
-      pause() {
-        speechSynthesis.pause();
-        playing = false;
-        updateBtns('paused');
-      },
-      stop() {
-        playing = false;
-        speechSynthesis.cancel();
-        clearHighlight();
-        currentIdx = 0;
-        updateBtns('idle');
-      },
-    };
-  })();
-
-  // ================================================================
-  //  Render Functions
-  // ================================================================
-  function renderHero(data) {
-    const badge = BADGE_MAP[data.content_type] || data.content_type;
-    return el('div', { className: 'section-card' },
-      el('div', { className: 'hero-badge' }, badge),
-      el('h1', { className: 'hero-title-en' }, data.title_en),
-      el('div', { className: 'hero-title-cn' }, data.title_cn),
-      el('div', { className: 'hero-source' }, data.source_hint || ''),
-    );
-  }
-
-  function renderReading(data) {
-    const p1 = data.reading.paragraph1 || '';
-    const p2 = data.reading.paragraph2 || '';
-    const wc = countWords(p1) + countWords(p2);
-
-    const card = el('div', { className: 'section-card' });
-
-    card.appendChild(el('div', { className: 'section-label' }, 'English Reading'));
-
-    const controls = el('div', { className: 'reading-controls' });
-    const btnPlay  = el('button', { className: 'btn btn-primary', id: 'btn-play'  }, '▶ Play');
-    const btnPause = el('button', { className: 'btn', id: 'btn-pause', disabled: '' }, '⏸ Pause');
-    const btnStop  = el('button', { className: 'btn', id: 'btn-stop',  disabled: '' }, '⏹ Stop');
-    const wcSpan   = el('span',   { className: 'word-count' }, `${wc} words`);
-
-    btnPlay.addEventListener('click',  () => TTS.play());
-    btnPause.addEventListener('click', () => TTS.pause());
-    btnStop.addEventListener('click',  () => TTS.stop());
-
-    controls.append(btnPlay, btnPause, btnStop, wcSpan);
-    card.appendChild(controls);
-
-    const body = el('div', { className: 'reading-body' });
-    if (p1) body.appendChild(el('p', {}, p1));
-    if (p2) body.appendChild(el('p', {}, p2));
-    card.appendChild(body);
-
-    TTS.init([p1, p2].filter(Boolean));
-    return card;
-  }
-
-  function renderVocabulary(data) {
-    const card = el('div', { className: 'section-card' });
-    card.appendChild(el('div', { className: 'section-label' }, 'Key Vocabulary'));
-
-    const grid = el('div', { className: 'vocab-grid' });
-
-    (data.vocabulary || []).forEach(item => {
-      const vc = el('div', { className: 'vocab-card' });
-
-      const toggle = el('span', { className: 'vocab-toggle' }, '+');
-      vc.appendChild(toggle);
-
-      const hdr = el('div', { className: 'vocab-header' });
-      hdr.appendChild(el('span', { className: 'vocab-term' }, item.term));
-      if (item.phonetic) hdr.appendChild(el('span', { className: 'vocab-phonetic' }, item.phonetic));
-      vc.appendChild(hdr);
-      vc.appendChild(el('div', { className: 'vocab-cn' }, item.cn));
-
-      if (item.example) {
-        const ex = el('div', { className: 'vocab-example' }, `"${item.example}"`);
-        vc.appendChild(ex);
-      }
-
-      vc.addEventListener('click', () => {
-        vc.classList.toggle('open');
-      });
-
-      grid.appendChild(vc);
-    });
-
-    card.appendChild(grid);
-    return card;
-  }
-
-  function renderPatterns(data) {
-    const card = el('div', { className: 'section-card' });
-    card.appendChild(el('div', { className: 'section-label' }, 'Sentence Patterns'));
-
-    (data.sentence_patterns || []).forEach(sp => {
-      const item = el('div', { className: 'pattern-item' });
-      item.appendChild(el('div', { className: 'pattern-template' }, sp.pattern));
-      item.appendChild(el('div', { className: 'pattern-example' }, sp.example));
-      item.appendChild(el('div', { className: 'pattern-cn' }, sp.cn_explanation));
-      card.appendChild(item);
-    });
-
-    return card;
-  }
-
-  function renderLegal(data) {
-    const card = el('div', { className: 'section-card' });
-    card.appendChild(el('div', { className: 'section-label' }, '法律解读 Legal Analysis'));
-
-    const analysis = data.legal_analysis || {};
-    if (analysis.summary_cn) {
-      card.appendChild(el('div', { className: 'legal-body' }, analysis.summary_cn));
-    }
-
-    const laws = analysis.key_laws_referenced || [];
-    if (laws.length) {
-      const tags = el('div', { className: 'law-tags' });
-      laws.forEach(law => tags.appendChild(el('span', { className: 'law-tag' }, law)));
-      card.appendChild(tags);
-    }
-
-    return card;
-  }
-
-  function renderDiscussion(data) {
-    const card = el('div', { className: 'discussion-card' });
-    card.appendChild(el('div', { className: 'discussion-label' }, 'Discussion Question'));
-    card.appendChild(el('p', { className: 'discussion-q' }, data.discussion_question || ''));
-    return card;
-  }
-
-  // ================================================================
-  //  Main render
-  // ================================================================
-  function renderCard(data) {
-    $('#hdr-date').textContent = formatDate(data.date);
-
-    const main = $('#main');
-    main.innerHTML = '';
-
-    main.appendChild(renderHero(data));
-    main.appendChild(renderReading(data));
-    main.appendChild(renderVocabulary(data));
-    main.appendChild(renderPatterns(data));
-    main.appendChild(renderLegal(data));
-    main.appendChild(renderDiscussion(data));
-  }
-
-  function showError(err) {
-    const main = $('#main');
-    main.innerHTML = '';
-    const box = el('div', { className: 'error-box' });
-    box.appendChild(el('h2', {}, 'Content Unavailable'));
-    box.appendChild(el('p', {}, "Today's content hasn't been generated yet, or there was a loading error."));
-    box.appendChild(el('p', { html: `<br><code style="font-size:11px;color:#999">${err}</code>` }));
-    main.appendChild(box);
-    $('#hdr-date').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-  }
-
-  // ================================================================
-  //  Bootstrap
-  // ================================================================
-  (function init() {
-    const DATA_URL = './data/latest.json';
-
-    fetch(DATA_URL)
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
-      .then(data => renderCard(data))
-      .catch(err => showError(err.message || String(err)));
-  })();
-  </script>
+init();
+</script>
 </body>
 </html>
