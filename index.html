@@ -1261,7 +1261,12 @@ function renderHero(lesson) {
     </div>
     <div class="hero-en">${esc(lesson.reading?.title || lesson.theme_en || '')}</div>
     <div class="hero-cn">${esc(lesson.theme_cn || '')}</div>
-    <div class="hero-meta">${esc(lesson.reading?.source || '')}${lesson.date ? ' · ' + lesson.date : ''}</div>
+    <div class="hero-meta">
+      ${lesson.reading?.url
+        ? `<a href="${esc(lesson.reading.url)}" target="_blank" rel="noopener" style="color:var(--muted);text-decoration:underline">${esc(lesson.reading?.source || '')}</a>`
+        : esc(lesson.reading?.source || '')}
+      ${lesson.date ? ' · ' + lesson.date : ''}
+    </div>
   `;
   return div;
 }
@@ -1568,16 +1573,19 @@ function renderExtReading(articles) {
   div.innerHTML = `<div class="s-label">🔗 引申阅读</div>`;
 
   articles.forEach(a => {
-    // Use Google search by title — AI-generated URLs are fictional, search always works
-    const searchUrl = 'https://www.google.com/search?q=' + encodeURIComponent(a.title || '');
+    // URLs are now real links from web_search; fall back to Google search if missing
+    const url = a.url && a.url !== '#' && a.url.startsWith('http')
+      ? a.url
+      : 'https://www.google.com/search?q=' + encodeURIComponent(a.title || '');
+    const isReal = url === a.url;
     const item = document.createElement('div');
     item.className = 'ext-item';
     item.innerHTML = `
       <span class="ext-lang">${esc((a.language || 'en').toUpperCase())}</span>
       <div class="ext-content">
-        <a href="${searchUrl}" target="_blank" rel="noopener">${esc(a.title || '')}</a>
+        <a href="${esc(url)}" target="_blank" rel="noopener">${esc(a.title || '')}</a>
         <div class="ext-desc">${esc(a.description_cn || '')}</div>
-        <div class="ext-search-hint">点击 → Google 搜索此文章</div>
+        ${!isReal ? '<div class="ext-search-hint">点击 → Google 搜索此文章</div>' : ''}
       </div>
     `;
     div.appendChild(item);

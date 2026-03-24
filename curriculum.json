@@ -10,7 +10,7 @@
       "weeks": [1, 2, 3, 4],
       "reading_length": "200-300 words",
       "vocab_count": 8,
-      "sources": ["hollywood reporter", "variety news"],
+      "sources": ["hollywood reporter", "variety news", "law.com"],
       "features": ["reading", "vocabulary", "sentence_patterns", "summary_cn", "legal_analysis", "extended_reading", "audio"]
     },
     {
@@ -40,96 +40,132 @@
       "theme_en": "Entertainment Law Overview",
       "theme_cn": "娱乐法概览",
       "textbook_ref": "Ch.1 概述",
-      "key_terms": ["entertainment law", "talent agreement", "IP", "licensing", "distribution"],
-      "search_keywords": ["entertainment law overview", "talent agreement basics", "entertainment industry legal framework"]
+      "key_terms": ["work-for-hire doctrine", "grant of rights clause", "holdback period", "right of first negotiation", "underlying rights acquisition"],
+      "search_keywords": [
+        "entertainment law contract dispute grant of rights work-for-hire 2025",
+        "Hollywood talent agreement underlying rights holdback lawsuit 2024 2025"
+      ]
     },
     {
       "week": 2,
       "theme_en": "Contracts & Talent Deals",
       "theme_cn": "合同与人才协议",
       "textbook_ref": "Ch.3 合同",
-      "key_terms": ["talent deal", "option agreement", "pay-or-play", "morality clause", "rider"],
-      "search_keywords": ["talent deal contract entertainment", "option agreement film", "pay-or-play clause Hollywood"]
+      "key_terms": ["pay-or-play clause", "step deal", "favored nations provision", "exclusivity covenant", "attachment deal"],
+      "search_keywords": [
+        "pay-or-play clause entertainment contract dispute 2025",
+        "talent deal favored nations exclusivity Hollywood breach lawsuit 2024 2025"
+      ]
     },
     {
       "week": 3,
       "theme_en": "Intellectual Property",
       "theme_cn": "知识产权基础",
       "textbook_ref": "Ch.5 IP",
-      "key_terms": ["copyright", "trademark", "right of publicity", "fair use", "derivative work"],
-      "search_keywords": ["entertainment copyright lawsuit", "right of publicity case", "fair use entertainment"]
+      "key_terms": ["substantial similarity test", "transformative use doctrine", "right of publicity", "moral rights waiver", "derivative work authorization"],
+      "search_keywords": [
+        "substantial similarity test entertainment copyright lawsuit 2025",
+        "right of publicity transformative use doctrine film music ruling 2024 2025"
+      ]
     },
     {
       "week": 4,
       "theme_en": "Content Regulation & Ratings",
       "theme_cn": "内容审查与分级",
       "textbook_ref": "Ch.7 审查",
-      "key_terms": ["MPAA rating", "FCC regulation", "content moderation", "censorship", "obscenity"],
-      "search_keywords": ["content regulation entertainment", "MPAA rating system", "FCC entertainment broadcast"]
+      "key_terms": ["community standards doctrine", "prior restraint doctrine", "indecency standard", "content clearance obligation", "safe harbor provision"],
+      "search_keywords": [
+        "content regulation entertainment indecency prior restraint ruling 2025",
+        "MPAA FCC community standards safe harbor content clearance case 2024 2025"
+      ]
     },
     {
       "week": 5,
       "theme_en": "Streaming & Distribution Rights",
       "theme_cn": "流媒体与分销权",
       "textbook_ref": "Ch.9 分销",
-      "key_terms": ["streaming rights", "windowing", "residuals", "backend points", "first-look deal"],
-      "search_keywords": ["streaming rights dispute", "residuals streaming platforms", "distribution deal entertainment law"]
+      "key_terms": ["SVOD windowing", "output deal", "most-favored-nation clause", "backend participation", "holdback window"],
+      "search_keywords": [
+        "streaming SVOD windowing output deal most-favored-nation dispute 2025",
+        "backend participation holdback window distribution rights lawsuit 2024 2025"
+      ]
     },
     {
       "week": 6,
       "theme_en": "Music Industry Law",
       "theme_cn": "音乐产业法律",
       "textbook_ref": "Ch.11 音乐",
-      "key_terms": ["publishing rights", "mechanical license", "sampling", "sync license", "master recording"],
-      "search_keywords": ["music copyright lawsuit sampling", "sync license film music", "music publishing rights dispute"]
+      "key_terms": ["compulsory mechanical license", "synchronization license", "master use license", "controlled composition clause", "360-degree deal"],
+      "search_keywords": [
+        "synchronization license master use mechanical license dispute 2025",
+        "controlled composition clause music publishing infringement ruling 2024 2025"
+      ]
     },
     {
       "week": 7,
       "theme_en": "Labor Relations in Entertainment",
       "theme_cn": "影视劳动关系",
       "textbook_ref": "Ch.13 劳动",
-      "key_terms": ["SAG-AFTRA", "guild", "collective bargaining", "residual", "strike authorization"],
-      "search_keywords": ["SAG-AFTRA agreement", "guild collective bargaining entertainment", "entertainment labor dispute strike"]
+      "key_terms": ["minimum basic agreement", "Taft-Hartley Act", "grievance arbitration", "union security clause", "residual formula"],
+      "search_keywords": [
+        "SAG-AFTRA minimum basic agreement Taft-Hartley grievance arbitration 2025",
+        "WGA DGA union security clause residual formula dispute ruling 2024 2025"
+      ]
     },
     {
       "week": 8,
       "theme_en": "International Co-production & Cross-border",
       "theme_cn": "国际合拍与跨境交易",
       "textbook_ref": "Ch.15 国际",
-      "key_terms": ["co-production treaty", "tax incentive", "territorial rights", "cross-border licensing", "foreign pre-sale"],
-      "search_keywords": ["co-production treaty film international", "entertainment territorial rights licensing", "cross-border entertainment deal"]
+      "key_terms": ["co-venture structure", "qualified co-production treaty", "production service agreement", "chain of title", "inter-party agreement"],
+      "search_keywords": [
+        "co-production treaty chain of title international entertainment dispute 2025",
+        "cross-border film television co-venture production service agreement 2024 2025"
+      ]
     },
     {
       "week": 9,
       "theme_en": "AI & Entertainment Law",
       "theme_cn": "AI与娱乐法",
       "textbook_ref": "前沿议题",
-      "key_terms": ["AI-generated content", "deepfake", "voice cloning", "training data", "opt-out"],
-      "search_keywords": ["AI entertainment law 2026", "deepfake legislation", "AI generated content copyright lawsuit"]
+      "key_terms": ["right of publicity in AI-generated content", "training data opt-out", "likeness licensing for generative AI", "voice cloning liability", "authorship threshold"],
+      "search_keywords": [
+        "AI generated content right of publicity voice cloning lawsuit 2025",
+        "generative AI training data copyright authorship entertainment ruling 2024 2025"
+      ]
     },
     {
       "week": 10,
       "theme_en": "Data Privacy & Entertainment",
       "theme_cn": "数据隐私与娱乐",
       "textbook_ref": "前沿议题",
-      "key_terms": ["GDPR", "CCPA", "biometric data", "data breach", "right to be forgotten"],
-      "search_keywords": ["entertainment data privacy GDPR", "biometric data entertainment law", "streaming platform data breach"]
+      "key_terms": ["data processing agreement", "legitimate interest basis", "consent withdrawal mechanism", "data subject access request", "biometric data prohibition"],
+      "search_keywords": [
+        "GDPR CCPA entertainment streaming platform data breach biometric 2025",
+        "data processing agreement consent withdrawal entertainment app ruling 2024 2025"
+      ]
     },
     {
       "week": 11,
       "theme_en": "Sports & Entertainment Crossover",
       "theme_cn": "体育与娱乐交叉",
       "textbook_ref": "前沿议题",
-      "key_terms": ["NIL rights", "esports", "sports media rights", "likeness", "endorsement deal"],
-      "search_keywords": ["NIL rights athlete entertainment", "esports regulation law", "sports media rights deal"]
+      "key_terms": ["name image likeness agreement", "group licensing rights", "broadcast rights carve-out", "endorsement exclusivity clause", "esports franchise agreement"],
+      "search_keywords": [
+        "NIL name image likeness agreement dispute broadcast rights 2025",
+        "esports franchise endorsement exclusivity sports entertainment law ruling 2024 2025"
+      ]
     },
     {
       "week": 12,
       "theme_en": "Emerging Issues & Review",
       "theme_cn": "综合回顾与前沿展望",
       "textbook_ref": "综合",
-      "key_terms": ["emerging issues", "regulatory landscape", "future of entertainment law", "convergence", "platform liability"],
-      "search_keywords": ["entertainment law trends 2026", "emerging legal issues entertainment media", "future entertainment regulation technology"]
+      "key_terms": ["platform liability", "safe harbor erosion", "regulatory convergence", "algorithmic accountability", "content moderation immunity"],
+      "search_keywords": [
+        "entertainment law emerging issues platform liability safe harbor 2025 2026",
+        "algorithmic accountability content moderation immunity regulatory convergence ruling 2025"
+      ]
     }
   ]
 }
