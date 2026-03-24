@@ -1441,7 +1441,7 @@ function renderVocabulary(vocab) {
     const speakBtn = card.querySelector('.vocab-speak');
     speakBtn.onclick = e => {
       e.stopPropagation();
-      speakWord(item.term, speakBtn);
+      speakWord(item.term, speakBtn, item.audio);
     };
 
     grid.appendChild(card);
@@ -1623,21 +1623,32 @@ function renderCompletion(lesson) {
   return wrap;
 }
 
-// ── Web Speech API: pronounce a vocab term ────────────────────────────────
-function speakWord(term, btn) {
+// ── Vocab pronunciation: pre-generated mp3 → Web Speech API fallback ─────
+function speakWord(term, btn, audioSrc) {
+  if (audioSrc) {
+    const audio = new Audio('data/' + audioSrc);
+    if (btn) {
+      btn.classList.add('speaking');
+      audio.onended = () => btn.classList.remove('speaking');
+      audio.onerror = () => { btn.classList.remove('speaking'); _speakFallback(term, btn); };
+    }
+    audio.play().catch(() => _speakFallback(term, btn));
+    return;
+  }
+  _speakFallback(term, btn);
+}
+
+function _speakFallback(term, btn) {
   if (!window.speechSynthesis) return;
   window.speechSynthesis.cancel();
-
   const utter = new SpeechSynthesisUtterance(term);
   utter.lang = 'en-US';
   utter.rate = 0.85;
-
   if (btn) {
     btn.classList.add('speaking');
     utter.onend = () => btn.classList.remove('speaking');
     utter.onerror = () => btn.classList.remove('speaking');
   }
-
   window.speechSynthesis.speak(utter);
 }
 

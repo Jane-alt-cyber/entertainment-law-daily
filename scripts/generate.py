@@ -428,7 +428,7 @@ def main() -> None:
         json.dump(lesson, f, ensure_ascii=False, indent=2)
     print(f"Saved → {json_path.relative_to(ROOT)}")
 
-    # 4. Generate TTS audio
+    # 4. Generate TTS audio (reading passage)
     try:
         sys.path.insert(0, str(Path(__file__).parent))
         from tts import generate_audio_sync
@@ -440,6 +440,23 @@ def main() -> None:
             print("Warning: reading.text is empty, skipping TTS.")
     except Exception as exc:
         print(f"Warning: TTS generation failed ({exc}). Skipping audio.")
+
+    # 4b. Generate per-vocabulary TTS audio
+    try:
+        from tts import generate_audio_sync
+        for i, vocab_item in enumerate(lesson.get("vocabulary", [])):
+            term = vocab_item.get("term", "")
+            if not term:
+                continue
+            vocab_audio_path = week_dir / f"day{day}_vocab_{i}.mp3"
+            generate_audio_sync(term, str(vocab_audio_path))
+            vocab_item["audio"] = f"week{week:02d}/day{day}_vocab_{i}.mp3"
+        # Re-save JSON with audio paths injected
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(lesson, f, ensure_ascii=False, indent=2)
+        print(f"Vocab audio generated ({len(lesson.get('vocabulary', []))} terms)")
+    except Exception as exc:
+        print(f"Warning: vocab TTS failed ({exc}). Skipping vocab audio.")
 
     # 5. Update lesson index
     update_index(week, day, today, topic)
