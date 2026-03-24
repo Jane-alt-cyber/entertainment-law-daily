@@ -189,133 +189,157 @@ def _schema_for_phase(phase_cfg: dict, vocab_count: int) -> dict:
     return schema
 
 
-def build_prompt(week: int, day: int, phase_cfg: dict, topic: dict) -> str:
+DIFFICULTY = {
+    1: "BEGINNER — clear news-report style; accessible sentences, but vocabulary must be specialist legal terms",
+    2: "INTERMEDIATE — legal-analysis style; cites holdings, uses precise procedural vocabulary",
+    3: "ADVANCED — policy-debate framing; critical analysis, sophisticated legal argument",
+}
+
+
+def build_research_prompt(topic: dict) -> str:
+    """Step 1 prompt: web_search only, returns plain text (no JSON)."""
+    kws = topic.get("search_keywords", [])
+    q1 = kws[0] if kws else f"entertainment law {topic['theme_en']} 2025"
+    q2 = kws[1] if len(kws) > 1 else f"{topic['theme_en']} legal ruling 2024"
+
+    return f"""You are a legal research assistant. Search the web and collect real article information.
+
+TASK: Find 3 real, recent entertainment law articles on this topic:
+  Theme: {topic['theme_en']} / {topic['theme_cn']}
+  Primary search query:  {q1}
+  Fallback search query: {q2}
+
+Preferred sources: hollywoodreporter.com, variety.com, law.com, deadline.com,
+  billboard.com, thehollywoodlawyer.com, fordhamiplj.org, ssrn.com
+
+For each article found, output in this EXACT plain-text format (no JSON):
+
+MAIN_TITLE: [title of the most legally substantive article]
+MAIN_SOURCE: [publication name + date]
+MAIN_URL: [article URL]
+MAIN_CONTENT: [300-400 word summary of the key legal facts, arguments, and outcomes from the article]
+
+EXT1_TITLE: [title of second article]
+EXT1_URL: [URL]
+EXT1_DESC: [one sentence about this article]
+
+EXT2_TITLE: [title of third article — prefer academic/law review]
+EXT2_URL: [URL]
+EXT2_DESC: [one sentence about this article]
+
+Output ONLY this plain text. No JSON, no markdown headers, no extra commentary."""
+
+
+def build_json_prompt(research: str, week: int, day: int, phase_cfg: dict, topic: dict) -> str:
+    """Step 2 prompt: pure JSON generation, no web_search, uses research from step 1."""
     phase = phase_cfg["phase"]
     vocab_count = phase_cfg["vocab_count"]
     reading_length = phase_cfg["reading_length"]
-    search_kws = topic.get("search_keywords", [])
-    key_terms = topic.get("key_terms", [])
-
-    difficulty_map = {
-        1: "BEGINNER — clear news-report style; sentence structure is accessible, but VOCABULARY must be specialist legal terms",
-        2: "INTERMEDIATE — legal-analysis style; cites case holdings, uses precise legal vocabulary and procedural language",
-        3: "ADVANCED — policy-debate framing; critical analysis of emerging issues, sophisticated legal argument",
-    }
-    difficulty = difficulty_map[phase]
+    key_terms_str = ", ".join(topic.get("key_terms", []))
+    difficulty = DIFFICULTY[phase]
 
     schema = _schema_for_phase(phase_cfg, vocab_count)
     schema_str = json.dumps(schema, ensure_ascii=False, indent=2)
 
-    search_primary = search_kws[0] if search_kws else f"entertainment law {topic['theme_en']}"
-    search_fallback = search_kws[1] if len(search_kws) > 1 else f"{topic['theme_en']} legal case 2025"
-    key_terms_str = ", ".join(key_terms)
+    return f"""You are generating a JSON lesson for "Entertainment Law Daily".
 
-    return f"""You are the content engine for "Entertainment Law Daily" — an English legal learning platform for Chinese entertainment lawyers.
+RESEARCH FINDINGS (from real articles):
+{research}
 
-Your job today: find a REAL article, then generate a complete lesson JSON from it.
-Output ONLY the final JSON — no markdown, no code fences, no preamble.
-
-━━━ TODAY'S LESSON ━━━
-Week: {week}  |  Day: {day}  |  Phase {phase}: {phase_cfg['name']} ({phase_cfg['name_en']})
+━━━ LESSON PARAMETERS ━━━
+Week: {week} | Day: {day} | Phase {phase}: {phase_cfg['name']}
 Theme: {topic['theme_en']} / {topic['theme_cn']}
 Difficulty: {difficulty}
-Key legal concepts for this week: {key_terms_str}
+Key legal concepts: {key_terms_str}
 
-━━━ STEP 1 — FIND THE MAIN ARTICLE (use web_search) ━━━
-Search for a REAL, substantive entertainment law article using:
-  Primary query:  {search_primary}
-  Fallback query: {search_fallback}
+━━━ READING SECTION ━━━
+Use MAIN_TITLE, MAIN_SOURCE, MAIN_URL, and MAIN_CONTENT from the research above.
+- "text": write {reading_length} as a coherent reading passage based on MAIN_CONTENT.
+  Preserve all legal terms verbatim. Do not invent facts.
 
-Preferred sources: hollywoodreporter.com, variety.com, law.com, deadline.com,
-  billboard.com, thehollywoodlawyer.com, musicweek.com,
-  fordhamiplj.org, ssrn.com, law school IP/entertainment law blogs
+━━━ VOCABULARY — CRITICAL RULES ━━━
+Pick exactly {vocab_count} terms that appear verbatim in your "text".
 
-Prefer articles from 2024–2026. Choose the most legally substantive result
-(court rulings, contract disputes, regulatory changes — not just industry gossip).
+✅ GOOD: contract clauses, legal doctrines, procedural terms, deal structures,
+   statutory provisions, remedies — things needing lookup in a US contract or filing.
 
-━━━ STEP 2 — BUILD READING SECTION ━━━
-From the real article:
-- "title": the actual article title
-- "source": publication name + approximate date
-- "url": the actual article URL
-- "text": {reading_length} excerpt or faithful paraphrase of the core legal content.
-  Do NOT fabricate facts. Preserve all legal terms verbatim.
-  Write it as a coherent reading passage, not bullet points.
+❌ BANNED (reject these, too basic):
+   streaming, platform, content, industry, entertainment, music, film, video,
+   rights, agreement, contract, deal, IP, law, court, case, lawsuit,
+   company, revenue, licensing, distribution, network, service
 
-━━━ STEP 3 — PICK VOCABULARY (critical: must be specialist legal terms) ━━━
-Select exactly {vocab_count} terms from the reading text.
-
-✅ PICK: contract clauses, legal doctrines, procedural terms, statutory provisions,
-   deal structures, remedies, jurisdiction-specific rules, industry-specific legal
-   concepts — things a Chinese lawyer must look up in a US contract or court filing.
-
-❌ NEVER PICK these categories (too basic):
-   - Generic nouns: streaming, platform, content, industry, entertainment, music, film, video
-   - Basic legal words: rights, agreement, contract, deal, IP, law, court, case, lawsuit
-   - Everyday business: company, revenue, licensing, distribution, network, service
-
-Each term must be something where a Chinese entertainment lawyer would genuinely
-benefit from an English definition and a usage example.
-
-━━━ STEP 4 — FIND EXTENDED READING (use web_search again) ━━━
-Search for 2 additional REAL articles related to this week's theme.
-Aim for: one practical news/analysis piece + one academic or law review piece.
-Provide actual titles and working URLs.
+━━━ EXTENDED READING ━━━
+Use EXT1 and EXT2 from research above for the extended_reading array.
 
 ━━━ FORMAT RULES ━━━
-1. Every vocabulary "term" must appear verbatim in reading "text".
-2. Produce EXACTLY {vocab_count} vocabulary items.
-3. Produce EXACTLY 3 sentence_patterns (4 for Phase 2+).
+1. Every vocabulary term must appear verbatim in reading text.
+2. Exactly {vocab_count} vocabulary items.
+3. Exactly 3 sentence_patterns (4 for Phase 2+).
 4. All Chinese fields: professional legal/business Chinese.
-5. Difficulty: {difficulty}.
 
-━━━ EXPECTED JSON SCHEMA ━━━
-{schema_str}
-
-Start your response with {{ and end with }}. Output ONLY the JSON.
-"""
+━━━ JSON SCHEMA ━━━
+{schema_str}"""
 
 
-# ── Content generation ─────────────────────────────────────────────────────────
+# ── Content generation (two-step) ──────────────────────────────────────────────
 
-def generate_lesson(prompt: str) -> dict:
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    print(f"Calling {MODEL} with web_search enabled…")
-
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        tools=[{
-            "type": "web_search_20250305",
-            "name": "web_search",
-            "max_uses": 5,   # up to 2 for main article + 3 for extended reading
-        }],
-        messages=[{"role": "user", "content": prompt}],
-    )
-
-    # Collect all text blocks — Anthropic handles web_search server-side;
-    # the final answer arrives as one or more text blocks after the search results.
-    raw = "".join(
+def _collect_text(response) -> str:
+    """Collect all text blocks from an Anthropic API response."""
+    return "".join(
         block.text for block in response.content
         if hasattr(block, "type") and block.type == "text"
     ).strip()
 
-    if not raw:
-        raise ValueError("Claude returned no text content (only tool calls, no final answer)")
 
+def _parse_json(raw: str) -> dict:
+    """Parse JSON from raw string, with fallback extraction."""
     # Strip accidental markdown fences
     raw = re.sub(r"^```[^\n]*\n?", "", raw)
     raw = re.sub(r"\n?```$", "", raw.strip())
-
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
+        # Try extracting outermost {...}
         match = re.search(r"\{.*\}", raw, re.DOTALL)
         if match:
             return json.loads(match.group())
-        raise ValueError(
-            f"Could not parse JSON from Claude response.\n--- First 500 chars ---\n{raw[:500]}"
-        )
+        raise ValueError(f"No valid JSON found.\n--- First 500 chars ---\n{raw[:500]}")
+
+
+def generate_lesson(week: int, day: int, phase_cfg: dict, topic: dict) -> dict:
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    # ── Step 1: web_search → plain-text research findings ──────────────────────
+    print("Step 1: searching for real articles…")
+    research_prompt = build_research_prompt(topic)
+
+    r1 = client.messages.create(
+        model=MODEL,
+        max_tokens=4096,
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
+        messages=[{"role": "user", "content": research_prompt}],
+    )
+    research = _collect_text(r1)
+    if not research:
+        raise ValueError("Step 1 returned no text content")
+    print(f"Step 1 done ({len(research)} chars of research)")
+
+    # ── Step 2: JSON generation (no web_search, assistant pre-fill) ────────────
+    print("Step 2: generating lesson JSON…")
+    json_prompt = build_json_prompt(research, week, day, phase_cfg, topic)
+
+    r2 = client.messages.create(
+        model=MODEL,
+        max_tokens=MAX_TOKENS,
+        messages=[
+            {"role": "user", "content": json_prompt},
+            {"role": "assistant", "content": "{"},   # pre-fill forces valid JSON start
+        ],
+    )
+    # Pre-fill means the model's reply continues from "{", so prepend it back
+    raw = "{" + _collect_text(r2)
+    print("Step 2 done, parsing JSON…")
+    return _parse_json(raw)
 
 
 # ── Index management ───────────────────────────────────────────────────────────
@@ -376,9 +400,8 @@ def main() -> None:
         print("To regenerate, set FORCE_REGENERATE=1 or use OVERRIDE_DATE for a different day.")
         sys.exit(0)
 
-    # 1. Generate lesson JSON (with web search for real articles)
-    prompt = build_prompt(week, day, phase_cfg, topic)
-    lesson = generate_lesson(prompt)
+    # 1. Generate lesson JSON (two-step: web_search → plain text → JSON)
+    lesson = generate_lesson(week, day, phase_cfg, topic)
 
     # 2. Inject metadata
     lesson.update({
