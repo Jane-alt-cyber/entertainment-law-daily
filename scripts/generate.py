@@ -324,20 +324,17 @@ def generate_lesson(week: int, day: int, phase_cfg: dict, topic: dict) -> dict:
         raise ValueError("Step 1 returned no text content")
     print(f"Step 1 done ({len(research)} chars of research)")
 
-    # ── Step 2: JSON generation (no web_search, assistant pre-fill) ────────────
+    # ── Step 2: JSON generation (no web_search, system prompt enforces JSON) ───
     print("Step 2: generating lesson JSON…")
     json_prompt = build_json_prompt(research, week, day, phase_cfg, topic)
 
     r2 = client.messages.create(
         model=MODEL,
         max_tokens=MAX_TOKENS,
-        messages=[
-            {"role": "user", "content": json_prompt},
-            {"role": "assistant", "content": "{"},   # pre-fill forces valid JSON start
-        ],
+        system="You are a JSON generator. Output ONLY raw JSON — no markdown, no code fences, no explanation. Your entire response must be a single valid JSON object starting with { and ending with }.",
+        messages=[{"role": "user", "content": json_prompt}],
     )
-    # Pre-fill means the model's reply continues from "{", so prepend it back
-    raw = "{" + _collect_text(r2)
+    raw = _collect_text(r2)
     print("Step 2 done, parsing JSON…")
     return _parse_json(raw)
 
