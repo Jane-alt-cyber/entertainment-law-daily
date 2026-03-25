@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "In TV Rights Agreements, Attention Needs to be Paid to Holdback, Reversion, and Derivative Works Provisions",
+    "source": "Yahoo Finance / Franklin, Weinrib, Rudell & Vassallo (Entertainment Law Column), 2024–2025",
+    "url": "https://finance.yahoo.com/news/tv-rights-agreements-attention-needs-064503652.html",
+    "text": "When a creator licenses an underlying literary or story property to a television exhibitor — whether a broadcast network, cable channel, or streaming platform — the headline terms rarely tell the full legal story. According to practitioners Michael I. Rudell and Neil J. Rosini of Franklin, Weinrib, Rudell & Vassallo, the provisions that carry the most legal consequence are those governing the grant of rights, holdback periods, reversion mechanics, and the exhibitor's authority to produce derivative works such as spinoffs, sequels, and remakes.\n\nA standard grant of rights clause in a TV rights agreement typically authorizes the exhibitor to produce a series (often beginning with a pilot), exploit that series across all media, and create ancillary derivative works. The licensor ordinarily retains literary publication rights — meaning text-based prequels and sequels to the underlying property — while motion picture and live stage rights remain subject to negotiation based on relative party leverage.\n\nHoldback provisions are among the most contested clauses in these transactions. Where a licensor retains motion picture rights, the exhibitor will almost invariably demand a holdback period preventing the licensor from exercising those rights during the agreement's term, and often for a defined window thereafter. The exhibitor's concern is audience diversion: a concurrent theatrical release could cannibalize the series' viewership.\n\nEqually critical are reversion rights. If the exhibitor fails to produce the series within a specified period — or fails to exercise an option — rights revert to the creator. However, the specific triggers, notice periods, and cure rights must be drafted with precision. Ambiguity in these clauses is a primary source of disputes. The authors caution that contingent compensation — including episode royalties, a share of modified adjusted gross receipts, and an executive producer fee — only becomes meaningful when the underlying rights structure is sound.",
+    "word_count": 267
+  },
+  "vocabulary": [
+    {
+      "term": "grant of rights",
+      "pronunciation": "/ɡrænt əv raɪts/",
+      "definition_cn": "授权条款，指合同中明确规定被许可方可行使哪些具体权利（如制作、发行、改编等）的核心条款，是影视权利协议的基础性规定。",
+      "example": "The grant of rights clause specified that the exhibitor could produce a series and all derivative works, but could not sublicense the underlying property without written consent.",
+      "audio": "week01/day2_vocab_0.mp3"
+    },
+    {
+      "term": "holdback period",
+      "pronunciation": "/ˈhoʊldbæk ˈpɪəriəd/",
+      "definition_cn": "禁止行权期，指在协议有效期内及届满后一定时间内，授权方被禁止就特定权利（如院线发行权）另行授权或行使的合同限制期间。",
+      "example": "The holdback period prevented the author from licensing the theatrical motion picture rights to any studio for the duration of the television series and for two years after its final season.",
+      "audio": "week01/day2_vocab_1.mp3"
+    },
+    {
+      "term": "reversion rights",
+      "pronunciation": "/rɪˈvɜːrʒən raɪts/",
+      "definition_cn": "权利回归条款，指当被许可方未能在约定期限内开发或制作作品时，已授出的权利自动或经通知后返还给原授权方的合同机制。",
+      "example": "The reversion rights clause required the studio to commence principal photography within eighteen months of option exercise, failing which all rights would revert to the novelist.",
+      "audio": "week01/day2_vocab_2.mp3"
+    },
+    {
+      "term": "underlying rights",
+      "pronunciation": "/ˌʌndərˈlaɪɪŋ raɪts/",
+      "definition_cn": "基础权利，指用于改编成影视作品的原始文学或故事财产（如小说、剧本、真实事件）的版权或其他知识产权，是影视开发交易的权利来源。",
+      "example": "Before any production could begin, the studio was required to confirm that it had acquired all underlying rights in the novel, including the right to adapt characters and plot elements.",
+      "audio": "week01/day2_vocab_3.mp3"
+    },
+    {
+      "term": "derivative works",
+      "pronunciation": "/dɪˈrɪvətɪv wɜːrks/",
+      "definition_cn": "衍生作品，指基于原始作品改编、续写或再创作而产生的新作品，包括续集、前传、翻拍及衍生剧集，其制作权须在合同中明确授权。",
+      "example": "The agreement granted the exhibitor the exclusive right to produce derivative works, including sequels, prequels, and spinoff series, based on the original property.",
+      "audio": "week01/day2_vocab_4.mp3"
+    },
+    {
+      "term": "literary publication rights",
+      "pronunciation": "/ˈlɪtərəri ˌpʌblɪˈkeɪʃən raɪts/",
+      "definition_cn": "文学出版权，指以文字形式出版、发行作品相关内容（如小说续集、前传）的权利，通常由原创作者保留，不随影视授权一并转让。",
+      "example": "The author retained literary publication rights, allowing her to publish a prequel novel even while the television series was in active production.",
+      "audio": "week01/day2_vocab_5.mp3"
+    },
+    {
+      "term": "modified adjusted gross receipts",
+      "pronunciation": "/ˈmɒdɪfaɪd əˈdʒʌstɪd ɡroʊs rɪˈsiːts/",
+      "definition_cn": "经修正的调整后总收入，为影视行业合同中用于计算创作者分成报酬的财务基准，通常在扣除多项费用后计算，具体定义须在合同中精确约定。",
+      "example": "The producer's contingent compensation was calculated as five percent of modified adjusted gross receipts, a figure whose exact definition occupied three pages of the agreement.",
+      "audio": "week01/day2_vocab_6.mp3"
+    },
+    {
+      "term": "cure rights",
+      "pronunciation": "/kjʊər raɪts/",
+      "definition_cn": "补救权，指合同一方在对方主张违约或触发权利回归条款之前，享有在规定期限内纠正违约行为或履行义务的合同权利，以避免合同终止或权利丧失。",
+      "example": "The exhibitor's cure rights gave it thirty days to remedy any production default before the author could formally demand reversion of the underlying property.",
+      "audio": "week01/day2_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[The agreement] granted [Party] the exclusive right to [action], subject to [condition or limitation].",
+      "example": "The agreement granted the exhibitor the exclusive right to produce derivative works, subject to the holdback period restricting simultaneous exploitation of motion picture rights.",
+      "translation_cn": "该协议授予展映方制作衍生作品的专有权利，但须受限于禁止同期行使院线权利的禁止行权期条款。"
+    },
+    {
+      "pattern": "If [Party] fails to [perform obligation] within [specified period], [rights or remedy] shall [legal consequence].",
+      "example": "If the exhibitor fails to commence production within the specified period, the reversion rights provision shall operate to return all underlying rights to the original licensor.",
+      "translation_cn": "若展映方未能在约定期限内开始制作，权利回归条款将自动触发，将所有基础权利返还给原授权方。"
+    },
+    {
+      "pattern": "[Clause or provision] must be drafted with precision, as ambiguity in [specific term] is a primary source of [legal consequence].",
+      "example": "The cure rights clause must be drafted with precision, as ambiguity in the notice and remedy period is a primary source of disputes over whether reversion has validly occurred.",
+      "translation_cn": "补救权条款须精确起草，因为通知与救济期限表述不清是引发权利回归是否有效发生争议的主要根源。"
+    }
+  ],
+  "summary_cn": "本文由Franklin, Weinrib, Rudell & Vassallo律所资深合伙人撰写，指出影视权利协议中最具法律价值的条款并非薪酬，而是授权范围、禁止行权期、权利回归条款及衍生作品条款。创作者须精确谈判上述条款，确保基础权利结构稳固，方能使后续的分成报酬等或有补偿具有实际意义。",
+  "legal_analysis": "① 核心法律问题：本文聚焦影视权利协议中授权条款的完整性与精确性，涉及基础权利获取、禁止行权期的合理边界、权利回归触发机制及衍生作品的授权范围，任何条款的模糊均可能引发争议。\n\n② 美国法律框架分析：在美国，影视权利交易通常采用\"选择权+授权\"结构（Option and License Agreement）。《美国版权法》第101条及第204条要求权利转让须以书面形式进行；衍生作品的制作权须明确授权，否则制作方可能面临侵权风险。禁止行权期本质上是合同性限制，不涉及版权法本身，其有效性依赖于明确的合同约定。权利回归条款在实践中常因\"开发\"门槛（如是否开始制作）界定不清而引发诉讼。\n\n③ 对中国娱乐法律师的实践启示：中国影视改编交易日趋复杂，尤其在IP授权领域，律师应借鉴美国实践，在合同中明确区分文字出版权、院线改编权与网络剧集权；将禁止行权期的起算点、届满条件及例外情形写入条款；设定可操作的权利回归触发事件及通知-补救程序，避免因模糊约定导致仲裁或诉讼。",
+  "extended_reading": [
+    {
+      "title": "Variety's 2025 Legal Impact Report: Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+      "description_cn": "Variety发布的2025年好莱坞顶级娱乐律师年度报告，涵盖流媒体版权诉讼、版权终止权争议及AI声音侵权等前沿案例，全面呈现当前美国娱乐法实践的核心议题。",
+      "language": "en"
+    },
+    {
+      "title": "Artificial Intelligence and the Creative Double Bind — Harvard Law Review, Vol. 138 (April 2025)",
+      "url": "https://harvardlawreview.org/print/vol-138/artificial-intelligence-and-the-creative-double-bind/",
+      "description_cn": "哈佛法律评论学术文章，以编剧工会罢工为案例，深入分析雇佣作品条款与版权转让机制如何塑造娱乐产业的劳动与知识产权生态，并探讨AI训练数据使用的合同保护路径。",
+      "language": "en"
+    }
+  ],
+  "week": 1,
+  "day": 2,
+  "date": "2026-03-25",
+  "phase": 1,
+  "theme_en": "Entertainment Law Overview",
+  "theme_cn": "娱乐法概览",
+  "audio_file": "week01/day2.mp3"
+}
