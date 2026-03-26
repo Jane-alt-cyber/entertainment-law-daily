@@ -44,6 +44,8 @@ jobs:
           OVERRIDE_DATE: ${{ github.event.inputs.override_date }}
           # Manual runs (workflow_dispatch) always overwrite; scheduled runs skip existing.
           FORCE_REGENERATE: ${{ github.event_name == 'workflow_dispatch' && '1' || github.event.inputs.force_regenerate }}
+          # Use Beijing timezone so date.today() matches the intended lesson date
+          TZ: Asia/Shanghai
         run: python scripts/generate.py
 
       - name: Commit and push

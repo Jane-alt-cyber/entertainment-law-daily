@@ -13,7 +13,7 @@ import json
 import os
 import re
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import time
@@ -44,7 +44,8 @@ def calculate_position(curriculum: dict) -> tuple:
 
     # Allow manual override via env var (useful for workflow_dispatch testing)
     override = os.environ.get("OVERRIDE_DATE", "").strip()
-    today = date.fromisoformat(override) if override else date.today()
+    CST = timezone(timedelta(hours=8))
+    today = date.fromisoformat(override) if override else datetime.now(CST).date()
 
     if today < start:
         print(f"Course starts on {start}. Nothing to generate yet.")
