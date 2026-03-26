@@ -17,7 +17,16 @@
       "theme_cn": "娱乐法概览",
       "file": "week01/day2.json",
       "audio": "week01/day2.mp3"
+    },
+    {
+      "week": 1,
+      "day": 3,
+      "date": "2026-03-26",
+      "theme_en": "Entertainment Law Overview",
+      "theme_cn": "娱乐法概览",
+      "file": "week01/day3.json",
+      "audio": "week01/day3.mp3"
     }
   ],
-  "last_updated": "2026-03-25"
+  "last_updated": "2026-03-26"
 }
