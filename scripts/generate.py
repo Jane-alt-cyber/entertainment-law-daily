@@ -337,12 +337,21 @@ def generate_lesson(week: int, day: int, phase_cfg: dict, topic: dict) -> dict:
     print("Step 2: generating lesson JSON…")
     json_prompt = build_json_prompt(research, week, day, phase_cfg, topic)
 
-    r2 = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        system="You are a JSON generator. Output ONLY raw JSON — no markdown, no code fences, no explanation. Your entire response must be a single valid JSON object starting with { and ending with }.",
-        messages=[{"role": "user", "content": json_prompt}],
-    )
+    for attempt in range(4):
+        try:
+            r2 = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system="You are a JSON generator. Output ONLY raw JSON — no markdown, no code fences, no explanation. Your entire response must be a single valid JSON object starting with { and ending with }.",
+                messages=[{"role": "user", "content": json_prompt}],
+            )
+            break
+        except anthropic.RateLimitError:
+            if attempt == 3:
+                raise
+            wait = 60 * (attempt + 1)
+            print(f"Rate limit on Step 2, waiting {wait}s (attempt {attempt + 1}/3)…")
+            time.sleep(wait)
     raw = _collect_text(r2)
     print("Step 2 done, parsing JSON…")
     return _parse_json(raw)
