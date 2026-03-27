@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Can a Screenwriter Copyright a Sequel He Was Not Hired to Write? — Gray v. Paramount Global (2026)",
+    "source": "Sergenian Law Blog, January/February 2026",
+    "url": "https://www.sergenianlaw.com/blog/can-a-screenwriter-copyright-a-sequel-he-was-not-hired-to-write",
+    "text": "On January 9, 2026, Judge Jed S. Rakoff of the U.S. District Court for the Southern District of New York issued a significant ruling in Gray v. Paramount Global, No. 25-cv-3484. The case centered on Shaun Gray, who claimed he secretly co-authored key scenes in Top Gun: Maverick. In 2017, Paramount had engaged screenwriter Eric Warren Singer under a formal work-made-for-hire agreement, which expressly stated that Singer's draft would be 'solely written' by him. Director Joseph Kosinski was retained under a similar arrangement. These work-for-hire agreements ensured that all creative output vested immediately in Paramount as the statutory author under the Copyright Act.\n\nGray alleged he contributed scenes — which he called the 'Gray Scenes' — and registered a copyright in those scenes in 2024 before filing suit in April 2025. Judge Rakoff dismissed the joint authorship claim at the motion-to-dismiss stage. When Paramount moved for summary judgment, the court focused on a decisive third theory: the Gray Scenes constituted unauthorized derivative works built upon Paramount's pre-existing Top Gun franchise IP.\n\nUnder Second Circuit precedent established in Keeling v. Hars, 809 F.3d 43, an unauthorized derivative work is generally denied copyright protection because it unlawfully infringes the original copyright holder's exclusive rights. The court drew an analogy to Wozniak v. Warner Bros. Entertainment, Inc., 726 F. Supp. 3d 213 (S.D.N.Y. 2024), where an unauthorized work incorporating pre-existing characters received no protection. Gray's entire lawsuit was dismissed, and Paramount's counterclaims for copyright infringement and common law fraud were allowed to proceed to trial. The ruling powerfully illustrates how work-for-hire doctrine, grant of rights clauses, and the unauthorized-derivative-works doctrine together protect a studio's franchise ownership against third-party authorship challenges.",
+    "word_count": 263
+  },
+  "vocabulary": [
+    {
+      "term": "work-made-for-hire agreement",
+      "pronunciation": "/wɜːrk meɪd fər haɪər əˈɡriːmənt/",
+      "definition_cn": "雇佣创作协议：根据《版权法》第101条，受雇人在雇佣范围内创作的作品，其版权自动归属雇主，创作者不保留任何著作权。",
+      "example": "Paramount required Singer to sign a work-made-for-hire agreement before he began drafting the screenplay, ensuring all copyright vested in the studio from day one.",
+      "audio": "week01/day4_vocab_0.mp3"
+    },
+    {
+      "term": "joint authorship",
+      "pronunciation": "/dʒɔɪnt ˈɔːθərʃɪp/",
+      "definition_cn": "共同著作权：两人或两人以上以共同创作单一作品为目的共同创作时产生的法律关系，各方对整部作品享有共同所有权。",
+      "example": "Gray's claim of joint authorship failed because he could not demonstrate that Paramount intended him to be a co-author of the finished screenplay.",
+      "audio": "week01/day4_vocab_1.mp3"
+    },
+    {
+      "term": "unauthorized derivative work",
+      "pronunciation": "/ʌnˈɔːθəraɪzd dɪˈrɪvətɪv wɜːrk/",
+      "definition_cn": "未经授权的衍生作品：在未获原版权人许可的情况下，基于受版权保护的原作创作的作品，该作品不受版权法保护且本身构成侵权。",
+      "example": "Because the Gray Scenes were built upon Paramount's copyrighted characters and settings without authorization, the court classified them as an unauthorized derivative work.",
+      "audio": "week01/day4_vocab_2.mp3"
+    },
+    {
+      "term": "grant of rights clause",
+      "pronunciation": "/ɡrænt əv raɪts klɔːz/",
+      "definition_cn": "权利授予条款：合同中明确规定一方将特定知识产权转让或许可给另一方的条款，通常详细列明权利范围、媒介形式及地域范围。",
+      "example": "The grant of rights clause in Singer's contract transferred all sequel and franchise rights to Paramount, leaving no residual ownership with the writer.",
+      "audio": "week01/day4_vocab_3.mp3"
+    },
+    {
+      "term": "summary judgment",
+      "pronunciation": "/ˈsʌməri ˈdʒʌdʒmənt/",
+      "definition_cn": "即决判决：在正式庭审前，法院认定不存在需要陪审团裁决的实质性事实争议，径行就法律问题作出裁决的程序机制。",
+      "example": "Paramount moved for summary judgment, arguing that no genuine factual dispute existed as to whether the Gray Scenes were unauthorized derivative works.",
+      "audio": "week01/day4_vocab_4.mp3"
+    },
+    {
+      "term": "motion-to-dismiss",
+      "pronunciation": "/ˈmoʊʃən tə dɪˈsmɪs/",
+      "definition_cn": "驳回动议：被告在案件进入实质审理前提出的程序性申请，主张即使原告陈述的事实全部属实，其诉求在法律上也不成立。",
+      "example": "Judge Rakoff granted Paramount's motion-to-dismiss on the joint authorship count, holding that Gray's pleaded facts were legally insufficient to support the claim.",
+      "audio": "week01/day4_vocab_5.mp3"
+    },
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "版权侵权：在未经版权人许可的情况下，实施复制、发行、改编或公开展示受版权保护作品等专有权利行为，须承担民事乃至刑事责任。",
+      "example": "Paramount's counterclaims for copyright infringement alleged that Gray's registration and public assertions about the Gray Scenes unlawfully interfered with its exclusive franchise rights.",
+      "audio": "week01/day4_vocab_6.mp3"
+    },
+    {
+      "term": "statutory author",
+      "pronunciation": "/ˈstætʃətɔːri ˈɔːθər/",
+      "definition_cn": "法定作者：依据版权法特别规定，在雇佣创作情形下，雇主被视为作品的法定作者并享有全部版权，即使实际创作系由雇员完成。",
+      "example": "Under the work-for-hire doctrine, Paramount was deemed the statutory author of the Top Gun: Maverick screenplay, regardless of who physically typed the words.",
+      "audio": "week01/day4_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] moved for [procedural mechanism], arguing that [legal basis] barred [opposing party]'s claim as a matter of law.",
+      "example": "Paramount moved for summary judgment, arguing that the unauthorized-derivative-works doctrine barred Gray's copyright claim as a matter of law.",
+      "translation_cn": "派拉蒙申请即决判决，主张未经授权衍生作品原则从法律层面阻断了格雷的版权主张。"
+    },
+    {
+      "pattern": "Because [party] created [work] without authorization from the original copyright holder, the court held that [work] constituted an unauthorized derivative work entitled to no copyright protection.",
+      "example": "Because Gray created the Gray Scenes without authorization from Paramount as the original copyright holder, the court held that those scenes constituted an unauthorized derivative work entitled to no copyright protection.",
+      "translation_cn": "由于格雷在未经派拉蒙授权的情况下创作了涉案场景，法院认定这些场景构成未经授权的衍生作品，不享有任何版权保护。"
+    },
+    {
+      "pattern": "Under the work-made-for-hire agreement, all creative output produced by [party] vested immediately in [employer] as the statutory author.",
+      "example": "Under the work-made-for-hire agreement, all creative output produced by Singer vested immediately in Paramount as the statutory author of the completed screenplay.",
+      "translation_cn": "根据雇佣创作协议，辛格创作的所有作品版权立即归派拉蒙所有，派拉蒙成为完整剧本的法定作者。"
+    }
+  ],
+  "summary_cn": "2026年1月，纽约南区联邦地区法院在Gray v. Paramount Global案中裁定，格雷主张对《壮志凌云：独行侠》剧本特定场景享有版权的诉求因属未经授权的衍生作品而无效。法院认定，派拉蒙已通过雇佣创作协议取得完整版权，格雷在未获授权的情况下基于派拉蒙既有IP创作的内容不受版权保护，其诉讼被全部驳回，派拉蒙的反诉得以继续推进。",
+  "legal_analysis": "① 核心法律问题：本案涉及三个相互交织的版权法问题：雇佣创作原则下版权的初始归属、第三方对工作室既有IP主张共同著作权的可行性，以及未经授权衍生作品的可版权性。\n\n② 美国法律框架分析：根据《美国版权法》第101条及第201(b)条，在有效的雇佣创作协议下，雇主自动成为版权的法定作者。第二巡回法院在Keeling v. Hars案中确立的规则进一步明确，未经原版权人授权而创作的衍生作品不仅不受版权保护，还可能构成对原作的侵权。本案法院将两项原则合并适用：格雷既未能证明存在共同创作的合意（共同著作权的必要要件），其作品又因属未经授权的衍生作品而被剥夺保护资格。\n\n③ 对中国娱乐法律师的实践启示：中国《著作权法》第18条虽规定了职务作品制度，但其保护范围与美国雇佣创作原则存在实质差异——中国法律在特定情形下仍保留创作者的署名权与部分财产权。在为中国制片公司起草涉外合作协议时，律师应特别注意：第一，在适用美国法的合同中明确约定雇佣创作条款及权利授予条款，以彻底封堵第三方的著作权主张；第二，对所有参与创作的人员进行书面确认，避免隐名贡献者事后主张权利；第三，理解衍生作品授权链条的完整性对于续集开发的战略意义。",
+  "extended_reading": [
+    {
+      "title": "Understanding Rights Acquisition Contracts in Entertainment: Key Considerations for Film, TV, and Theatre Rights",
+      "url": "https://firemark.com/2025/01/06/understanding-rights-acquisition-contracts-in-entertainment-key-considerations-for-film-tv-and-theatre-rights/",
+      "description_cn": "娱乐法律师Firemark撰写的从业指南，详细解析影视及戏剧领域权利购买合同中的期权条款、改编授权、权利回归条款及产权链审查要点。",
+      "language": "en"
+    },
+    {
+      "title": "Fordham Intellectual Property, Media and Entertainment Law Journal — Volume 35 (2024–2025)",
+      "url": "https://ir.lawnet.fordham.edu/iplj/",
+      "description_cn": "福特汉姆大学同行评审法学期刊，2024–2025年卷涵盖版权雇佣创作原则、权利授予及娱乐合同法领域的前沿学术研究。",
+      "language": "en"
+    }
+  ],
+  "week": 1,
+  "day": 4,
+  "date": "2026-03-27",
+  "phase": 1,
+  "theme_en": "Entertainment Law Overview",
+  "theme_cn": "娱乐法概览",
+  "audio_file": "week01/day4.mp3"
+}
