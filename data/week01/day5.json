@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Variety's Legal Impact Report 2025: Meet Hollywood's Top Entertainment Attorneys",
+    "source": "Variety, May 8, 2025",
+    "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+    "text": "Variety's 2025 Legal Impact Report reveals that grant-of-rights disputes have become the dominant battleground for Hollywood litigators, with courts consistently turning to explicit contractual language rather than implied intent to resolve ambiguities. Among the year's most consequential matters, attorney Keith Kelly represented Paramount Global in a $500 million lawsuit brought by Warner Bros. Discovery over 'South Park' content. The case centered on whether prior distribution agreements extended to new streaming platforms or required fresh licensing grants — a classic grant-of-rights scope question. Kelly also secured dismissal of a $142.5 million copyright lawsuit and prevailed in a separate $30 million dispute over 'Walker, Texas Ranger,' a case hinging on the breadth of rights holdbacks in legacy television agreements. In another closely watched matter, Gibson Dunn attorneys defended AMC Networks in a profit participation dispute brought by executive producers of 'The Walking Dead.' The California Court of Appeals in December 2024 affirmed AMC's victory, reinforcing the binding force of most favored nation provisions in talent agreements. The Crichton estate's lawsuit against Warner Bros. Television raised foundational questions about underlying rights, adaptation rights, and whether work-for-hire agreements can extinguish derivative work claims asserted by a creator's heirs. Meanwhile, Kirkland and Ellis attorneys guided Caesars Entertainment through a $500 million sale of intellectual property rights for the World Series of Poker brand, a transaction built entirely on the enforceability of a grant of IP rights. Taken together, these disputes illustrate how precisely drafted grant-of-rights clauses, profit participation provisions, and work-for-hire agreements now define litigation risk across the industry.",
+    "word_count": 245
+  },
+  "vocabulary": [
+    {
+      "term": "grant-of-rights",
+      "pronunciation": "/ɡrænt əv raɪts/",
+      "definition_cn": "授权条款，指合同中明确规定一方将特定知识产权的使用、开发或转让权利授予另一方的条款，是娱乐合同的核心要素。",
+      "example": "The grant-of-rights clause in the talent agreement did not expressly cover streaming platforms launched after the contract was signed.",
+      "audio": "week01/day5_vocab_0.mp3"
+    },
+    {
+      "term": "rights holdbacks",
+      "pronunciation": "/raɪts ˈhoʊldbæks/",
+      "definition_cn": "权利保留条款，指授权方在合同中保留某些权利不予授出，限制被授权方在特定媒介、地区或期间内使用作品的条款。",
+      "example": "The studio invoked rights holdbacks to prevent the producer from licensing the series to a competing broadcaster during the exclusivity window.",
+      "audio": "week01/day5_vocab_1.mp3"
+    },
+    {
+      "term": "profit participation",
+      "pronunciation": "/ˈprɒfɪt pɑːˌtɪsɪˈpeɪʃən/",
+      "definition_cn": "利润分成条款，指创作者或制作人依据合同有权分享项目净收益的安排，是好莱坞合同争议的高发领域。",
+      "example": "The executive producers filed suit alleging that the studio had manipulated accounting practices to reduce their profit participation payments.",
+      "audio": "week01/day5_vocab_2.mp3"
+    },
+    {
+      "term": "most favored nation",
+      "pronunciation": "/moʊst ˈfeɪvərd ˈneɪʃən/",
+      "definition_cn": "最惠条款，简称MFN，指合同中保证某一方所获待遇不低于任何第三方同类条款标准的约定，常见于才艺合同和许可协议中。",
+      "example": "The most favored nation provision entitled the co-producer to the same backend compensation terms offered to any other participant on the project.",
+      "audio": "week01/day5_vocab_3.mp3"
+    },
+    {
+      "term": "underlying rights",
+      "pronunciation": "/ˌʌndərˈlaɪɪŋ raɪts/",
+      "definition_cn": "基础权利，指影视或戏剧作品所依据的原始素材（如小说、剧本）的版权，改编作品须先取得基础权利方可进行创作。",
+      "example": "Before greenlighting the adaptation, the studio conducted thorough due diligence to confirm it had secured the underlying rights to the novel.",
+      "audio": "week01/day5_vocab_4.mp3"
+    },
+    {
+      "term": "work-for-hire",
+      "pronunciation": "/wɜːrk fər ˈhaɪər/",
+      "definition_cn": "雇佣作品原则，指依据《美国版权法》，受雇人或受托方在特定条件下创作的作品版权归雇主所有，创作者不保留著作权。",
+      "example": "The composer argued that his score was not a work-for-hire because he had been retained as an independent contractor rather than an employee.",
+      "audio": "week01/day5_vocab_5.mp3"
+    },
+    {
+      "term": "derivative work",
+      "pronunciation": "/dɪˈrɪvətɪv wɜːrk/",
+      "definition_cn": "演绎作品，指以原有受保护作品为基础进行改编、续写或再创作的新作品，其创作须获得原著作权人的授权许可。",
+      "example": "The estate claimed that the new medical drama constituted a derivative work of the original series and therefore required a separate license.",
+      "audio": "week01/day5_vocab_6.mp3"
+    },
+    {
+      "term": "adaptation rights",
+      "pronunciation": "/ˌædæpˈteɪʃən raɪts/",
+      "definition_cn": "改编权，指将原著作品改编为其他形式（如将小说改编为电影）的专属权利，通常须单独取得且条款需明确约定。",
+      "example": "Acquiring adaptation rights to a bestselling novel does not automatically include the right to create a sequel series based on the same characters.",
+      "audio": "week01/day5_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[The case / dispute] centered on whether [prior agreement] extended to [new context] or required [additional step].",
+      "example": "The case centered on whether prior distribution agreements extended to new streaming platforms or required fresh licensing grants.",
+      "translation_cn": "本案的核心在于，此前的发行协议是否涵盖新的流媒体平台，或者是否需要重新签订授权许可。"
+    },
+    {
+      "pattern": "The [court / appellate panel] affirmed [party]'s victory, reinforcing the binding force of [specific contractual provision] in [type of] agreements.",
+      "example": "The California Court of Appeals affirmed AMC's victory, reinforcing the binding force of most favored nation provisions in talent agreements.",
+      "translation_cn": "加利福尼亚州上诉法院维持了AMC的胜诉判决，强化了人才协议中最惠条款的约束力。"
+    },
+    {
+      "pattern": "[Plaintiff / The estate] raised foundational questions about [legal doctrine], arguing that [specific clause] could not extinguish [party]'s [type of] claim.",
+      "example": "The Crichton estate raised foundational questions about underlying rights, arguing that work-for-hire agreements could not extinguish derivative work claims asserted by a creator's heirs.",
+      "translation_cn": "克莱顿遗产提出了关于基础权利的根本性法律问题，主张雇佣作品协议不能消灭创作者继承人主张的演绎作品权利。"
+    }
+  ],
+  "summary_cn": "《Variety》2025年法律影响力报告揭示，授权范围争议已成好莱坞诉讼的核心战场。从南方公园流媒体权之争、《行尸走肉》利润分成案，到克莱顿遗产诉华纳兄弟的演绎作品纠纷，法院均以合同明确语言为准，拒绝依赖隐含意图。雇佣作品条款与权利保留条款的精确起草，成为决定诉讼风险的关键因素。",
+  "legal_analysis": "① 核心法律问题：本报告揭示的核心法律问题涵盖三个层面：授权条款的射程范围（旧合同能否覆盖新媒介）、雇佣作品原则对创作者权利的限制，以及利润分成条款与最惠条款的可执行性。\n\n② 美国法律框架分析：在美国法下，《版权法》第101条对\"雇佣作品\"的认定直接决定版权归属，法院采用多因素测试区分雇员与独立承包商身份。授权条款的解释遵循合同文义原则，New York Times v. Tasini等判例确立了新媒介须有明确授权的规则。第203条赋予创作者在特定年限后终止授权的权利，与雇佣作品认定存在根本冲突。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐律师在代理跨境项目时，应特别注意以下三点：其一，在改编协议中明确列举授权媒介范围，避免因新技术形态产生争议；其二，涉及中外合拍时，须在合同中厘清基础权利归属，防止雇佣作品条款架空创作者的署名权与修改权；其三，利润分成条款应明确会计核算方式，参考好莱坞惯例设置审计权条款，降低事后争议风险。",
+  "extended_reading": [
+    {
+      "title": "Understanding Rights Acquisition Contracts in Entertainment: Key Considerations for Film, TV, and Theatre Rights",
+      "url": "https://firemark.com/2025/01/06/understanding-rights-acquisition-contracts-in-entertainment-key-considerations-for-film-tv-and-theatre-rights/",
+      "description_cn": "娱乐律师Gordon Firemark深度解析影视及戏剧权利收购合同的核心要素，涵盖授权范围、期权协议、回归条款及雇佣作品条款的实务要点。",
+      "language": "en"
+    },
+    {
+      "title": "Work Made for Hire, Sound Recordings, and Section 203 Termination Rights: Implications for Recording Artists",
+      "url": "https://escholarship.org/uc/uclalaw_elr",
+      "description_cn": "UCLA娱乐法评论学术文章，系统分析第二巡回法院对录音作品雇佣作品认定的逐案审查方法，及其对录音艺术家行使版权法第203条终止权的深远影响。",
+      "language": "en"
+    }
+  ],
+  "week": 1,
+  "day": 5,
+  "date": "2026-03-30",
+  "phase": 1,
+  "theme_en": "Entertainment Law Overview",
+  "theme_cn": "娱乐法概览",
+  "audio_file": "week01/day5.mp3"
+}
