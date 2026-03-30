@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Variety's 2025 Legal Impact Report: Hollywood's Top Attorneys — Most Favored Nation Clauses, Talent Deal Exclusivity, and Profit Participation Disputes",
+    "source": "Variety, May 8, 2025",
+    "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+    "text": "Variety's 2025 Legal Impact Report highlights the contract and talent-deal disputes reshaping Hollywood heading into 2025. Among the most significant matters, Gibson Dunn & Crutcher represented AMC Networks in a high-profile profit participation lawsuit brought by executive producers of 'The Walking Dead.' The California Court of Appeals affirmed AMC's victory in December 2024, rejecting a claim seeking hundreds of millions of dollars. That ruling then spawned a second action in which new plaintiffs sought to leverage a prior settlement under most favored nation provisions — raising direct questions about how MFN clauses can create cascading contractual obligations when one settlement triggers parity rights for others.\n\nOn the talent-deal exclusivity front, the report quotes attorney Schenkman observing that the 2023 writers' and actors' strikes dramatically altered overall television deals: 'The key aspect of the overall deal was exclusivity. Now, they are getting rid of those deals. They don't want to pay for exclusivity anymore because they don't want to pay these guarantees.' This reflects a structural shift away from pay-or-play guaranteed exclusivity commitments — arrangements in which talent is compensated whether or not a project is produced — toward leaner, project-by-project arrangements.\n\nMeanwhile, Paramount Global and South Park Digital Studios face Warner Bros. Discovery's $500 million lawsuit alleging breach of exclusive licensing provisions in their streaming attachment deal. Separately, Warner Bros. Television is defending against a suit from the estate of Michael Crichton, claiming 'The Pitt' is a derivative work of 'ER,' illustrating how underlying rights provisions intersect with content development agreements. Taken together, the report confirms that pay-or-play guarantees, most favored nation provisions, profit participation clauses, and exclusivity covenants remain the central fault lines in Hollywood contract litigation.",
+    "word_count": 261
+  },
+  "vocabulary": [
+    {
+      "term": "profit participation",
+      "pronunciation": "/ˈprɒfɪt pɑːˌtɪsɪˈpeɪʃən/",
+      "definition_cn": "利润参与条款，指合同方有权在项目净收益或总收益中按约定比例获得分成，常见于制片人、编剧及演员合同中，是好莱坞合同纠纷高发领域。",
+      "example": "The executive producers filed suit claiming their profit participation rights entitled them to hundreds of millions of dollars in backend compensation.",
+      "audio": "week02/day1_vocab_0.mp3"
+    },
+    {
+      "term": "most favored nation",
+      "pronunciation": "/moʊst ˈfeɪvərd ˈneɪʃən/",
+      "definition_cn": "最惠国条款（MFN），指合同一方享有与其他方所获最优惠条件对等的权利，一旦制片公司给予某方更优惠结算，其他具有MFN条款的当事方可同等主张。",
+      "example": "When AMC settled with the first group of producers, the most favored nation clause gave a second group of plaintiffs grounds to demand identical settlement terms.",
+      "audio": "week02/day1_vocab_1.mp3"
+    },
+    {
+      "term": "pay-or-play",
+      "pronunciation": "/peɪ ɔːr pleɪ/",
+      "definition_cn": "付酬或开拍条款，指制片公司承诺无论项目是否实际开拍，均须向合同人才支付约定报酬，该条款保障人才收入但同时增加制片方财务风险。",
+      "example": "Studios are moving away from pay-or-play guarantees because they no longer want to compensate writers for projects that may never go into production.",
+      "audio": "week02/day1_vocab_2.mp3"
+    },
+    {
+      "term": "exclusivity covenant",
+      "pronunciation": "/ɪkˌskluːˈsɪvɪti ˈkʌvənənt/",
+      "definition_cn": "排他性约定，指合同条款禁止人才在约定期间内为其他制片方或雇主工作，制片公司借此保障人才的专属服务，但须为此支付相应对价。",
+      "example": "The showrunner's exclusivity covenant prevented her from developing any projects for competing networks during the term of her overall deal.",
+      "audio": "week02/day1_vocab_3.mp3"
+    },
+    {
+      "term": "overall deal",
+      "pronunciation": "/ˈoʊvərɔːl diːl/",
+      "definition_cn": "整体协议，指制片公司与编剧或制片人签订的综合性排他协议，通常包含固定期限的独家服务义务及保底薪酬，是好莱坞电视业的主要人才绑定方式。",
+      "example": "Following the 2023 strikes, several studios declined to renew overall deals with veteran showrunners, citing the high cost of guaranteed exclusivity.",
+      "audio": "week02/day1_vocab_4.mp3"
+    },
+    {
+      "term": "attachment deal",
+      "pronunciation": "/əˈtætʃmənt diːl/",
+      "definition_cn": "附属协议，指将特定人才（如导演、主演或制片人）与某具体项目正式绑定的合同安排，该人才通常享有项目推进的优先参与权及相关报酬保障。",
+      "example": "Paramount's attachment deal with South Park Digital Studios became the central exhibit in Warner Bros. Discovery's $500 million breach of exclusivity lawsuit.",
+      "audio": "week02/day1_vocab_5.mp3"
+    },
+    {
+      "term": "derivative work",
+      "pronunciation": "/dɪˈrɪvətɪv wɜːrk/",
+      "definition_cn": "演绎作品，指基于原有受版权保护作品改编、翻译或再创作而形成的新作品，制作方若未获原版权人许可而制作演绎作品，将面临侵权索赔。",
+      "example": "The Crichton estate alleged that 'The Pitt' qualifies as a derivative work of 'ER' and that Warner Bros. Television failed to obtain the necessary underlying rights.",
+      "audio": "week02/day1_vocab_6.mp3"
+    },
+    {
+      "term": "underlying rights",
+      "pronunciation": "/ˌʌndərˈlaɪɪŋ raɪts/",
+      "definition_cn": "基础权利，指开发影视项目所依托的原始版权或其他知识产权（如小说、剧本、角色等），制片公司必须取得这些权利授权方可合法改编制作。",
+      "example": "Securing underlying rights to the original medical drama format was essential before Warner Bros. Television could greenlight 'The Pitt.'",
+      "audio": "week02/day1_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] sought to leverage [prior settlement / prior ruling] under [clause type] provisions, arguing that [parity obligation / triggered right].",
+      "example": "New plaintiffs sought to leverage a settlement AMC had previously reached with other profit participants under most favored nation provisions, arguing that the same terms must apply to them.",
+      "translation_cn": "新原告援引AMC此前与其他利润参与方达成的和解协议，主张最惠国条款已触发，要求适用相同的和解条件。"
+    },
+    {
+      "pattern": "[Studios / Networks] are moving away from [deal structure], no longer willing to pay [financial obligation], in favor of [alternative arrangement].",
+      "example": "Studios are moving away from pay-or-play overall deals, no longer willing to pay guaranteed exclusivity fees, in favor of leaner project-by-project arrangements.",
+      "translation_cn": "制片公司正在放弃付酬或开拍的整体协议，不再愿意支付排他性保底费用，转而采用更精简的逐项目合作模式。"
+    },
+    {
+      "pattern": "[Plaintiff] alleged that [work] constitutes a derivative work of [original], claiming [defendant] failed to secure the necessary underlying rights.",
+      "example": "The estate of Michael Crichton alleged that 'The Pitt' constitutes a derivative work of 'ER,' claiming Warner Bros. Television failed to secure the necessary underlying rights before production.",
+      "translation_cn": "迈克尔·克莱顿遗产管理方主张《深坑》构成《急诊室的故事》的演绎作品，指控华纳兄弟电视公司在开拍前未取得必要的基础权利授权。"
+    }
+  ],
+  "summary_cn": "《Variety》2025年法律影响力报告揭示好莱坞合同纠纷的核心矛盾：最惠国条款在AMC《行尸走肉》利润参与案中引发连锁索赔；付酬或开拍保障条款因2023年编剧和演员罢工后制片公司削减整体协议而备受争议；派拉蒙与华纳兄弟因South Park排他许可协议陷入5亿美元诉讼。报告显示，排他性约定、利润参与条款与最惠国条款仍是当前好莱坞合同诉讼的主要争议焦点。",
+  "legal_analysis": "① 核心法律问题：本报告涉及三类核心合同争议——最惠国条款的触发机制与连锁义务、付酬或开拍条款的财务风险分配，以及排他性约定在人才协议中的边界划定。\n\n② 美国法律框架分析：在美国合同法框架下，最惠国条款（MFN）属于平等对待条款（parity clause），一旦制片公司与某一方达成和解或给予优惠条件，具有MFN条款的其他方可据此主张等同权利，形成连锁义务风险。付酬或开拍条款则赋予人才在项目被搁置时仍可获得报酬的权利，本质上是对人才机会成本的风险补偿，但在罢工后市场环境下，制片公司普遍转向弱化排他性的灵活安排。排他性约定在加利福尼亚州受《商业与职业守则》第16600条约束，过宽的竞业禁止条款可能因违反公共政策而无效。\n\n③ 对中国娱乐法律师的实践启示：中国影视合同中已出现类似最惠国条款的\"同等待遇\"约定，但执行机制尚不成熟。建议在起草人才协议时明确MFN条款的触发条件与范围上限，避免连锁索赔风险；同时参考好莱坞后罢工时代的经验，在保底条款中设置项目推进里程碑节点，以平衡制片方与人才双方的利益。",
+  "extended_reading": [
+    {
+      "title": "Kevin Costner Sued Over Unpaid Fees For 'Horizon' Amid Financing Woes",
+      "url": "https://www.hollywoodreporter.com/business/business-news/kevin-costner-sued-unpaid-costume-fees-horizon-1236457714/",
+      "description_cn": "凯文·科斯特纳及其制片公司因《地平线》财务崩盘，面临多起违约诉讼，涉及未付服装费及联合融资协议违约索赔，揭示制作合同义务未履行的现实后果。",
+      "language": "en"
+    },
+    {
+      "title": "Defining the Relationship: California's Noncompete Laws and Exclusivity in the Acting Industry Leading Up to the 2023 SAG-AFTRA Strike",
+      "url": "https://southerncalifornialawreview.com/2024/08/04/defining-the-relationship-california8217s-noncompete-laws-and-exclusivity-in-the-acting-industry-leading-up-to-the-2023-sag-aftra-strike/",
+      "description_cn": "南加州大学法律评论学术文章，深入分析加州竞业禁止法规与演员排他性合同条款之间的张力，及其如何推动2023年SAG-AFTRA长达118天的罢工。",
+      "language": "en"
+    }
+  ],
+  "week": 2,
+  "day": 1,
+  "date": "2026-03-31",
+  "phase": 1,
+  "theme_en": "Contracts & Talent Deals",
+  "theme_cn": "合同与人才协议",
+  "audio_file": "week02/day1.mp3"
+}

@@ -44,7 +44,16 @@
       "theme_cn": "娱乐法概览",
       "file": "week01/day5.json",
       "audio": "week01/day5.mp3"
+    },
+    {
+      "week": 2,
+      "day": 1,
+      "date": "2026-03-31",
+      "theme_en": "Contracts & Talent Deals",
+      "theme_cn": "合同与人才协议",
+      "file": "week02/day1.json",
+      "audio": "week02/day1.mp3"
     }
   ],
-  "last_updated": "2026-03-30"
+  "last_updated": "2026-03-31"
 }
