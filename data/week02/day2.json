@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "'Fear the Walking Dead' Creator Dave Erickson Sues AMC for Profits",
+    "source": "The Hollywood Reporter, November 19–20, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/fear-the-walking-dead-creator-dave-erickson-lawsuit-amc-1236430598/",
+    "text": "Fear the Walking Dead creator Dave Erickson filed a breach of contract lawsuit against AMC in California state court in November 2025, adding another chapter to the long-running Walking Dead profit participation saga. At the heart of the dispute is Erickson's backend compensation, calculated under a contractual formula known as 'Modified Adjusted Gross Receipts' (MAGR). Erickson alleges that AMC deliberately structured his MAGR definition so that he could never break even, ensuring he receives zero profit participation despite the show running for eight successful seasons. His most recent profit participation statement reflects a deficit exceeding $185 million — yet at least $49 million has already been paid to other unnamed participants on the same series. Erickson argues this disparity constitutes a direct breach of AMC's contractual representations that he would be treated on equal footing with other profit participants. The complaint explicitly invokes most favored nation (MFN) provisions, the standard contractual guarantee that a party will receive treatment no less favorable than any similarly situated participant. The theory is that AMC's $200 million settlement with fired showrunner Frank Darabont — which may have improved Darabont's MAGR definition — triggered MFN rights held by Erickson and others. A further complication arises from vertical integration: AMC simultaneously acts as studio and distributor, using imputed license fees rather than arm's-length market rates when computing profit participation. AMC's outside counsel dismissed the action as 'another crass money grab,' while plaintiffs' attorneys argued their client is 'rightfully owed tens of millions of dollars' due to AMC's 'egregious misconduct.'",
+    "word_count": 242
+  },
+  "vocabulary": [
+    {
+      "term": "profit participation",
+      "pronunciation": "/ˈprɒfɪt pɑːˌtɪsɪˈpeɪʃən/",
+      "definition_cn": "利润分成条款，指创作者或制片人依据合同约定，有权按比例分享项目产生净利润的权利安排，是好莱坞后端补偿的核心机制。",
+      "example": "The writer's profit participation agreement entitled her to five percent of net proceeds once the series became profitable.",
+      "audio": "week02/day2_vocab_0.mp3"
+    },
+    {
+      "term": "Modified Adjusted Gross Receipts",
+      "pronunciation": "/ˈmɒdɪfaɪd əˈdʒʌstɪd ɡrəʊs rɪˈsiːts/",
+      "definition_cn": "修正调整后总收入（MAGR），是好莱坞合同中用于计算后端利润分成的特定公式，通常由制片方拟定，批评者认为其结构性设计往往导致参与者实际所获为零。",
+      "example": "The talent's attorney objected to the Modified Adjusted Gross Receipts definition because it allowed the studio to deduct overhead costs that effectively eliminated any backend payout.",
+      "audio": "week02/day2_vocab_1.mp3"
+    },
+    {
+      "term": "backend compensation",
+      "pronunciation": "/ˈbækɛnd ˌkɒmpənˈseɪʃən/",
+      "definition_cn": "后端报酬，指项目播出或发行后，基于收益表现向人才支付的浮动性报酬，与前期固定片酬相对，属于延迟兑现的收益分享安排。",
+      "example": "The showrunner negotiated substantial backend compensation in lieu of a higher upfront fee, betting on the show's long-term commercial success.",
+      "audio": "week02/day2_vocab_2.mp3"
+    },
+    {
+      "term": "most favored nation",
+      "pronunciation": "/məʊst ˈfeɪvərd ˈneɪʃən/",
+      "definition_cn": "最惠国条款（MFN），合同中保证一方所获待遇不低于同类情境中任何其他参与方的标准条款，广泛用于好莱坞人才协议以确保待遇平等。",
+      "example": "Because she had a most favored nation clause in her contract, the actress was automatically entitled to the same improved royalty rate granted to her co-star.",
+      "audio": "week02/day2_vocab_3.mp3"
+    },
+    {
+      "term": "breach of contract",
+      "pronunciation": "/briːtʃ əv ˈkɒntrækt/",
+      "definition_cn": "违约，指合同一方未履行其依约承担的义务，构成法律上的违约行为，受损方可据此主张损害赔偿或其他法律救济。",
+      "example": "The producer filed a breach of contract claim after the studio failed to provide the agreed profit participation statements within the contractually mandated timeframe.",
+      "audio": "week02/day2_vocab_4.mp3"
+    },
+    {
+      "term": "vertical integration",
+      "pronunciation": "/ˈvɜːtɪkəl ˌɪntɪˈɡreɪʃən/",
+      "definition_cn": "垂直整合，指同一主体同时控制内容制作、播出和发行等多个环节，在利润分成纠纷中常引发利益冲突，因其可通过内部定价操纵收益计算。",
+      "example": "Critics argued that vertical integration gave the conglomerate unfair leverage to suppress profit participation payouts by setting artificially low imputed license fees.",
+      "audio": "week02/day2_vocab_5.mp3"
+    },
+    {
+      "term": "imputed license fees",
+      "pronunciation": "/ɪmˈpjuːtɪd ˈlaɪsəns fiːz/",
+      "definition_cn": "推算授权费，指在关联方交易中，制片方以内部估算而非公开市场谈判所得的价格确定授权费用，常被指人为压低以减少利润分成基数。",
+      "example": "The plaintiff argued that the studio's reliance on imputed license fees rather than arm's-length market rates artificially deflated the gross receipts figure used to calculate her share.",
+      "audio": "week02/day2_vocab_6.mp3"
+    },
+    {
+      "term": "arm's-length market rates",
+      "pronunciation": "/ɑːmz leŋθ ˈmɑːkɪt reɪts/",
+      "definition_cn": "公平交易市场价格，指在买卖双方完全独立、无利益关联的情况下通过正常市场竞争形成的价格，是评估关联方交易是否公正的重要法律标准。",
+      "example": "The arbitrator determined that the studio should have used arm's-length market rates when licensing the series to its affiliated broadcaster for profit participation purposes.",
+      "audio": "week02/day2_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] deliberately structured [contractual mechanism] so that [party] could never [achieve outcome], effectively ensuring [harmful result].",
+      "example": "Erickson alleged that AMC deliberately structured his MAGR definition so that he could never break even, effectively ensuring he receives zero profit participation.",
+      "translation_cn": "埃里克森主张，AMC蓄意构建其MAGR定义，使其永远无法收回成本，实际上确保他获得零利润分成。"
+    },
+    {
+      "pattern": "The complaint invokes [contractual provision], arguing that [triggering event] activated [party's] right to [remedy or equal treatment].",
+      "example": "The complaint invokes most favored nation provisions, arguing that AMC's $200 million settlement with Darabont activated Erickson's right to the same improved MAGR terms.",
+      "translation_cn": "诉状援引最惠国条款，主张AMC与达拉邦特达成的两亿美元和解协议触发了埃里克森要求获得同等改善MAGR条款的权利。"
+    },
+    {
+      "pattern": "A further complication arises from [structural issue], whereby [party] simultaneously [conflicting role A] and [conflicting role B], using [disputed method] rather than [preferred standard].",
+      "example": "A further complication arises from vertical integration, whereby AMC simultaneously acts as studio and distributor, using imputed license fees rather than arm's-length market rates when computing profit participation.",
+      "translation_cn": "垂直整合带来了更深层的问题：AMC同时扮演制片公司和发行商的角色，在计算利润分成时采用推算授权费而非公平交易市场价格。"
+    }
+  ],
+  "summary_cn": "《行尸之惧》主创戴夫·埃里克森于2025年11月在加州对AMC提起违约诉讼，指控AMC通过\"修正调整后总收入\"（MAGR）公式的结构性设计，使其利润分成实际归零，并主张AMC与达拉邦特的和解协议触发了最惠国条款，AMC方面否认上述指控并斥之为\"无耻的索钱行为\"。",
+  "legal_analysis": "① 核心法律问题：本案涉及三项相互交织的法律争点：其一，MAGR定义是否构成对利润参与者的实质性欺诈或违约；其二，最惠国（MFN）条款是否因AMC与达拉邦特的和解而被触发，从而赋予埃里克森等人要求相同条款改善的权利；其三，垂直整合架构下内部定价是否违反合同约定的公平计算义务。\n\n② 美国法律框架分析：在加州法律体系下，MAGR条款历来被法院解释为合法的商业安排，但若能证明其设计存在恶意或欺诈意图，仍可构成违约乃至欺诈之诉。MFN条款的触发在合同法上属于\"条件成就\"问题，需证明和解协议实际改变了达拉邦特的实质性权益。垂直整合下的关联方交易定价问题在《统一商法典》及加州合同法框架下均有诚信义务约束。\n\n③ 对中国娱乐法律师的实践启示：中国影视合同中的\"净利润分成\"条款与MAGR高度类似，制片方常通过成本摊销和关联交易压低分成基数。中国律师在代理创作者时，应明确要求约定利润计算的独立审计权、关联方交易须参照市场价格，并在条款中纳入类似MFN的平等待遇保证，以防止制片方通过与其他参与方的私下和解变相损害委托人利益。",
+  "extended_reading": [
+    {
+      "title": "'Walking Dead' Creator Robert Kirkman, Others Beat AMC's Effort To Get Profits Lawsuit Dismissed",
+      "url": "https://deadline.com/2024/03/walking-dead-robert-kirkman-lawsuit-not-dismissed-1235868187/",
+      "description_cn": "联邦法官拒绝驳回《行尸走肉》制片人罗伯特·柯克曼等人提起的两亿美元最惠国利润分成诉讼，裁定其MFN条款主张在法律上具有可诉性。",
+      "language": "en"
+    },
+    {
+      "title": "Variety's 2025 Legal Impact Report: Hollywood's Top Attorneys — AMC Networks, Walking Dead MFN, and Streaming Contract Disputes",
+      "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+      "description_cn": "《综艺》2025年度法律影响力报告梳理了吉布森·邓恩律所代理AMC在《行尸走肉》利润分成诉讼中的上诉胜利，并分析了好莱坞最惠国条款纠纷的持续走势。",
+      "language": "en"
+    }
+  ],
+  "week": 2,
+  "day": 2,
+  "date": "2026-04-01",
+  "phase": 1,
+  "theme_en": "Contracts & Talent Deals",
+  "theme_cn": "合同与人才协议",
+  "audio_file": "week02/day2.mp3"
+}
