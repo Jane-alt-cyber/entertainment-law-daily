@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "YouTube, Disney Settle Lawsuit Over Exec Poaching — Exclusivity and Breach of Contract in Hollywood Talent Deals",
+    "source": "The Hollywood Reporter, October 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/youtube-disney-settle-lawsuit-exec-poaching-1236413491/",
+    "text": "A high-profile talent dispute between The Walt Disney Company and YouTube (Google) was settled in October 2025, offering a rare window into how exclusivity covenants operate in executive employment agreements at the highest levels of the entertainment business.\n\nThe dispute centered on Justin Connolly, a Disney executive of more than twenty years who was hired by YouTube to serve as its newly created global head of media and sports. Disney responded by filing a breach of contract lawsuit, alleging that YouTube had tortiously induced Connolly to violate his binding exclusive deal. Under his employment contract, Connolly had agreed to remain with Disney through the end of 2027. That contract contained an exclusivity covenant barring him from engaging with competitors, along with a limited, one-time termination right — exercisable only upon written notice.\n\nDisney's complaint invoked tortious interference doctrine, arguing that YouTube knowingly induced Connolly to abandon his obligations mid-term. The timing intensified the alleged harm: Connolly had led Disney's negotiating team during a license renewal with YouTube itself, leaving him in possession of sensitive commercial intelligence — including the financial terms of licensed programming and Disney's negotiation strategies. Disney sought injunctive relief to block the hiring.\n\nThe suit was ultimately settled, with both parties notifying the court of a resolution. The financial terms were not publicly disclosed, and the settlement was conditioned on completion of certain unspecified terms within a 45-day window. The case illustrates how exclusivity covenants and tortious interference doctrine — long familiar in actor and director contracts — are now being applied vigorously to corporate talent in the media sector.",
+    "word_count": 252
+  },
+  "vocabulary": [
+    {
+      "term": "exclusivity covenant",
+      "pronunciation": "/ɪkˌskluːˈsɪvɪti ˈkʌvənənt/",
+      "definition_cn": "排他性契约条款，约定受雇方在合同有效期内不得为竞争方提供服务或受雇于竞争方，是高管及创意人才合同中的核心约束条款。",
+      "example": "The exclusivity covenant in her director's agreement prohibited her from developing any competing project for a rival studio during the contract term.",
+      "audio": "week02/day3_vocab_0.mp3"
+    },
+    {
+      "term": "tortious interference",
+      "pronunciation": "/ˈtɔːrʃəs ˌɪntərˈfɪərəns/",
+      "definition_cn": "侵权干扰，指第三方故意诱使合同一方违约，从而对另一方造成经济损害的侵权行为，可导致损害赔偿责任。",
+      "example": "The studio's tortious interference claim alleged that the rival network knowingly encouraged the showrunner to breach her existing exclusive deal.",
+      "audio": "week02/day3_vocab_1.mp3"
+    },
+    {
+      "term": "tortiously induced",
+      "pronunciation": "/ˈtɔːrʃəsli ɪnˈdjuːst/",
+      "definition_cn": "以侵权方式诱导，指被告通过不当手段促使合同当事人违反其合同义务，是侵权干扰诉因的关键构成要素。",
+      "example": "Disney alleged that YouTube had tortiously induced Connolly to abandon his contractual obligations before their natural expiration.",
+      "audio": "week02/day3_vocab_2.mp3"
+    },
+    {
+      "term": "termination right",
+      "pronunciation": "/ˌtɜːrmɪˈneɪʃən raɪt/",
+      "definition_cn": "终止权，合同赋予一方在特定条件下提前解除合同的权利，通常附有书面通知、等待期或补偿等前提条件。",
+      "example": "The executive's contract included a limited termination right that could only be exercised once and required advance written notice to the company.",
+      "audio": "week02/day3_vocab_3.mp3"
+    },
+    {
+      "term": "injunctive relief",
+      "pronunciation": "/ɪnˈdʒʌŋktɪv rɪˈliːf/",
+      "definition_cn": "禁令救济，法院命令当事方停止或禁止实施某一行为的衡平法救济手段，常用于防止正在发生或迫在眉睫的不可弥补损害。",
+      "example": "Disney sought injunctive relief to prevent Connolly from commencing employment at YouTube while the litigation was pending.",
+      "audio": "week02/day3_vocab_4.mp3"
+    },
+    {
+      "term": "breach of contract",
+      "pronunciation": "/briːtʃ əv ˈkɒntrækt/",
+      "definition_cn": "违约，指合同当事方无正当理由未履行合同规定的义务，是寻求损害赔偿或特定履行的诉讼基础。",
+      "example": "The production company's complaint alleged breach of contract after the lead actor accepted a competing role before his exclusive term expired.",
+      "audio": "week02/day3_vocab_5.mp3"
+    },
+    {
+      "term": "license renewal",
+      "pronunciation": "/ˈlaɪsəns rɪˈnjuːəl/",
+      "definition_cn": "许可续约，指内容版权方与被许可方就既有授权协议届满后的续期条款重新谈判并签署协议的商业程序。",
+      "example": "The executive had overseen every round of license renewal negotiations between Disney and its major digital distribution partners.",
+      "audio": "week02/day3_vocab_6.mp3"
+    },
+    {
+      "term": "employment contract",
+      "pronunciation": "/ɪmˈplɔɪmənt ˈkɒntrækt/",
+      "definition_cn": "雇佣合同，明确规定雇主与受雇方双方权利义务的书面协议，通常包含薪酬、职责范围、任期、排他义务及终止条件等核心条款。",
+      "example": "His employment contract specified that he would remain in an exclusive capacity with the studio through December 2027, barring a properly exercised termination right.",
+      "audio": "week02/day3_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party A] alleged that [Party B] had tortiously induced [individual] to violate [his/her] [contractual obligation], seeking [remedy].",
+      "example": "Disney alleged that YouTube had tortiously induced Connolly to violate his exclusivity covenant, seeking injunctive relief to block the hiring.",
+      "translation_cn": "迪士尼主张YouTube以侵权方式诱导康诺利违反其排他性契约条款，并寻求禁令救济以阻止该雇用行为。"
+    },
+    {
+      "pattern": "The [contract/agreement] contained [a/an] [specific clause], barring [party] from [prohibited conduct] during [the contract term / a defined period].",
+      "example": "The employment contract contained an exclusivity covenant, barring Connolly from engaging with competitors during the remaining term of his agreement.",
+      "translation_cn": "该雇佣合同包含一项排他性契约条款，禁止康诺利在合同剩余期限内与竞争方进行任何合作。"
+    },
+    {
+      "pattern": "The [dispute/case] was ultimately settled, with [the parties] notifying the court of a resolution, though the financial terms were not publicly disclosed.",
+      "example": "The dispute was ultimately settled, with both Disney and YouTube notifying the court of a resolution, though the financial terms were not publicly disclosed.",
+      "translation_cn": "该纠纷最终达成和解，迪士尼与YouTube双方均通知法院已解决争议，但财务条款未予公开披露。"
+    }
+  ],
+  "summary_cn": "2025年10月，迪士尼与YouTube就高管挖角纠纷达成和解。YouTube聘用在职迪士尼高管贾斯汀·康诺利担任全球媒体与体育负责人，迪士尼随即以对方违反排他性契约条款及侵权干扰为由提起诉讼，并申请禁令救济。康诺利掌握迪士尼与YouTube许可续约谈判的核心商业机密，使潜在损害进一步加剧。双方最终庭外和解，财务条款保密。",
+  "legal_analysis": "① 核心法律问题：本案涉及高管雇佣合同中排他性契约条款的效力与执行，以及第三方企业故意诱使违约所构成的侵权干扰责任。\n\n② 美国法律框架分析：在加州，Business & Professions Code §16600原则上禁止竞业禁止条款，但法院通常区分在职期间的排他性义务（in-term exclusivity）与离职后的竞业限制（post-term noncompete）——前者在加州仍具可执行性。迪士尼的诉求同时依据侵权干扰原则（tortious interference with contractual relations），该原则要求证明：存在有效合同、第三方知悉该合同、第三方故意诱导违约、以及实际损害。禁令救济的申请还需证明不可弥补损害（irreparable harm），而康诺利掌握的谈判机密信息恰好支持这一论点。\n\n③ 对中国娱乐法律师的实践启示：中国《劳动合同法》第23、24条允许约定竞业限制，但仅限于离职后，且须支付经济补偿。本案提示中国实务律师：应在合同中明确区分在职排他义务与离职竞业条款，并对掌握核心商业机密的高管设计专项保密义务条款，同时考虑以不正当竞争路径追究\"挖角方\"的侵权责任，以弥补劳动法框架的不足。",
+  "extended_reading": [
+    {
+      "title": "Variety's 2025 Legal Impact Report: Hollywood's Top Attorneys — AMC Networks, 'Most Favored Nation' Provisions, and Walking Dead Profit Dispute",
+      "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+      "description_cn": "Variety报告记录了2024年加州上诉法院就《行尸走肉》制片人利润分成诉讼作出的重要裁决，并分析了\"最惠国条款\"在后续连锁索赔中的适用问题。",
+      "language": "en"
+    },
+    {
+      "title": "Defining the Relationship: California's Noncompete Laws and Exclusivity in the Acting Industry Leading Up to the 2023 SAG-AFTRA Strike",
+      "url": "https://southerncalifornialawreview.com/2024/08/04/defining-the-relationship-california8217s-noncompete-laws-and-exclusivity-in-the-acting-industry-leading-up-to-the-2023-sag-aftra-strike/",
+      "description_cn": "南加州法律评论学术论文，深度分析加州§16600条款与第九巡回法院判例如何重塑好莱坞演员合同中排他性条款及\"付薪或开拍\"条款的法律边界。",
+      "language": "en"
+    }
+  ],
+  "week": 2,
+  "day": 3,
+  "date": "2026-04-02",
+  "phase": 1,
+  "theme_en": "Contracts & Talent Deals",
+  "theme_cn": "合同与人才协议",
+  "audio_file": "week02/day3.mp3"
+}
