@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "YouTube, Disney Settle Lawsuit Over Exec Poaching — Exclusivity and Talent Deal Breach at the Center of Hollywood Dispute",
+    "source": "Hollywood Reporter, October 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/youtube-disney-settle-lawsuit-exec-poaching-1236413491/",
+    "text": "The Walt Disney Company and YouTube reached a settlement in late October 2025, resolving a high-profile dispute that placed exclusivity covenants and tortious interference with contractual relations at the center of Hollywood's ongoing war over executive talent.\n\nThe dispute arose when YouTube offered Disney executive Justin Connolly a newly created position as global head of media and sports. Connolly had entered into a binding talent agreement with Disney committing him to remain through the end of 2027. That agreement contained a strict exclusivity covenant barring him from engaging with competitors, and granted him only a one-time right to terminate — subject to proper written notice. YouTube, fully aware of these obligations, extended the offer regardless.\n\nWhat elevated the case beyond a routine breach of contract claim was Connolly's role in active deal negotiations. He had served as the lead Disney executive in a direct license renewal negotiation with YouTube itself, giving him intimate knowledge of Disney's proprietary financial terms, content licensing strategies, and negotiating positions. Disney argued that YouTube's solicitation amounted to a calculated act of tortious interference — not merely poaching talent, but acquiring a strategic informational advantage during live commercial discussions.\n\nDisney filed suit seeking injunctive relief to block the hire outright. The parties notified the court of a settlement on October 29, 2025, though specific terms were not disclosed. The settlement was conditioned on completion of certain unspecified terms within 45 days.\n\nThe case highlights how exclusivity provisions in executive talent agreements carry enforceable legal weight, and that third parties who knowingly induce a breach may face substantial liability — including injunctive relief — under established principles of tortious interference.",
+    "word_count": 258
+  },
+  "vocabulary": [
+    {
+      "term": "exclusivity covenant",
+      "pronunciation": "/ɪkˌskluːˈsɪvɪti ˈkʌvənənt/",
+      "definition_cn": "独家服务条款，合同中禁止当事人在约定期间内为竞争对手提供服务或与其发生业务往来的法律义务。",
+      "example": "The exclusivity covenant in her talent agreement prevented her from accepting any offer from a competing studio for three years.",
+      "audio": "week02/day4_vocab_0.mp3"
+    },
+    {
+      "term": "tortious interference with contractual relations",
+      "pronunciation": "/ˈtɔːrʃəs ˌɪntərˈfɪərəns wɪð kənˈtræktʃuəl rɪˈleɪʃənz/",
+      "definition_cn": "侵权性干扰合同关系，指第三方明知合同存在仍故意诱使一方违约，从而构成侵权责任的法律理论。",
+      "example": "The studio sued the rival network for tortious interference with contractual relations after it recruited their showrunner mid-season.",
+      "audio": "week02/day4_vocab_1.mp3"
+    },
+    {
+      "term": "injunctive relief",
+      "pronunciation": "/ɪnˈdʒʌŋktɪv rɪˈliːf/",
+      "definition_cn": "禁令救济，法院命令当事方立即停止特定行为的衡平法救济手段，通常用于防止无法以金钱弥补的损害。",
+      "example": "Disney sought injunctive relief to prevent YouTube from completing Connolly's onboarding before the court could rule on the merits.",
+      "audio": "week02/day4_vocab_2.mp3"
+    },
+    {
+      "term": "breach of contract",
+      "pronunciation": "/briːtʃ əv ˈkɒntrækt/",
+      "definition_cn": "违约，指合同一方未能履行其在有效合同项下的明示或默示义务，从而引发损害赔偿或其他法律救济的行为。",
+      "example": "The executive's early departure constituted a clear breach of contract because his employment term did not expire until 2027.",
+      "audio": "week02/day4_vocab_3.mp3"
+    },
+    {
+      "term": "one-time right to terminate",
+      "pronunciation": "/wʌn taɪm raɪt tə ˈtɜːrmɪneɪt/",
+      "definition_cn": "单次终止权，合同赋予当事方仅能行使一次的合同解除选择权，须按规定程序书面通知方可生效。",
+      "example": "Because the contract granted only a one-time right to terminate, the executive could not exit his deal a second time without incurring liability.",
+      "audio": "week02/day4_vocab_4.mp3"
+    },
+    {
+      "term": "talent agreement",
+      "pronunciation": "/ˈtælənt əˈɡriːmənt/",
+      "definition_cn": "人才协议，规范演员、创作人员或高管为特定公司提供专属服务的合同，通常包含独家性、期限及保密等核心条款。",
+      "example": "His talent agreement required him to seek written approval before entering into any side business discussions with third parties.",
+      "audio": "week02/day4_vocab_5.mp3"
+    },
+    {
+      "term": "license renewal negotiation",
+      "pronunciation": "/ˈlaɪsəns rɪˈnjuːəl nɪˌɡoʊʃiˈeɪʃən/",
+      "definition_cn": "许可续约谈判，指就现有内容授权协议到期前双方重新商定条款的谈判过程，通常涉及版权费率、授权范围等核心商业条件。",
+      "example": "The executive's participation in the license renewal negotiation meant he had access to sensitive financial terms that could benefit his new employer.",
+      "audio": "week02/day4_vocab_6.mp3"
+    },
+    {
+      "term": "settlement",
+      "pronunciation": "/ˈsetlmənt/",
+      "definition_cn": "和解协议，诉讼双方在判决作出前通过协商达成的纠纷解决安排，通常以保密为条件且对双方具有约束力。",
+      "example": "The parties reached a confidential settlement that required completion of certain unspecified conditions within 45 days of announcement.",
+      "audio": "week02/day4_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] filed suit seeking injunctive relief to [block/compel specific action], arguing that [opposing party]'s conduct constituted [legal claim].",
+      "example": "Disney filed suit seeking injunctive relief to block the hire outright, arguing that YouTube's conduct constituted tortious interference with contractual relations.",
+      "translation_cn": "迪士尼提起诉讼，申请禁令救济以阻止该招聘行为，主张YouTube的行为构成对合同关系的侵权性干扰。"
+    },
+    {
+      "pattern": "Despite knowing of [Party A]'s [contractual obligation], [Party B] [took action], giving rise to a claim for [legal theory].",
+      "example": "Despite knowing of Connolly's exclusivity covenant, YouTube extended the offer regardless, giving rise to a claim for tortious interference with contractual relations.",
+      "translation_cn": "尽管明知Connolly的独家服务条款，YouTube仍然发出了录用邀约，由此引发了侵权性干扰合同关系的诉讼主张。"
+    },
+    {
+      "pattern": "The [contract type] contained a strict [provision], under which [Party] was barred from [prohibited conduct] for the duration of [term].",
+      "example": "The talent agreement contained a strict exclusivity covenant, under which Connolly was barred from engaging with competitors through the end of 2027.",
+      "translation_cn": "该人才协议包含严格的独家服务条款，据此Connolly在2027年底前被明确禁止与任何竞争对手接触。"
+    }
+  ],
+  "summary_cn": "迪士尼与YouTube于2025年10月就高管挖角纠纷达成和解。YouTube在明知迪士尼高管Connolly持有有效独家服务协议的情况下，向其抛出橄榄枝，且该高管掌握迪士尼与YouTube正在进行的许可续约谈判的核心商业信息。迪士尼以侵权性干扰合同关系为由提起诉讼并申请禁令救济，最终双方庭外和解，具体条款未予披露。",
+  "legal_analysis": "① 核心法律问题：本案涉及两项核心法律问题——其一为高管人才协议中独家服务条款的可执行性；其二为第三方明知合同存在仍故意诱使违约时的侵权性干扰责任。\n\n② 美国法律框架：在美国法下，侵权性干扰合同关系（tortious interference with contractual relations）的成立需满足四要素：存在有效合同、第三方明知该合同、第三方故意诱使违约、以及造成实际损害。本案中，YouTube明知Connolly的独家服务条款仍发出录用邀约，基本满足上述构成要件。值得关注的是，迪士尼申请的是禁令救济而非单纯金钱赔偿，这表明其认为损害具有不可弥补性——这是获得禁令的重要前提。此外，Connolly持有竞争对手谈判底牌的特殊情况，强化了\"不可弥补损害\"这一认定。\n\n③ 对中国娱乐法律师的实践启示：中国影视行业的高管及明星合同中，独家服务条款虽普遍存在，但执行力度参差不齐。本案提示：第一，合同起草时应明确竞争对手范围、违约后果及单次终止权的行权程序；第二，当高管同时参与对手方谈判时，应及时设置信息隔离机制；第三，面对竞争对手挖角行为，可考虑将侵权性干扰作为独立诉因，而非仅追诉违约方本身。",
+  "extended_reading": [
+    {
+      "title": "Kevin Costner's Horizon Sued Over Unpaid Costume Fees and Co-Financing Breaches",
+      "url": "https://www.hollywoodreporter.com/business/business-news/kevin-costner-sued-unpaid-costume-fees-horizon-1236457714/",
+      "description_cn": "本文详述Kevin Costner主导的《地平线》制片公司因拖欠供应商费用及违反联合融资协议而遭多方起诉，揭示制片项目崩盘后在人才、供应商与融资方之间引发的连锁违约责任。",
+      "language": "en"
+    },
+    {
+      "title": "Clauses in Film Contracts Actors Tend to Overlook (& Regret Later) — Pay-or-Play, Termination, and Streaming Rights in 2025",
+      "url": "https://tinakilberg.substack.com/p/clauses-in-film-contracts-actors",
+      "description_cn": "娱乐法律师Tina Kilberg系统梳理演员合同中最易被忽视的高风险条款，包括付酬或免演条款、事由解约标准及AI肖像权条款，以Basinger案等经典判例为依据，是2025年最具学术价值的人才合同风险分析文章之一。",
+      "language": "en"
+    }
+  ],
+  "week": 2,
+  "day": 4,
+  "date": "2026-04-03",
+  "phase": 1,
+  "theme_en": "Contracts & Talent Deals",
+  "theme_cn": "合同与人才协议",
+  "audio_file": "week02/day4.mp3"
+}
