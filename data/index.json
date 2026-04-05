@@ -80,7 +80,16 @@
       "theme_cn": "合同与人才协议",
       "file": "week02/day4.json",
       "audio": "week02/day4.mp3"
+    },
+    {
+      "week": 2,
+      "day": 5,
+      "date": "2026-04-06",
+      "theme_en": "Contracts & Talent Deals",
+      "theme_cn": "合同与人才协议",
+      "file": "week02/day5.json",
+      "audio": "week02/day5.mp3"
     }
   ],
-  "last_updated": "2026-04-03"
+  "last_updated": "2026-04-06"
 }
