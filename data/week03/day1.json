@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Movie and TV Copyright Lawsuits Are on the Rise. Very Few Prevail In Court",
+    "source": "Hollywood Reporter, August 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/anyone-can-sue-copyright-infringement-very-few-succeed-1236355241/",
+    "text": "Copyright infringement accusations in the film and television sector have risen sharply in recent years, yet plaintiffs rarely prevail once a case reaches its merits. A new lawsuit against the producers of the thriller G20 — in which a writer alleges that their screenplay was copied — illustrates both the opportunity and the difficulty of bringing such claims. At the doctrinal core of every such dispute is the substantial similarity test, which asks whether an ordinary observer would recognize that protected expression was taken from the plaintiff's work.\n\nFederal appeals courts have recently signaled growing reluctance to allow early dismissal of these claims. The reversal of a trial court's dismissal of filmmaker Francesca Gregorini's suit against M. Night Shyamalan and Apple over the series Servant — the third such reversal since 2020 — established that dismissal at the motion-to-dismiss stage is inappropriate whenever 'reasonable minds could differ' on overlap between two works. That appellate caution has contributed to more infringement cases reaching trial, including 2025 jury proceedings against Disney over Moana.\n\nOn the defendant-friendly side, Showtime and Lionsgate successfully defeated a copyright suit over Yellowjackets by demonstrating that the alleged similarities — a dead coach, rival survivor factions — were unprotectable genre tropes rather than original protected expression. This outcome reflects the foundational principle that copyright protects specific creative expression, not ideas or stock narrative devices.\n\nA legally contested 'combination theory' further complicates the landscape: even when individual elements are each unprotectable, a plaintiff may argue that their particular aggregation of those elements constitutes protectable expression. Courts across different circuits remain divided on how to apply this theory, producing unpredictable outcomes for studios and independent creators alike.",
+    "word_count": 258
+  },
+  "vocabulary": [
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒp.ɪ.raɪt ɪnˈfrɪndʒ.mənt/",
+      "definition_cn": "版权侵权，指未经授权使用他人受版权保护的原创作品，侵害版权人的专有权利。",
+      "example": "The plaintiff must prove both ownership of a valid copyright and actual copyright infringement by the defendant.",
+      "audio": "week03/day1_vocab_0.mp3"
+    },
+    {
+      "term": "substantial similarity test",
+      "pronunciation": "/səbˈstænʃ.əl sɪˈmɪl.ər.ɪ.ti test/",
+      "definition_cn": "实质性相似测试，美国版权法中判断被告作品是否侵权的核心标准，考察受保护的表达是否被复制。",
+      "example": "Passing the substantial similarity test requires showing that a reasonable observer would find protected expression was reproduced.",
+      "audio": "week03/day1_vocab_1.mp3"
+    },
+    {
+      "term": "motion-to-dismiss stage",
+      "pronunciation": "/ˈmoʊ.ʃən tuː dɪˈsmɪs steɪdʒ/",
+      "definition_cn": "驳回动议阶段，诉讼程序中被告申请在案件进入实质审理前以法律理由驳回原告诉状的阶段。",
+      "example": "The appellate court held that resolving substantial similarity at the motion-to-dismiss stage was procedurally premature.",
+      "audio": "week03/day1_vocab_2.mp3"
+    },
+    {
+      "term": "protected expression",
+      "pronunciation": "/prəˈtekt.ɪd ɪkˈspreʃ.ən/",
+      "definition_cn": "受保护的表达，版权法中具体的、具有原创性的创作表达形式，区别于不受保护的思想或通用元素。",
+      "example": "A court must carefully separate unprotectable ideas from protected expression before applying the infringement analysis.",
+      "audio": "week03/day1_vocab_3.mp3"
+    },
+    {
+      "term": "genre tropes",
+      "pronunciation": "/ˈʒɒn.rə troʊps/",
+      "definition_cn": "类型套路，特定叙事类型中惯用的、公共领域的情节或人物设定，不受版权保护。",
+      "example": "The judge dismissed the claim after finding that the overlapping elements were merely genre tropes common to survival thrillers.",
+      "audio": "week03/day1_vocab_4.mp3"
+    },
+    {
+      "term": "unprotectable",
+      "pronunciation": "/ˌʌn.prəˈtek.tə.bəl/",
+      "definition_cn": "不受保护的，指思想、概念、通用情节等依法不能被版权保护的内容，任何人均可自由使用。",
+      "example": "Stock character archetypes are considered unprotectable under the idea-expression dichotomy in copyright doctrine.",
+      "audio": "week03/day1_vocab_5.mp3"
+    },
+    {
+      "term": "combination theory",
+      "pronunciation": "/ˌkɒm.bɪˈneɪ.ʃən ˈθɪər.i/",
+      "definition_cn": "组合理论，主张即便单个元素各自不受保护，原告对这些元素的特定组合整体上仍可构成受版权保护的表达。",
+      "example": "Plaintiff's counsel relied on combination theory to argue that the aggregation of unprotectable elements created a protectable whole.",
+      "audio": "week03/day1_vocab_6.mp3"
+    },
+    {
+      "term": "appellate caution",
+      "pronunciation": "/əˈpel.ɪt ˈkɔː.ʃən/",
+      "definition_cn": "上诉审慎原则，指上诉法院对下级法院过早终结版权诉讼程序所持的保守态度，以避免剥夺陪审团的事实裁量权。",
+      "example": "The growing appellate caution around early dismissals has encouraged more copyright plaintiffs to pursue their claims through trial.",
+      "audio": "week03/day1_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] held that [procedural action] was inappropriate whenever '[standard]'.",
+      "example": "The appellate court held that dismissal at the motion-to-dismiss stage was inappropriate whenever 'reasonable minds could differ' on overlap between two works.",
+      "translation_cn": "上诉法院认定，只要\"理性之人意见可能存在分歧\"，在驳回动议阶段予以驳回便属不当。"
+    },
+    {
+      "pattern": "[Defendant] successfully defeated [claim] by demonstrating that [alleged similarities] were [unprotectable category] rather than [protectable category].",
+      "example": "Showtime and Lionsgate successfully defeated a copyright suit over Yellowjackets by demonstrating that the alleged similarities were unprotectable genre tropes rather than original protected expression.",
+      "translation_cn": "Showtime和Lionsgate成功驳回了针对《黄夹克》的版权诉讼，证明所谓相似之处不过是不受保护的类型套路，而非具有原创性的受保护表达。"
+    },
+    {
+      "pattern": "Even when [individual elements] are each [legal characterization], a plaintiff may argue that their particular [aggregation] constitutes [legal protection].",
+      "example": "Even when individual elements are each unprotectable, a plaintiff may argue that their particular aggregation of those elements constitutes protectable expression.",
+      "translation_cn": "即使各个单独元素均不受版权保护，原告仍可主张其对这些元素的特定组合整体上构成受保护的表达。"
+    }
+  ],
+  "summary_cn": "近年来美国影视版权侵权诉讼数量上升，但原告胜诉率依然较低。上诉法院日益警惕下级法院在驳回动议阶段过早终结诉讼，已多次撤销早期驳回裁定。判断侵权的核心是\"实质性相似测试\"，法院须区分受保护的具体表达与不受保护的类型套路或通用情节。\"组合理论\"使这一判断更加复杂，各巡回法院标准不一，给制片方和创作者带来较大法律不确定性。",
+  "legal_analysis": "① 核心法律问题：本文聚焦美国版权法中\"实质性相似测试\"的司法适用标准，以及上诉法院对驳回动议阶段早期终结诉讼的程序性限制。\n\n② 美国法律框架分析：根据《美国版权法》第17编，版权保护的是具体的原创表达，而非思想本身（思想-表达二分法）。实质性相似测试在各巡回区存在差异——第九巡回区采用\"外在测试+内在测试\"两步法，而其他巡回区则采用\"普通观察者\"单一标准。近期上诉法院的多次撤销裁定表明，实质性相似作为混合事实与法律问题，通常应交由陪审团裁决，而非由法官在诉答阶段单独处置。\"组合理论\"的法律地位仍不明朗，是当前实务中的重要争议焦点。\n\n③ 对中国娱乐法律师的实践启示：中国著作权法同样区分思想与表达，但司法实践中\"实质性相似\"的认定标准尚不如美国系统化。中国律师在代理涉及美国市场的剧本、格式节目或影视作品改编时，应特别关注：第一，美国诉讼中原告越过驳回动议阶段的门槛已降低，跨境项目的侵权风险管理需提前介入；第二，\"组合理论\"意味着即便逐一借鉴公有领域元素，整体结构的高度相似仍可能构成侵权风险；第三，在涉及合拍或版权授权谈判时，应明确约定衍生作品授权范围，以降低后续诉讼敞口。",
+  "extended_reading": [
+    {
+      "title": "Copyright Cases To Watch In 2025 (Kirkland & Ellis LLP — Law360 Summary)",
+      "url": "https://www.kirkland.com/news/in-the-news/2025/01/copyright-cases-to-watch-in-2025",
+      "description_cn": "科克兰律师事务所梳理2025年值得关注的重大版权案件，包括第九巡回区实质性相似及合理使用上诉案，以及AI训练数据版权争议。",
+      "language": "en"
+    },
+    {
+      "title": "Substantial Similarity and Junk Science (Fordham Intellectual Property Law Journal)",
+      "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1749&context=iplj",
+      "description_cn": "福特汉姆大学知识产权法学刊学术文章，批判现行外在/内在两步实质性相似框架的理论缺陷，并倡导以可识别的表达复制替代宽泛的相似性标准。",
+      "language": "en"
+    }
+  ],
+  "week": 3,
+  "day": 1,
+  "date": "2026-04-07",
+  "phase": 1,
+  "theme_en": "Intellectual Property",
+  "theme_cn": "知识产权基础",
+  "audio_file": "week03/day1.mp3"
+}

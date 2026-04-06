@@ -89,7 +89,16 @@
       "theme_cn": "合同与人才协议",
       "file": "week02/day5.json",
       "audio": "week02/day5.mp3"
+    },
+    {
+      "week": 3,
+      "day": 1,
+      "date": "2026-04-07",
+      "theme_en": "Intellectual Property",
+      "theme_cn": "知识产权基础",
+      "file": "week03/day1.json",
+      "audio": "week03/day1.mp3"
     }
   ],
-  "last_updated": "2026-04-06"
+  "last_updated": "2026-04-07"
 }
