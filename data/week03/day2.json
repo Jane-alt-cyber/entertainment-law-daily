@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Movie and TV Copyright Lawsuits Are on the Rise. Very Few Prevail In Court",
+    "source": "Hollywood Reporter, August 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/anyone-can-sue-copyright-infringement-very-few-prevail-1236355241/",
+    "text": "Copyright infringement lawsuits targeting major studios have surged in recent years, yet the vast majority fail to produce a plaintiff's victory. A key reason is the substantial similarity test — the judicial standard used to determine whether two works share enough protected expression to constitute infringement. Federal appeals courts have increasingly cautioned lower courts against early dismissal, directing judges not to impose their own views on whether overlap is sufficient to proceed to trial. At least three appellate rulings since 2020 have reversed defense-friendly dismissals, including one that revived filmmaker Francesca Gregorini's claim against M. Night Shyamalan and Apple TV+ over the series Servant, on the ground that 'reasonable minds could differ' as to whether the works were substantially similar. This judicial shift has sent more cases to juries, with claims against Disney over Moana proceeding to trial.\n\nPlaintiffs often rely on the aggregation theory of infringement, arguing that while individual story elements — such as a group of misfits executing a high-stakes plan — may not be independently protectable, assembling many such elements together can support a viable claim. Courts have, however, recognized firm limits. In April 2025, a Yellowjackets lawsuit was dismissed because alleged similarities, including survivor factionalism and the death of a head coach, were found to be common tropes shielded by the scènes à faire doctrine — a principle excluding from copyright protection elements that flow inevitably from a given genre or setting. Separately, screenwriter Clarice Eboni Boykin-Patterson filed suit alleging that producers of the Viola Davis film G20 copied her unproduced screenplay, illustrating a recurring pattern of writers pursuing copyright infringement claims after spotting plot parallels with released works. The overall legal landscape is one where suits are easier to file and harder to dismiss, but ultimately difficult to win.",
+    "word_count": 278
+  },
+  "vocabulary": [
+    {
+      "term": "substantial similarity test",
+      "pronunciation": "/səbˈstænʃəl sɪˈmɪlærɪti tɛst/",
+      "definition_cn": "版权侵权诉讼中判断两部作品之间受保护的表达是否高度相似的核心司法标准，是侵权成立的必要条件之一。",
+      "example": "The plaintiff failed to satisfy the substantial similarity test because the overlapping elements were all unprotectable ideas.",
+      "audio": "week03/day2_vocab_0.mp3"
+    },
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "未经版权人许可擅自复制、改编或传播受版权保护作品的行为，构成民事甚至刑事责任。",
+      "example": "The studio denied copyright infringement, arguing that any similarities stemmed from unprotectable genre conventions.",
+      "audio": "week03/day2_vocab_1.mp3"
+    },
+    {
+      "term": "scènes à faire doctrine",
+      "pronunciation": "/seɪn ə fɛr ˈdɒktrɪn/",
+      "definition_cn": "版权法原则，规定凡是某一特定题材或类型中必然出现的情节、场景或元素，均不受版权保护。",
+      "example": "The court applied the scènes à faire doctrine to exclude survivor factionalism from the scope of protectable expression.",
+      "audio": "week03/day2_vocab_2.mp3"
+    },
+    {
+      "term": "aggregation theory of infringement",
+      "pronunciation": "/ˌæɡrɪˈɡeɪʃən ˈθɪəri əv ɪnˈfrɪndʒmənt/",
+      "definition_cn": "主张将多个单独不受保护的故事元素组合在一起后，整体组合可构成可主张版权侵权的理论。",
+      "example": "Relying on the aggregation theory of infringement, plaintiff argued that the cumulative pattern of borrowed elements was actionable.",
+      "audio": "week03/day2_vocab_3.mp3"
+    },
+    {
+      "term": "early dismissal",
+      "pronunciation": "/ˈɜːli dɪˈsmɪsəl/",
+      "definition_cn": "法院在案件进入陪审团审判前即裁定原告诉求不成立而驳回诉讼的程序性裁决，通常以动议驳回或即决判决形式出现。",
+      "example": "The appellate court reversed the early dismissal, holding that reasonable minds could differ on the question of substantial similarity.",
+      "audio": "week03/day2_vocab_4.mp3"
+    },
+    {
+      "term": "appellate ruling",
+      "pronunciation": "/əˈpɛlɪt ˈruːlɪŋ/",
+      "definition_cn": "上诉法院就下级法院判决作出的具有约束力的裁决，可维持、撤销或发回原审法院重新审理。",
+      "example": "The appellate ruling reversed the lower court's dismissal and allowed the copyright claim to proceed to trial.",
+      "audio": "week03/day2_vocab_5.mp3"
+    },
+    {
+      "term": "unproduced screenplay",
+      "pronunciation": "/ˌʌnprəˈduːst ˈskriːnpleɪ/",
+      "definition_cn": "已创作并可能受版权保护但尚未投入制作的剧本，常见于编剧主张他人抄袭其投稿作品的诉讼场景中。",
+      "example": "The writer alleged that the studio had access to her unproduced screenplay before developing a substantially similar project.",
+      "audio": "week03/day2_vocab_6.mp3"
+    },
+    {
+      "term": "protectable expression",
+      "pronunciation": "/prəˈtɛktəbl ɪkˈsprɛʃən/",
+      "definition_cn": "版权法保护的具体、原创的表达形式，区别于不受保护的思想、事实、通用手法或类型惯例。",
+      "example": "The judge found that the character's dialogue constituted protectable expression, distinguishing it from the underlying unprotectable idea.",
+      "audio": "week03/day2_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] reversed the [ruling], holding that 'reasonable minds could differ' as to whether [legal standard] was satisfied.",
+      "example": "The appellate court reversed the early dismissal, holding that 'reasonable minds could differ' as to whether the works were substantially similar.",
+      "translation_cn": "上诉法院撤销了驳回裁定，认为关于两部作品是否构成实质性相似，理性之人可能得出不同结论。"
+    },
+    {
+      "pattern": "Although individual [elements] may not be independently protectable, assembling [many such elements] together can support a viable [claim].",
+      "example": "Although individual story elements may not be independently protectable, assembling many such elements together can support a viable copyright infringement claim.",
+      "translation_cn": "虽然单个故事元素本身可能不受版权保护，但将众多此类元素组合在一起，可以构成具有可诉性的版权侵权主张。"
+    },
+    {
+      "pattern": "[Plaintiff] filed suit alleging that [defendant] copied [work], illustrating a recurring pattern of [party] pursuing [claim] after [triggering event].",
+      "example": "Screenwriter Clarice Eboni Boykin-Patterson filed suit alleging that producers of G20 copied her unproduced screenplay, illustrating a recurring pattern of writers pursuing copyright infringement claims after spotting plot parallels with released works.",
+      "translation_cn": "编剧克拉莉丝·埃博尼·博伊金-帕特森提起诉讼，主张《G20》制片方抄袭了她的未制作剧本，典型地体现了编剧在发现已上映作品与其剧本存在情节相似后追诉版权侵权的惯常模式。"
+    }
+  ],
+  "summary_cn": "好莱坞版权侵权诉讼数量持续上升，但胜诉者寥寥。联邦上诉法院趋于推翻早期驳回裁定，使更多案件得以进入陪审团审判。原告常依赖\"聚合侵权理论\"，但法院同时适用\"scènes à faire原则\"保护类型惯例，限制版权主张范围。整体而言，此类诉讼易于立案、难以驳回，但最终胜诉极为困难。",
+  "legal_analysis": "① 核心法律问题：本文聚焦美国版权侵权诉讼中的\"实质性相似\"认定标准，以及法院在诉讼早期阶段如何平衡原告诉权保护与被告免受滥诉之间的张力。\n\n② 美国法律框架：在美国《版权法》（17 U.S.C.）框架下，原告须证明被告接触其作品，且两部作品之间存在\"实质性相似\"。法院通常采用\"外在测试\"（客观比较结构性元素）与\"内在测试\"（普通观众的主观感受）双重标准。\"scènes à faire原则\"将类型惯用元素排除于保护范围之外，而\"聚合侵权理论\"则试图通过整体组合来突破该限制。上诉法院近年来更倾向于将实质性相似问题交由陪审团判断，而非由法官在诉前阶段一票否决。\n\n③ 对中国娱乐法律师的实践启示：中国《著作权法》同样区分思想与表达，但司法实践中对\"实质性相似\"的认定缺乏统一标准，可借鉴美国的双重测试方法。面对中国市场日益增多的剧本抄袭纠纷，律师应重视原创作品的版权登记与接触证据保全，同时在交易尽调阶段评估项目是否存在类似美国\"聚合侵权\"风险，以降低制作方的潜在法律敞口。",
+  "extended_reading": [
+    {
+      "title": "Moana 2 Sparks Copyright Lawsuit Amid Massive Box Office Gains",
+      "url": "https://www.hollywoodreporter.com/business/business-news/moana-2-copyright-lawsuit-massive-box-office-gains-1236106869/",
+      "description_cn": "报道动画师巴克·伍德尔起诉迪士尼《海洋奇缘》系列版权侵权案，法院认定实质性相似争议足以提交陪审团审理。",
+      "language": "en"
+    },
+    {
+      "title": "Dr. Substantial Similarity Or: How I Learned To Stop Worrying And Love Copyright Infringement Surveys",
+      "url": "https://mccarthystudentarticles.com/2025/04/24/612/",
+      "description_cn": "学术文章探讨将消费者调查证据引入版权实质性相似认定的可行性，类比商标混淆可能性分析中的成熟做法。",
+      "language": "en"
+    }
+  ],
+  "week": 3,
+  "day": 2,
+  "date": "2026-04-08",
+  "phase": 1,
+  "theme_en": "Intellectual Property",
+  "theme_cn": "知识产权基础",
+  "audio_file": "week03/day2.mp3"
+}
