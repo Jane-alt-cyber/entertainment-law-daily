@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Disney Wins Copyright Infringement Trial Over 'Moana'",
+    "source": "Hollywood Reporter, March 11, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/disney-wins-copyright-infringement-trial-moana-1236160630/",
+    "text": "A Los Angeles federal jury unanimously ruled in Disney's favor in March 2025, finding that the creators of Moana never had access to animator Buck Woodall's copyrighted screenplay 'Bucky the Surfer Boy.' The case centered on the two foundational prongs of copyright infringement: access and substantial similarity. Woodall alleged that in 2003 and 2004 he pitched his screenplay — about a Polynesian teenager who embarks on a dangerous ocean voyage — to a relative then working for a production company holding a first-look deal on the Disney studio lot. He claimed those materials were subsequently passed to Disney's animation team, who allegedly used them to create the billion-dollar Moana franchise. Woodall pointed to numerous alleged similarities between the works: both feature teenagers defying parental warnings to voyage across the sea, protagonists learning about ancient Polynesian spiritual ancestors manifested as animals, a symbolic necklace, a demigod with tattoos and a giant hook, and a creature concealed within a mountain. Disney countered that its directors never saw Woodall's materials and submitted extensive documentation of Moana's independent creative development, including story ideas, travel journals, and scripts. Director John Musker testified that the film drew structural elements from prior Disney productions. Disney's lawyers also stressed key narrative differences between the two works. Crucially, the jury's verdict turned entirely on the access prong: because jurors found no credible evidence that the filmmakers had ever seen Woodall's work, the substantial similarity question became legally moot. The case had reached trial only after a November 2024 ruling by Judge Consuelo Marshall that dueling expert reports on substantial similarity created a triable factual issue, preventing earlier dismissal. A separate lawsuit targeting Moana 2, seeking $10 billion in damages, remains pending.",
+    "word_count": 264
+  },
+  "vocabulary": [
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "版权侵权，指未经授权使用他人受版权保护的作品，侵害著作权人的专有权利，可引发民事或刑事责任。",
+      "example": "The plaintiff must prove both access and substantial similarity to establish copyright infringement.",
+      "audio": "week03/day3_vocab_0.mp3"
+    },
+    {
+      "term": "substantial similarity",
+      "pronunciation": "/səbˈstænʃəl ˌsɪməˈlærɪti/",
+      "definition_cn": "实质性相似，版权侵权认定的核心标准之一，指被告作品与原告受保护表达之间存在足够程度的相似，足以推断存在抄袭。",
+      "example": "Courts apply the substantial similarity test by comparing the protectable expression in both works, not their general themes.",
+      "audio": "week03/day3_vocab_1.mp3"
+    },
+    {
+      "term": "access",
+      "pronunciation": "/ˈækses/",
+      "definition_cn": "（版权语境中的）接触，指被告在创作被控侵权作品之前，有合理机会接触到原告的受保护作品，是版权侵权认定的前提要件之一。",
+      "example": "Without proof of access, a copyright infringement claim cannot succeed regardless of any alleged similarities between the works.",
+      "audio": "week03/day3_vocab_2.mp3"
+    },
+    {
+      "term": "triable factual issue",
+      "pronunciation": "/ˈtraɪəbəl ˈfæktʃuəl ˈɪʃuː/",
+      "definition_cn": "可提交陪审团审判的事实争议，指双方对实质性事实存在真实争议，法院不得以简易判决方式驳回，必须经正式庭审裁决。",
+      "example": "The judge denied summary judgment after finding that the competing expert reports raised a triable factual issue on substantial similarity.",
+      "audio": "week03/day3_vocab_3.mp3"
+    },
+    {
+      "term": "first-look deal",
+      "pronunciation": "/fɜːrst lʊk diːl/",
+      "definition_cn": "优先查阅协议，指制片公司与工作室签订的协议，赋予工作室在该制片公司的项目对外推介前优先审阅并决定是否参与的权利。",
+      "example": "Under their first-look deal with the studio, the production company was obligated to present all new projects to Disney before approaching other financiers.",
+      "audio": "week03/day3_vocab_4.mp3"
+    },
+    {
+      "term": "independent creative development",
+      "pronunciation": "/ˌɪndɪˈpendənt kriˈeɪtɪv dɪˈveləpmənt/",
+      "definition_cn": "独立创作开发，指被告能够证明其作品系完全独立创作完成，未参考或借鉴原告材料，是版权侵权诉讼中的重要抗辩依据。",
+      "example": "Disney presented story pitches, travel journals, and scripts to demonstrate the film's independent creative development, wholly separate from the plaintiff's work.",
+      "audio": "week03/day3_vocab_5.mp3"
+    },
+    {
+      "term": "collateral estoppel",
+      "pronunciation": "/kəˈlætərəl ɪˈstɒpəl/",
+      "definition_cn": "争点禁反言，指在前诉中已被最终裁决的特定事实争议，当事人在后续诉讼中不得就同一争议再行主张或否认。",
+      "example": "Disney intends to invoke collateral estoppel in the Moana 2 suit, arguing that the jury's access finding in the first trial is binding on the same issue.",
+      "audio": "week03/day3_vocab_6.mp3"
+    },
+    {
+      "term": "expert reports",
+      "pronunciation": "/ˈekspɜːrt rɪˈpɔːrts/",
+      "definition_cn": "专家报告，指由具备专业资质的鉴定人就争议事项（如实质性相似）提交的书面意见，可作为证据提交法庭，亦常成为驳回动议的焦点。",
+      "example": "The court refused to grant summary judgment because the parties' dueling expert reports on substantial similarity presented conflicting conclusions that only a jury could resolve.",
+      "audio": "week03/day3_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] [infringing act], pointing to [specific similarities] between the works.",
+      "example": "Woodall alleged that Disney's animation team used his copyrighted materials, pointing to numerous alleged similarities between the two works, including a demigod with tattoos and a symbolic necklace.",
+      "translation_cn": "伍德尔主张迪士尼动画团队使用了其受版权保护的材料，并指出两部作品之间存在诸多相似之处，包括有纹身的半神和象征性项链。"
+    },
+    {
+      "pattern": "Because [court/jury] found no credible evidence of [element], the [legal question] became legally moot.",
+      "example": "Because jurors found no credible evidence that the filmmakers had ever seen Woodall's work, the substantial similarity question became legally moot.",
+      "translation_cn": "由于陪审团认定没有可信证据证明电影制作者曾见过伍德尔的作品，实质性相似问题在法律上已无需裁决。"
+    },
+    {
+      "pattern": "[Party] submitted [documentary evidence] to demonstrate [legal defense], including [specific examples].",
+      "example": "Disney submitted extensive documentation of Moana's independent creative development to demonstrate that its directors never had access to the plaintiff's screenplay, including story ideas, travel journals, and scripts.",
+      "translation_cn": "迪士尼提交了大量有关《海洋奇缘》独立创作开发的文件，以证明其导演从未接触原告剧本，包括故事创意、旅行日记及剧本草稿。"
+    }
+  ],
+  "summary_cn": "2025年3月，洛杉矶联邦陪审团裁定迪士尼胜诉。动画师伍德尔主张迪士尼《海洋奇缘》抄袭其剧本，但陪审团认定电影主创从未接触过其作品，\"接触\"要件不成立，实质性相似问题因此无需审查。针对《海洋奇缘2》的另案索赔100亿美元诉讼仍在审理中。",
+  "legal_analysis": "① 核心法律问题：本案涉及美国版权侵权认定的两大要件——\"接触\"与\"实质性相似\"。原告须证明被告在创作时有合理机会接触其受保护作品，并且两作品之间存在实质性相似。陪审团因认定\"接触\"要件未获证明，直接终结了对相似性的审查。\n\n② 美国法律框架分析：在第九巡回法院（本案适用法院）框架下，版权侵权须同时满足接触与实质性相似两项要件。法院通常采用\"外在测试\"（extrinsic test）与\"内在测试\"（intrinsic test）双重标准评估相似性。本案中，法官Marshall在2024年11月裁定双方专家报告的分歧构成可提交陪审团的事实争议，拒绝简易判决，体现了第九巡回法院近年来倾向于让陪审团裁决相似性问题的趋势。最终，\"接触\"要件的缺失使得相似性分析在法律上归于无效。\n\n③ 对中国娱乐法律师的实践启示：中国作品进入美国市场或与美国公司合作开发时，务必保存完整的独立创作记录（含时间戳的草稿、会议记录、开发日志），以备\"独立创作开发\"抗辩之需。同时，当涉及第三方创意提案时，应通过正式的NDA及提案登记程序管控\"接触\"风险，降低日后被主张版权侵权的法律敞口。迪士尼的胜诉亦提示：文件管理体系是版权诉讼防御的核心资产。",
+  "extended_reading": [
+    {
+      "title": "Movie and TV Copyright Lawsuits Are on the Rise. Very Few Prevail In Court",
+      "url": "https://www.hollywoodreporter.com/business/business-news/anyone-can-sue-copyright-infringement-very-few-prevail-1236355241/",
+      "description_cn": "《好莱坞报道》分析娱乐版权诉讼激增趋势，探讨第九巡回法院判决如何助长原告诉讼积极性，以及法院为何持续驳回以通用情节或\"必要场景\"为基础的侵权主张。",
+      "language": "en"
+    },
+    {
+      "title": "Substantial Similarity and Junk Science (Fordham Intellectual Property Law Journal)",
+      "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1749&context=iplj",
+      "description_cn": "福特汉姆大学知识产权法律期刊学术文章，批判性审视\"实质性相似\"标准的内在缺陷，主张该标准混淆了三种不同的法律判断，呼吁法院将侵权审查聚焦于可识别的具体复制元素。",
+      "language": "en"
+    }
+  ],
+  "week": 3,
+  "day": 3,
+  "date": "2026-04-09",
+  "phase": 1,
+  "theme_en": "Intellectual Property",
+  "theme_cn": "知识产权基础",
+  "audio_file": "week03/day3.mp3"
+}
