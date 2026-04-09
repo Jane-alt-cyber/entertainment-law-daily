@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Movie and TV Copyright Lawsuits Are on the Rise. Very Few Prevail In Court",
+    "source": "Hollywood Reporter, August 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/anyone-can-sue-copyright-infringement-very-few-succeed-1236355241/",
+    "text": "Copyright infringement lawsuits targeting films and television series have surged in recent years, yet plaintiffs continue to face long odds at trial. A newly filed suit against the producers of the action thriller G20 illustrates a growing litigation strategy: the plaintiff argues that aggregated similarities between an unproduced screenplay and the finished film collectively rise to the level of infringement. Under this theory, generic elements — such as a female protagonist, ensemble casts, or a high-stakes thriller plot — may not individually constitute protectable expression, but their combination and selection can form a copyrightable work. Courts have shown limited but notable openness to this aggregation approach.\n\nCentral to these disputes is the substantial similarity test, which asks whether an ordinary observer would recognize that the defendant's work appropriated creative expression from the plaintiff's work. Federal appellate courts have increasingly cautioned lower courts against premature dismissal of such claims. At least three rulings since 2020 reversed district-court dismissals, including one tied to Francesca Gregorini's infringement claim against M. Night Shyamalan and Apple over the series Servant. The appeals court found that 'reasonable minds could differ' on whether the two works were substantially similar, making early dismissal inappropriate and allowing the case to proceed to a jury.\n\nNot every plaintiff succeeds. Showtime and Lionsgate defeated a copyright lawsuit over Yellowjackets after the court determined that the alleged similarities — including a dead coach and survivor factions — were unprotectable common tropes. Meanwhile, juries weighed infringement claims against Disney over Moana and against Shyamalan over Servant earlier in 2025. The legal landscape reveals a doctrine under pressure: harder to dismiss early, but still difficult to win.",
+    "word_count": 248
+  },
+  "vocabulary": [
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "版权侵权，指未经著作权人授权擅自复制、传播或改编受版权保护作品的行为，是美国版权诉讼中最核心的诉因。",
+      "example": "The plaintiff alleged copyright infringement after identifying over a dozen plot elements shared between her unproduced screenplay and the released film.",
+      "audio": "week03/day4_vocab_0.mp3"
+    },
+    {
+      "term": "substantial similarity test",
+      "pronunciation": "/səbˈstænʃəl sɪˈmɪlærɪti tɛst/",
+      "definition_cn": "实质性相似标准，美国版权法中用于判断被告作品是否非法挪用原告受保护表达的核心测试，通常采用\"普通观察者\"视角进行判断。",
+      "example": "The judge applied the substantial similarity test by asking whether an ordinary observer would conclude that the defendant copied protectable expression from the plaintiff's screenplay.",
+      "audio": "week03/day4_vocab_1.mp3"
+    },
+    {
+      "term": "protectable expression",
+      "pronunciation": "/prəˈtɛktəbl ɪkˈsprɛʃən/",
+      "definition_cn": "受版权保护的表达，指作品中具有独创性、可获得版权保护的具体表达方式，区别于不受保护的思想、概念或通用情节。",
+      "example": "While a female protagonist is not protectable expression on its own, the unique combination of plot elements in the script may qualify for copyright protection.",
+      "audio": "week03/day4_vocab_2.mp3"
+    },
+    {
+      "term": "aggregation theory",
+      "pronunciation": "/ˌæɡrɪˈɡeɪʃən ˈθɪəri/",
+      "definition_cn": "聚合理论，版权诉讼中的一种论证策略，主张各个单独不受保护的通用元素经选择与组合后，整体上构成受版权保护的创作表达。",
+      "example": "Counsel advanced an aggregation theory, arguing that the cumulative pattern of similarities between the two works could not be explained by coincidence alone.",
+      "audio": "week03/day4_vocab_3.mp3"
+    },
+    {
+      "term": "premature dismissal",
+      "pronunciation": "/ˌpriːməˈtjʊər dɪsˈmɪsəl/",
+      "definition_cn": "过早驳回，指法院在诉讼早期阶段（如初审动议阶段）即驳回案件，上诉法院近年来对版权案件的此类裁定越来越持谨慎态度。",
+      "example": "The Ninth Circuit reversed the premature dismissal, holding that the district court should have allowed the substantial similarity question to reach a jury.",
+      "audio": "week03/day4_vocab_4.mp3"
+    },
+    {
+      "term": "unproduced screenplay",
+      "pronunciation": "/ˌʌnprəˈduːst ˈskriːnpleɪ/",
+      "definition_cn": "未被拍摄制作的剧本，在版权诉讼中常见于原告主张制片公司在开发过程中接触并抄袭其从未投入制作的剧本之情形。",
+      "example": "The plaintiff submitted evidence that an executive had reviewed her unproduced screenplay eighteen months before the disputed film entered development.",
+      "audio": "week03/day4_vocab_5.mp3"
+    },
+    {
+      "term": "district-court dismissal",
+      "pronunciation": "/ˈdɪstrɪkt kɔːrt dɪsˈmɪsəl/",
+      "definition_cn": "地区法院驳回裁定，指联邦地区法院在初审阶段以诉状未能充分陈述侵权主张为由驳回案件，可被上诉法院撤销并发回重审。",
+      "example": "The appellate panel overturned the district-court dismissal after finding that reasonable minds could differ on the question of substantial similarity.",
+      "audio": "week03/day4_vocab_6.mp3"
+    },
+    {
+      "term": "common tropes",
+      "pronunciation": "/ˈkɒmən troʊps/",
+      "definition_cn": "通用惯例元素，指特定类型作品中反复出现的情节模式或叙事手法，在版权法下属于公共领域元素，不构成受保护的独创表达。",
+      "example": "The court dismissed the infringement claim because the survival group dynamics and the deceased authority figure were common tropes unprotectable under copyright law.",
+      "audio": "week03/day4_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged [type of infringement], arguing that [specific copied elements] collectively rise to the level of [legal standard].",
+      "example": "The plaintiff alleged copyright infringement, arguing that the aggregated similarities between her unproduced screenplay and G20 collectively rise to the level of protectable expression.",
+      "translation_cn": "原告主张版权侵权，认为其未拍摄剧本与影片《G20》之间累积的相似性整体上已达到受保护表达的程度。"
+    },
+    {
+      "pattern": "The [appellate court] reversed the [lower court] ruling, finding that 'reasonable minds could differ' on whether [legal question].",
+      "example": "The appellate court reversed the district-court dismissal, finding that 'reasonable minds could differ' on whether the two works were substantially similar.",
+      "translation_cn": "上诉法院撤销了地区法院的驳回裁定，认为关于两部作品是否构成实质性相似，理性之人之间存在合理争议。"
+    },
+    {
+      "pattern": "The court held that [disputed elements] were [unprotectable] as [legal category], and therefore [legal consequence].",
+      "example": "The court held that the dead coach and survivor factions were unprotectable as common tropes, and therefore dismissed the infringement claim as a matter of law.",
+      "translation_cn": "法院裁定，死亡教练与幸存者派系属于不受保护的通用惯例元素，因此依法驳回了侵权主张。"
+    }
+  ],
+  "summary_cn": "好莱坞版权侵权诉讼数量持续攀升，但胜诉率依然极低。原告日益采用\"聚合理论\"，主张多个单独不受版权保护的通用元素经组合后构成受保护表达。上诉法院对初审过早驳回越来越审慎，多起案件得以进入陪审团审理阶段。与此同时，被告亦可援引\"通用情节\"抗辩成功驳回诉讼，实质性相似标准的适用仍存在较大不确定性。",
+  "legal_analysis": "① 核心法律问题：本文核心在于美国版权法中\"实质性相似\"标准的适用边界，尤其是\"思想与表达二分法\"（idea-expression dichotomy）下，单一通用元素与元素组合之整体是否构成受保护表达的判断困境。\n\n② 美国法律框架：根据《美国版权法》第102条，版权保护仅延及表达，不保护思想、情节、主题或标准场景（scènes à faire）。法院在判断实质性相似时通常采用\"外部测试\"与\"内部测试\"相结合的方式（第九巡回法院）或整体概念与感觉测试。近年上诉法院对初审过早驳回采取更为审慎的立场，赋予陪审团更大的事实认定空间，客观上降低了侵权诉讼的诉讼门槛。\n\n③ 对中国娱乐法律师的实践启示：中国《著作权法》同样遵循思想与表达二分原则，但司法实践中对\"实质性相似\"的认定标准尚不统一。中国律师在代理涉外版权案件（如中美合拍、剧本输出）时，应重视美国聚合理论的论证方式，并在合同层面通过原创性声明条款与侵权赔偿承担条款进行风险分配。同时，对于尚未投入制作的剧本，应及时进行版权登记以固定接触证据链。",
+  "extended_reading": [
+    {
+      "title": "Copyright Cases To Watch In 2025",
+      "url": "https://www.kirkland.com/news/in-the-news/2025/01/copyright-cases-to-watch-in-2025",
+      "description_cn": "柯克兰律师事务所梳理2025年值得关注的重大版权案件，涵盖人工智能合理使用争议及涉及实质性相似标准的名人纹身摄影版权上诉案。",
+      "language": "en"
+    },
+    {
+      "title": "Substantial Similarity and Junk Science — Fordham Intellectual Property, Media & Entertainment Law Journal",
+      "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1749&context=iplj",
+      "description_cn": "福特汉姆大学法律评论学术文章，批判性分析现行实质性相似测试标准的混乱与矛盾，指出术语不统一导致娱乐版权诉讼结果不可预测。",
+      "language": "en"
+    }
+  ],
+  "week": 3,
+  "day": 4,
+  "date": "2026-04-10",
+  "phase": 1,
+  "theme_en": "Intellectual Property",
+  "theme_cn": "知识产权基础",
+  "audio_file": "week03/day4.mp3"
+}

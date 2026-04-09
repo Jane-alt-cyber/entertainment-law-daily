@@ -116,7 +116,16 @@
       "theme_cn": "知识产权基础",
       "file": "week03/day3.json",
       "audio": "week03/day3.mp3"
+    },
+    {
+      "week": 3,
+      "day": 4,
+      "date": "2026-04-10",
+      "theme_en": "Intellectual Property",
+      "theme_cn": "知识产权基础",
+      "file": "week03/day4.json",
+      "audio": "week03/day4.mp3"
     }
   ],
-  "last_updated": "2026-04-09"
+  "last_updated": "2026-04-10"
 }
