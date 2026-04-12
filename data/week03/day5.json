@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Movie and TV Copyright Lawsuits Are on the Rise. Very Few Prevail In Court",
+    "source": "Hollywood Reporter, August 29, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/anyone-can-sue-copyright-infringement-very-few-prevail-1236355241/",
+    "text": "Copyright infringement lawsuits targeting film and television productions have surged in 2025, yet plaintiffs continue to face steep odds at trial. The central legal battleground in most of these cases is the substantial similarity test — the doctrine courts use to determine whether a defendant's work is close enough to a plaintiff's protected expression to constitute infringement. Federal appeals courts, particularly the Ninth Circuit, have recently cautioned district courts against dismissing these suits too early. In one pivotal ruling, the Ninth Circuit reversed a lower court's dismissal of Francesca Gregorini's suit against M. Night Shyamalan and Apple over the series Servant, holding that premature dismissal was improper because 'reasonable minds could differ' on the question of substantial similarity. Observers describe this as at least the third such reversal since 2020, and its practical effect has been to push more cases toward trial. By 2025, juries were empaneled in infringement suits against Disney over Moana and against Shyamalan over Servant. Courts have also wrestled with how to aggregate individual elements — a ragtag group of misfits in a heist story, for example — that may not be independently protectable. Meanwhile, defendants have found success invoking the scenes à faire doctrine, which holds that elements common to a genre or dictated by external factors are unprotectable. Showtime and Lionsgate defeated a suit over Yellowjackets by arguing that survival-group dynamics and a coach's death were standard genre tropes. Newly filed claims, such as Clarice Eboni Boykin-Patterson's allegation that her screenplay was copied to produce the Viola Davis film G20, follow the familiar template of script submission, access, and subsequent release of a similar work.",
+    "word_count": 262
+  },
+  "vocabulary": [
+    {
+      "term": "substantial similarity test",
+      "pronunciation": "/ˈsʌbstænʃəl sɪˈmɪlærɪti tɛst/",
+      "definition_cn": "版权侵权认定的核心法律标准，法院借此判断被告作品是否与原告受保护表达足够相似，从而构成侵权。",
+      "example": "The jury applied the substantial similarity test to compare the plaintiff's screenplay with the released film scene by scene.",
+      "audio": "week03/day5_vocab_0.mp3"
+    },
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "未经版权人授权，擅自复制、发行或改编受版权保护作品的行为，构成民事乃至刑事责任的基础。",
+      "example": "The plaintiff alleged copyright infringement after identifying more than a dozen parallel story elements between her script and the defendant's film.",
+      "audio": "week03/day5_vocab_1.mp3"
+    },
+    {
+      "term": "scenes à faire doctrine",
+      "pronunciation": "/seɪn ɑː fɛr ˈdɒktrɪn/",
+      "definition_cn": "版权法原则，规定某一类型或情境中惯常出现的场景或元素不受版权保护，因其属于公共表达领域。",
+      "example": "The defendant successfully invoked the scenes à faire doctrine, arguing that survival-group conflict is a staple of the thriller genre.",
+      "audio": "week03/day5_vocab_2.mp3"
+    },
+    {
+      "term": "pleading stage",
+      "pronunciation": "/ˈpliːdɪŋ steɪdʒ/",
+      "definition_cn": "诉讼初期阶段，各方当事人通过诉状和答辩状确立争议事实与法律主张，法院可在此阶段裁定驳回诉讼。",
+      "example": "The Ninth Circuit held that dismissal at the pleading stage was improper where reasonable minds could differ on substantial similarity.",
+      "audio": "week03/day5_vocab_3.mp3"
+    },
+    {
+      "term": "dismissal",
+      "pronunciation": "/dɪsˈmɪsəl/",
+      "definition_cn": "法院在审判前裁定终止诉讼程序的司法行为，被告常以此作为在实质审理前消除指控的程序性抗辩手段。",
+      "example": "The appeals court reversed the dismissal, finding that the lower court had improperly resolved factual questions about similarity.",
+      "audio": "week03/day5_vocab_4.mp3"
+    },
+    {
+      "term": "unprotectable",
+      "pronunciation": "/ˌʌnprəˈtɛktəbl/",
+      "definition_cn": "指某类表达或元素依法不受版权保护，通常因其属于思想、事实、通用惯例或场景固定元素而被排除在外。",
+      "example": "A court ruled that a ragtag group of misfits in a heist story was unprotectable because it was a generic narrative device.",
+      "audio": "week03/day5_vocab_5.mp3"
+    },
+    {
+      "term": "empaneled",
+      "pronunciation": "/ɪmˈpænəld/",
+      "definition_cn": "指正式选定并组成陪审团，以对争议事实进行裁决；案件进入陪审团审判程序的程序性标志。",
+      "example": "Juries were empaneled in two high-profile infringement trials in 2025, signaling a shift toward fuller adjudication of copyright disputes.",
+      "audio": "week03/day5_vocab_6.mp3"
+    },
+    {
+      "term": "protected expression",
+      "pronunciation": "/prəˈtɛktɪd ɪkˈsprɛʃən/",
+      "definition_cn": "版权法下受保护的具体原创表达形式，区别于不受保护的思想、概念或通用元素，是侵权比对的核心对象。",
+      "example": "Courts must carefully identify which elements constitute protected expression before conducting any substantial similarity analysis.",
+      "audio": "week03/day5_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] reversed the [lower court's] dismissal, holding that [legal standard] was not met at the [stage] stage.",
+      "example": "The Ninth Circuit reversed the lower court's dismissal, holding that premature dismissal was improper because reasonable minds could differ on the question of substantial similarity.",
+      "translation_cn": "第九巡回上诉法院撤销了下级法院的驳回裁定，认为在实质相似性问题上理性人可能存在分歧，因此过早驳回不当。"
+    },
+    {
+      "pattern": "[Defendant] defeated the suit by invoking the [doctrine], arguing that [disputed elements] were [characterization].",
+      "example": "Showtime and Lionsgate defeated the suit by invoking the scenes à faire doctrine, arguing that survival-group dynamics and a coach's death were standard genre tropes.",
+      "translation_cn": "Showtime和狮门影业援引惯常场景原则，主张生存团体动态和教练之死属于类型惯例，从而成功驳回诉讼。"
+    },
+    {
+      "pattern": "[Plaintiff] alleged that [defendant's work] copied [plaintiff's work], following the template of [key facts establishing access and similarity].",
+      "example": "Clarice Eboni Boykin-Patterson alleged that the film G20 copied her screenplay, following the template of script submission, access, and subsequent release of a similar work.",
+      "translation_cn": "克拉丽斯·埃博尼·博伊金-帕特森主张电影《G20》抄袭了她的剧本，援引剧本提交、接触及此后发行相似作品的惯常举证框架。"
+    }
+  ],
+  "summary_cn": "2025年影视版权侵权诉讼数量显著上升，但胜诉者寥寥。第九巡回法院多次推翻下级法院对侵权诉讼的早期驳回裁定，使更多案件得以进入陪审团审判。法院在认定实质相似性时，既考量单项元素的可保护性，也审视惯常场景原则的适用，被告可据此主张涉争元素属于不受版权保护的类型惯例。",
+  "legal_analysis": "① 核心法律问题：本文聚焦美国版权法中\"实质相似性\"标准的司法适用，核心争议在于：哪些表达元素受版权保护，法院应在何阶段对相似性作出判断。\n\n② 美国法律框架分析：依据《美国版权法》第17编，版权保护延及原创表达，但不及于思想、事实或惯常元素。第九巡回法院采用\"外在/内在\"双重测试（extrinsic/intrinsic test）评估实质相似性。近期判例显示，法院倾向于将相似性判断留至陪审团阶段，而非在诉状阶段即予驳回，这实质上提高了被告获得早期胜诉的门槛。惯常场景原则（scenes à faire）则为被告提供了重要抗辩空间。\n\n③ 对中国娱乐法律师的实践启示：中国版权法同样区分思想与表达，但司法实践中对\"实质相似\"的认定标准尚不统一，缺乏如美国般系统的双重测试框架。中国律师在代理涉外影视版权纠纷时，应重点关注：（一）原告如何构建\"接触+相似\"的举证链条；（二）被告如何利用类型惯例进行抗辩；（三）诉讼阶段的程序性策略，包括在早期阶段提出驳回动议的时机与风险。",
+  "extended_reading": [
+    {
+      "title": "Copyrights in 2024 and 2025: Recounting the Most High-Profile Copyright Developments of 2024 and Identifying Areas to Watch for 2025",
+      "url": "https://www.debevoise.com/insights/publications/2025/01/copyrights-in-2024-and-2025-recounting-the-most",
+      "description_cn": "Debevoise & Plimpton律所发布的2024-2025年版权法年度综述，涵盖Ed Sheeran侵权案、Internet Archive合理使用败诉及2025年重点观察领域。",
+      "language": "en"
+    },
+    {
+      "title": "Substantial Similarity and Junk Science — Fordham Intellectual Property, Media & Entertainment Law Journal",
+      "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1749&context=iplj",
+      "description_cn": "福特汉姆大学法学院学术文章，批判第九巡回法院实质相似性测试框架存在术语混乱和方法论缺陷，并提出改革建议。",
+      "language": "en"
+    }
+  ],
+  "week": 3,
+  "day": 5,
+  "date": "2026-04-13",
+  "phase": 1,
+  "theme_en": "Intellectual Property",
+  "theme_cn": "知识产权基础",
+  "audio_file": "week03/day5.mp3"
+}
