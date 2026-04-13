@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "$222,500 Penalty for TV Indecency – Reminder to Secure Access to Broadcast Product",
+    "source": "Broadcast Law Blog, July 11, 2025",
+    "url": "https://www.broadcastlawblog.com/2025/07/articles/222500-penalty-for-tv-indecency-reminder-to-secure-access-to-broadcast-product/",
+    "text": "In July 2025, the FCC's Enforcement Bureau entered into a Consent Decree with a TEGNA subsidiary to resolve an indecency complaint against its Spokane, Washington television station. The complaint arose after a pornographic video appeared on a monitor behind the station's weathercaster during the 6:00 p.m. evening news in October 2021, visible to home viewers for approximately 13 seconds. TEGNA investigated and confirmed that an unknown third party had accessed the monitor's screencasting feature through the station's unsecured local wireless network. Critically, the objectionable material did not pass through the normal transmission chain, and no station employee was responsible for airing it.\n\nDespite the absence of intentional misconduct, the FCC imposed significant regulatory consequences. Under the Consent Decree, TEGNA agreed to make a $222,500 voluntary contribution to the U.S. Treasury and to implement a three-year compliance plan across all of its stations. This case establishes a meaningful precedent: indecency enforcement liability can attach even when the broadcaster did not originate the offending material, underscoring the broadcaster's content clearance obligation with respect to its entire transmission infrastructure.\n\nThe ruling fits within the FCC's broader indecency standard jurisprudence. The agency's last comparable penalty — $325,000 against WDBJ — also involved unintentional broadcast of indecent material lasting under three seconds, demonstrating that even fleeting exposures may fall outside the safe harbor provision protecting late-night programming. The FCC's indecency standard, rooted in the community standards doctrine, prohibits material that describes or depicts sexual conduct in a patently offensive manner. The Supreme Court's 2012 refusal to review the Janet Jackson case, in which the Third Circuit found the FCC's standard potentially in conflict with the prior restraint doctrine, had chilled enforcement for years. Under current FCC practice, enforcement appears reserved for only the most egregious violations.",
+    "word_count": 272
+  },
+  "vocabulary": [
+    {
+      "term": "Consent Decree",
+      "pronunciation": "/kənˈsɛnt dɪˈkriː/",
+      "definition_cn": "同意令：监管机构与被监管方达成的具有法律约束力的协议，用以解决执法调查，通常包含罚款和合规要求，无需当事方正式承认违法。",
+      "example": "The broadcaster signed a Consent Decree requiring it to pay $222,500 and adopt a three-year compliance plan.",
+      "audio": "week04/day1_vocab_0.mp3"
+    },
+    {
+      "term": "indecency standard",
+      "pronunciation": "/ɪnˈdiːsənsi ˈstændərd/",
+      "definition_cn": "淫秽标准：美国联邦通信委员会适用于广播内容的法律标准，禁止以明显冒犯方式描述性行为的材料在特定时段播出，以社区标准为判断依据。",
+      "example": "The FCC's indecency standard prohibits material depicting sexual conduct in a patently offensive manner during daytime hours.",
+      "audio": "week04/day1_vocab_1.mp3"
+    },
+    {
+      "term": "community standards doctrine",
+      "pronunciation": "/kəˈmjuːnɪti ˈstændədz ˈdɒktrɪn/",
+      "definition_cn": "社区标准原则：判定内容是否构成猥亵或淫秽的法律原则，以普通社区成员对相关内容的接受程度为衡量尺度，是美国广播内容监管的核心依据。",
+      "example": "Under the community standards doctrine, content acceptable in one market may still be deemed indecent by the FCC if it offends the average viewer.",
+      "audio": "week04/day1_vocab_2.mp3"
+    },
+    {
+      "term": "prior restraint doctrine",
+      "pronunciation": "/ˈpraɪər rɪˈstreɪnt ˈdɒktrɪn/",
+      "definition_cn": "事先限制原则：美国宪法第一修正案下禁止政府在内容发布前实施审查的原则，是广播内容监管合宪性争议的重要理论依据。",
+      "example": "Civil liberties groups argued that the FCC's vague indecency rules amounted to an unconstitutional prior restraint doctrine in practice.",
+      "audio": "week04/day1_vocab_3.mp3"
+    },
+    {
+      "term": "transmission chain",
+      "pronunciation": "/trænsˈmɪʃən tʃeɪn/",
+      "definition_cn": "传输链路：广播内容从制作到播出所经过的全部技术环节的总称，是确定广播商对播出内容是否负有法律责任的关键技术事实依据。",
+      "example": "Because the objectionable footage bypassed the normal transmission chain, TEGNA argued it bore no editorial responsibility for the material.",
+      "audio": "week04/day1_vocab_4.mp3"
+    },
+    {
+      "term": "content clearance obligation",
+      "pronunciation": "/ˈkɒntɛnt ˈklɪərəns ˌɒblɪˈɡeɪʃən/",
+      "definition_cn": "内容审查义务：广播商在播出前核查内容合规性的法律义务，即使播出系第三方入侵所致，监管机构仍可追究广播商未尽该义务的责任。",
+      "example": "The FCC's ruling reinforced that broadcasters carry a content clearance obligation over their entire transmission infrastructure, not just studio-originated programming.",
+      "audio": "week04/day1_vocab_5.mp3"
+    },
+    {
+      "term": "safe harbor provision",
+      "pronunciation": "/seɪf ˈhɑːbər prəˈvɪʒən/",
+      "definition_cn": "安全港条款：美国广播法规中允许电视台在午夜至凌晨六时播出成人内容而不受淫秽处罚的豁免规定，旨在平衡言论自由与公众保护利益。",
+      "example": "The station could not invoke the safe harbor provision because the indecent footage aired during the 6:00 p.m. evening news, well within restricted hours.",
+      "audio": "week04/day1_vocab_6.mp3"
+    },
+    {
+      "term": "voluntary contribution",
+      "pronunciation": "/ˈvɒləntəri ˌkɒntrɪˈbjuːʃən/",
+      "definition_cn": "自愿缴款：FCC执法实践中，被监管方在同意令框架下向美国财政部支付的罚款替代性款项，名义上非罚款，但实质具有制裁性质。",
+      "example": "As part of the settlement, TEGNA agreed to make a $222,500 voluntary contribution to the U.S. Treasury without admitting liability.",
+      "audio": "week04/day1_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Regulatory body] entered into a Consent Decree with [party] to resolve [enforcement matter], requiring [party] to [remedy] and implement [compliance measure].",
+      "example": "The FCC's Enforcement Bureau entered into a Consent Decree with a TEGNA subsidiary to resolve an indecency complaint, requiring the company to make a $222,500 voluntary contribution and implement a three-year compliance plan.",
+      "translation_cn": "美国联邦通信委员会执法局与TEGNA子公司签署同意令，以解决淫秽投诉，要求该公司缴纳22.25万美元并实施为期三年的合规计划。"
+    },
+    {
+      "pattern": "Despite the absence of [wrongful conduct], [regulatory body] imposed [consequence], establishing that [legal principle] attaches even where [mitigating circumstance].",
+      "example": "Despite the absence of intentional misconduct, the FCC imposed significant regulatory consequences, establishing that indecency enforcement liability attaches even where the broadcaster did not originate the offending material.",
+      "translation_cn": "尽管不存在故意不当行为，FCC仍施加了重大监管后果，确立了即便广播商并非违规内容的来源，淫秽执法责任仍可成立的原则。"
+    },
+    {
+      "pattern": "[Party] could not invoke the [statutory protection] because [factual basis for disqualification], placing the conduct squarely within [applicable prohibition].",
+      "example": "The station could not invoke the safe harbor provision because the indecent footage aired during the 6:00 p.m. evening news, placing the broadcast squarely within the FCC's indecency standard enforcement hours.",
+      "translation_cn": "该电视台无法援引安全港条款，因为涉及淫秽内容的画面在晚间六时新闻期间播出，完全落入FCC淫秽标准的执法时段范围之内。"
+    }
+  ],
+  "summary_cn": "2025年7月，FCC就斯波坎电视台2021年新闻直播中无意播出色情内容一事，与TEGNA子公司签署同意令，处以22.25万美元自愿缴款并要求实施三年合规计划。尽管内容系第三方通过未加密无线网络入侵播出，并未经过正常传输链路，FCC仍认定广播商负有内容审查义务。此案再次明确：广播淫秽执法责任不以广播商主观故意为前提。",
+  "legal_analysis": "① 核心法律问题：本案核心在于广播商对第三方入侵导致的淫秽内容是否承担FCC执法责任，以及\"无过错\"情形下内容清查义务的边界。\n\n② 美国法律框架分析：根据《通信法》第1464条及FCC相关规则，广播商在上午6时至午夜期间对淫秽内容负有严格播出管控义务，安全港条款仅适用于午夜至凌晨六时。FCC的淫秽标准以社区标准原则为核心，不以内容时长为免责依据——WDBJ案中不足三秒的画面亦招致30余万美元罚款。本案同意令确立了一项重要原则：即便内容未经传输链路，广播商对其整体基础设施的安全亦负有内容审查义务。此外，第三巡回法院在Jackson案中曾以FCC标准模糊为由援引事先限制原则质疑其合宪性，导致多年执法趋缓，但本案表明FCC执法意志并未消退。\n\n③ 对中国娱乐法律师的实践启示：中国广播电视监管体制同样强调播出机构的内容审查前置义务，本案提示：在为中国广播机构提供法律服务时，应重视技术安全漏洞带来的合规风险，建议在播出合同中明确约定第三方技术接入的授权边界，并协助客户建立覆盖全链路的内容安全管控合规体系，以防范因技术疏漏引发的监管处罚。",
+  "extended_reading": [
+    {
+      "title": "Experts Discuss the Take It Down Act to Fight Celebrity Deepfakes",
+      "url": "https://variety.com/vip/take-it-down-act-ai-fight-celebrity-deepfakes-1236411155/",
+      "description_cn": "分析2025年美国《删除法》的立法内容、执法机制及平台合规义务，并探讨其在第一修正案框架下引发的争议。",
+      "language": "en"
+    },
+    {
+      "title": "The FCC's Authority Over Broadcasters' Programming: An Introduction (CRS IF13130)",
+      "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF13130.html",
+      "description_cn": "美国国会研究服务局2025年12月报告，全面梳理FCC对广播内容的监管权限，记录针对CBS、NBC、ABC及PBS的现行执法程序。",
+      "language": "en"
+    }
+  ],
+  "week": 4,
+  "day": 1,
+  "date": "2026-04-14",
+  "phase": 1,
+  "theme_en": "Content Regulation & Ratings",
+  "theme_cn": "内容审查与分级",
+  "audio_file": "week04/day1.mp3"
+}
