@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Free Speech Coalition, Inc. v. Paxton — Supreme Court Upholds Texas Age-Verification Law for Online Sexually Explicit Content",
+    "source": "Wikipedia / Supreme Court of the United States, June 27, 2025",
+    "url": "https://en.wikipedia.org/wiki/Free_Speech_Coalition_v._Paxton",
+    "text": "On June 27, 2025, the U.S. Supreme Court issued a 6–3 decision in Free Speech Coalition, Inc. v. Paxton, 606 U.S. 461 (2025), upholding Texas House Bill 1181. The law requires commercial websites whose content is more than one-third 'sexual material harmful to minors' to verify that all visitors are at least 18 years old. The Free Speech Coalition, the trade association for the adult entertainment industry, challenged the statute on First Amendment grounds, arguing that the age-verification mandate unconstitutionally burdened adults' access to protected speech.\n\nThe central legal dispute concerned which level of constitutional scrutiny applied. The FSC argued for strict scrutiny — requiring the law to be the least restrictive means of achieving a compelling government interest. Texas defended the law under a rational-basis standard drawn from the Ginsberg v. New York framework. The Supreme Court charted a middle path, applying intermediate scrutiny and holding that H.B. 1181 'only incidentally burdens the protected speech of adults.'\n\nJustice Clarence Thomas wrote for the majority, reasoning that age-verification requirements fall within states' traditional power to shield children from content that is obscene to minors. The majority held that the law satisfies intermediate scrutiny because it advances an important government interest — protecting minors — without burdening substantially more speech than necessary.\n\nJustice Elena Kagan dissented, joined by Justices Sotomayor and Jackson, arguing the law is a content-based restriction on adults' constitutionally protected speech and must survive strict scrutiny. Kagan warned that adults may forgo accessing legal material rather than submit to government-mandated identification. With more than 20 states having enacted similar statutes, the ruling carries sweeping implications for online content regulation across the United States.",
+    "word_count": 252
+  },
+  "vocabulary": [
+    {
+      "term": "intermediate scrutiny",
+      "pronunciation": "/ˌɪntərˈmiːdiət skruːˈtɪni/",
+      "definition_cn": "中级审查标准：美国宪法审查框架之一，要求政府证明法律实质性地推进重要政府利益，严格程度介于合理依据标准与严格审查之间。",
+      "example": "The court applied intermediate scrutiny to determine whether the age-verification requirement advanced a sufficiently important government interest.",
+      "audio": "week04/day2_vocab_0.mp3"
+    },
+    {
+      "term": "strict scrutiny",
+      "pronunciation": "/strɪkt skruːˈtɪni/",
+      "definition_cn": "严格审查标准：美国宪法对基本权利限制的最高司法审查标准，要求政府证明法律是实现紧迫政府利益的最小限制手段。",
+      "example": "The dissenting justices argued that any content-based restriction on adults' protected speech must survive strict scrutiny.",
+      "audio": "week04/day2_vocab_1.mp3"
+    },
+    {
+      "term": "content-based restriction",
+      "pronunciation": "/ˈkɒntɛnt beɪst rɪˈstrɪkʃən/",
+      "definition_cn": "基于内容的限制：针对特定言论主题或观点进行的政府管制，依据美国宪法第一修正案须经严格审查，被认为是对言论自由最严重的威胁。",
+      "example": "Justice Kagan argued that the Texas statute constituted a content-based restriction because it targeted speech based solely on its sexual subject matter.",
+      "audio": "week04/day2_vocab_2.mp3"
+    },
+    {
+      "term": "age-verification mandate",
+      "pronunciation": "/eɪdʒ ˌvɛrɪfɪˈkeɪʃən ˈmændeɪt/",
+      "definition_cn": "年龄核验强制要求：法律规定网站运营者在用户访问特定内容前必须核实其年龄达到法定标准，以保护未成年人免受有害内容侵害。",
+      "example": "The age-verification mandate required commercial websites to confirm that every visitor was at least eighteen years old before granting access.",
+      "audio": "week04/day2_vocab_3.mp3"
+    },
+    {
+      "term": "obscene to minors",
+      "pronunciation": "/əbˈsiːn tə ˈmaɪnərz/",
+      "definition_cn": "对未成年人而言具有猥亵性：源自Ginsberg诉纽约州案确立的法律标准，指依据社区标准对未成年人具有淫秽性质但对成年人可能受宪法保护的内容。",
+      "example": "Under the Ginsberg framework, states retain authority to restrict material that is obscene to minors even if it does not meet the adult obscenity standard.",
+      "audio": "week04/day2_vocab_4.mp3"
+    },
+    {
+      "term": "First Amendment",
+      "pronunciation": "/fɜːrst əˈmɛndmənt/",
+      "definition_cn": "美国宪法第一修正案：禁止国会制定限制言论自由、新闻自由、宗教自由或集会自由的法律，是美国内容监管争议的核心宪法依据。",
+      "example": "The Free Speech Coalition argued that the age-verification law violated the First Amendment by burdening adults' access to constitutionally protected speech.",
+      "audio": "week04/day2_vocab_5.mp3"
+    },
+    {
+      "term": "rational-basis standard",
+      "pronunciation": "/ˈræʃənəl ˈbeɪsɪs ˈstændərd/",
+      "definition_cn": "合理依据标准：美国宪法审查中最宽松的标准，仅要求政府证明法律与合法政府利益之间存在合理关联，通常适用于非基本权利领域。",
+      "example": "The Fifth Circuit had applied the rational-basis standard to uphold the Texas statute before the Supreme Court adopted intermediate scrutiny instead.",
+      "audio": "week04/day2_vocab_6.mp3"
+    },
+    {
+      "term": "least restrictive means",
+      "pronunciation": "/liːst rɪˈstrɪktɪv miːnz/",
+      "definition_cn": "最小限制手段：严格审查标准下的核心要件，要求政府证明所选择的法律手段是实现紧迫政府利益限制言论最少的可行方式。",
+      "example": "The petitioners contended that age-verification was not the least restrictive means of protecting minors, since less burdensome alternatives already existed.",
+      "audio": "week04/day2_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] applied [level of scrutiny], holding that [law] '[effect on speech]' because [legal reasoning].",
+      "example": "The Supreme Court applied intermediate scrutiny, holding that H.B. 1181 'only incidentally burdens the protected speech of adults' because no adult has a First Amendment right to access content that is obscene to minors without age verification.",
+      "translation_cn": "最高法院适用中级审查标准，认定《H.B. 1181》\"仅附带性地限制成年人受保护的言论\"，理由是成年人对未成年人淫秽内容并不享有无需年龄核验即可访问的第一修正案权利。"
+    },
+    {
+      "pattern": "[Party] argued that [statute] constituted a [type of restriction] on [protected interest] and therefore must survive [level of scrutiny].",
+      "example": "Justice Kagan argued that the law constituted a content-based restriction on adults' constitutionally protected speech and therefore must survive strict scrutiny.",
+      "translation_cn": "卡根大法官认为，该法律构成对成年人受宪法保护言论的基于内容的限制，因此必须通过严格审查标准。"
+    },
+    {
+      "pattern": "With more than [number] [jurisdictions] having enacted [similar measures], the ruling carries sweeping implications for [regulatory area].",
+      "example": "With more than 20 states having enacted similar statutes, the ruling carries sweeping implications for online content regulation across the United States.",
+      "translation_cn": "随着超过20个州相继颁布类似法规，该判决对美国全境的在线内容监管产生了深远影响。"
+    }
+  ],
+  "summary_cn": "2025年6月，美国最高法院以6比3裁定支持德克萨斯州《H.B. 1181》，该法要求含有三分之一以上对未成年人有害性内容的商业网站对用户进行年龄核验。多数意见采用中级审查标准，认定该法律仅附带性地限制成年人受保护言论，符合宪法要求。此裁决对全美二十余个已颁布类似法规的州具有重大示范意义。",
+  "legal_analysis": "① 核心法律问题：本案核心在于德克萨斯州年龄核验法是否违反美国宪法第一修正案，以及应适用何种违宪审查标准——严格审查、中级审查抑或合理依据标准。\n\n② 美国法律框架分析：最高法院最终采用中级审查标准，这是对此前网络言论规制案件（如Reno v. ACLU）适用严格审查路径的重大偏离。多数意见援引Ginsberg诉纽约州案确立的\"对未成年人淫秽\"原则，认定州政府在保护未成年人领域享有传统监管权力，年龄核验义务仅为附带性负担，并非对成年人言论的实质性压制。该判决预示着联邦法院在评估涉未成年人网络内容监管立法时可能系统性转向更宽松的审查框架，并为国会层面的《SCREEN法案》提供了合宪性背书。\n\n③ 对中国娱乐法律师的实践启示：本案为中国律师理解美国内容监管合规体系提供了重要参照。在华美资平台或希望进入美国市场的中国内容运营商，须评估各州年龄核验合规义务，在用户协议及内容分发协议中明确界定内容分级标准与访问控制机制。此外，该判决揭示的\"附带性言论负担\"分析框架，亦可为中国娱乐法律师在跨境内容合规谈判中提供论证工具。",
+  "extended_reading": [
+    {
+      "title": "$222,500 Penalty for TV Indecency – Reminder to Secure Access to Broadcast Product",
+      "url": "https://www.broadcastlawblog.com/2025/07/articles/222500-penalty-for-tv-indecency-reminder-to-secure-access-to-broadcast-product/",
+      "description_cn": "分析FCC就斯波坎电视台播出色情片段事件与TEGNA达成的22.25万美元和解令及三年合规计划，提示广播机构须对第三方内容接入链路实施严格管控。",
+      "language": "en"
+    },
+    {
+      "title": "Free Speech Coalition, Inc. v. Paxton — Harvard Law Review Case Analysis",
+      "url": "https://harvardlawreview.org/print/vol-139/free-speech-coalition-inc-v-paxton/",
+      "description_cn": "《哈佛法律评论》2025年11月对Paxton案的学术评注，批判多数意见偏离严格审查先例，并论证该裁决不应扩展适用至暴力电子游戏等其他受保护娱乐内容。",
+      "language": "en"
+    }
+  ],
+  "week": 4,
+  "day": 2,
+  "date": "2026-04-15",
+  "phase": 1,
+  "theme_en": "Content Regulation & Ratings",
+  "theme_cn": "内容审查与分级",
+  "audio_file": "week04/day2.mp3"
+}
