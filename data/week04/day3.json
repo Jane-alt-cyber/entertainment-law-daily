@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Hollywood vs. FCC: How Broadcasters, Feds Clashed Through the Years",
+    "source": "Hollywood Reporter, September 30, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-fcc-1236388718/",
+    "text": "The relationship between Hollywood and federal regulators has never been simple, and 2025 brought that tension back into sharp focus. When FCC Chairman Brendan Carr publicly pressured Disney/ABC over Jimmy Kimmel's on-air remarks — warning the network 'we can do this the easy way or the hard way' — entertainment lawyers immediately raised concerns about prior restraint doctrine, which prohibits government officials from suppressing speech before it occurs. Critics argued that threatening a broadcaster over editorial decisions is precisely the kind of government coercion that the First Amendment forbids.\n\nBroadcast media has always occupied a unique constitutional position. Unlike newspapers or film studios, over-the-air broadcasters operate under FCC license renewal power and must comply with the indecency standard established in FCC v. Pacifica Foundation (1978), which permits greater government oversight because of broadcast media's 'uniquely pervasive presence' in American homes. That constitutional rationale — grounded in the community standards doctrine — does not extend to print or online media.\n\nThe Kimmel controversy also revived historical parallels. In 1969, CBS cancelled The Smothers Brothers Comedy Hour under political pressure, illustrating that the line between editorial independence and government coercion has long been contested. Today, any challenge to FCC overreach would likely be measured against the Supreme Court's unanimous 2024 ruling in NRA v. Vullo, which held that officials cannot use institutional power to coerce private entities into suppressing speech. For broadcasters, the equal-time rules and sponsorship identification obligations embedded in FCC regulations add further layers of content clearance obligation, making compliance counsel indispensable in this increasingly politicized regulatory environment.",
+    "word_count": 238
+  },
+  "vocabulary": [
+    {
+      "term": "prior restraint doctrine",
+      "pronunciation": "/ˈpraɪər rɪˈstreɪnt ˈdɒktrɪn/",
+      "definition_cn": "事前限制原则：禁止政府在言论或出版发生之前予以压制的宪法原则，是美国第一修正案保护的核心内容之一。",
+      "example": "The broadcaster's legal team argued that the regulator's warning letter constituted a violation of the prior restraint doctrine.",
+      "audio": "week04/day3_vocab_0.mp3"
+    },
+    {
+      "term": "indecency standard",
+      "pronunciation": "/ɪnˈdiːsənsi ˈstændərd/",
+      "definition_cn": "淫秽内容标准：FCC依据《通信法》确立的广播内容审查基准，禁止在特定时段播出明显冒犯性的性或排泄相关内容。",
+      "example": "The station's legal counsel reviewed the segment carefully to ensure it would not violate the FCC's indecency standard.",
+      "audio": "week04/day3_vocab_1.mp3"
+    },
+    {
+      "term": "community standards doctrine",
+      "pronunciation": "/kəˈmjuːnɪti ˈstændərdz ˈdɒktrɪn/",
+      "definition_cn": "社区标准原则：以特定地域普通公众的道德观念作为判断内容是否具有淫秽性的法律基准，源自美国最高法院相关判例。",
+      "example": "Whether the broadcast segment was indecent depended in part on applying the community standards doctrine to the relevant viewing audience.",
+      "audio": "week04/day3_vocab_2.mp3"
+    },
+    {
+      "term": "license renewal power",
+      "pronunciation": "/ˈlaɪsəns rɪˈnjuːəl ˈpaʊər/",
+      "definition_cn": "执照续期权：FCC对广播电台及电视台持有的定期审查并决定是否续发广播执照的监管权力，是政府影响广播商行为的核心工具。",
+      "example": "Broadcasters are acutely aware that the FCC's license renewal power gives regulators significant leverage over editorial decisions.",
+      "audio": "week04/day3_vocab_3.mp3"
+    },
+    {
+      "term": "equal-time rules",
+      "pronunciation": "/ˈiːkwəl taɪm ruːlz/",
+      "definition_cn": "平等播出时间规则：要求广播电台和电视台在播出政治候选人相关内容时，须向其他候选人提供同等播出机会的联邦法规。",
+      "example": "The network's compliance team flagged the political commentary segment for review under the equal-time rules.",
+      "audio": "week04/day3_vocab_4.mp3"
+    },
+    {
+      "term": "content clearance obligation",
+      "pronunciation": "/ˈkɒntɛnt ˈklɪərəns ˌɒblɪˈɡeɪʃən/",
+      "definition_cn": "内容审核合规义务：广播商在播出节目内容前须完成的法律与监管审查程序，以确保符合FCC规定及相关法律要求。",
+      "example": "The broadcaster's in-house legal team bears the content clearance obligation for every segment that airs during prime time.",
+      "audio": "week04/day3_vocab_5.mp3"
+    },
+    {
+      "term": "sponsorship identification",
+      "pronunciation": "/ˈspɒnsəʃɪp aɪˌdɛntɪfɪˈkeɪʃən/",
+      "definition_cn": "赞助商披露义务：要求广播商明确公示节目播出所获赞助资金或其他利益来源的联邦法规义务，旨在保护公众知情权。",
+      "example": "Failure to comply with sponsorship identification requirements can expose a broadcaster to significant FCC fines.",
+      "audio": "week04/day3_vocab_6.mp3"
+    },
+    {
+      "term": "government coercion",
+      "pronunciation": "/ˈɡʌvənmənt kəʊˈɜːʃən/",
+      "definition_cn": "政府强制干预：指政府官员利用公权力对私主体施压，迫使其压制受宪法保护言论的违宪行为，NRA v. Vullo案对此作出明确界定。",
+      "example": "The Supreme Court's ruling in NRA v. Vullo established a clear test for determining when official pressure crosses the line into unconstitutional government coercion.",
+      "audio": "week04/day3_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Government body] cannot use [type of power] to coerce [private entity] into suppressing [protected right].",
+      "example": "Under NRA v. Vullo, the FCC cannot use its license renewal power to coerce a broadcaster into suppressing constitutionally protected speech.",
+      "translation_cn": "根据NRA v. Vullo案，FCC不得利用其执照续期权强迫广播商压制受宪法保护的言论。"
+    },
+    {
+      "pattern": "[Doctrine/Standard] permits [regulatory authority] to impose [type of restriction] because of [constitutional rationale].",
+      "example": "The indecency standard permits the FCC to impose content restrictions on broadcasters because of broadcast media's uniquely pervasive presence in American homes.",
+      "translation_cn": "淫秽内容标准允许FCC对广播商施加内容限制，原因在于广播媒体在美国家庭中具有独特的无处不在的渗透性。"
+    },
+    {
+      "pattern": "[Party's] [type of obligation] requires [specific compliance action] prior to [triggering event].",
+      "example": "The broadcaster's content clearance obligation requires a thorough legal review of all politically sensitive segments prior to airing.",
+      "translation_cn": "广播商的内容审核合规义务要求在播出之前对所有政治敏感片段进行全面的法律审查。"
+    }
+  ],
+  "summary_cn": "本文梳理了好莱坞与FCC之间的长期监管博弈。2025年，FCC主席公开向迪士尼/ABC施压，引发事前限制原则与政府强制干预的宪法争议。广播媒体因其\"无处不在的渗透性\"，长期受到比印刷或网络媒体更严格的内容管制，平等播出时间规则、赞助商披露义务等合规要求使广播商面临持续的法律风险。",
+  "legal_analysis": "① 核心法律问题：政府监管机构能否以执照续期权等监管工具向广播商施压，迫使其调整节目内容，而不构成违宪的事前限制或政府强制干预？\n\n② 美国法律框架分析：美国联邦最高法院在FCC v. Pacifica Foundation（1978年）中确立了广播媒体的特殊宪法地位——基于社区标准原则和广播信号的\"无处不在\"特性，FCC对广播内容享有比其他媒体形态更宽泛的监管权限。然而，2024年NRA v. Vullo案确立了新的反强制原则：政府官员不得利用公权力施压私主体压制受保护言论。两者之间的张力构成当前广播内容监管的核心宪法难题。此外，违反淫秽内容标准可触发高额罚款及执照不续期风险，而平等播出时间规则与赞助商披露义务则形成叠加的合规负担。\n\n③ 对中国娱乐法律师的实践启示：中国广播电视监管体制同样存在主管机关对内容的实质性审查权，但缺乏类似美国的违宪抗辩机制。中国律师在代理涉及境外广播合作或跨境内容播出项目时，需重点关注：其一，美方广播商承担的内容清查合规义务是否会影响合作协议的履行；其二，赞助商披露要求对中资赞助节目的潜在法律风险；其三，政府监管压力如何在商业合同中通过不可抗力或监管变化条款加以分配。",
+  "extended_reading": [
+    {
+      "title": "$222,500 Penalty for TV Indecency – Reminder to Secure Access to Broadcast Product",
+      "url": "https://www.broadcastlawblog.com/2025/07/articles/222500-penalty-for-tv-indecency-reminder-to-secure-access-to-broadcast-product/",
+      "description_cn": "分析FCC就斯波坎电视台意外播出色情画面一事达成的22.25万美元和解协议，阐明广播商对传输链安全的内容合规义务。",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court Upholds State Age-Verification Requirement for Certain Websites — Free Speech Coalition, Inc. v. Paxton",
+      "url": "https://www.congress.gov/crs-product/LSB11354",
+      "description_cn": "美国国会研究服务局分析2025年最高法院裁定德克萨斯州网络成人内容年龄验证法适用中间审查标准，对娱乐内容分级监管具有重大判例意义。",
+      "language": "en"
+    }
+  ],
+  "week": 4,
+  "day": 3,
+  "date": "2026-04-16",
+  "phase": 1,
+  "theme_en": "Content Regulation & Ratings",
+  "theme_cn": "内容审查与分级",
+  "audio_file": "week04/day3.mp3"
+}
