@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "The FCC's Authority Over Broadcasters' Programming: An Introduction — Broadcasting Regulation, Indecency, and the First Amendment in 2025",
+    "source": "Congressional Research Service (CRS) / Congress.gov — December 10, 2025",
+    "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF13130.html",
+    "text": "The Federal Communications Commission (FCC) derives its authority to regulate broadcast programming from the Communications Act of 1934, which requires licensees to serve the public interest. Under this framework, the FCC enforces a prohibition on obscene, indecent, or profane language, a prohibition on news distortion, equal-opportunity requirements for political candidates, and sponsorship disclosure obligations. These rules sit in constant tension with First Amendment protections, but courts have long held that broadcast's unique nature permits a level of government oversight that would constitute an impermissible prior restraint if applied to print or online media.\n\nRecent enforcement disputes illustrate where the outer limits of FCC authority now lie. In October 2024, the nonprofit Center for American Rights filed a complaint against WCBS-TV, alleging the station violated news distortion policies during a broadcast interview. The FCC's Enforcement Bureau denied the complaint in January 2025, finding the allegations insufficient to rise to the level of an actionable enforcement matter. A separate complaint asked the FCC to investigate whether airing footage from the Paris Olympics Opening Ceremony violated the indecency standard, given that a largely nude adult male appeared on screen.\n\nIn September 2025, a further complaint alleged that ABC's flagship station, KABC-TV, violated sponsorship disclosure rules by permitting Jimmy Kimmel Live! to feature elected officials without disclosing that the host had contributed to those officials' political campaigns. The FCC acknowledged this raised novel questions in the gray area of entertainment television. Meanwhile, on November 13, 2025, seven former FCC chairs and commissioners filed a petition asking the agency to repeal its news distortion policy entirely. Congress is also considering amending Section 326 of the Communications Act to restrict the FCC from considering programming content in license renewal or revocation proceedings.",
+    "word_count": 263
+  },
+  "vocabulary": [
+    {
+      "term": "prior restraint",
+      "pronunciation": "/ˈpraɪər rɪˈstreɪnt/",
+      "definition_cn": "事前限制，指政府在内容发布前予以禁止或审查的行为，被认为是对言论自由最严重的侵害形式，在美国宪法第一修正案下受到极高度的司法审查。",
+      "example": "A government order blocking a broadcaster from airing a documentary before it airs would likely be struck down as an unconstitutional prior restraint.",
+      "audio": "week04/day4_vocab_0.mp3"
+    },
+    {
+      "term": "indecency standard",
+      "pronunciation": "/ɪnˈdiːsənsi ˈstændərd/",
+      "definition_cn": "猥亵性标准，FCC用于判断广播内容是否以明显冒犯的方式描绘性或排泄活动的法律尺度，仅适用于广播媒介，且仅在特定播出时段内受到执法。",
+      "example": "The broadcaster argued that the footage did not meet the indecency standard because it lacked the explicitly offensive character required for FCC enforcement.",
+      "audio": "week04/day4_vocab_1.mp3"
+    },
+    {
+      "term": "sponsorship disclosure",
+      "pronunciation": "/ˈspɒnsəʃɪp dɪsˈkloʊʒər/",
+      "definition_cn": "赞助商披露义务，要求广播机构在播出付费或有偿内容时公开披露赞助方身份，是《通信法》规定的广播许可人法定义务之一。",
+      "example": "The station's failure to identify the political donor behind the segment constituted a potential breach of its sponsorship disclosure obligations under the Communications Act.",
+      "audio": "week04/day4_vocab_2.mp3"
+    },
+    {
+      "term": "news distortion",
+      "pronunciation": "/njuːz dɪˈstɔːrʃən/",
+      "definition_cn": "新闻失真政策，FCC规定广播机构不得故意歪曲、伪造或虚假报道新闻，违者可面临执法行动或影响执照续期，但举证门槛极高。",
+      "example": "The complaint alleged news distortion, but the Enforcement Bureau found no evidence that the station had deliberately falsified the interview.",
+      "audio": "week04/day4_vocab_3.mp3"
+    },
+    {
+      "term": "Enforcement Bureau",
+      "pronunciation": "/ɪnˈfɔːrsmənt ˈbjʊəroʊ/",
+      "definition_cn": "FCC执法局，联邦通信委员会下设的专职执法部门，负责调查投诉、启动执法程序，并可向违规广播机构发出同意令或罚款通知。",
+      "example": "After reviewing the complaint for three months, the Enforcement Bureau determined that the evidence presented was insufficient to open a formal investigation.",
+      "audio": "week04/day4_vocab_4.mp3"
+    },
+    {
+      "term": "license renewal",
+      "pronunciation": "/ˈlaɪsəns rɪˈnjuːəl/",
+      "definition_cn": "执照续期，广播机构须定期向FCC申请续期广播许可执照，FCC在审查过程中可考量被许可人过往是否履行公众利益义务，包括内容合规记录。",
+      "example": "Congress is debating whether to prevent the FCC from considering a station's editorial decisions during license renewal proceedings.",
+      "audio": "week04/day4_vocab_5.mp3"
+    },
+    {
+      "term": "public interest",
+      "pronunciation": "/ˈpʌblɪk ˈɪntrəst/",
+      "definition_cn": "公众利益标准，《通信法》赋予FCC监管广播的核心授权依据，要求被许可人的节目安排和经营行为须符合公众利益、便利与必要性。",
+      "example": "The FCC denied the petition on the grounds that granting it would not serve the public interest as required by the Communications Act of 1934.",
+      "audio": "week04/day4_vocab_6.mp3"
+    },
+    {
+      "term": "actionable enforcement matter",
+      "pronunciation": "/ˈækʃənəbl ɪnˈfɔːrsmənt ˈmætər/",
+      "definition_cn": "可受理的执法事项，指投诉内容达到FCC启动正式调查程序所需的法定门槛，未达到该门槛的投诉将被裁定为不足以构成执法依据而予以驳回。",
+      "example": "The bureau concluded that the allegations, even if taken as true, did not constitute an actionable enforcement matter under the FCC's governing rules.",
+      "audio": "week04/day4_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Regulatory body] denied the complaint, finding the allegations insufficient to rise to the level of [legal threshold].",
+      "example": "The FCC's Enforcement Bureau denied the complaint in January 2025, finding the allegations insufficient to rise to the level of an actionable enforcement matter.",
+      "translation_cn": "FCC执法局于2025年1月驳回了该投诉，认定相关指控不足以达到可受理执法事项的法定门槛。"
+    },
+    {
+      "pattern": "[Party] filed a complaint against [respondent], alleging that [conduct] violated [specific regulatory obligation].",
+      "example": "CAR filed a complaint against KABC-TV, alleging that the network violated FCC sponsorship disclosure rules by permitting a host to feature elected officials without required disclosures.",
+      "translation_cn": "CAR向FCC提起投诉，指控KABC-TV允许主持人在节目中邀请民选官员而未履行赞助商披露义务，违反了FCC相关规定。"
+    },
+    {
+      "pattern": "Congress is considering amending [statutory provision] to restrict [agency] from [prohibited action] in [proceeding].",
+      "example": "Congress is considering amending Section 326 of the Communications Act to restrict the FCC from considering programming content in license renewal or revocation proceedings.",
+      "translation_cn": "国会正考虑修订《通信法》第326条，以限制FCC在执照续期或吊销程序中将节目内容纳入审查范围。"
+    }
+  ],
+  "summary_cn": "本文为美国国会研究处2025年12月发布的报告，梳理了FCC依据1934年《通信法》对广播节目内容实施监管的法律框架，重点分析了2024至2025年间多起真实执法争议，涵盖新闻失真投诉、奥运会播出内容是否违反猥亵性标准、以及脱口秀节目赞助商披露义务等问题，并指出国会正考虑立法限制FCC在执照续期程序中审查节目内容的权力。",
+  "legal_analysis": "① 核心法律问题：本文涉及的核心问题是FCC对广播节目内容的监管权边界，具体包括：猥亵性标准的适用范围、新闻失真政策的可执行性，以及赞助商披露义务是否延伸至娱乐节目领域。\n\n② 美国法律框架分析：在美国，广播媒介因使用有限的公共电波频谱，长期被置于比印刷媒体或互联网更为严格的内容监管之下，最高法院在FCC v. Pacifica Foundation（1978年）中确立了这一差异化框架。FCC的执法权源于《通信法》第312条和第503条，但其启动正式调查须达到较高的\"可受理执法事项\"门槛。赞助商披露义务则源于该法第317条，过去主要适用于政治广告，而将其延伸至娱乐节目仍属法律灰色地带。\n\n③ 对中国娱乐法律师的实践启示：中国同样存在广播内容审查制度，由国家广播电视总局负责执法，但监管逻辑与美国截然不同——美国以公众投诉驱动执法并设有司法审查机制，而中国以行政许可和事前审查为主。中国律师在处理中美合拍或跨境播出项目时，须特别关注：美国赞助商披露义务可能影响含有中国政府背景资金的节目在美播出合规性；美国\"事前限制\"原则的高门槛亦与中国内容审批制度形成鲜明对比，需在合同条款中预先分配合规风险。",
+  "extended_reading": [
+    {
+      "title": "$222,500 Penalty for TV Indecency – Reminder to Secure Access to Broadcast Product",
+      "url": "https://www.broadcastlawblog.com/2025/07/articles/222500-penalty-for-tv-indecency-reminder-to-secure-access-to-broadcast-product/",
+      "description_cn": "2025年7月的广播法律博客文章，分析TEGNA因斯波坎电视台天气预报中意外播出色情内容而签署FCC同意令并支付222,500美元罚款一事，揭示广播机构对未授权内容进入传输链承担严格责任。",
+      "language": "en"
+    },
+    {
+      "title": "Free Speech Coalition, Inc. v. Paxton — Harvard Law Review (Vol. 139, No. 1)",
+      "url": "https://harvardlawreview.org/print/vol-139/free-speech-coalition-inc-v-paxton/",
+      "description_cn": "哈佛法律评论2025年11月案例评注，批判性分析最高法院以6比3多数在Free Speech Coalition v. Paxton案中以中度审查标准支持德克萨斯州网络成人内容年龄验证法的裁决及其对数字娱乐内容监管的潜在影响。",
+      "language": "en"
+    }
+  ],
+  "week": 4,
+  "day": 4,
+  "date": "2026-04-17",
+  "phase": 1,
+  "theme_en": "Content Regulation & Ratings",
+  "theme_cn": "内容审查与分级",
+  "audio_file": "week04/day4.mp3"
+}
