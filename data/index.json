@@ -170,7 +170,16 @@
       "theme_cn": "内容审查与分级",
       "file": "week04/day4.json",
       "audio": "week04/day4.mp3"
+    },
+    {
+      "week": 4,
+      "day": 5,
+      "date": "2026-04-20",
+      "theme_en": "Content Regulation & Ratings",
+      "theme_cn": "内容审查与分级",
+      "file": "week04/day5.json",
+      "audio": "week04/day5.mp3"
     }
   ],
-  "last_updated": "2026-04-17"
+  "last_updated": "2026-04-20"
 }

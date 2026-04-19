@@ -1,0 +1,107 @@
+{
+  "reading": {
+    "title": "Threats, Anxiety and Power Struggles: How Hollywood Tangles With the FCC",
+    "source": "The Hollywood Reporter, September 30, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-fcc-1236388718/",
+    "text": "The escalating conflict between Hollywood and the Federal Communications Commission reached a flashpoint in 2025, with late-night host Jimmy Kimmel at its center. FCC Chairman Brendan Carr publicly called on ABC to suspend Kimmel and warned the network that the agency could pursue the matter 'the easy way or the hard way.' Legal experts immediately flagged this statement as a potential violation of the prior restraint doctrine, which prohibits government officials from suppressing speech before it is aired or published. The Supreme Court's unanimous ruling in NRA v. Vullo (2024) reinforced this concern, holding that regulators may not use their authority to coerce private parties into silencing disfavored viewpoints — a form of impermissible viewpoint-based regulation. At the statutory level, Section 326 of the Communications Act explicitly bars the FCC from censoring programming, yet the agency retains enforcement authority over obscene, indecent, and profane material under 18 U.S.C. § 1464 and the indecency standard established in FCC v. Pacifica Foundation (1978). Critically, Kimmel's monologue aired after 10 p.m., placing it squarely within the safe harbor provision created by Action for Children's Television v. FCC (1995), which shields late-night broadcasts from indecency enforcement. Broadcast media receives reduced First Amendment protection compared to cable or print under the spectrum scarcity rationale, yet that doctrine does not extend to political satire aired during the safe harbor window. Scholars note that while formal enforcement would almost certainly fail on constitutional grounds, the chilling effect of regulatory threats on editorial discretion remains a serious practical concern for broadcasters and their creative teams.",
+    "word_count": 253
+  },
+  "vocabulary": [
+    {
+      "term": "prior restraint doctrine",
+      "pronunciation": "/ˈpraɪər rɪˈstreɪnt ˈdɒktrɪn/",
+      "definition_cn": "事前限制原则：禁止政府在言论发表或播出之前对其进行审查或压制的宪法原则，是美国第一修正案保护的核心内容之一。",
+      "example": "The broadcaster argued that the regulator's injunction violated the prior restraint doctrine by blocking the segment before it could air.",
+      "audio": "week04/day5_vocab_0.mp3"
+    },
+    {
+      "term": "indecency standard",
+      "pronunciation": "/ɪnˈdiːsənsi ˈstændərd/",
+      "definition_cn": "猥亵标准：FCC依据18 U.S.C. § 1464及Pacifica案确立的广播内容审查基准，禁止在特定时段播出明显冒犯性的性或排泄相关内容。",
+      "example": "The station's legal team reviewed each sketch against the indecency standard before scheduling it for broadcast during afternoon hours.",
+      "audio": "week04/day5_vocab_1.mp3"
+    },
+    {
+      "term": "safe harbor provision",
+      "pronunciation": "/seɪf ˈhɑːrbər prəˈvɪʒən/",
+      "definition_cn": "安全港条款：Action for Children's Television v. FCC案确立的规则，允许广播商在每日晚10时至次日凌晨6时之间播出成人内容而不受猥亵规定约束。",
+      "example": "Because the documentary aired at 11 p.m., it fell within the safe harbor provision and was exempt from FCC indecency enforcement.",
+      "audio": "week04/day5_vocab_2.mp3"
+    },
+    {
+      "term": "viewpoint-based regulation",
+      "pronunciation": "/ˈvjuːpɔɪnt beɪst ˌreɡjʊˈleɪʃən/",
+      "definition_cn": "观点歧视性监管：政府基于言论所表达的特定立场或政治倾向而施加的管制，被视为违反第一修正案的最严重形式之一。",
+      "example": "The court struck down the order as unconstitutional viewpoint-based regulation because it targeted only commentary critical of the administration.",
+      "audio": "week04/day5_vocab_3.mp3"
+    },
+    {
+      "term": "editorial discretion",
+      "pronunciation": "/ˌedɪˈtɔːriəl dɪˈskreʃən/",
+      "definition_cn": "编辑自主权：广播商或媒体机构在决定播出何种内容方面享有的独立判断权，受宪法及Section 326保护，不得被政府强制干预。",
+      "example": "The network invoked its editorial discretion in refusing to preemptively cut segments that the regulator had informally objected to.",
+      "audio": "week04/day5_vocab_4.mp3"
+    },
+    {
+      "term": "spectrum scarcity",
+      "pronunciation": "/ˈspektrəm ˈskeərsɪti/",
+      "definition_cn": "频谱稀缺性：美国广播监管的理论基础，认为无线电频谱资源有限，因此广播媒体相较于印刷媒体享有较低程度的第一修正案保护。",
+      "example": "The appellate court relied on the spectrum scarcity rationale to uphold the FCC's authority to impose content obligations on over-the-air broadcasters.",
+      "audio": "week04/day5_vocab_5.mp3"
+    },
+    {
+      "term": "chilling effect",
+      "pronunciation": "/ˈtʃɪlɪŋ ɪˈfekt/",
+      "definition_cn": "寒蝉效应：政府监管威胁或潜在法律责任导致言论主体自我审查、主动回避合法表达的现象，即使最终并无正式处罚。",
+      "example": "Legal counsel warned that even an informal FCC inquiry could produce a chilling effect that would alter the network's programming decisions.",
+      "audio": "week04/day5_vocab_6.mp3"
+    },
+    {
+      "term": "enforcement authority",
+      "pronunciation": "/ɪnˈfɔːrsmənt ɔːˈθɒrɪti/",
+      "definition_cn": "执法权：监管机构依据法律授权对违规行为采取调查、处罚或撤销执照等行动的正式权力，FCC依18 U.S.C. § 1464对广播猥亵内容行使此权。",
+      "example": "Although the FCC is barred from censoring programs, it retains enforcement authority to impose fines after a broadcast has aired.",
+      "audio": "week04/day5_vocab_7.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Subject] aired [content] after [time], placing it within the safe harbor provision and shielding it from [regulatory action].",
+      "example": "Kimmel's monologue aired after 10 p.m., placing it squarely within the safe harbor provision and shielding it from FCC indecency enforcement.",
+      "translation_cn": "基梅尔的独白在晚10时后播出，完全落入安全港条款的保护范围，使其免受FCC猥亵内容执法的约束。"
+    },
+    {
+      "pattern": "Experts warned that [regulatory action], while unlikely to survive constitutional scrutiny, would produce a significant chilling effect on [editorial/creative activity].",
+      "example": "Experts warned that the chairman's public threat, while unlikely to survive constitutional scrutiny, would produce a significant chilling effect on broadcasters' editorial discretion.",
+      "translation_cn": "专家警告称，尽管主席的公开威胁在宪法审查下几乎无法成立，但仍会对广播商的编辑自主权产生显著的寒蝉效应。"
+    },
+    {
+      "pattern": "Under [statute/doctrine], [agency] retains enforcement authority over [category of content], but may not engage in [prohibited action] as barred by [provision].",
+      "example": "Under 18 U.S.C. § 1464 and the indecency standard from Pacifica, the FCC retains enforcement authority over profane broadcast content, but may not engage in prior restraint as barred by Section 326 of the Communications Act.",
+      "translation_cn": "依据18 U.S.C. § 1464及Pacifica案确立的猥亵标准，FCC对广播中的淫秽内容保有执法权，但根据《通信法》第326条的明确禁止，不得实施事前限制。"
+    }
+  ],
+  "summary_cn": "2025年，FCC主席卡尔公开向ABC施压，要求停播深夜主持人吉米·基梅尔，此举引发好莱坞与联邦监管机构之间的法律对决。由于基梅尔的节目在晚10时后播出，完全受安全港条款保护，FCC的猥亵执法规则不适用。最高法院NRA v. Vullo案判决亦表明，监管机构不得以观点歧视性监管方式胁迫广播商压制言论。尽管正式处罚难以成立，寒蝉效应对广播业编辑自主权的威胁依然现实。",
+  "legal_analysis": "① 核心法律问题：本案核心在于政府监管机构能否以非正式威胁手段干预广播商的编辑自主权，以及此类干预是否构成违宪的事前限制或观点歧视性监管。\n\n② 美国法律框架分析：美国广播监管体系建立在频谱稀缺性理论之上，赋予FCC依18 U.S.C. § 1464对猥亵、淫秽及亵渎内容的事后执法权，但《通信法》第326条明确禁止FCC审查节目内容。Action for Children's Television v. FCC案（1995年）确立的安全港条款进一步将晚10时至次日凌晨6时划为成人内容豁免时段。NRA v. Vullo案（2024年）则以9比0的全票裁定，政府官员不得利用监管权威胁迫私人主体压制不受欢迎的言论，这一先例直接限制了FCC对政治评论类节目的任何实质性处罚行动。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐律师在代理涉及跨境内容合规事务时，应重点识别安全港条款等时间窗口豁免机制，并理解\"寒蝉效应\"这一在中国实践中同样存在但法律界定较为模糊的概念。此外，NRA v. Vullo案提示，即便监管机构未发出正式处罚决定，其公开声明亦可能构成可诉的违宪胁迫行为，这为谈判内容播出协议时的风险评估提供了重要参考维度。",
+  "extended_reading": [
+    {
+      "title": "$222,500 Penalty for TV Indecency – Reminder to Secure Access to Broadcast Product",
+      "url": "https://www.broadcastlawblog.com/2025/07/articles/222500-penalty-for-tv-indecency-reminder-to-secure-access-to-broadcast-product/",
+      "description_cn": "分析2025年7月TEGNA电视台因意外播出色情画面被FCC处以22.25万美元罚款一案，探讨广播商在未授权内容进入传输链时的严格责任认定。",
+      "language": "en"
+    },
+    {
+      "title": "Government Restrictions on the Media: What the Law Says (including the TAKE IT DOWN Act and Net Neutrality's 2025 Sixth Circuit ruling)",
+      "url": "https://legalclarity.org/government-control-and-restrictions-on-the-media/",
+      "description_cn": "全面梳理美国媒体内容监管法律框架，涵盖事前限制原则、FCC猥亵标准、2025年《TAKE IT DOWN Act》及第六巡回法院推翻网络中立令的最新判决。",
+      "language": "en"
+    }
+  ],
+  "week": 4,
+  "day": 5,
+  "date": "2026-04-20",
+  "phase": 1,
+  "theme_en": "Content Regulation & Ratings",
+  "theme_cn": "内容审查与分级",
+  "audio_file": "week04/day5.mp3"
+}
