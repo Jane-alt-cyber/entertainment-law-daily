@@ -179,7 +179,16 @@
       "theme_cn": "内容审查与分级",
       "file": "week04/day5.json",
       "audio": "week04/day5.mp3"
+    },
+    {
+      "week": 5,
+      "day": 1,
+      "date": "2026-04-21",
+      "theme_en": "Streaming & Distribution Rights",
+      "theme_cn": "流媒体与分销权",
+      "file": "week05/day1.json",
+      "audio": "week05/day1.mp3"
     }
   ],
-  "last_updated": "2026-04-20"
+  "last_updated": "2026-04-21"
 }

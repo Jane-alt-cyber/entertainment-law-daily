@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Warner Bros. Discovery Wins Ruling Over 'South Park' Streaming Rights — Clearing Way for Trial Against Paramount",
+    "source": "Hollywood Reporter, January 22, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/south-park-streaming-rights-standoff-warner-bros-discovery-wins-ruling-clearing-way-for-trial-1236115255/",
+    "text": "In a pivotal January 2025 ruling, New York State Supreme Court Justice Margaret A. Chan issued a summary judgment order allowing Warner Bros. Discovery (WBD) to proceed to trial against Paramount Global, MTV Entertainment Studios, and South Park Digital Studios (SPDS) for alleged breach of an exclusive SVOD licensing output deal valued at $500 million. The 2019 agreement granted WBD exclusive subscription video on demand — SVOD — windowing rights to the entire South Park library, covering over 23 seasons, plus all new content produced between 2019 and 2025, originally for distribution on HBO Max. WBD understood the deal to guarantee three additional seasons of 10 episodes each. The dispute ignited in 2021 when Paramount's MTV Entertainment Studios struck a separate $900 million deal with South Park creators Trey Parker and Matt Stone, producing 14 made-for-streaming specials exclusively for Paramount+. WBD alleged the defendants employed 'grammatical sleight of hand' — reclassifying episodic content as 'events,' 'films,' or 'movies' — to deliberately circumvent the holdback window embedded in the WBD output deal and divert new South Park content to a rival SVOD platform without triggering the competitive bidding process that produced the original agreement. Justice Chan found that Paramount may have 'actively convinced' the SPDS joint venture to breach the WBD agreement by exploiting contractual ambiguity, and that Paramount may have 'unjustly enriched' itself by streaming those specials on Paramount+ and capturing subscribers, advertisers, and ancillary profits. The court further noted that WBD was 'blind-sided' when SPDS created content it claimed fell outside the covered seasons, observing that the parties never executed a final detailed contract and that episode counts were never expressly specified. The ruling opens full discovery, including access to Paramount's viewership data, subscriber metrics, and profitability figures tied to the South Park library. WBD may pursue disgorgement of profits as an equitable remedy alongside damages. Paramount had filed a counterclaim seeking $52 million in alleged unpaid licensing fees but subsequently dropped it. The case exposes the structural tension inherent when a studio simultaneously licenses a library under an exclusive output deal while operating a competing SVOD platform — creating fertile ground for disputes over SVOD windowing boundaries, the scope of backend participation, and whether most-favored-nation clause protections adequately insulate a licensee from opportunistic content reclassification.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "summary judgment",
+      "pronunciation": "/ˈsʌməri ˈdʒʌdʒmənt/",
+      "definition_cn": "即决判决：法院在无需全面审判的情况下，基于无真正争议的事实裁定一方胜诉的程序性裁决，通常用于过滤无实质争议的诉求。",
+      "example": "The plaintiff moved for summary judgment, arguing that the undisputed contract language conclusively established the defendant's breach.",
+      "audio": "week05/day1_vocab_0.mp3"
+    },
+    {
+      "term": "output deal",
+      "pronunciation": "/ˈaʊtpʊt diːl/",
+      "definition_cn": "全量授权协议：制片方承诺将特定期间内生产的全部或特定类别内容优先授权给某一平台的一揽子许可协议，通常涉及巨额预付款。",
+      "example": "Under the output deal, the studio was obligated to deliver every theatrical release from 2020 through 2025 exclusively to the streaming licensee.",
+      "audio": "week05/day1_vocab_1.mp3"
+    },
+    {
+      "term": "SVOD windowing",
+      "pronunciation": "/ˌɛs viː oʊ ˈdiː ˈwɪndoʊɪŋ/",
+      "definition_cn": "订阅流媒体播出窗口：规定特定内容在订阅制视频点播平台独家播出的时间段安排，是多窗口分发协议的核心条款，决定平台独占权的起止时间。",
+      "example": "The licensor's SVOD windowing provision barred the studio from making the series available on any competing subscription platform for thirty-six months after initial release.",
+      "audio": "week05/day1_vocab_2.mp3"
+    },
+    {
+      "term": "holdback window",
+      "pronunciation": "/ˈhoʊldbæk ˈwɪndoʊ/",
+      "definition_cn": "内容禁播期：许可协议中约定版权方在特定时间段内不得将作品授权给第三方或在其他平台播出的限制性条款，以保障被许可方的独占利益。",
+      "example": "The holdback window prevented the producer from licensing the same episodes to a broadcast network until the SVOD exclusivity period had fully elapsed.",
+      "audio": "week05/day1_vocab_3.mp3"
+    },
+    {
+      "term": "most-favored-nation clause",
+      "pronunciation": "/moʊst ˈfeɪvərd ˈneɪʃən klɔːz/",
+      "definition_cn": "最惠国条款：合同条款，要求授权方给予某一被许可方不低于给予任何第三方的最优惠条件，广泛用于媒体授权谈判以防止差别待遇。",
+      "example": "Invoking the most-favored-nation clause, the streaming platform demanded terms identical to those Paramount had granted its rival in a parallel licensing negotiation.",
+      "audio": "week05/day1_vocab_4.mp3"
+    },
+    {
+      "term": "disgorgement of profits",
+      "pronunciation": "/dɪsˈɡɔːrdʒmənt əv ˈprɒfɪts/",
+      "definition_cn": "利润吐出救济：衡平法救济措施，要求违约方或侵权方将因不当行为所获利润全部返还给受害方，旨在剥夺其因违法行为所取得的经济利益。",
+      "example": "Rather than limiting its claim to expectation damages, the plaintiff sought disgorgement of profits to capture all subscriber revenue the defendant earned by misappropriating the licensed content.",
+      "audio": "week05/day1_vocab_5.mp3"
+    },
+    {
+      "term": "unjustly enriched",
+      "pronunciation": "/ʌnˈdʒʌstli ɪnˈrɪtʃt/",
+      "definition_cn": "不当得利：准合同救济理论，指一方在无合法依据的情况下从另一方处获益，法院据此要求其返还利益以防止显失公平的结果。",
+      "example": "The court found that the licensor had unjustly enriched itself by retaining advance payments while simultaneously routing the covered content to a competing platform.",
+      "audio": "week05/day1_vocab_6.mp3"
+    },
+    {
+      "term": "backend participation",
+      "pronunciation": "/ˈbækˌɛnd pɑːrˌtɪsɪˈpeɪʃən/",
+      "definition_cn": "后端收益分成：指创作者或授权方在作品产生实际商业利润后依合同约定获得一定比例收益分配的权利，区别于预付款等前端报酬安排。",
+      "example": "The creator's backend participation entitlement was rendered worthless by the studio's use of creative accounting to eliminate net profits on paper.",
+      "audio": "week05/day1_vocab_7.mp3"
+    },
+    {
+      "term": "counterclaim",
+      "pronunciation": "/ˈkaʊntərˌkleɪm/",
+      "definition_cn": "反诉：被告在同一诉讼程序中针对原告提出的独立诉讼请求，通常基于同一法律关系或事实，旨在抵销原告诉求或获取独立救济。",
+      "example": "Paramount filed a counterclaim alleging that WBD had failed to remit $52 million in outstanding licensing fees before WBD initiated its breach-of-contract action.",
+      "audio": "week05/day1_vocab_8.mp3"
+    },
+    {
+      "term": "joint venture",
+      "pronunciation": "/dʒɔɪnt ˈvɛntʃər/",
+      "definition_cn": "合营企业：两方或多方为特定商业目的而共同出资、共担风险、共享利润所设立的合同性或实体性商业安排，各方通常保留独立法律主体地位。",
+      "example": "The South Park Digital Studios joint venture, co-owned by the creators and Paramount, became the focal point of the breach claim when it entered into a streaming arrangement that arguably violated the prior HBO Max agreement.",
+      "audio": "week05/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] found that [party] may have '[action]' the [counterparty] by [method], thereby [legal consequence].",
+      "example": "Justice Chan found that Paramount may have 'actively convinced' the SPDS joint venture to breach the WBD agreement by exploiting contractual ambiguity, thereby exposing itself to disgorgement of profits.",
+      "translation_cn": "法院认定，[一方当事人]可能通过[方式]'[行为]'[相对方]，从而导致[法律后果]。"
+    },
+    {
+      "pattern": "[Party] alleged that [counterparty] employed '[tactic]' to circumvent the [contractual provision] and divert [subject matter] to [destination] without [required process].",
+      "example": "WBD alleged that the defendants employed 'grammatical sleight of hand' to circumvent the holdback window embedded in the output deal and divert new South Park content to a rival SVOD platform without triggering the competitive bidding process.",
+      "translation_cn": "[当事人]主张，[对方]采用'[手段]'规避合同中的[特定条款]，在未经[必要程序]的情况下将[标的内容]转移至[目的地]。"
+    },
+    {
+      "pattern": "The ruling opens [scope of discovery], including access to [categories of evidence], enabling [party] to pursue [remedy] alongside [alternative relief].",
+      "example": "The ruling opens full discovery, including access to Paramount's viewership data, subscriber metrics, and profitability figures tied to the South Park library, enabling WBD to pursue disgorgement of profits alongside compensatory damages.",
+      "translation_cn": "该裁定开启了[证据开示范围]，包括获取[证据类别]，使[当事方]得以在寻求[主要救济]的同时主张[替代性救济]。"
+    }
+  ],
+  "summary_cn": "2025年1月，纽约州最高法院裁定华纳兄弟探索（WBD）可就其与派拉蒙签订的5亿美元《南方公园》独家SVOD授权协议提起违约诉讼。WBD主张派拉蒙将新剧集重新包装为\"特别节目\"以规避独占窗口条款，将内容转移至Paramount+平台，构成不当得利。法院允许WBD追索利润吐出救济并进入全面证据开示程序，案件揭示了流媒体时代独家输出协议的结构性法律风险。",
+  "legal_analysis": "① 核心法律问题：本案涉及独家SVOD输出协议的违约认定，核心争议在于合同范围的界定——派拉蒙是否通过对\"剧集\"与\"特别节目\"的文义操控，刻意规避对WBD的独占窗口义务及禁播期限制，构成合同欺诈性规避（evasion of contractual obligation）与不当得利。\n\n② 美国法律框架：本案适用纽约州合同法，法院在解释合同文义时遵循\"整体合同解释原则\"（contra proferentem），即在条款存在歧义时作出不利于起草方的解释。WBD援引衡平法上的不当得利（unjust enrichment）理论，请求利润吐出救济，该救济在普通法框架下独立于违约损害赔偿，尤其适用于被告从侵权行为中获益远超原告实际损失的情形。此外，最惠国条款（MFN clause）在流媒体授权领域可能引发垄断法层面的竞争问题，学界已有文献关注其反竞争效果。\n\n③ 对中国娱乐法律师的实践启示：在起草独家授权协议时，应详细列举受保护内容的分类标准，明确\"剧集\"",
+  "特别节目": "电影",
+  "cn_us_comparison": "在美国，独家流媒体授权协议的违约纠纷适用各州普通合同法，本案适用纽约州法律。合同解释遵循文义优先原则，但在条款存在歧义时法院会诉诸整体合同目的及商业背景进行解释。衡平法上的不当得利救济与利润吐出制度为受害方提供了超越实际损失的救济路径。\n\n在中国，类似纠纷主要受《民法典》合同编规制，第五百零九条确立了诚实信用履约义务，第五百七十七条至五百八十四条规定了违约损害赔偿制度。《著作权法》第五十九条及相关司法解释规范独家授权许可的范围与效力。与美国不同，中国目前尚无独立的衡平法不当得利救济传统，但《民法典》第九百八十五条至九百八十七条明确规定了不当得利返还制度，在功能上与美国的disgorgement remedy存在一定对应关系。此外，中国对流媒体平台独占协议的反垄断审查日趋严格，《反垄断法》第十七条对市场支配地位滥用的规制可能覆盖具有排他效果的最惠国条款安排，与美国学界关于MFN条款反竞争效果的讨论形成呼应。",
+  "podcast_summary": {
+    "episode": "Episode 112: 'Sleight of Hand or Savvy Structuring? The South Park SVOD Breach and the Limits of Exclusive Output Deals'",
+    "description": "本期节目深度解析华纳兄弟探索诉派拉蒙《南方公园》流媒体授权纠纷案。主持人与资深娱乐诉讼律师探讨：当一家制片公司同时经营自有流媒体平台与向竞争对手授权时，独家输出协议的边界究竟在哪里？\"特别节目\"与\"剧集\"的合同定义之争如何引发数亿美元诉讼？法院允许追索利润吐出救济对未来流媒体谈判意味着什么？节目还将结合最惠国条款的反竞争风险，为从业律师提供合同起草的实操建议。",
+    "takeaways": [
+      "在独家授权协议中，受保护内容的形式分类必须穷尽列举，否则对方可能通过重新包装内容形式规避独占义务，形成法律漏洞。",
+      "衡平法上的利润吐出救济（disgorgement of profits）在被告违约获益远超原告可举证损失时具有重要战略价值，谈判时应将其纳入违约救济条款。",
+      "当制片公司同时拥有自有流媒体平台并向竞争对手提供独家授权时，利益冲突结构性地威胁合同履行，律师应在协议中设置内容分发变更的事先通知与审批机制加以防范。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Variety's 2025 Legal Impact Report: Hollywood's Top Attorneys — South Park, Profit Participation, and Streaming Rights Litigation",
+      "url": "https://variety.com/lists/legal-impact-report-2025-hollywood-top-attorneys/",
+      "description_cn": "Variety年度法律影响力报告，聚焦包括《南方公园》SVOD授权诉讼在内的好莱坞顶级娱乐诉讼律师及流媒体分发权纠纷趋势。",
+      "language": "en"
+    },
+    {
+      "title": "Vertical Mergers and the MFN Thicket in Television — Erik Hovenkamp & Neel U. Sukhatme (SSRN / Antitrust Chronicle, 2018)",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3213884",
+      "description_cn": "学术论文，系统分析付费电视与流媒体授权协议中最惠国条款（MFN）的反竞争效果及其对新兴SVOD平台市场准入的潜在封锁影响。",
+      "language": "en"
+    }
+  ],
+  "week": 5,
+  "day": 1,
+  "date": "2026-04-21",
+  "phase": 2,
+  "theme_en": "Streaming & Distribution Rights",
+  "theme_cn": "流媒体与分销权",
+  "audio_file": "week05/day1.mp3"
+}
