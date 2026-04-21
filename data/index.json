@@ -188,7 +188,16 @@
       "theme_cn": "流媒体与分销权",
       "file": "week05/day1.json",
       "audio": "week05/day1.mp3"
+    },
+    {
+      "week": 5,
+      "day": 2,
+      "date": "2026-04-22",
+      "theme_en": "Streaming & Distribution Rights",
+      "theme_cn": "流媒体与分销权",
+      "file": "week05/day2.json",
+      "audio": "week05/day2.mp3"
     }
   ],
-  "last_updated": "2026-04-21"
+  "last_updated": "2026-04-22"
 }
