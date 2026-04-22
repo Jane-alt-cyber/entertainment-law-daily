@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "'South Park' Creators Threaten Legal Action Over Interference on Streaming Deal",
+    "source": "The Hollywood Reporter, June 23, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/south-park-creators-threaten-legal-action-deal-1236297367/",
+    "text": "At the center of one of 2025's most consequential entertainment disputes is South Park Digital Studios (SPDS), a joint venture between creators Trey Parker and Matt Stone and Paramount that holds the SVOD windowing rights to the long-running animated series. When Parker and Stone, through their holding company Park County, began negotiating competing licensing proposals with Warner Bros. Discovery and Netflix, incoming Skydance/Paramount president Jeff Shell allegedly intervened without authorization—conduct that Park County characterized as tortious interference with prospective business relations.\n\nAccording to a cease-and-desist letter transmitted by Park County's general counsel Afshin Beyzaee, Shell purportedly demanded that Warner Bros. Discovery alter the structural terms of its competing bid. Specifically, Shell allegedly pressured WBD to grant Paramount+ an exclusive 12-month holdback window for new episodes and to compress the proposed deal term from ten years to five—modifications that would have materially depressed the value of WBD's offer. Park County's letter stated that Shell had no right or authority to direct SPDS's prospective counterparties to make such modifications, particularly modifications designed to benefit one co-venturer at the joint venture's expense.\n\nThe legal architecture of the dispute turns on joint venture governance. SPDS is administered by a five-member board of managers that includes Paramount affiliate Comedy Partners, an entity with circumscribed authority to act unilaterally on the joint venture's behalf. Park County argued that Skydance and its co-investor Redbird—neither of which had yet received regulatory clearance to close their merger with Paramount—were improperly leveraging confidential SPDS information to influence licensing negotiations before the transaction closed. Skydance countered that the transaction agreement afforded it the right to approve material contracts during the pre-closing period.\n\nThe gravamen of the threatened litigation encompasses several intersecting legal theories: the enforceability of mid-negotiation exclusivity demands inserted by a co-venturer, the fiduciary duties owed among joint venture parties, the permissible scope of pre-closing acquirer conduct under a merger transaction agreement, and tortious interference with prospective business relations. Underlying every dimension of the dispute is a fundamental question of streaming distribution economics: the length of platform-exclusive windows and the multi-year term of a licensing arrangement are core commercial variables that determine the aggregate value of any SVOD output deal, and allegedly manipulating those variables to favor one platform over the joint venture's collective interests is precisely the conduct Park County sought to enjoin.",
+    "word_count": 356
+  },
+  "vocabulary": [
+    {
+      "term": "joint venture",
+      "pronunciation": "/dʒɔɪnt ˈvɛntʃər/",
+      "definition_cn": "合营企业：两个或多个当事方为特定商业目的共同出资、共担风险、共享利益而设立的合同性或实体性合作安排，各方保留独立法律地位。",
+      "example": "The joint venture agreement specified that neither party could unilaterally approve licensing deals exceeding a defined financial threshold.",
+      "audio": "week05/day3_vocab_0.mp3"
+    },
+    {
+      "term": "tortious interference with prospective business relations",
+      "pronunciation": "/ˈtɔːrʃəs ɪntərˈfɪərəns wɪð prəˈspɛktɪv ˈbɪznɪs rɪˈleɪʃənz/",
+      "definition_cn": "侵权性干扰预期商业关系：侵权法上的请求权基础，指第三方以不正当手段故意破坏原告与他方正在磋商中的潜在交易，导致预期经济利益丧失。",
+      "example": "The studio filed a claim for tortious interference with prospective business relations after a rival executive allegedly contacted its licensee to sabotage ongoing negotiations.",
+      "audio": "week05/day3_vocab_1.mp3"
+    },
+    {
+      "term": "cease-and-desist letter",
+      "pronunciation": "/siːs ænd dɪˈzɪst ˈlɛtər/",
+      "definition_cn": "停止侵权函：律师代当事人发出的正式书面通知，要求对方立即停止特定行为，并警告若不停止将提起诉讼，通常作为正式法律程序的前置步骤。",
+      "example": "Park County's general counsel transmitted a cease-and-desist letter demanding that Shell immediately halt any further communications with WBD concerning SPDS deal terms.",
+      "audio": "week05/day3_vocab_2.mp3"
+    },
+    {
+      "term": "holdback window",
+      "pronunciation": "/ˈhoʊldbæk ˈwɪndoʊ/",
+      "definition_cn": "保留期窗口：许可协议中约定的排他性等待期，在此期间版权方不得将内容授权给竞争平台，以保护特定被授权方的独占商业利益。",
+      "example": "Shell allegedly demanded that WBD accept an exclusive 12-month holdback window that would have barred the series from any competing SVOD platform for a full year after each new episode's premiere.",
+      "audio": "week05/day3_vocab_3.mp3"
+    },
+    {
+      "term": "SVOD windowing",
+      "pronunciation": "/ˈɛs viː oʊ diː ˈwɪndoʊɪŋ/",
+      "definition_cn": "订阅视频点播窗口期管理：对订阅制流媒体平台的内容可用时间段进行分层排列的商业策略，决定内容在不同发行渠道上线的先后顺序及时间间隔。",
+      "example": "The parties' dispute over SVOD windowing reflected broader industry tensions about whether platform exclusivity periods should precede or follow other forms of digital release.",
+      "audio": "week05/day3_vocab_4.mp3"
+    },
+    {
+      "term": "board of managers",
+      "pronunciation": "/bɔːrd əv ˈmænɪdʒərz/",
+      "definition_cn": "管理委员会：有限责任公司或合营实体的治理机构，由各成员方委派代表组成，负责对重大经营决策行使集体决定权，类似于公司董事会。",
+      "example": "Because the SPDS board of managers required multi-party consent for material licensing decisions, Shell's unilateral demands were alleged to fall outside the scope of any authorized governance action.",
+      "audio": "week05/day3_vocab_5.mp3"
+    },
+    {
+      "term": "fiduciary duties",
+      "pronunciation": "/fɪˈdjuːʃiɛri ˈdjuːtɪz/",
+      "definition_cn": "受信义务：受托人（如合营方、董事）依法对受益方所负的忠诚、谨慎等最高级别法律义务，要求受托人将受益方利益置于自身利益之上，不得谋取私利。",
+      "example": "Park County contended that Shell's alleged manipulation of competing bids constituted a breach of the fiduciary duties owed by each co-venturer to the joint venture as a whole.",
+      "audio": "week05/day3_vocab_6.mp3"
+    },
+    {
+      "term": "transaction agreement",
+      "pronunciation": "/trænˈzækʃən əˈɡriːmənt/",
+      "definition_cn": "并购交易协议：在并购交易中，收购方与目标方签订的正式合同，规定交割条件、过渡期行为限制及各方在监管审批期间的权利义务边界。",
+      "example": "Skydance relied on a provision in the transaction agreement purporting to grant it approval rights over material contracts entered into by Paramount subsidiaries prior to closing.",
+      "audio": "week05/day3_vocab_7.mp3"
+    },
+    {
+      "term": "output deal",
+      "pronunciation": "/ˈaʊtpʊt diːl/",
+      "definition_cn": "全量授权协议：制作方与平台之间的一揽子许可安排，约定平台在特定期限内取得制作方未来产出的全部或特定类别内容的优先或独家授权，价值高度依赖期限长短。",
+      "example": "The proposed ten-year output deal would have secured WBD's rights to every future season of the series, making the compression to five years a commercially significant concession.",
+      "audio": "week05/day3_vocab_8.mp3"
+    },
+    {
+      "term": "regulatory clearance",
+      "pronunciation": "/ˌrɛɡjʊləˌtɔːri ˈklɪərəns/",
+      "definition_cn": "监管审批：并购交易正式交割前须取得的政府竞争主管机关（如美国司法部或联邦贸易委员会）批准，未获批准前收购方通常不得对目标公司施加实质性控制。",
+      "example": "Because regulatory clearance had not yet been obtained, Park County argued that Skydance lacked any legal basis to direct SPDS's licensing negotiations as though the merger had already closed.",
+      "audio": "week05/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged that [opposing party] [specific unauthorized conduct], characterizing the conduct as [legal theory].",
+      "example": "Park County alleged that Shell had demanded that WBD alter the structural terms of its bid, characterizing the conduct as tortious interference with prospective business relations.",
+      "translation_cn": "Park County指控Shell要求WBD修改其出价的结构性条款，将该行为定性为侵权性干扰预期商业关系。"
+    },
+    {
+      "pattern": "The [governing instrument] afforded [party] the right to [specific action], but that right was circumscribed by [limiting condition].",
+      "example": "The transaction agreement afforded Skydance the right to approve material contracts, but that right was circumscribed by the requirement that regulatory clearance first be obtained.",
+      "translation_cn": "交易协议赋予Skydance审批重大合同的权利，但该权利受制于须首先取得监管审批这一前提条件。"
+    },
+    {
+      "pattern": "Manipulating [key commercial variable] in favor of [one party] at the expense of [another party's interest] constitutes the gravamen of the [legal claim].",
+      "example": "Manipulating the holdback window and deal term in favor of Paramount+ at the expense of the joint venture's collective interests constitutes the gravamen of Park County's tortious interference claim.",
+      "translation_cn": "以牺牲合营企业整体利益为代价，操纵保留期窗口和协议期限以利于Paramount+，构成Park County侵权干扰主张的核心要旨。"
+    }
+  ],
+  "summary_cn": "2025年6月，南方公园创作者帕克与斯通通过其控股公司Park County，就合营实体SPDS的流媒体许可谈判向Skydance/派拉蒙主席谢尔发出停止侵权函，指控其在未获授权的情况下要求WBD压缩独占窗口期并缩短协议期限，损害了合营企业的整体利益，触发了侵权干扰及合营方受信义务等多项法律争议。",
+  "legal_analysis": "① 核心法律问题：本案涉及三个相互交织的法律核心：其一，合营方能否在缺乏治理机构授权的情形下以合营企业名义向第三方施压，要求修改许可条款；其二，并购交易的拟议收购方在监管审批完成前，能否依据交易协议中的\"重大合同审批权\"条款对目标公司子公司的许可决策实施实质性干预；其三，上述行为是否构成侵权性干扰预期商业关系及违反合营方间的受信义务。\n\n② 美国法律框架分析：在侵权法层面，侵权性干扰预期商业关系要求原告证明：存在合理的经济利益预期、被告知悉该预期、被告以不正当手段故意实施干扰，以及因果关系与损害。本案中WBD出价被压低的主张较易满足损害要件。在公司治理层面，特拉华州LLC法将成员权利严格限定于经营协议约定范围，超越授权范围的单方行为可归于越权（ultra vires）。并购领域则适用\"普通业务例外\"原则，即目标公司在交割前仍应在正常经营范围内独立运营，收购方不得提前施加控制。\n\n③ 对中国娱乐法律师的实践启示：谈判多方授权许可协议时，应在合营协议中明确约定许可授权的决策层级与有效表决门槛，防止单一合营方架空治理程序；并购过渡期条款应精确界定\"重大合同\"的认定标准及收购方介入权的边界，以降低类似争议风险。",
+  "cn_us_comparison": "美国法律框架下，本案所涉合营企业治理主要适用特拉华州《有限责任公司法》，成员权利与义务由经营协议自治约定，受信义务（忠诚义务与注意义务）以判例法为基础发展，对合营方之间同样适用。侵权性干扰请求权则源于普通法侵权体系，无需合同关系即可成立。\n\n中国法律体系下，类似情形主要适用《中华人民共和国公司法》（2023年修订）关于股东权利与董事会权限的规定，以及《中华人民共和国合伙企业法》中的合伙人受信义务条款。《民法典》第九百二十九条确立了受托人的忠实与勤勉义务，可类比美国法上的受信义务。就不当干扰第三方交易而言，中国法通常援引《反不正当竞争法》第二条的一般条款或《民法典》侵权责任编中的\"故意以违背善良风俗的方式加害他人\"条款，但尚无独立的\"侵权性干扰预期商业关系\"请求权类型，保护范围相对较窄。此外，中国法对合营企业过渡期并购行为的规制尚不及美国成熟，实践中主要依赖《经营者集中审查规定》的事前申报机制加以约束。",
+  "podcast_summary": {
+    "episode": "Who Controls the Deal? Joint Venture Authority, Pre-Closing Overreach, and the South Park Streaming War",
+    "description": "本期节目深度剖析2025年度最受瞩目的流媒体版权争议——South Park合营企业治理危机。主持人将带领听众逐层拆解：当并购收购方在监管审批完成前试图主导目标公司子合营企业的许可谈判时，法律边界究竟在哪里？独占窗口期的长短如何从根本上影响内容许可协议的经济价值？合营方之间的受信义务又如何约束各方在商业谈判中的行为？节目还将讨论本案对中国企业赴美合作设立合营企业、参与内容授权谈判的实务启示。",
+    "takeaways": [
+      "合营协议中的治理条款必须明确授权边界：任何超越经营协议约定范围的单方许可决策均存在被认定为越权行为并引发受信义务诉讼的风险。",
+      "并购过渡期的行为限制条款是高风险谈判节点：收购方在未获监管审批前介入目标公司重大合同谈判，可能同时触发目标方的违约救济与监管合规风险。",
+      "流媒体独占窗口期的期限设定本质上是价值分配博弈：窗口期越长、协议期限越短，内容权利方可谈判的整体价值就越低，理解这一经济逻辑是处理许可争议的基础前提。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Breaching 45-Day Theatrical Window Will Hurt Movie Studios (Column)",
+      "url": "https://deadline.com/2026/02/theatrical-window-end-will-devastate-movie-studios-1236710441/",
+      "description_cn": "制片人Joseph M. Singer在《Deadline》发表专栏，论证压缩45天院线独占窗口期将从结构上损害制片厂的下游许可收入及整体分发生态。",
+      "language": "en"
+    },
+    {
+      "title": "Exclusive Contracts in the Video Streaming Market",
+      "url": "https://yihao-yuan.github.io/MyWebsite/streaming_exclusivity.pdf",
+      "description_cn": "经济学家袁一豪的2025年学术工作论文，运用结构性实证方法分析独家许可协议如何重塑流媒体平台间的议价博弈与内容分发决策。",
+      "language": "en"
+    }
+  ],
+  "week": 5,
+  "day": 3,
+  "date": "2026-04-23",
+  "phase": 2,
+  "theme_en": "Streaming & Distribution Rights",
+  "theme_cn": "流媒体与分销权",
+  "audio_file": "week05/day3.mp3"
+}
