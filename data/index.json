@@ -206,7 +206,16 @@
       "theme_cn": "流媒体与分销权",
       "file": "week05/day3.json",
       "audio": "week05/day3.mp3"
+    },
+    {
+      "week": 6,
+      "day": 1,
+      "date": "2026-04-28",
+      "theme_en": "Music Industry Law",
+      "theme_cn": "音乐产业法律",
+      "file": "week06/day1.json",
+      "audio": "week06/day1.mp3"
     }
   ],
-  "last_updated": "2026-04-23"
+  "last_updated": "2026-04-28"
 }
