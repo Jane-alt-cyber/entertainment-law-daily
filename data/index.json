@@ -215,7 +215,16 @@
       "theme_cn": "音乐产业法律",
       "file": "week06/day1.json",
       "audio": "week06/day1.mp3"
+    },
+    {
+      "week": 6,
+      "day": 2,
+      "date": "2026-04-29",
+      "theme_en": "Music Industry Law",
+      "theme_cn": "音乐产业法律",
+      "file": "week06/day2.json",
+      "audio": "week06/day2.mp3"
     }
   ],
-  "last_updated": "2026-04-28"
+  "last_updated": "2026-04-29"
 }

@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "Spotify Beats MLC Audiobook Lawsuit After Judge Calls Federal Royalty Rules 'Unambiguous'",
+    "source": "Billboard, January 30, 2025",
+    "url": "https://www.billboard.com/pro/spotify-beats-mlc-audiobook-lawsuit-federal-royalty-rules/",
+    "text": "On January 29, 2025, U.S. District Judge Analisa Torres of the Southern District of New York dismissed a landmark suit brought by the Mechanical Licensing Collective (MLC) against Spotify, ruling that federal royalty regulations were 'unambiguous' in permitting Spotify to claim a reduced mechanical royalty rate after reclassifying its Premium, Duo, and Family subscription tiers as bundled offerings.\n\nThe dispute traces to November 2023, when Spotify added fifteen hours of monthly audiobook access to those tiers, then formally reclassified them as 'bundles' in March 2024. Under Phonorecords IV — the 2022 Copyright Royalty Board settlement governing statutory mechanical rates through 2027 — a bundled multimedia service is entitled to pay a lower mechanical royalty rate than a standalone music subscription. The MLC, the non-profit designated by the U.S. Copyright Office to administer the blanket compulsory mechanical license under Section 115 of the Copyright Act, filed suit in May 2024. It contended that Spotify had 'unilaterally and unlawfully' reduced royalty payments, and that the Premium tier remained substantively identical to its prior form.\n\nSpotify moved to dismiss in August 2024, characterizing the MLC's allegations as 'nonsensical.' Judge Torres granted the motion, holding that 'audiobook streaming is a product or service that is distinct from music streaming and has more than token value,' thereby satisfying the statutory definition of a bundle. Critically, the court rejected the MLC's pretextual intent argument, reasoning that Spotify's motivation for reclassification was legally irrelevant once the offering met the objective definitional threshold. The case was dismissed without leave to refile, on the ground that amendment would be futile.\n\nThe MLC estimated that the lower bundled rate would cost songwriters and music publishers approximately $150 million or more per year in lost U.S. mechanical royalties. Judge Torres noted, however, that Spotify had 'likely paid more in royalties to the MLC than it was otherwise required to pay' by delaying its bundle claim until March 2024. The MLC subsequently filed a motion for reconsideration, which was granted, reopening the dispute on narrower grounds — including allegations regarding Spotify's valuation methodology for service provider revenue. Total back-royalty exposure is estimated at approximately $290 million, making this one of the most consequential mechanical licensing disputes in U.S. music publishing history.",
+    "word_count": 348
+  },
+  "vocabulary": [
+    {
+      "term": "Mechanical Licensing Collective",
+      "pronunciation": "/məˈkænɪkəl ˈlaɪsənsɪŋ kəˈlɛktɪv/",
+      "definition_cn": "机械许可集体组织，由美国版权局依《音乐现代化法》指定，负责管理第115条项下的强制性机械许可，代表词曲作者和出版商向数字服务提供商收取机械版税。",
+      "example": "The Mechanical Licensing Collective administers blanket compulsory licenses on behalf of songwriters throughout the United States.",
+      "audio": "week06/day2_vocab_0.mp3"
+    },
+    {
+      "term": "compulsory mechanical license",
+      "pronunciation": "/kəmˈpʌlsəri məˈkænɪkəl ˈlaɪsəns/",
+      "definition_cn": "强制性机械许可，依美国版权法第115条，数字服务提供商在支付法定版税率后，无需逐一获得版权人同意即可合法复制和传播受保护的音乐作品。",
+      "example": "A compulsory mechanical license allows digital distributors to reproduce musical compositions without individually negotiating with each copyright holder.",
+      "audio": "week06/day2_vocab_1.mp3"
+    },
+    {
+      "term": "Phonorecords IV",
+      "pronunciation": "/ˈfoʊnoʊrɛkərdz fɔːr/",
+      "definition_cn": "《留声机唱片IV》，美国版权仲裁委员会2022年达成的版税率协议，规定2023至2027年数字音频录音的法定机械版税率及捆绑服务的差别费率标准。",
+      "example": "Under Phonorecords IV, a bundled multimedia offering qualifies for a lower statutory mechanical rate than a standalone subscription.",
+      "audio": "week06/day2_vocab_2.mp3"
+    },
+    {
+      "term": "Copyright Royalty Board",
+      "pronunciation": "/ˈkɒpiraɪt ˈrɔɪəlti bɔːrd/",
+      "definition_cn": "版权版税委员会，美国联邦机构，负责制定并裁定法定版税率，适用于强制性许可场景，包括数字音频录音的机械版税和网络广播版税。",
+      "example": "The Copyright Royalty Board sets the statutory rates that streaming services must pay for mechanical reproduction of musical compositions.",
+      "audio": "week06/day2_vocab_3.mp3"
+    },
+    {
+      "term": "Section 115 of the Copyright Act",
+      "pronunciation": "/ˈsɛkʃən wʌn ˈfɪftiːn əv ðə ˈkɒpiraɪt ækt/",
+      "definition_cn": "《版权法》第115条，美国联邦法律条款，为数字服务提供商创设强制性机械许可制度，规定符合条件的服务商可按法定费率合法使用音乐作品而无需单独谈判授权。",
+      "example": "Section 115 of the Copyright Act provides the statutory framework under which the MLC issues blanket mechanical licenses to digital service providers.",
+      "audio": "week06/day2_vocab_4.mp3"
+    },
+    {
+      "term": "bundled multimedia service",
+      "pronunciation": "/ˈbʌndəld ˌmʌltiˈmiːdiə ˈsɜːrvɪs/",
+      "definition_cn": "捆绑多媒体服务，指将音乐订阅与一种或多种具有实质价值的非音乐数字产品（如有声书、播客）组合销售的服务，在Phonorecords IV下适用较低的法定机械版税率。",
+      "example": "Once Spotify added audiobook access with genuine value, its Premium tier qualified as a bundled multimedia service under the applicable rate schedule.",
+      "audio": "week06/day2_vocab_5.mp3"
+    },
+    {
+      "term": "motion to dismiss",
+      "pronunciation": "/ˈmoʊʃən tə dɪsˈmɪs/",
+      "definition_cn": "驳回申请，被告在诉讼早期提出的程序性动议，主张即便接受原告所有事实陈述为真，原告所诉请求在法律上亦不成立，请求法院在实质审理前终止诉讼。",
+      "example": "Spotify filed a motion to dismiss in August 2024, arguing that the MLC's complaint failed to state a legally cognizable claim.",
+      "audio": "week06/day2_vocab_6.mp3"
+    },
+    {
+      "term": "without leave to refile",
+      "pronunciation": "/wɪˈðaʊt liːv tə riːˈfaɪl/",
+      "definition_cn": "不予修订重诉，法院驳回诉状时同时禁止原告提交修正诉状的裁定方式，通常表明法院认定诉因在法律上根本不可救济，任何修改均属徒劳。",
+      "example": "The judge dismissed the MLC's complaint without leave to refile, concluding that no amendment could cure its fundamental legal deficiencies.",
+      "audio": "week06/day2_vocab_7.mp3"
+    },
+    {
+      "term": "motion for reconsideration",
+      "pronunciation": "/ˈmoʊʃən fɔːr rɪˌkənsɪdəˈreɪʃən/",
+      "definition_cn": "复议申请，败诉方在判决后向同一法院提出的请求，要求法院重新审查此前裁定，通常须证明存在法律错误、新证据或其他足以推翻原裁定的特殊情形。",
+      "example": "The MLC's motion for reconsideration was granted in September 2025, allowing it to plead new theories regarding Spotify's revenue calculation methodology.",
+      "audio": "week06/day2_vocab_8.mp3"
+    },
+    {
+      "term": "service provider revenue",
+      "pronunciation": "/ˈsɜːrvɪs prəˈvaɪdər ˈrɛvənjuː/",
+      "definition_cn": "服务提供商收入，在机械版税计算中，指流媒体平台用于确定应付机械版税基数的合格收入总额，其构成与计算方法直接影响词曲作者和出版商的实际收益。",
+      "example": "The amended complaint challenged how Spotify valued the audiobook component when calculating its total service provider revenue for royalty purposes.",
+      "audio": "week06/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] held that [legal standard], thereby [legal consequence].",
+      "example": "Judge Torres held that audiobook streaming had 'more than token value,' thereby satisfying the statutory definition of a bundled multimedia service.",
+      "translation_cn": "托雷斯法官裁定有声书流媒体具有'超出象征性的实质价值'，从而满足捆绑多媒体服务的法定定义。"
+    },
+    {
+      "pattern": "[Party] filed suit alleging that [defendant] had 'unilaterally and unlawfully' [action], contending that [supporting argument].",
+      "example": "The MLC filed suit alleging that Spotify had 'unilaterally and unlawfully' reduced royalty payments, contending that the Premium tier remained substantively identical to its prior form.",
+      "translation_cn": "MLC提起诉讼，指控Spotify'单方面且非法地'削减版税支付，主张Premium套餐在实质上与其原有形式并无区别。"
+    },
+    {
+      "pattern": "The case was dismissed [procedural outcome], on the ground that [legal rationale], though [party] retained the right to [remedy].",
+      "example": "The case was dismissed without leave to refile, on the ground that amendment would be futile, though the MLC retained the right to appeal.",
+      "translation_cn": "本案被裁定驳回且不得修订重诉，理由是任何修正均属徒劳，但MLC保留提起上诉的权利。"
+    }
+  ],
+  "summary_cn": "2025年1月，纽约南区联邦法院裁定Spotify胜诉，驳回机械许可集体组织（MLC）的诉讼。法院认定，Spotify将Premium等套餐重新定性为捆绑多媒体服务后，依Phonorecords IV协议有权适用较低的法定机械版税率，且其重新定性动机不影响法律分类。此案涉及潜在追溯版税损失约2.9亿美元，是美国音乐出版领域最具影响力的机械许可纠纷之一。",
+  "legal_analysis": "① 核心法律问题：本案争点在于Spotify将Premium订阅重新定性为'捆绑多媒体服务'后，是否有权依Phonorecords IV适用较低的法定机械版税率，以及法院在解释版权版税委员会规则时应采用何种标准。\n\n② 美国法律框架分析：美国《版权法》第115条建立了强制性机械许可制度，允许数字服务提供商在向MLC支付法定费率后使用音乐作品，无需逐一协商。版权版税委员会通过Phonorecords IV确立了'捆绑服务'的差别费率结构，客观地要求非音乐组件具有'超出象征性的实质价值'。托雷斯法官采用文本主义解释方法，认定法规语义清晰，拒绝引入主观动机审查，体现了美国法院在解释行政机构制定的版税规则时的克制立场。\n\n③ 对中国娱乐法律师的实践启示：第一，中国目前尚无类似强制性机械许可的成熟制度，音乐版权授权主要依赖逐一协商或集体管理组织（如中国音乐著作权协会）的集体许可，法律确定性相对较低。第二，当流媒体平台在中国推出捆绑订阅产品时，版权授权范围和费率计算基础应在合同中明确约定，以避免事后争议。第三，本案提示中国从业者关注版税计算基数的定义条款，尤其是在多产品捆绑销售场景下服务收入的归因与分摊方式。",
+  "cn_us_comparison": "美国《版权法》第115条建立的强制性机械许可制度是美国独有的法定许可路径，数字平台无需版权人同意即可获得许可，但须按版权版税委员会裁定的法定费率支付报酬，MLC负责集中收取和分配。相比之下，中国《著作权法》（2020年修订）第二十四条规定了法定许可情形，但其适用范围较窄，主要涵盖教育、报道等特定场景，尚未建立针对数字音乐流媒体的全面法定许可制度。中国音乐著作权协会（MCSC）虽依《著作权集体管理条例》运营，但其覆盖范围和授权效力在实践中仍受到一定限制，平台通常仍需与版权人或唱片公司单独谈判。此外，美国Phonorecords IV的'捆绑服务'差别费率机制在中国现行制度下亦无直接对应规定，中国立法在多产品订阅场景下的版税计算规则有待进一步细化。",
+  "podcast_summary": {
+    "episode": "Bundle of Trouble: How Spotify's Audiobook Play Rewrote the Mechanical Royalty Rulebook",
+    "description": "本期节目深度解析MLC诉Spotify机械版税案：从Phonorecords IV捆绑服务条款的立法背景，到托雷斯法官'文义明确'的裁定逻辑，再到词曲作者每年逾1.5亿美元的潜在版税损失。节目邀请版权法专家分析强制性机械许可制度的制度设计缺陷，探讨Phonorecords IV到期后（2027年）新一轮费率谈判的走向，并就捆绑订阅模式对全球音乐出版商的战略影响提供实务建议。",
+    "takeaways": [
+      "法院采用文本主义解释Phonorecords IV，认定'捆绑服务'认定标准为客观测试，服务商的主观动机不影响法律分类结果。",
+      "Spotify的捆绑重新定性策略每年可为其节省逾1.5亿美元机械版税，此案将深刻影响其他流媒体平台的产品包装策略。",
+      "MLC的复议申请被批准后，案件焦点转向服务提供商收入的计算方式，提示版税合同中收入归因条款的精确定义至关重要。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Music Publishers Sued By X in Growing Licensing Battle",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/x-sues-music-publishers-over-licensing-negotiations-1236468524/",
+      "description_cn": "X（前身为Twitter）在德克萨斯联邦法院起诉NMPA及18家主要音乐出版商，指控其涉嫌违反反垄断法，协同施压迫使X以虚高价格购买音乐作品许可。",
+      "language": "en"
+    },
+    {
+      "title": "Spotify vs. The Mechanical Licensing Collective: A 'Unambiguous' Royalties Battle",
+      "url": "https://wjlta.com/2025/02/16/spotify-vs-the-mechanical-licensing-collective-a-unambiguous-royalties-battle/",
+      "description_cn": "华盛顿法律、技术与艺术杂志对MLC诉Spotify案的学术法律分析，深入探讨Phonorecords IV框架、第115条强制许可制度及2027年到期后的版税政策走向。",
+      "language": "en"
+    }
+  ],
+  "week": 6,
+  "day": 2,
+  "date": "2026-04-29",
+  "phase": 2,
+  "theme_en": "Music Industry Law",
+  "theme_cn": "音乐产业法律",
+  "audio_file": "week06/day2.mp3"
+}
