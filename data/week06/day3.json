@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "The 7 Biggest Music Publishing Stories of 2025: PRO Scrutiny, AI, Spotify & More",
+    "source": "Billboard.com, December 10, 2025",
+    "url": "https://www.billboard.com/lists/biggest-music-publishing-stories-2025-ai-spotify-more/",
+    "text": "The most consequential music publishing and licensing disputes of 2025 centered on mechanical royalty rates, performing rights organization regulation, and the emerging frontier of AI licensing — each exposing structural tensions within the statutory framework established by the Music Modernization Act.\n\nAt the heart of the year's litigation was the Mechanical Licensing Collective (MLC), the statutory body created under the Music Modernization Act to administer blanket mechanical licenses for digital audio reproductions. The MLC filed a federal lawsuit against Spotify, alleging that Spotify unlawfully reclassified its Premium, Duo, and Family subscription plans as 'bundles' by adding audiobook access beginning March 1, 2024. Under the Phonorecords IV rate-setting determination, bundle classification triggers a lower mechanical royalty rate, and the MLC estimated this reclassification reduced songwriter and publisher payouts by approximately $150 million annually. A federal judge initially ruled against the MLC, finding Spotify's reclassification was supported by 'unambiguous regulations.' The MLC successfully moved for reconsideration, however, and the U.S. Southern District of New York reinstated the case in September 2025. The MLC refiled its amended complaint in October 2025, with Spotify filing its responsive pleading shortly thereafter.\n\nOn the regulatory front, the Copyright Office launched a Notice of Inquiry into performing rights organization practices in February 2025 at Congress's request. The inquiry concluded in November with a finding that no structural changes to PRO oversight were required, though a House Judiciary Committee member subsequently referred the matter to the FTC, alleging deceptive practices by newer PROs.\n\nThe AI licensing landscape shifted significantly when both Universal Music Group and Warner Music Group settled copyright infringement suits against AI music generators Udio and Suno. These settlements established licensing frameworks covering both master recordings — the fixed recorded performance owned typically by a record label — and publishing, meaning the underlying musical composition. Spotify also executed direct licensing deals with Sony, UMG, and WMG encompassing both masters and compositions, even as publishers remained in open conflict over the bundling dispute. Further uncertainty arose from the firing and subsequent reinstatement of Register of Copyrights Shira Perlmutter, a federal official whose oversight of mechanical royalty regulations proved pivotal to the ongoing MLC litigation.",
+    "word_count": 324
+  },
+  "vocabulary": [
+    {
+      "term": "mechanical royalty",
+      "pronunciation": "/məˈkænɪkəl ˈrɔɪəlti/",
+      "definition_cn": "机械版税：著作权人因他人复制其音乐作品（如录音或数字流媒体传输）而依法或依约获得的报酬，源自美国《版权法》第115条强制许可制度。",
+      "example": "The streaming platform's bundle reclassification reduced the applicable mechanical royalty rate, costing songwriters an estimated $150 million per year.",
+      "audio": "week06/day3_vocab_0.mp3"
+    },
+    {
+      "term": "blanket mechanical license",
+      "pronunciation": "/ˈblæŋkɪt məˈkænɪkəl ˈlaɪsəns/",
+      "definition_cn": "一揽子机械许可：经法定机构授予的许可证，允许被许可方在特定期间内使用特定权利管理机构管辖范围内的所有音乐作品，无需逐一谈判。",
+      "example": "The Music Modernization Act tasked the MLC with administering a blanket mechanical license on behalf of all eligible songwriters and publishers.",
+      "audio": "week06/day3_vocab_1.mp3"
+    },
+    {
+      "term": "Phonorecords IV",
+      "pronunciation": "/ˌfoʊnoʊˈrɛkərdz fɔːr/",
+      "definition_cn": "《唱片IV》费率裁决：美国版权版税法庭就2023–2027年度数字音乐机械版税费率作出的第四轮法定裁决，确定了各类订阅服务的版税计算方式。",
+      "example": "Under Phonorecords IV, a service classified as a bundle is subject to a lower mechanical royalty rate than a standalone music subscription.",
+      "audio": "week06/day3_vocab_2.mp3"
+    },
+    {
+      "term": "performing rights organization",
+      "pronunciation": "/pərˈfɔːrmɪŋ raɪts ˌɔːrɡənɪˈzeɪʃən/",
+      "definition_cn": "表演权组织（PRO）：代表词曲作者和出版商集体管理公开表演权、收取并分配表演版税的机构，美国主要PRO包括ASCAP、BMI和SESAC。",
+      "example": "The Copyright Office's Notice of Inquiry scrutinized whether performing rights organization practices adequately protected songwriter interests.",
+      "audio": "week06/day3_vocab_3.mp3"
+    },
+    {
+      "term": "Notice of Inquiry",
+      "pronunciation": "/ˈnoʊtɪs əv ɪnˈkwaɪəri/",
+      "definition_cn": "调查通知：美国联邦机构就特定政策议题向公众征询意见的正式程序，通常为监管或立法改革提供事实依据。",
+      "example": "The Copyright Office issued a Notice of Inquiry in February 2025 to gather information on PRO transparency and governance.",
+      "audio": "week06/day3_vocab_4.mp3"
+    },
+    {
+      "term": "master recordings",
+      "pronunciation": "/ˈmæstər rɪˈkɔːrdɪŋz/",
+      "definition_cn": "母版录音：音乐作品最终混音版本的固定录音，通常由唱片公司持有版权，有别于词曲作者持有的音乐作品（composition）版权。",
+      "example": "The AI music generator settlements established licensing frameworks covering both master recordings and the underlying musical compositions.",
+      "audio": "week06/day3_vocab_5.mp3"
+    },
+    {
+      "term": "musical composition",
+      "pronunciation": "/ˈmjuːzɪkəl ˌkɒmpəˈzɪʃən/",
+      "definition_cn": "音乐作品（曲谱作品）：指由旋律、和声与歌词构成的抽象音乐创作，版权独立于录音版权而存在，通常由出版商管理。",
+      "example": "Spotify's direct licensing deals covered both master recordings and the musical composition rights held by publishers.",
+      "audio": "week06/day3_vocab_6.mp3"
+    },
+    {
+      "term": "amended complaint",
+      "pronunciation": "/əˈmɛndɪd kəmˈpleɪnt/",
+      "definition_cn": "修正诉状：原告在初始诉状基础上提交的修改版本，通常用于补充事实陈述、修正法律请求或回应法院裁定，须经法院许可或依程序规则提交。",
+      "example": "After winning reconsideration, the MLC refiled its amended complaint in October 2025, incorporating updated factual allegations against Spotify.",
+      "audio": "week06/day3_vocab_7.mp3"
+    },
+    {
+      "term": "reconsideration",
+      "pronunciation": "/ˌriːkənˌsɪdəˈreɪʃən/",
+      "definition_cn": "再审议动议：当事方请求法院重新审查其先前裁定的程序性申请，通常以法律错误或新证据为由，属于上诉前的救济手段。",
+      "example": "The MLC's motion for reconsideration succeeded, leading the Southern District of New York to reinstate the case in September 2025.",
+      "audio": "week06/day3_vocab_8.mp3"
+    },
+    {
+      "term": "Register of Copyrights",
+      "pronunciation": "/ˈrɛdʒɪstər əv ˈkɒpɪraɪts/",
+      "definition_cn": "版权登记局局长：美国版权局的最高行政官员，负责监督版权政策制定、版税法规实施及国会咨询职能，其任免对版权监管具有重大法律影响。",
+      "example": "The firing and subsequent reinstatement of Register of Copyrights Shira Perlmutter created regulatory uncertainty throughout the MLC litigation.",
+      "audio": "week06/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Statutory body] alleged that [party] unlawfully [action], thereby triggering [legal consequence] and reducing [beneficiary] payouts by [amount].",
+      "example": "The MLC alleged that Spotify unlawfully reclassified its subscription plans as 'bundles,' thereby triggering a lower mechanical royalty rate and reducing songwriter payouts by an estimated $150 million annually.",
+      "translation_cn": "机械许可集体组织主张，Spotify非法将其订阅套餐重新归类为\"捆绑包\"，从而触发更低的机械版税费率，致使词曲作者每年损失约1.5亿美元。"
+    },
+    {
+      "pattern": "A federal judge initially ruled that [finding], but [party] successfully moved for reconsideration, and the court reinstated the case in [timeframe].",
+      "example": "A federal judge initially ruled that Spotify's reclassification was supported by 'unambiguous regulations,' but the MLC successfully moved for reconsideration, and the court reinstated the case in September 2025.",
+      "translation_cn": "联邦法官最初裁定Spotify的重新分类有\"明确法规\"支持，但机械许可集体组织成功申请再审议，法院于2025年9月恢复了本案审理。"
+    },
+    {
+      "pattern": "The settlements established licensing frameworks covering both [right type A] and [right type B], signaling a shift toward [broader legal development].",
+      "example": "The Udio and Suno settlements established licensing frameworks covering both master recordings and musical compositions, signaling a shift toward negotiated AI licensing in lieu of litigation.",
+      "translation_cn": "针对Udio和Suno的和解协议建立了涵盖母版录音与音乐作品的许可框架，标志着业界开始以谈判式AI授权取代诉讼途径。"
+    }
+  ],
+  "summary_cn": "2025年音乐出版领域最受关注的法律事件包括：机械许可集体组织（MLC）就Spotify捆绑包重新分类导致机械版税减少约1.5亿美元提起联邦诉讼，并经历初审败诉、再审议成功、案件恢复审理的曲折过程；版权局就表演权组织透明度展开调查；以及环球、华纳与AI音乐生成平台Udio、Suno就主版权和出版权达成和解，初步确立AI授权框架。",
+  "legal_analysis": "① 核心法律问题：本文核心争议在于数字音乐服务商能否通过在订阅套餐中捆绑非音乐内容（如有声书），合法触发《唱片IV》裁决下较低的机械版税费率，本质上是对美国《版权法》第115条强制许可制度及版权版税法庭费率裁决的解释权之争。\n\n② 美国法律框架：《音乐现代化法案》（Music Modernization Act, 2018）设立MLC作为统一的机械版税征收机构，并由版权版税法庭（Copyright Royalty Board）以《唱片》系列裁决周期性确定法定费率。服务商的产品形态（standalone vs. bundle）直接决定适用费率层级。Spotify通过捆绑有声书内容改变产品定性，实质上是利用监管定义的模糊地带进行费率套利，触发了MLC的实质性程序应对——包括运用联邦民事诉讼规则中的再审议动议（Rule 59/60）机制。\n\n③ 对中国娱乐法律师的实践启示：中国版权授权实践中，平台常以\"综合文化服务\"为由进行捆绑销售，版税分配机制尚不透明。本案提示中国律师在代理版权集体管理组织或出版商时，应在许可协议中明确界定\"捆绑服务\"的定义边界与费率触发条件，防范平台借产品形态调整规避版税义务的法律风险。",
+  "cn_us_comparison": "美国《版权法》第115条确立的强制机械许可制度，由版权版税法庭周期性裁定费率，MLC统一征收分配，形成法定费率加集体管理的双轨结构。中国《著作权法》（2020年修订）第八条同样规定著作权集体管理组织可代表权利人许可使用并收取报酬，中国音乐著作权协会（MCSC）承担类似MLC的职能，但中国尚无类似版权版税法庭的独立费率裁决机构，费率主要由国家版权局通过行政规章（如《著作权集体管理条例》）及协议确定，法定强制许可的适用范围亦较美国更为有限。此外，美国PRO受联邦反垄断法及同意令（consent decree）约束，许可费率受司法部监管；中国集体管理组织的收费标准及分配透明度则依赖行政监管，司法审查路径相对有限。两国制度均面临数字流媒体时代版税计算方式滞后于商业现实的共同挑战。",
+  "podcast_summary": {
+    "episode": "Bundle Trouble: How Spotify's Audiobook Play Sparked a $150M Royalty War — and What It Means for Every Streaming Deal",
+    "description": "本集节目深度解析2025年度最具争议的流媒体版税法律战：Spotify通过在订阅套餐中捆绑有声书服务，将产品定性从\"独立音乐订阅\"变更为\"捆绑包\"，触发更低机械版税费率，导致词曲作者和出版商每年损失约1.5亿美元。我们将带您梳理MLC联邦诉讼的完整程序轨迹——从初审败诉到再审议成功再到修正诉状——并邀请版权法专家分析《唱片IV》裁决的费率结构漏洞，以及AI许可和解对整个音乐出版生态的深远影响。",
+    "takeaways": [
+      "产品形态定性（standalone vs. bundle）在美国法定版税体系中具有决定性的费率法律后果，平台可借此合法或争议性地降低版税义务。",
+      "再审议动议是联邦诉讼中的重要程序工具，MLC案例展示了集体管理机构如何在初审不利后利用程序救济维护权利人利益。",
+      "UMG与WMG对Udio、Suno的和解协议初步确立了AI生成内容的双层授权框架（母版录音+音乐作品），为行业提供了可参照的谈判先例。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Music Publishers Sued By X in Growing Licensing Battle",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/x-sues-music-publishers-over-licensing-negotiations-1236468524/",
+      "description_cn": "X（前推特）在德克萨斯州联邦法院起诉18家主要音乐出版商及NMPA，指控其串通垄断、强迫平台接受行业统一许可而非个别谈判，出版商则反指X多年来托管未经授权歌曲构成版权侵权。",
+      "language": "en"
+    },
+    {
+      "title": "The Statutory Overriding of Controlled Composition Clauses — UCLA Entertainment Law Review",
+      "url": "https://escholarship.org/content/qt332557hg/qt332557hg.pdf",
+      "description_cn": "UCLA娱乐法评论学术文章，探讨通过立法手段强制推翻录音合同中将机械版税削减至法定费率75%的\"受控作品条款\"的法律依据与政策论证。",
+      "language": "en"
+    }
+  ],
+  "week": 6,
+  "day": 3,
+  "date": "2026-04-30",
+  "phase": 2,
+  "theme_en": "Music Industry Law",
+  "theme_cn": "音乐产业法律",
+  "audio_file": "week06/day3.mp3"
+}
