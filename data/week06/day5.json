@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "Spotify Wins Lawsuit Over Bundling Royalties — Mechanical Licensing Collective v. Spotify",
+    "source": "Variety, January 31, 2025",
+    "url": "https://variety.com/2025/music/news/spotify-wins-lawsuit-bundling-royalties-1236289823/",
+    "text": "One of the most consequential mechanical royalty disputes of 2025 reached a significant milestone when a federal court ruled in favor of Spotify in Mechanical Licensing Collective v. Spotify. The Mechanical Licensing Collective (MLC) — the entity established under the Music Modernization Act to administer blanket mechanical licenses and distribute royalties to songwriters and publishers across the United States — had filed a federal complaint alleging that Spotify had 'unilaterally and unlawfully' reduced its mechanical royalty payments by reclassifying its Premium, Duo, and Family subscription tiers as 'bundles' following the addition of audiobook content to those plans.\n\nThe central legal dispute turned on the statutory royalty rate framework established by Phonorecords IV, the Copyright Royalty Board's rate-setting proceeding governing U.S. mechanical royalty rates for 2023 through 2027. Under those regulations, a qualifying bundle — defined as a combined offering of multiple distinct products or services — is subject to a lower statutory royalty rate than a standalone music subscription. Spotify argued that the inclusion of 15 hours of free audiobook listening in its premium tiers constituted a genuine qualifying bundle, consistent with long-standing practices by Amazon and Apple. The MLC countered that the audiobook addition was a pretext, asserting that 'Premium is exactly the same service' and that Spotify's reclassification amounted to an improper unilateral reduction in compulsory mechanical license obligations. Industry analysts estimated the reclassification would cost songwriters and publishers approximately $150 million in lost mechanical royalties annually.\n\nIn her ruling, Judge Analisa Torres of the U.S. Southern District of New York found the federal regulations 'unambiguous,' holding that audiobook streaming constitutes 'a product or service that is distinct from music streaming and has more than token value,' thereby satisfying the statutory definition of a bundle. The MLC subsequently won a motion to amend its complaint and refiled in October 2025, with the litigation remaining active at year's end.\n\nSeparately, the National Music Publishers' Association (NMPA) negotiated a new opt-in direct license agreement with Spotify covering expanded audiovisual synchronization rights, illustrating a broader industry trend toward resolving mechanical and sync licensing disputes through bilateral agreements rather than relying solely on compulsory license mechanisms. Spotify also concluded direct licensing deals with Sony, Universal, and Warner Music Group covering both master recording and composition interests.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "mechanical royalty",
+      "pronunciation": "/məˈkænɪkəl ˈrɔɪəlti/",
+      "definition_cn": "版权法下因复制和发行音乐作品（词曲）而支付给词曲作者及出版商的法定版税，源于美国《版权法》第115条强制许可条款。",
+      "example": "The streaming platform's reclassification as a bundle dramatically reduced the mechanical royalty owed to songwriters under the applicable statutory rate.",
+      "audio": "week06/day5_vocab_0.mp3"
+    },
+    {
+      "term": "blanket mechanical license",
+      "pronunciation": "/ˈblæŋkɪt məˈkænɪkəl ˈlaɪsəns/",
+      "definition_cn": "一种许可安排，允许被许可方在支付统一费率版税的前提下，使用特定版权目录内的全部词曲作品进行机械复制，无需逐一获得单独授权。",
+      "example": "The Music Modernization Act created a blanket mechanical license system administered by the MLC to simplify royalty collection for digital streaming services.",
+      "audio": "week06/day5_vocab_1.mp3"
+    },
+    {
+      "term": "statutory royalty rate",
+      "pronunciation": "/ˈstætʃətɔːri ˈrɔɪəlti reɪt/",
+      "definition_cn": "由版权仲裁委员会（CRB）依据联邦法律设定的法定版税比率，适用于强制许可场景，当事方不得通过合同单方面降低该费率。",
+      "example": "Spotify's reclassification effectively lowered the applicable statutory royalty rate by qualifying its service as a bundle rather than a standalone subscription.",
+      "audio": "week06/day5_vocab_2.mp3"
+    },
+    {
+      "term": "compulsory mechanical license",
+      "pronunciation": "/kəmˈpʌlsəri məˈkænɪkəl ˈlaɪsəns/",
+      "definition_cn": "美国《版权法》第115条规定的强制许可制度，允许任何人在符合法定条件并支付规定版税后，无需版权人同意即可录制并发行已发表的音乐作品。",
+      "example": "Because Spotify relied on a compulsory mechanical license, it was bound by the Copyright Royalty Board's rate determinations rather than freely negotiated terms.",
+      "audio": "week06/day5_vocab_3.mp3"
+    },
+    {
+      "term": "Phonorecords IV",
+      "pronunciation": "/ˌfoʊnoʊˈrɛkərdz fɔːr/",
+      "definition_cn": "美国版权仲裁委员会（CRB）针对2023至2027年度数字音乐发行机械版税率所进行的第四轮费率裁定程序，其结果对流媒体平台具有法律约束力。",
+      "example": "The bundle definition at issue in the MLC's complaint was drawn directly from the rate regulations promulgated in Phonorecords IV.",
+      "audio": "week06/day5_vocab_4.mp3"
+    },
+    {
+      "term": "synchronization rights",
+      "pronunciation": "/ˌsɪŋkrənaɪˈzeɪʃən raɪts/",
+      "definition_cn": "将音乐作品与视频或视听内容同步使用的版权许可，须由词曲版权人单独授权，区别于录音版权，通常以一次性授权费形式结算。",
+      "example": "The NMPA's new opt-in direct license with Spotify covered expanded audiovisual synchronization rights beyond what compulsory licensing provides.",
+      "audio": "week06/day5_vocab_5.mp3"
+    },
+    {
+      "term": "direct license agreement",
+      "pronunciation": "/dɪˈrɛkt ˈlaɪsəns əˈɡriːmənt/",
+      "definition_cn": "版权所有人与使用方绕过集体管理组织或法定强制许可机制，直接就版权使用条款和费率进行谈判并签订的双边许可合同。",
+      "example": "Spotify's direct license agreement with the major labels allowed it to negotiate bespoke royalty structures outside the statutory framework.",
+      "audio": "week06/day5_vocab_6.mp3"
+    },
+    {
+      "term": "motion to amend its complaint",
+      "pronunciation": "/ˈmoʊʃən tə əˈmɛnd ɪts kəmˈpleɪnt/",
+      "definition_cn": "诉讼程序中，原告请求法院允许其对已提交的诉状进行修改或补充，以纳入新事实、新法律主张或更正原诉状瑕疵的程序性动议。",
+      "example": "After the initial ruling went against it, the MLC filed a motion to amend its complaint to incorporate new factual allegations and legal theories.",
+      "audio": "week06/day5_vocab_7.mp3"
+    },
+    {
+      "term": "master recording",
+      "pronunciation": "/ˈmæstər rɪˈkɔːrdɪŋ/",
+      "definition_cn": "录音作品的原始录制版本所对应的版权，归属于唱片公司或表演者，有别于词曲版权，二者须分别获得独立授权。",
+      "example": "Spotify's deals with the major labels covered both the master recording rights owned by the labels and the underlying composition rights controlled by publishers.",
+      "audio": "week06/day5_vocab_8.mp3"
+    },
+    {
+      "term": "opt-in direct license",
+      "pronunciation": "/ˌɒpt ɪn dɪˈrɛkt ˈlaɪsəns/",
+      "definition_cn": "一种版权许可安排，版权人须主动选择加入（而非自动适用）方可适用该双边协议条款，通常提供比法定强制许可更优厚的费率或条件。",
+      "example": "Publishers that chose to participate in the NMPA's opt-in direct license with Spotify gained access to higher royalty rates for audiovisual uses.",
+      "audio": "week06/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged that [defendant] had 'unilaterally and unlawfully' [action], thereby reducing [obligation] in violation of [legal framework].",
+      "example": "The MLC alleged that Spotify had 'unilaterally and unlawfully' reclassified its subscription tiers, thereby reducing its mechanical royalty obligations in violation of Phonorecords IV.",
+      "translation_cn": "MLC主张，Spotify'单方面且非法地'对其订阅套餐进行重新分类，从而减少了其在《Phonorecords IV》框架下应承担的机械版税义务。"
+    },
+    {
+      "pattern": "The court held that [factual finding], thereby satisfying the statutory definition of [legal category] under the applicable regulations.",
+      "example": "The court held that audiobook streaming constitutes a product distinct from music streaming and has more than token value, thereby satisfying the statutory definition of a bundle under the applicable regulations.",
+      "translation_cn": "法院认定，有声书流媒体构成有别于音乐流媒体的独立产品且具有实质价值，从而满足了相关法规对'捆绑套餐'法定定义的要求。"
+    },
+    {
+      "pattern": "The parties resolved their [licensing dispute] through a bilateral [agreement type], illustrating a broader industry trend toward [resolution mechanism] rather than reliance on [alternative mechanism].",
+      "example": "The NMPA and Spotify resolved their synchronization rights dispute through a bilateral opt-in direct license agreement, illustrating a broader industry trend toward negotiated resolution rather than reliance on compulsory license mechanisms.",
+      "translation_cn": "NMPA与Spotify通过双边自愿加入直接许可协议解决了同步权纠纷，体现了业界倾向于通过谈判解决争议而非依赖强制许可机制的整体趋势。"
+    }
+  ],
+  "summary_cn": "2025年1月，美国联邦法院就MLC诉Spotify机械版税案作出裁决，支持Spotify将含有声书的订阅套餐认定为\"捆绑产品\"、适用较低法定版税率的主张。MLC随后申请修改诉状，案件继续审理。与此同时，NMPA与Spotify达成同步权直接许可协议，显示出行业通过双边谈判解决版税争议的新趋势。",
+  "legal_analysis": "**核心法律问题：** 本案的核心在于美国《版权法》第115条强制机械许可制度下，\"捆绑套餐\"的法定认定标准。Spotify通过将有声书内容纳入订阅套餐，将产品性质从\"单一音乐订阅\"转变为\"捆绑产品\"，从而触发Phonorecords IV规定的较低版税率。\n\n**美国法律框架分析：** 美国CRB依据《版权法》第801条定期裁定机械版税率，其结果对全体数字服务商具有强制约束力。本案揭示了强制许可制度的内在张力：一方面为使用方提供法律确定性，另一方面也为平台通过产品结构调整规避较高版税创造了空间。法院对法规文义的严格解释（\"明确无误\"标准）限制了MLC进行目的性解释的空间。\n\n**对中国娱乐法律师的实践启示：** 中国《著作权法》第2012年修订版虽设有法定许可制度，但缺乏类似CRB的独立费率裁定机构，版税率主要由国家版权局或集体管理组织协商确定。在代理国内流媒体平台时，律师应关注产品捆绑策略对版税基数认定的潜在影响；在代理出版方时，则须在授权协议中明确界定\"捆绑\"场景下的最低保障版税条款，以防范类似风险。",
+  "cn_us_comparison": "美国《版权法》第115条确立的强制机械许可制度，赋予任何满足条件的使用方在无需版权人同意的前提下录制并发行已发表音乐作品的权利，版税率由独立的版权仲裁委员会（CRB）裁定，具有强制约束力。中国《著作权法》（2020年修订）第24条同样规定了法定许可制度，但适用范围相对有限，且缺乏类似CRB的专业费率裁定程序，版税标准主要依赖中国音乐著作权协会（MCSC）等集体管理组织与使用方协商确定，行政色彩较强。在同步权层面，美国不存在强制同步许可，须由版权人与使用方自由谈判；中国《著作权法》第47条同样未将视听同步纳入法定许可范畴。两国制度均面临数字时代捆绑销售模式对版税计算基础的冲击，但美国已通过CRB裁定程序对此作出制度性回应，中国相关规则尚待进一步细化完善。",
+  "podcast_summary": {
+    "episode": "The Hollywood Lawyer Ep. 214 — 'Bundle of Trouble: How Spotify Rewrote the Mechanical Royalty Rulebook'",
+    "description": "本期节目深度解析2025年度最具影响力的音乐版权诉讼——MLC诉Spotify机械版税捆绑案。节目邀请版权诉讼律师和音乐出版业顾问，逐层拆解Phonorecords IV费率框架下\"捆绑套餐\"的法定认定标准、法院裁决的文义解释路径，以及MLC修改诉状后案件的最新进展。节目还探讨了NMPA与Spotify就同步权达成直接许可协议的行业意义，及其对词曲作者权益保护的长远影响。",
+    "takeaways": [
+      "法院对\"捆绑套餐\"定义采取严格文义解释，平台可通过产品结构设计合法降低法定机械版税率，但须确保附加服务具有实质性（非象征性）价值。",
+      "强制许可制度为使用方提供确定性的同时，也为版权人留下了通过直接许可谈判争取超额版税的空间——NMPA与Spotify的同步权直接协议即为典型示范。",
+      "MLC获准修改诉状表明本案尚未终结，词曲作者及出版商应持续关注后续裁决对年度版税收入的实质性影响，并在与平台谈判时预设捆绑场景下的最低版税保障条款。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Music Publishers Sued By X in Growing Licensing Battle",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/x-sues-music-publishers-over-licensing-negotiations-1236468524/",
+      "description_cn": "X（前Twitter）对NMPA及18家主要音乐出版商提起联邦反垄断诉讼，指控其串谋拒绝提供个别同步许可并以DMCA下架通知为要挟，强迫平台以垄断价格购买行业统一许可。",
+      "language": "en"
+    },
+    {
+      "title": "The 7 Biggest Music Publishing Stories of 2025: PRO Scrutiny, AI, Spotify & More",
+      "url": "https://www.billboard.com/lists/biggest-music-publishing-stories-2025-ai-spotify-more/",
+      "description_cn": "Billboard年度盘点2025年音乐出版领域七大法律与行业事件，涵盖MLC诉Spotify案、版权局对表演权组织的监管审查、AI授权结算以及同步权与录音版税平价争议等核心议题。",
+      "language": "en"
+    }
+  ],
+  "week": 6,
+  "day": 5,
+  "date": "2026-05-04",
+  "phase": 2,
+  "theme_en": "Music Industry Law",
+  "theme_cn": "音乐产业法律",
+  "audio_file": "week06/day5.mp3"
+}
