@@ -251,7 +251,16 @@
       "theme_cn": "音乐产业法律",
       "file": "week06/day5.json",
       "audio": "week06/day5.mp3"
+    },
+    {
+      "week": 7,
+      "day": 1,
+      "date": "2026-05-05",
+      "theme_en": "Labor Relations in Entertainment",
+      "theme_cn": "影视劳动关系",
+      "file": "week07/day1.json",
+      "audio": "week07/day1.mp3"
     }
   ],
-  "last_updated": "2026-05-04"
+  "last_updated": "2026-05-05"
 }
