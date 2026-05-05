@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "SAG-AFTRA Agrees to Tentative Labor Deal With Studios",
+    "source": "The Hollywood Reporter, May 4, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-tentative-contract-deal-1236581470/",
+    "text": "SAG-AFTRA, the principal performers' union in the U.S. entertainment industry, reached a tentative agreement with the Alliance of Motion Picture and Television Producers (AMPTP) on a successor to the 2023 TV/Theatrical Contracts. The deal covers motion pictures, scripted primetime dramatic television, and new media. Negotiations opened on February 9, 2026, with SAG-AFTRA chief negotiator Duncan Crabtree-Ireland signaling the union's intent to use the Minimum Basic Agreement framework to make AI-generated performer replicas 'as expensive as humans,' thereby financially deterring studio overreliance on synthetic performances.\n\nThis posture builds directly on the union security and consent-and-compensation provisions first codified in the 2023 contracts and further refined in the 2025 SAG-AFTRA Commercials Contract — the latter ratified by 96.90% of members and generating $218.4 million in new earnings and benefit plan contributions. The 2025 Commercials Contract established detailed informed consent and compensation guardrails for AI digital replicas, streaming use fee increases, enhanced health and pension contributions, and stronger protections for minors and deceased performers.\n\nUnder established labor relations law, the tentative agreement must now clear two procedural hurdles: approval by the SAG-AFTRA National Board, followed by a general membership ratification vote. Meanwhile, the AMPTP — led for the first time by new president Gregory Hessinger — entered the 2026 bargaining cycle with a proposal to extend future contracts from three-year terms to five-year terms. In exchange, it offered approximately $110 million in health plan contributions to the WGA, DGA, and SAG-AFTRA collectively.\n\nSAG-AFTRA president Sean Astin underscored that rank-and-file members urgently needed cost-of-living increases, noting that many struggle to meet health care qualifying thresholds under the existing Basic Agreement. Legal analysts have identified several new frontiers in entertainment collective bargaining law arising from this round: the enforceability of AI consent provisions, modifications to the residual formula for streaming, and the structural validity of multi-year union security clauses under the Taft-Hartley Act. Once ratified, this deal is expected to set the pattern for DGA and WGA negotiations, both of which are also scheduled to expire in mid-2026, making the outcome of this round of collective bargaining a pivotal benchmark for all three major Hollywood guilds.",
+    "word_count": 335
+  },
+  "vocabulary": [
+    {
+      "term": "Minimum Basic Agreement",
+      "pronunciation": "/ˈmɪnɪməm ˈbeɪsɪk əˈɡriːmənt/",
+      "definition_cn": "美国影视行业工会与制片公司签订的基准集体谈判协议，规定最低薪酬、工作条件及AI使用等核心条款，是整个行业劳动关系的法律基础。",
+      "example": "The union's negotiating team proposed that the Minimum Basic Agreement be amended to impose prohibitive fees on studios that deploy AI replicas without performer consent.",
+      "audio": "week07/day2_vocab_0.mp3"
+    },
+    {
+      "term": "Taft-Hartley Act",
+      "pronunciation": "/tæft ˈhɑːrtli ækt/",
+      "definition_cn": "美国1947年《劳动关系管理法》，对工会权力加以限制，规范闭合工会条款、罢工行为及集体谈判中的不当劳动行为，是美国联邦劳动法的核心成文法。",
+      "example": "Defense counsel argued that the proposed five-year union security clause raised structural validity concerns under the Taft-Hartley Act.",
+      "audio": "week07/day2_vocab_1.mp3"
+    },
+    {
+      "term": "union security clause",
+      "pronunciation": "/ˈjuːnjən sɪˈkjʊərɪti klɔːz/",
+      "definition_cn": "集体谈判协议中要求雇员在受雇期间维持工会成员资格或缴纳工会费用的条款，其法律效力受《塔夫脱-哈特利法》严格约束。",
+      "example": "The arbitrator held that the union security clause in the Basic Agreement could not be extended beyond three years without triggering Taft-Hartley scrutiny.",
+      "audio": "week07/day2_vocab_2.mp3"
+    },
+    {
+      "term": "residual formula",
+      "pronunciation": "/rɪˈzɪdjuəl ˈfɔːrmjələ/",
+      "definition_cn": "集体谈判协议中规定演员或编剧在其作品被二次播出、流媒体平台播放或海外发行时所获追加报酬计算方式的条款体系。",
+      "example": "The renegotiated residual formula granted performers a 50% increase in payments for work appearing on the highest-viewership streaming platforms.",
+      "audio": "week07/day2_vocab_3.mp3"
+    },
+    {
+      "term": "collective bargaining",
+      "pronunciation": "/kəˈlektɪv ˈbɑːrɡənɪŋ/",
+      "definition_cn": "工会代表全体会员与雇主就薪酬、工作条件及福利等事项进行谈判并签订协议的法定程序，受美国《国家劳动关系法》保护。",
+      "example": "Legal analysts identified AI consent provisions as a new frontier in entertainment collective bargaining law.",
+      "audio": "week07/day2_vocab_4.mp3"
+    },
+    {
+      "term": "ratification vote",
+      "pronunciation": "/ˌrætɪfɪˈkeɪʃən voʊt/",
+      "definition_cn": "工会谈判达成初步协议后，由全体会员投票表决是否正式批准该协议的程序，是集体谈判合法性的最终程序性保障。",
+      "example": "Following National Board approval, the tentative agreement will proceed to a general membership ratification vote before it can take legal effect.",
+      "audio": "week07/day2_vocab_5.mp3"
+    },
+    {
+      "term": "benefit plan contributions",
+      "pronunciation": "/ˈbenɪfɪt plæn ˌkɒntrɪˈbjuːʃənz/",
+      "definition_cn": "雇主依集体谈判协议向工会成员健康、养老或福利基金定期缴纳的法定款项，构成集体谈判协议的核心经济条款之一。",
+      "example": "The AMPTP offered $110 million in benefit plan contributions across the three major guilds in exchange for an extended contract term.",
+      "audio": "week07/day2_vocab_6.mp3"
+    },
+    {
+      "term": "informed consent",
+      "pronunciation": "/ɪnˈfɔːrmd kənˈsent/",
+      "definition_cn": "在AI数字复制条款语境下，指演员在充分了解其肖像或声音被人工智能复制、使用的方式及范围后，自愿表示同意的法律前提条件。",
+      "example": "The 2025 Commercials Contract required studios to obtain informed consent from performers before creating or deploying any AI digital replica.",
+      "audio": "week07/day2_vocab_7.mp3"
+    },
+    {
+      "term": "pattern bargaining",
+      "pronunciation": "/ˈpætərn ˈbɑːrɡənɪŋ/",
+      "definition_cn": "劳动关系中，一个工会谈判达成的协议条款成为同一行业其他工会谈判的参照基准，具有事实上的约束力，是好莱坞三大工会轮番谈判的核心机制。",
+      "example": "Once SAG-AFTRA ratifies its successor contract, pattern bargaining dynamics will place pressure on the AMPTP to offer equivalent AI protections to the WGA and DGA.",
+      "audio": "week07/day2_vocab_8.mp3"
+    },
+    {
+      "term": "tentative agreement",
+      "pronunciation": "/ˈtentətɪv əˈɡriːmənt/",
+      "definition_cn": "集体谈判双方在正式批准前达成的初步协议文件，具有谈判结束的法律信号意义，但须经工会国家委员会批准及会员投票方可生效。",
+      "example": "The tentative agreement announced on May 4 will not bind either party until it clears the SAG-AFTRA National Board and a membership ratification vote.",
+      "audio": "week07/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Agreement/Provision] must clear [procedural hurdle #1], followed by [procedural hurdle #2], before it can take legal effect.",
+      "example": "The tentative agreement must clear the SAG-AFTRA National Board, followed by a general membership ratification vote, before it can take legal effect.",
+      "translation_cn": "该初步协议须先经SAG-AFTRA全国委员会审议，再经全体会员批准投票，方可正式生效。"
+    },
+    {
+      "pattern": "[Party] proposed to use [legal instrument] to [strategic objective], thereby [legal or financial consequence].",
+      "example": "The union proposed to use the Minimum Basic Agreement framework to make AI-generated performer replicas as expensive as humans, thereby financially deterring studio overreliance on synthetic performances.",
+      "translation_cn": "工会提议借助《最低基准协议》框架，使AI生成的演员数字复制品与真人成本相当，从而从经济上遏制制片厂过度依赖合成表演。"
+    },
+    {
+      "pattern": "Legal analysts have identified [issue] as raising significant questions about [legal doctrine or statutory provision].",
+      "example": "Legal analysts have identified the structural validity of multi-year union security clauses as raising significant questions about compliance with the Taft-Hartley Act.",
+      "translation_cn": "法律分析人士指出，多年期工会安全条款的结构合法性引发了关于《塔夫脱-哈特利法》合规性的重要法律问题。"
+    }
+  ],
+  "summary_cn": "2026年5月，SAG-AFTRA与AMPTP就新版《电视/戏剧合同》达成初步协议，核心议题包括人工智能数字复制保护、流媒体残余报酬公式修订及多年期工会安全条款的合法性。协议须经全国委员会审议及会员投票批准，并将为WGA、DGA后续谈判树立标杆。",
+  "legal_analysis": "① 核心法律问题：本轮谈判涉及三项相互交织的法律争议：其一，AI数字复制条款的可执行性——即演员知情同意与补偿条款能否在《国家劳动关系法》框架下通过集体谈判协议加以约束；其二，流媒体残余报酬公式的修订，直接影响演员在高收视平台的经济权益；其三，将合同期限由三年延长至五年的工会安全条款是否符合《塔夫脱-哈特利法》的结构性要求。\n\n② 美国法律框架：《国家劳动关系法》赋予工会就薪酬、工时及工作条件进行强制性集体谈判的权利，但《塔夫脱-哈特利法》对工会安全条款的形式与期限设有限制，禁止闭合工会安排并规范工会缴费义务。AMPTP提出五年期合同本质上是以健康计划注资换取工会在更长周期内锁定谈判节奏，其法律效力有待仲裁庭或劳动关系委员会进一步审查。\n\n③ 对中国娱乐法律师的启示：中国目前尚无类似好莱坞《最低基准协议》的行业性集体谈判制度，但随着生成式AI在影视制作中的广泛应用，如何在演员个人肖像权与制片方商业利益之间建立知情同意与补偿机制，将成为中国娱乐法实践的紧迫议题，值得借鉴美国模式进行制度设计。",
+  "cn_us_comparison": "美国影视劳动关系以工会主导的集体谈判为核心，《国家劳动关系法》和《塔夫脱-哈特利法》共同构成制度基础，SAG-AFTRA的《最低基准协议》对薪酬、AI使用及残余报酬均有详细规制。相比之下，中国目前尚无专门针对影视表演者的行业性集体谈判制度，演员权益保障主要依赖《劳动合同法》《民法典》中的肖像权条款及《著作权法》中的表演者权规定。在AI数字复制领域，中国《个人信息保护法》要求对生物特征信息的处理须取得单独同意，但尚无类似美国集体谈判框架下将知情同意与薪酬补偿挂钩的系统性安排。此外，中国《劳动合同法》虽允许集体合同，但实践中影视行业从业者多以个人合同形式受雇，集体谈判机制几乎缺位，这与美国三大工会轮番谈判、以模式谈判相互参照的成熟体系存在显著制度落差。",
+  "podcast_summary": {
+    "episode": "The Hollywood Lawyer, Ep. 214: 'The AI Price Tag — Inside SAG-AFTRA's 2026 Tentative Deal and the Taft-Hartley Questions No One Is Talking About'",
+    "description": "本期节目深度解析SAG-AFTRA与AMPTP于2026年5月达成的初步协议，重点探讨三大法律议题：人工智能数字复制条款的可执行性、流媒体残余报酬公式修订对演员收益的影响，以及将合同期限延长至五年的工会安全条款是否触碰《塔夫脱-哈特利法》的结构性红线。节目还邀请劳动法专家分析\"模式谈判\"机制如何将本次协议的法律框架自动传导至WGA和DGA后续谈判。",
+    "takeaways": [
+      "SAG-AFTRA将《最低基准协议》定价机制作为遏制AI数字复制滥用的核心工具，其法律逻辑在于通过提高合规成本来保护演员的经济利益和知情同意权。",
+      "AMPTP提出的五年期合同方案以健康计划注资为对价，但该安排在《塔夫脱-哈特利法》框架下的结构合法性尚存争议，值得密切关注后续监管与仲裁动向。",
+      "本次谈判结果将通过\"模式谈判\"机制为WGA和DGA设定参照基准，三大工会2026年合同的整体走向将深刻影响好莱坞未来十年的劳动关系格局。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "Hollywood's Big New Labor Deal: Studios To Offer Guilds' Health Plans $100M Lifeline In Exchange For Longer Multi-Year Contracts In 2026",
+      "url": "https://deadline.com/2025/12/hollywood-unions-contracts-health-plans-1236655471/",
+      "description_cn": "Deadline独家报道AMPTP拟以约1.1亿美元健康计划注资换取SAG-AFTRA、WGA和DGA同意将集体谈判协议期限由三年延长至五年，分析该方案对好莱坞劳动关系周期及工会谈判筹码的深远影响。",
+      "language": "en"
+    },
+    {
+      "title": "DGA Gets Contract Bump to Equal WGA Streaming Bonus",
+      "url": "https://variety.com/2024/biz/news/dga-improved-contract-terms-wga-streaming-bonus-1235888079/",
+      "description_cn": "Variety分析AMPTP主动重开DGA已批准协议、向其提供与WGA相同的流媒体收视奖金条款这一举动的劳动法意义，揭示\"模式谈判\"如何作为事实性争议解决机制在好莱坞三大工会间运作，并为残余报酬公式纠纷的仲裁程序确立先例。",
+      "language": "en"
+    }
+  ],
+  "week": 7,
+  "day": 2,
+  "date": "2026-05-06",
+  "phase": 2,
+  "theme_en": "Labor Relations in Entertainment",
+  "theme_cn": "影视劳动关系",
+  "audio_file": "week07/day2.mp3"
+}
