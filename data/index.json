@@ -287,7 +287,16 @@
       "theme_cn": "影视劳动关系",
       "file": "week07/day4.json",
       "audio": "week07/day4.mp3"
+    },
+    {
+      "week": 7,
+      "day": 5,
+      "date": "2026-05-11",
+      "theme_en": "Labor Relations in Entertainment",
+      "theme_cn": "影视劳动关系",
+      "file": "week07/day5.json",
+      "audio": "week07/day5.mp3"
     }
   ],
-  "last_updated": "2026-05-08"
+  "last_updated": "2026-05-11"
 }

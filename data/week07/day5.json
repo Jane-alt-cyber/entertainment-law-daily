@@ -1,0 +1,131 @@
+{
+  "reading": {
+    "title": "Hollywood's Big New Labor Deal: Studios To Offer Guilds' Health Plans $100M Lifeline In Exchange For Longer Multi-Year Contracts In 2026",
+    "source": "Deadline, December 25, 2025",
+    "url": "https://deadline.com/2025/12/hollywood-unions-contracts-health-plans-1236655471/",
+    "text": "As Hollywood approaches the 2026 collective bargaining cycle, a seismic structural proposal has emerged from the Alliance of Motion Picture and Television Producers (AMPTP), now helmed by Greg Hessinger. In a move that legal analysts are calling one of the most consequential pre-negotiation gambits in decades, the AMPTP is preparing to inject approximately $110 million into the health and pension plans of the WGA, SAG-AFTRA, and the DGA — three guilds whose minimum basic agreement terms are set to expire in mid-2026. The WGA's contract lapses on May 1, 2026, while SAG-AFTRA and DGA agreements expire June 30, 2026.\n\nThe offer is far from unconditional. In exchange for the financial lifeline, the AMPTP is demanding that the guilds agree to extend their current three-year bargaining cycle to five-year contracts — a shift that would fundamentally alter the cadence of mandatory bargaining and the legal leverage available to labor at each renegotiation. Under the existing framework, the minimum basic agreement governs the floor for wages, residual formula payments, and working conditions across the industry. A five-year extension would delay any renegotiation of AI protections, grievance arbitration procedures, and other critical MBA provisions until at least 2031.\n\nThe health plan funding crisis is acute. Studio sources confirmed to Deadline that the WGA plan has hemorrhaged over $120 million since the dual strikes ended in late 2023, with all three guild plans running month-by-month deficits. The AMPTP's $110 million contribution is framed as a stabilization measure under the Taft-Hartley Act framework, which governs jointly administered labor-management benefit trusts in the industry.\n\nUnion security clause protections and the mandatory dues structures tied to guild membership would remain intact under the proposal, but skeptics within the WGA cautioned that longer contracts reduce the political urgency that drives studios to make meaningful concessions. 'Longer contracts mean less reasons for the studios and the AMPTP to pay attention to labor,' one WGA insider warned Deadline. SAG-AFTRA had not formally sat at the bargaining table with the AMPTP at publication time, with negotiations scheduled to commence in early February 2026.",
+    "word_count": 322
+  },
+  "vocabulary": [
+    {
+      "term": "collective bargaining",
+      "pronunciation": "/kəˈlɛktɪv ˈbɑːrɡənɪŋ/",
+      "definition_cn": "集体谈判：工会代表全体会员与雇主就工资、工时及工作条件进行的正式谈判，受《国家劳动关系法》保护，谈判结果具有法律约束力。",
+      "example": "The guilds entered the collective bargaining process with unified demands on residual payments and AI governance.",
+      "audio": "week07/day5_vocab_0.mp3"
+    },
+    {
+      "term": "minimum basic agreement",
+      "pronunciation": "/ˈmɪnɪməm ˈbeɪsɪk əˈɡriːmənt/",
+      "definition_cn": "最低基本协议（MBA）：好莱坞工会与制片公司签订的集体合同，规定最低片酬、工作条件、余片报酬及争议解决程序，是行业劳动关系的法律基础。",
+      "example": "The minimum basic agreement sets the floor for all writer compensation and cannot be waived by individual contract.",
+      "audio": "week07/day5_vocab_1.mp3"
+    },
+    {
+      "term": "residual formula",
+      "pronunciation": "/rɪˈzɪdʒuəl ˈfɔːrmjələ/",
+      "definition_cn": "余片报酬公式：规定演员、编剧等在其作品被重播、流媒体播出或二次使用时应获得报酬比例的计算方法，写入最低基本协议中。",
+      "example": "Renegotiating the residual formula for streaming reuse was the WGA's top priority entering the 2023 strike.",
+      "audio": "week07/day5_vocab_2.mp3"
+    },
+    {
+      "term": "Taft-Hartley Act",
+      "pronunciation": "/ˈtæft ˈhɑːrtli ækt/",
+      "definition_cn": "《塔夫脱-哈特利法》（1947年）：美国联邦劳动法，规范工会权利与限制，授权设立劳资共同管理的福利信托基金，并禁止某些罢工行为。",
+      "example": "The jointly administered health plan operates under the Taft-Hartley Act framework as a multi-employer benefit trust.",
+      "audio": "week07/day5_vocab_3.mp3"
+    },
+    {
+      "term": "grievance arbitration",
+      "pronunciation": "/ˈɡriːvəns ˌɑːrbɪˈtreɪʃən/",
+      "definition_cn": "申诉仲裁：集体合同规定的争议解决机制，工会成员可就雇主违反合同条款提出申诉，经由中立仲裁员做出具有约束力的裁决。",
+      "example": "The actor pursued grievance arbitration after the studio failed to credit residual payments owed under the MBA.",
+      "audio": "week07/day5_vocab_4.mp3"
+    },
+    {
+      "term": "union security clause",
+      "pronunciation": "/ˈjuːnjən sɪˈkjʊərɪti klɔːz/",
+      "definition_cn": "工会安全条款：集体合同中规定雇员须在一定期限内加入工会或缴纳会费方可继续受雇的条款，旨在维持工会财务稳定性。",
+      "example": "The union security clause requires all performers to obtain SAG-AFTRA membership within thirty days of their first hire.",
+      "audio": "week07/day5_vocab_5.mp3"
+    },
+    {
+      "term": "mandatory bargaining",
+      "pronunciation": "/ˈmændətɔːri ˈbɑːrɡənɪŋ/",
+      "definition_cn": "强制谈判：《国家劳动关系法》要求雇主与工会就工资、工时及工作条件进行诚信谈判的法律义务，拒绝谈判构成不公平劳动行为。",
+      "example": "A five-year contract extension would suspend mandatory bargaining obligations on AI protections until 2031.",
+      "audio": "week07/day5_vocab_6.mp3"
+    },
+    {
+      "term": "bargaining cycle",
+      "pronunciation": "/ˈbɑːrɡənɪŋ ˈsaɪkəl/",
+      "definition_cn": "谈判周期：集体合同到期并重新谈判的时间间隔，通常为三年；周期长短直接影响工会重新谈判权利及保护条款的频率与能力。",
+      "example": "Extending the bargaining cycle from three to five years would significantly reduce union leverage over emerging AI issues.",
+      "audio": "week07/day5_vocab_7.mp3"
+    },
+    {
+      "term": "labor-management benefit trust",
+      "pronunciation": "/ˈleɪbər ˈmænɪdʒmənt ˈbɛnɪfɪt trʌst/",
+      "definition_cn": "劳资共同管理福利信托：依《塔夫脱-哈特利法》设立的共同信托基金，由工会与雇主代表联合管理，用于为会员提供健康、养老等福利。",
+      "example": "The studios' $110 million contribution would be directed to the guilds' labor-management benefit trust funds to cover mounting deficits.",
+      "audio": "week07/day5_vocab_8.mp3"
+    },
+    {
+      "term": "pre-negotiation signaling",
+      "pronunciation": "/priː nɪˌɡoʊʃiˈeɪʃən ˈsɪɡnəlɪŋ/",
+      "definition_cn": "预谈判信号：正式集体谈判开始前，谈判一方通过媒体声明或非正式接触传递其诉求与立场的策略行为，影响双方谈判期望与公众舆论。",
+      "example": "The AMPTP's Deadline exclusive was widely interpreted as deliberate pre-negotiation signaling ahead of the February 2026 talks.",
+      "audio": "week07/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "In exchange for [concession], [party] is demanding that [counterparty] agree to [structural change], which would [legal consequence].",
+      "example": "In exchange for the financial lifeline, the AMPTP is demanding that the guilds agree to extend their current three-year bargaining cycle to five-year contracts, which would delay any renegotiation of AI protections until at least 2031.",
+      "translation_cn": "作为[让步]的交换条件，[一方]要求[另一方]同意[结构性变化]，这将[法律后果]。"
+    },
+    {
+      "pattern": "Under the existing [legal framework], [party] governs [subject matter], and any [proposed change] would [impact on rights or obligations].",
+      "example": "Under the existing minimum basic agreement framework, the residual formula governs all secondary-use compensation, and any five-year extension would lock those rates until 2031.",
+      "translation_cn": "根据现行[法律框架]，[一方]对[事项]享有管辖权，任何[拟议变更]将[对权利或义务的影响]。"
+    },
+    {
+      "pattern": "[Party] cautioned that [proposed measure] reduces [protective mechanism], leaving [affected group] with less leverage to [legal action or negotiation goal].",
+      "example": "WGA insiders cautioned that a longer bargaining cycle reduces the political urgency that drives studios to make meaningful concessions, leaving writers with less leverage to renegotiate AI protections.",
+      "translation_cn": "[一方]警告称，[拟议措施]削弱了[保护机制]，使[受影响群体]在[法律行动或谈判目标]方面的筹码减少。"
+    }
+  ],
+  "summary_cn": "2025年12月，AMPTP拟向编剧工会（WGA）、演员工会（SAG-AFTRA）及导演工会（DGA）的健康与养老基金注资约1.1亿美元，以解决各工会健保计划的持续赤字危机；但条件是三大工会须将集体合同周期从三年延长至五年。该提案在法律层面意义重大：若成立，将推迟工会就AI保护条款、余片报酬公式及申诉仲裁程序进行强制谈判的时间节点，削弱劳方在未来数年内的谈判筹码。",
+  "legal_analysis": "① 核心法律问题：本案涉及集体谈判周期的结构性变更，以及制片公司向工会健保信托注资是否构成《塔夫脱-哈特利法》下的合规行为，同时引发工会是否有义务接受附条件注资的法律争议。\n\n② 美国法律框架分析：《国家劳动关系法》（NLRA）第8(a)(5)条规定雇主须就工资、工时及工作条件进行诚信集体谈判；《塔夫脱-哈特利法》第302条则对雇主向工会代理人的支付行为作出严格限制，劳资共同管理的福利信托须符合法定结构方可合法接受雇主注资。若AMPTP的注资方案以延长合同周期为前提条件，可能被认定为以经济利益换取谈判让步，触碰不公平劳动行为的边界。此外，五年期合同将导致工会丧失三年一轮的强制谈判机会，在生成式AI快速演进的背景下，对劳方保护条款的即时性构成严重威胁。\n\n③ 对中国娱乐法律师的实践启示：中国影视从业者目前尚无对标好莱坞工会制度的行业性集体谈判机制，但随着中国演员经纪合同纠纷及片酬争议日益增多，理解MBA最低标准条款与余片报酬公式的制度逻辑，对于设计演员长期合同保护条款具有重要参考价值。",
+  "cn_us_comparison": "美国方面，《国家劳动关系法》赋予工会代表全体会员与雇主进行集体谈判的法定权利，最低基本协议（MBA）对片酬底线、余片报酬及申诉仲裁程序均有强制性规定；《塔夫脱-哈特利法》则规范劳资共同信托的运作，确保健保基金的独立性与合规性。\n\n中国方面，《劳动合同法》和《工会法》虽规定了集体合同制度，但影视行业尚无类似好莱坞工会的行业性集体谈判实践，演员、编剧等创作者主要依赖个人劳动合同或经纪合同保障权益。《著作权法》对编剧、导演的署名权及部分财产性权利有所规定，但缺乏系统性的余片报酬公式制度。此外，中国《劳动争议调解仲裁法》虽提供仲裁救济途径，但适用于个人争议而非集体合同框架下的申诉仲裁机制，与美国grievance arbitration制度存在本质差异。",
+  "podcast_summary": {
+    "episode": "The Hollywood Lawyer, Episode 214: 'Five-Year Trap? The Legal Risks of Hollywood's New Long-Term Contract Gambit'",
+    "description": "本期节目聚焦AMPTP拟以1.1亿美元健保注资换取三大工会接受五年期合同的重大提案。主持人邀请劳动法专家深入解析：延长谈判周期在《国家劳动关系法》框架下的合规风险、《塔夫脱-哈特利法》对附条件注资的限制边界，以及WGA、SAG-AFTRA和DGA在AI保护条款谈判上的不同策略选择。节目还探讨了若三大工会接受五年期协议，生成式AI相关条款将如何被锁定至2031年，以及工会内部对此提案的法律与政治争议。",
+    "takeaways": [
+      "以健保注资为条件换取延长合同周期的做法，可能触发《塔夫脱-哈特利法》第302条关于雇主支付合规性的审查。",
+      "五年期最低基本协议将推迟工会就生成式AI保护条款进行强制谈判的时间，在技术快速迭代背景下风险极高。",
+      "WGA健保计划自2023年双罢工结束后已亏损逾1.2亿美元，财务压力使工会在预谈判阶段处于结构性弱势地位。"
+    ]
+  },
+  "extended_reading": [
+    {
+      "title": "SAG-AFTRA Opens 2026 Negotiations With Hollywood Studios",
+      "url": "https://deadline.com/2026/02/sag-aftra-2026-negotiations-begin-amptp-1236713534/",
+      "description_cn": "报道SAG-AFTRA于2026年2月9日正式开启与AMPTP的最低基本协议谈判，重点涉及生成式AI保护、薪资增长及健保资金缺口等核心议题。",
+      "language": "en"
+    },
+    {
+      "title": "Breaking Into Hollywood Without a Pulse: AI Actors and Employment Law",
+      "url": "https://aublr.org/2025/11/breaking-into-hollywood-without-a-pulse-ai-actors-and-employment-law/",
+      "description_cn": "美国大学商法评论学术文章，分析全合成AI演员对SAG-AFTRA劳动保护条款及《国家劳动关系法》适用性的根本性法律挑战，并援引针对Llama Productions的不公平劳动行为指控案例。",
+      "language": "en"
+    }
+  ],
+  "week": 7,
+  "day": 5,
+  "date": "2026-05-11",
+  "phase": 2,
+  "theme_en": "Labor Relations in Entertainment",
+  "theme_cn": "影视劳动关系",
+  "audio_file": "week07/day5.mp3"
+}
