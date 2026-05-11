@@ -296,7 +296,16 @@
       "theme_cn": "影视劳动关系",
       "file": "week07/day5.json",
       "audio": "week07/day5.mp3"
+    },
+    {
+      "week": 8,
+      "day": 1,
+      "date": "2026-05-12",
+      "theme_en": "International Co-production & Cross-border",
+      "theme_cn": "国际合拍与跨境交易",
+      "file": "week08/day1.json",
+      "audio": "week08/day1.mp3"
     }
   ],
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-05-12"
 }
