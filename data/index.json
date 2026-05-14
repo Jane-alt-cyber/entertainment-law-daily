@@ -323,7 +323,16 @@
       "theme_cn": "国际合拍与跨境交易",
       "file": "week08/day3.json",
       "audio": "week08/day3.mp3"
+    },
+    {
+      "week": 8,
+      "day": 4,
+      "date": "2026-05-15",
+      "theme_en": "International Co-production & Cross-border",
+      "theme_cn": "国际合拍与跨境交易",
+      "file": "week08/day4.json",
+      "audio": "week08/day4.mp3"
     }
   ],
-  "last_updated": "2026-05-14"
+  "last_updated": "2026-05-15"
 }
