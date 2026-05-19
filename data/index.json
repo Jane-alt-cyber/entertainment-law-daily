@@ -350,7 +350,16 @@
       "theme_cn": "AI与娱乐法",
       "file": "week09/day1.json",
       "audio": "week09/day1.mp3"
+    },
+    {
+      "week": 9,
+      "day": 2,
+      "date": "2026-05-20",
+      "theme_en": "AI & Entertainment Law",
+      "theme_cn": "AI与娱乐法",
+      "file": "week09/day2.json",
+      "audio": "week09/day2.mp3"
     }
   ],
-  "last_updated": "2026-05-19"
+  "last_updated": "2026-05-20"
 }
