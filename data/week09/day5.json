@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "A Lawsuit Over Voice Clones Poses Novel Legal Questions Over AI",
+    "source": "The Fashion Law — August 3, 2025",
+    "url": "https://www.thefashionlaw.com/a-lawsuit-over-cloned-voices-poses-first-of-its-kind-legal-questions-over-ai/",
+    "text": "In Lehrman v. Lovo, Inc., No. 23-cv-08269, two professional voice actors filed a putative class action against Lovo Inc., an AI text-to-speech subscription company, alleging that Lovo unlawfully used recordings of their voices to create and sell AI-generated voice clones without authorization or proper compensation. The factual backdrop is striking: in 2019 and 2020, plaintiffs Paul Lehrman and Linnea Sage were hired through the freelance platform Fiverr by individuals later identified as Lovo employees, who falsely represented that their recordings would be used solely for internal and academic research purposes. Instead, Lovo used those recordings to train its AI voice generator 'Genny,' creating synthetic voice clones marketed under pseudonyms and sold to paying subscribers. One plaintiff later discovered his cloned voice while listening to a podcast narrated in part by his own digitally replicated voice — a voice the plaintiffs alleged Lovo's software could reproduce in a manner 'practically indistinguishable' from the original.\n\nPlaintiffs asserted 16 claims spanning breach of contract, violations of the Lanham Act, the Copyright Act, and New York's right of publicity laws under N.Y. Civil Rights Law §§ 50 and 51. On July 10, 2025, SDNY Judge Paul Oetken issued a 60-page ruling granting in part and denying in part Lovo's motion to dismiss. The court permitted the right of publicity claims, breach of contract claims, and state consumer protection claims to proceed. The federal false endorsement claims under the Lanham Act were dismissed because plaintiffs' voices did not function as trademarks, and most copyright infringement claims failed because copyright law protects only against direct copying of a fixed recording — not against imitation or simulation of a voice.\n\nMost significantly, the right of publicity claims survived because plaintiffs plausibly established unauthorized use of their voices for advertising or trade. The court rejected Lovo's statute of limitations defense by invoking a continuing violation theory: each time Lovo's model generated new clips using the cloned voices, it arguably reset the limitations clock. The Fiverr message exchanges were also found to constitute enforceable contracts under New York law. Judge Oetken acknowledged the case 'carries potentially weighty consequences not only for voice actors, but also for the burgeoning AI industry, other holders and users of intellectual property, and ordinary citizens,' flagging several questions of first impression still to be resolved at trial.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "putative class action",
+      "pronunciation": "/ˈpjuːtətɪv klæs ˈækʃən/",
+      "definition_cn": "推定集体诉讼：原告主张代表一类处境相似的人提起诉讼，但尚未经法院正式认证为集体诉讼的程序形式。",
+      "example": "The voice actors filed a putative class action on behalf of all performers whose voices had been cloned without consent.",
+      "audio": "week09/day5_vocab_0.mp3"
+    },
+    {
+      "term": "right of publicity",
+      "pronunciation": "/raɪt əv pʌbˈlɪsɪti/",
+      "definition_cn": "公开权：个人对其姓名、肖像、声音等个人特征用于商业目的享有的排他性控制权，受各州法律保护。",
+      "example": "Under New York's right of publicity statute, unauthorized commercial use of a person's voice constitutes a cognizable legal harm.",
+      "audio": "week09/day5_vocab_1.mp3"
+    },
+    {
+      "term": "motion to dismiss",
+      "pronunciation": "/ˈmoʊʃən tə dɪˈsmɪs/",
+      "definition_cn": "驳回动议：被告在诉讼早期提出的程序性动议，主张即便原告陈述属实，其诉状也不构成法律上的请求权基础。",
+      "example": "Lovo's motion to dismiss was only partially granted, allowing the most consequential claims to proceed to discovery.",
+      "audio": "week09/day5_vocab_2.mp3"
+    },
+    {
+      "term": "statute of limitations",
+      "pronunciation": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "definition_cn": "诉讼时效：法律规定当事人必须在特定期限内提起诉讼，否则丧失诉权的制度安排。",
+      "example": "The court rejected the statute of limitations defense, finding that each new AI-generated clip constituted a fresh violation.",
+      "audio": "week09/day5_vocab_3.mp3"
+    },
+    {
+      "term": "continuing violation",
+      "pronunciation": "/kənˈtɪnjuɪŋ ˌvaɪəˈleɪʃən/",
+      "definition_cn": "持续侵权原则：法律理论，认为持续性的违法行为每次发生均重新触发诉讼时效，而非从首次违法起算。",
+      "example": "By applying the continuing violation doctrine, the court held that the limitations period reset with each unauthorized voice-clone output.",
+      "audio": "week09/day5_vocab_4.mp3"
+    },
+    {
+      "term": "false endorsement",
+      "pronunciation": "/fɔːls ɪnˈdɔːrsmənt/",
+      "definition_cn": "虚假代言：兰汉姆法下的一种诉因，主张被告使用原告的身份特征导致消费者误信原告认可或参与了被告产品。",
+      "example": "The false endorsement claims were dismissed because the plaintiffs could not show their voices functioned as source-identifying marks.",
+      "audio": "week09/day5_vocab_5.mp3"
+    },
+    {
+      "term": "Lanham Act",
+      "pronunciation": "/ˈlænəm ækt/",
+      "definition_cn": "《兰汉姆法》：美国联邦商标法，亦为虚假来源标注和虚假代言等不正当竞争行为提供联邦层面的救济渠道。",
+      "example": "Courts have increasingly been asked to determine whether AI voice cloning can constitute a Lanham Act violation through false endorsement.",
+      "audio": "week09/day5_vocab_6.mp3"
+    },
+    {
+      "term": "fixed recording",
+      "pronunciation": "/fɪkst rɪˈkɔːrdɪŋ/",
+      "definition_cn": "固定录音：著作权法概念，指以有形媒介固定的声音作品；版权保护以\"固定\"为前提，单纯模仿声音不受版权保护。",
+      "example": "Because copyright protection attaches only to a fixed recording and not to vocal style, the AI-generated clones did not infringe plaintiffs' copyrights.",
+      "audio": "week09/day5_vocab_7.mp3"
+    },
+    {
+      "term": "questions of first impression",
+      "pronunciation": "/ˈkwɛstʃənz əv fɜːrst ɪmˈprɛʃən/",
+      "definition_cn": "首要印象问题：指法院首次面临、尚无先例可循的法律问题，其裁决将对后续案件具有重要指导意义。",
+      "example": "Judge Oetken flagged several questions of first impression that remain unresolved and must be addressed at trial.",
+      "audio": "week09/day5_vocab_8.mp3"
+    },
+    {
+      "term": "enforceable contracts",
+      "pronunciation": "/ɪnˈfɔːrsəbəl ˈkɒntræks/",
+      "definition_cn": "可执行合同：满足法律要件（要约、承诺、对价等）、在法律上可强制执行的合同，违反则产生违约救济权利。",
+      "example": "The court found that the Fiverr message exchanges constituted enforceable contracts whose scope expressly limited use of the recordings to research.",
+      "audio": "week09/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff(s)] alleged that [defendant] unlawfully [action], in violation of [statute/doctrine], seeking [remedy].",
+      "example": "Plaintiffs alleged that Lovo unlawfully used their voice recordings to train a commercial AI system, in violation of New York's right of publicity laws, seeking both injunctive relief and damages.",
+      "translation_cn": "原告主张洛沃公司非法使用其声音录音训练商业AI系统，违反了纽约州公开权法律，并寻求禁令救济和损害赔偿。"
+    },
+    {
+      "pattern": "The court [granted/denied] [party]'s motion to dismiss with respect to [claim], holding that [legal reasoning].",
+      "example": "The court denied Lovo's motion to dismiss with respect to the right of publicity claims, holding that plaintiffs had plausibly established unauthorized use of their voices for advertising or trade.",
+      "translation_cn": "法院驳回了洛沃公司就公开权诉因提出的驳回动议，认定原告已合理确立其声音被未经授权用于广告或商业目的。"
+    },
+    {
+      "pattern": "Because [legal doctrine] protects only against [narrow scope], [broader conduct] does not constitute [legal violation].",
+      "example": "Because copyright law protects only against direct copying of a fixed recording, the AI-generated simulation of a voice does not constitute copyright infringement.",
+      "translation_cn": "由于著作权法仅保护对固定录音的直接复制，AI生成的声音模拟不构成版权侵权。"
+    }
+  ],
+  "summary_cn": "在Lehrman v. Lovo案中，两名配音演员指控AI公司Lovo未经授权使用其声音录音训练语音克隆模型并商业销售。纽约南区联邦法院2025年7月裁定，公开权及违约诉因可继续推进，但兰汉姆法虚假代言及大部分版权侵权诉因被驳回。法院认为，每次生成克隆语音均构成持续侵权，诉讼时效相应重置。本案涉及多项首例法律问题，对AI产业影响深远。",
+  "legal_analysis": "① 核心法律问题：本案核心在于三重法律争议——AI语音克隆是否侵犯版权（固定录音原则）、是否违反兰汉姆法（声音能否作为商标）、以及是否侵害纽约州公开权（未经授权的商业使用）。\n\n② 美国法律框架分析：法院明确划定版权法的边界——版权仅保护\"固定录音\"本身，不延伸至声音风格或音色的模仿，这一裁定为AI企业在版权层面留下了相当空间。兰汉姆法虚假代言诉因因\"声音商标\"认定门槛未满足而落败。真正存活并具有战略意义的是州层面的公开权诉因：纽约民事权利法第50、51条为声音等个人特征的商业化使用提供了独立保护路径，且\"持续侵权\"理论的适用有效突破了时效障碍。此外，Fiverr消息记录被认定为可执行合同，揭示平台沟通记录在诉讼中的证据价值。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理AI语音相关项目时，应在合同中明确限定录音用途，禁止用于AI训练；同时关注中国《个人信息保护法》及《生成式人工智能服务管理暂行办法》对生物特征数据处理的合规要求；此外，公开权类诉因在中国可参照《民法典》人格权编中的声音保护条款构建请求权基础。",
+  "cn_us_comparison": "美国法律体系中，声音保护呈现分层结构：联邦版权法（17 U.S.C.）保护固定录音，但不延伸至声音风格；兰汉姆法保护具有来源识别功能的声音商标；各州公开权法（如纽约民事权利法第50、51条）则单独保护个人声音的商业化权益。这种多轨并行、各有边界的体系导致救济碎片化。\n\n中国法律体系下，《民法典》第1023条明确将声音参照适用肖像权保护规则，统一纳入人格权编框架，保护路径较美国更为集中。《著作权法》对录音制作者权亦有规定，但对\"声音风格\"的保护同样存在空白。在AI治理层面，中国《生成式人工智能服务管理暂行办法》（2023年）要求训练数据合法合规，较美国现行联邦层面的缺位具有更明确的行政规制路径。两国共同面临的挑战是：现有法律框架均非专为AI语音克隆场景设计，均需通过司法解释或立法补足。",
+  "discussion_prompt": "Given that copyright law protects fixed recordings but not vocal style or timbre, and that state right of publicity laws vary widely across jurisdictions, should the United States enact a federal right of publicity statute specifically addressing AI voice cloning — and if so, how should it balance performers' personal autonomy against the innovation interests of the AI industry?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a voice actor whose voice was cloned by an AI company without consent. Write 2-3 sentences describing the key legal claims and why the statute of limitations defense should fail, using vocabulary from the reading.",
+    "model_answer": "Our client has plausibly established that the defendant's unauthorized use of her voice recordings for commercial AI training constitutes a violation of the right of publicity under N.Y. Civil Rights Law §§ 50 and 51. Because the defendant's AI system generates new synthetic clips on a continuous basis, each output constitutes a distinct instance of the continuing violation, effectively resetting the statute of limitations with every unauthorized use. Accordingly, the motion to dismiss on timeliness grounds must be denied."
+  },
+  "youtube_rec": {
+    "title": "AI Voice Cloning & the Law: Right of Publicity, Copyright, and What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频解析AI语音克隆在美国法律框架下的多重争议，涵盖版权保护边界、兰汉姆法虚假代言诉因、各州公开权法律的适用差异，以及Lehrman v. Lovo等标志性案件对演员权益保护的深远影响，适合希望了解AI娱乐法前沿动态的法律学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Three Key Decisions on AI Training and Copyrighted Content from 2025",
+      "url": "https://ipwatchdog.com/2025/12/23/copyright-ai-collide-three-key-decisions-ai-training-copyrighted-content-2025/",
+      "description_cn": "IPWatchdog梳理2025年三项AI版权重大判决，分析美国法院在AI训练数据合理使用问题上的分歧走向，揭示统一法律原则尚未形成的现实。",
+      "language": "en"
+    },
+    {
+      "title": "Voice Cloning in an Age of Generative AI: Mapping the Limits of the Law & Principles for a New Social Contract with Technology",
+      "url": "https://ssrn.com/abstract=4850866",
+      "description_cn": "学术论文批判现行版权、隐私与公开权框架对AI语音克隆保护的不足，提出以数字自决权为核心、强制知情同意为原则的新监管模型。",
+      "language": "en"
+    }
+  ],
+  "week": 9,
+  "day": 5,
+  "date": "2026-05-25",
+  "phase": 3,
+  "theme_en": "AI & Entertainment Law",
+  "theme_cn": "AI与娱乐法",
+  "audio_file": "week09/day5.mp3"
+}
