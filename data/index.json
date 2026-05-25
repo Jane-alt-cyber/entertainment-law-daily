@@ -386,7 +386,16 @@
       "theme_cn": "AI与娱乐法",
       "file": "week09/day5.json",
       "audio": "week09/day5.mp3"
+    },
+    {
+      "week": 10,
+      "day": 1,
+      "date": "2026-05-26",
+      "theme_en": "Data Privacy & Entertainment",
+      "theme_cn": "数据隐私与娱乐",
+      "file": "week10/day1.json",
+      "audio": "week10/day1.mp3"
     }
   ],
-  "last_updated": "2026-05-25"
+  "last_updated": "2026-05-26"
 }

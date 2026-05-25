@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "CNIL Fines Deezer's Former Data Processor €1 Million for GDPR Violations Following 46-Million-User Data Breach",
+    "source": "ICLG / Pearl Cohen Law, December 19–31, 2025",
+    "url": "https://iclg.com/news/23386-data-processor-handed-penalty-for-gdpr-lapses-in-deezer-breach",
+    "text": "In December 2025, France's data protection authority, the CNIL, imposed a €1 million administrative fine on Mobius Solutions Ltd. — an Israeli marketing technology company operating under the trade name Optimove — for serious violations of the General Data Protection Regulation (GDPR) arising from its role as a data processor for French music streaming platform Deezer. The enforcement action stemmed from a 2022 data breach in which the personal information of approximately 46.9 million Deezer users worldwide — including 9.8 million French residents — was posted on the dark web.\n\nDeezer notified the CNIL of the breach on November 10, 2022, identifying Optimove as the probable source. Following documentary investigations conducted in 2023 and 2024, the CNIL's restricted committee published its decision on December 19, 2025, finding violations of Articles 28, 29, and 30 of the GDPR.\n\nThree core violations were identified. First, under Article 28(3)(g), Mobius Solutions failed to delete Deezer's user data following the termination of their contractual relationship — retaining a copy of data belonging to more than 46 million users. The data had been copied by three Mobius employees without authorization. Mobius did not delete this illicitly retained data until October 1, 2023 — nearly a year after the initial breach notification — by which time the data had already been sold on the dark web. Second, Mobius employees processed the personal data beyond the purposes established with Deezer as the data controller, constituting unauthorized processing under Article 29. Third, Mobius failed to maintain Records of Processing Activities (ROPA) as required under Article 30.\n\nOptimove disputed CNIL's jurisdiction, arguing it was only indirectly subject to the Article 28(3) obligations imposed by Deezer as the data controller, but the restricted committee rejected this defense. The CNIL opted to publish its decision publicly, signaling a strong deterrent posture toward non-compliant data processors.\n\nThe case carries significant legal implications. It demonstrates the GDPR's extraterritorial reach over a non-EU company processing EU citizens' personal data. It places direct regulatory liability squarely on data processors — not merely on controllers. And it underscores the legal risk created by inadequate data processing agreements and post-contractual data retention failures. The fine calculation considered Optimove's financial situation, the scale of the breach, the seriousness of the violations, and the number of affected individuals.",
+    "word_count": 345
+  },
+  "vocabulary": [
+    {
+      "term": "data processor",
+      "pronunciation": "/ˈdeɪtə ˈprɒsesər/",
+      "definition_cn": "数据处理者：代表数据控制者处理个人数据的自然人或法人，须在控制者指示范围内行事，对GDPR第28条规定的义务承担独立法律责任。",
+      "example": "The CNIL's decision confirmed that a data processor can be fined directly for GDPR breaches, regardless of the data controller's separate liability.",
+      "audio": "week10/day1_vocab_0.mp3"
+    },
+    {
+      "term": "data controller",
+      "pronunciation": "/ˈdeɪtə kənˈtrəʊlər/",
+      "definition_cn": "数据控制者：决定个人数据处理目的与方式的主体，在GDPR框架下对数据主体权利保护负首要责任，并须与处理者签订数据处理协议。",
+      "example": "Deezer, as the data controller, was responsible for ensuring that its data processor maintained adequate safeguards over user information.",
+      "audio": "week10/day1_vocab_1.mp3"
+    },
+    {
+      "term": "data processing agreement",
+      "pronunciation": "/ˈdeɪtə ˈprɒsesɪŋ əˈɡriːmənt/",
+      "definition_cn": "数据处理协议：控制者与处理者依GDPR第28条缔结的书面合同，明确处理目的、范围、期限及数据删除等义务，是处理者合规经营的核心法律文件。",
+      "example": "The inadequate data processing agreement between Deezer and Optimove failed to impose enforceable post-termination deletion obligations on the processor.",
+      "audio": "week10/day1_vocab_2.mp3"
+    },
+    {
+      "term": "Records of Processing Activities",
+      "pronunciation": "/ˈrekədz əv ˈprɒsesɪŋækˈtɪvɪtɪz/",
+      "definition_cn": "处理活动记录（ROPA）：GDPR第30条要求数据处理者必须维护的书面记录，载明处理类别、数据接收方、安全措施等信息，是监管机构审查合规性的重要依据。",
+      "example": "Mobius's failure to maintain Records of Processing Activities left it unable to demonstrate the lawful scope of its data handling to the CNIL.",
+      "audio": "week10/day1_vocab_3.mp3"
+    },
+    {
+      "term": "extraterritorial reach",
+      "pronunciation": "/ˌekstrəˌterɪˈtɔːrɪəl riːtʃ/",
+      "definition_cn": "域外管辖权：指一国法律对其领土以外的主体或行为所主张的适用效力，GDPR因此可对处理欧盟居民数据的非欧盟企业直接课以合规义务和行政罚款。",
+      "example": "The CNIL's fine against the Israeli company Optimove is a clear illustration of the GDPR's extraterritorial reach over non-EU data processors.",
+      "audio": "week10/day1_vocab_4.mp3"
+    },
+    {
+      "term": "administrative fine",
+      "pronunciation": "/ədˈmɪnɪstrətɪv faɪn/",
+      "definition_cn": "行政罚款：监管机构依法对违规主体课处的金钱处罚，GDPR第83条授权各成员国数据保护机构对严重违规行为处以最高全球营业额4%的行政罚款。",
+      "example": "The €1 million administrative fine imposed on Mobius Solutions reflected both the scale of the breach and the seriousness of the GDPR violations found.",
+      "audio": "week10/day1_vocab_5.mp3"
+    },
+    {
+      "term": "restricted committee",
+      "pronunciation": "/rɪˈstrɪktɪd kəˈmɪti/",
+      "definition_cn": "限制委员会：CNIL内部负责作出制裁决定的专门机构，在完成调查程序后对违规主体进行审议并发布具有约束力的处罚决定。",
+      "example": "After two years of documentary investigations, the CNIL's restricted committee published its binding decision finding three distinct GDPR violations.",
+      "audio": "week10/day1_vocab_6.mp3"
+    },
+    {
+      "term": "post-contractual data retention",
+      "pronunciation": "/pəʊst kənˈtræktʃuəl ˈdeɪtə rɪˈtenʃən/",
+      "definition_cn": "合同终止后数据留存：指在数据处理协议届满或终止后，处理者非法持续保存控制者数据的行为，违反GDPR第28(3)(g)条规定的数据删除义务。",
+      "example": "The CNIL found that post-contractual data retention by Mobius employees — lasting nearly a year — directly enabled the eventual dark web sale of 46 million user records.",
+      "audio": "week10/day1_vocab_7.mp3"
+    },
+    {
+      "term": "regulatory liability",
+      "pronunciation": "/ˌreɡjʊˈlætərɪ laɪəˈbɪlɪti/",
+      "definition_cn": "监管责任：企业因违反法定或监管义务而对主管机关承担的法律后果，涵盖行政罚款、整改命令及公开谴责等，与民事侵权责任并行存在。",
+      "example": "The CNIL's decision established that regulatory liability for GDPR breaches can attach directly to a data processor, independent of any action taken against the controller.",
+      "audio": "week10/day1_vocab_8.mp3"
+    },
+    {
+      "term": "unauthorized processing",
+      "pronunciation": "/ˌʌnˈɔːθəraɪzd ˈprɒsesɪŋ/",
+      "definition_cn": "未授权处理：数据处理者超越控制者既定目的或指令范围擅自处理个人数据的行为，违反GDPR第29条，处理者须对此承担独立的合规责任。",
+      "example": "Mobius employees engaged in unauthorized processing when they copied and retained Deezer's user data for purposes never sanctioned by the data controller.",
+      "audio": "week10/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Regulatory body] imposed a [penalty amount] [penalty type] on [respondent] for [specific violations], finding that [factual and legal conclusion].",
+      "example": "The CNIL imposed a €1 million administrative fine on Mobius Solutions Ltd. for serious GDPR violations, finding that the company had engaged in unauthorized processing and failed to maintain Records of Processing Activities.",
+      "translation_cn": "法国数据保护机构CNIL对Mobius Solutions Ltd.处以100万欧元行政罚款，认定该公司严重违反GDPR，存在未授权处理行为且未维护处理活动记录。"
+    },
+    {
+      "pattern": "[Party] disputed [regulatory authority]'s jurisdiction, arguing that [legal defense], but [adjudicating body] rejected this defense on the grounds that [legal reasoning].",
+      "example": "Optimove disputed CNIL's jurisdiction, arguing that it was only indirectly subject to the Article 28(3) obligations imposed by Deezer as the data controller, but the restricted committee rejected this defense on the grounds that GDPR's extraterritorial reach applied directly to non-EU data processors.",
+      "translation_cn": "Optimove对CNIL的管辖权提出异议，主张其仅间接受到Deezer作为数据控制者所施加的第28(3)条义务约束，但限制委员会以GDPR域外效力直接适用于非欧盟数据处理者为由驳回了该抗辩。"
+    },
+    {
+      "pattern": "The case is legally significant insofar as it [legal principle established], thereby [broader regulatory implication for similarly situated parties].",
+      "example": "The case is legally significant insofar as it places direct regulatory liability on data processors — not merely on controllers — thereby signaling to entertainment companies worldwide that inadequate data processing agreements and post-contractual data retention failures carry serious enforcement risk.",
+      "translation_cn": "本案具有重要法律意义，其直接将监管责任归于数据处理者而非仅限于控制者，从而向全球娱乐企业发出警示：数据处理协议不完善及合同终止后数据留存行为将面临严峻的执法风险。"
+    }
+  ],
+  "summary_cn": "2025年12月，法国CNIL对以色列营销技术公司Mobius Solutions（商业名称Optimove）处以100万欧元行政罚款，原因是其作为音乐流媒体平台Deezer的数据处理者，在GDPR合规方面存在三项严重违规：合同终止后非法留存逾4600万用户数据、员工实施未授权处理、未维护处理活动记录。本案突出体现了GDPR的域外管辖权及数据处理者的独立监管责任。",
+  "legal_analysis": "① 核心法律问题：本案焦点在于GDPR第28、29、30条框架下数据处理者的独立合规义务，尤其是合同终止后的数据删除义务（第28条第3款第7项）、处理者不得超越控制者指令范围处理数据的限制（第29条），以及处理活动记录的维护义务（第30条）。CNIL同时确认，GDPR对非欧盟处理者具有域外管辖效力。\n\n② 美国法律框架分析：美国目前尚无与GDPR直接对应的联邦隐私立法，但《加利福尼亚消费者隐私法》（CCPA/CPRA）、《视频隐私保护法》（VPPA）等州立及特别领域立法正逐步强化对第三方数据处理者的规制。与GDPR不同，美国体系多以\"合理安全措施\"及\"通知义务\"为核心，对处理者的直接监管责任尚不及GDPR严格。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐企业若向欧盟用户提供流媒体等服务，须确保与第三方技术服务商签订符合GDPR第28条要求的数据处理协议，明确处理目的、期限及终止后删除义务。此外，应建立完善的ROPA及数据泄露应急响应机制，避免因数据处理者违规而承担连带声誉与法律风险。",
+  "cn_us_comparison": "在数据处理者监管责任方面，中美欧三地存在显著差异。中国《个人信息保护法》（2021年）第21条确立了委托处理关系，要求个人信息处理者与受托方签订合同并对受托处理活动实施监督，受托方不得超出约定目的处理个人信息，这与GDPR第28、29条的逻辑高度相似。然而，中国现行制度尚未建立类似CNIL限制委员会的专门罚款委员会，行政处罚权由国家网信办及其地方机构行使，最高罚款上限为5000万元人民币或上年度营业额5%。相比之下，美国VPPA及CCPA/CPRA对第三方处理者的直接行政处罚机制较为有限，主要依赖私人诉讼和州检察长执法。值得注意的是，中国《网络安全法》第42条及《数据安全法》第36条同样对数据泄露通报和跨境数据传输设有强制性要求，与GDPR的域外管辖思路有一定呼应，但执法力度与透明度仍存在差距。",
+  "discussion_prompt": "Given that the CNIL imposed direct regulatory liability on Optimove as a data processor — rather than solely on Deezer as the data controller — does this enforcement model risk creating perverse incentives for large entertainment platforms to offload compliance obligations onto smaller, less-resourced third-party vendors, and how should data processing agreements be structured to prevent such regulatory arbitrage?",
+  "writing_exercise": {
+    "prompt": "You are a data privacy counsel advising a global streaming company. Write 2–3 sentences describing a recent GDPR enforcement action against a third-party data processor, identifying the core violations found and the broader regulatory implications for the entertainment sector.",
+    "model_answer": "The CNIL imposed a €1 million administrative fine on Optimove, a third-party data processor, finding that the company had engaged in unauthorized processing of over 46 million user records and failed to maintain Records of Processing Activities as mandated by Article 30 of the GDPR. The case is legally significant insofar as it places direct regulatory liability on data processors — not merely on controllers — thereby underscoring the critical importance of robust data processing agreements that expressly govern post-contractual data retention obligations. For entertainment companies operating across jurisdictions, this enforcement action demonstrates that the GDPR's extraterritorial reach can expose non-EU vendors to substantial administrative fines even where the data controller is the primary contracting party."
+  },
+  "youtube_rec": {
+    "title": "GDPR Enforcement Against Data Processors: What the Deezer/Optimove Fine Means for Tech Companies",
+    "channel": "CLE International",
+    "summary_cn": "本视频解析CNIL对Deezer前数据处理商Optimove处以100万欧元罚款一案，重点讲解GDPR第28、29、30条对数据处理者的直接合规义务、域外管辖原则，以及数据处理协议的关键条款设计，适合企业合规律师和隐私法从业者参考。"
+  },
+  "extended_reading": [
+    {
+      "title": "2025 Video Privacy Protection Act Litigation Year in Review",
+      "url": "https://www.privacyworld.blog/2025/12/2025-video-privacy-protection-act-litigation-year-in-review/",
+      "description_cn": "2025年度VPPA诉讼回顾，梳理第六、七巡回法院关于\"消费者\"定义的巡回分歧及最高法院待审案件，对流媒体平台集体诉讼风险具有重要参考价值。",
+      "language": "en"
+    },
+    {
+      "title": "The Extraordinary Extension of the Video Privacy Protection Act: Why the VPPA's Second Life Has Overextended the Law — Brooklyn Law Review, Vol. 90, Iss. 2 (2025)",
+      "url": "https://brooklynworks.brooklaw.edu/blr/vol90/iss2/5/",
+      "description_cn": "布鲁克林法学评论2025年学术论文，批判性分析VPPA现代适用范围已超越国会原始立法意图，并探讨其对流媒体时代数字隐私保护的制度局限。",
+      "language": "en"
+    }
+  ],
+  "week": 10,
+  "day": 1,
+  "date": "2026-05-26",
+  "phase": 3,
+  "theme_en": "Data Privacy & Entertainment",
+  "theme_cn": "数据隐私与娱乐",
+  "audio_file": "week10/day1.mp3"
+}
