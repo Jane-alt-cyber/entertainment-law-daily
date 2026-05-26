@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Disney Settles Multimillion-Dollar Streaming Data Suit From California Attorney General; More Streamers Still Being Probed",
+    "source": "Deadline Hollywood, February 12, 2026",
+    "url": "https://deadline.com/2026/02/disney-settles-lawsuit-data-california-1236716631/",
+    "text": "On February 11, 2026, California Attorney General Rob Bonta simultaneously filed and settled a landmark CCPA enforcement action against Disney DTC, LLC and ABC Enterprises, Inc., resulting in a $2.75 million civil penalty — the largest CCPA settlement in California history. The case emerged from a 2024 investigative sweep by the AG's office examining opt-out compliance practices across multiple streaming services. Disney and Sling TV were the only parties to settle at the time of publication, while other services — reportedly including Netflix, Paramount+, and HBO Max — remain under active investigation.\n\nInvestigators identified three distinct, overlapping compliance failures. First, Disney's web-based opt-out form had no technical effect on the embedded tracking code that transmitted viewing data to advertising third parties, rendering the mechanism functionally inoperative. Second, Disney failed to honor the Global Privacy Control (GPC) signal on an account-wide basis: when consumers exercised their opt-out right via the GPC browser signal, Disney limited the request only to the specific device in use — even when the consumer was logged into a unified account. Third, Disney provided no in-app opt-out mechanisms within many of its connected-TV apps, instead directing consumers to complete a separate webform on another device — a process regulators found to be impermissibly burdensome under the CCPA's requirement that opt-out methods be easy to execute and require minimal steps.\n\nThe AG's office determined that a subscriber to the full Disney bundle might have needed to express their opt-out choice up to ten separate times across devices and services — a systemic defect that fundamentally undermined the statute's consumer-protective purpose.\n\nUnder the settlement terms, Disney must pay the $2.75 million civil penalty and implement an account-wide opt-out mechanism halting the sale and sharing of personal information across all devices, services, and third-party advertising partners tied to a consumer's account. The settlement establishes a significant enforcement precedent: if a business can unify consumer identity for advertising purposes, it must equally unify that identity for opt-out compliance. AG Bonta stated that California's privacy law is clear — a consumer's opt-out right applies wherever and however a business sells data. Legal commentators noted this action signals a shift toward proactive, sector-wide investigative sweeps rather than complaint-driven enforcement, portending further actions against major platforms that have not resolved the compliance deficiencies identified in the 2024 sweep.",
+    "word_count": 358
+  },
+  "vocabulary": [
+    {
+      "term": "CCPA enforcement action",
+      "pronunciation": "/ˌsiː.siː.piː.ˈeɪ ɪnˈfɔːrs.mənt ˈæk.ʃən/",
+      "definition_cn": "依据《加州消费者隐私法》提起的执法行动，由州检察长或隐私保护局针对违规企业启动的正式法律程序，可导致民事罚款等法律后果。",
+      "example": "The Attorney General initiated a CCPA enforcement action after investigators found that the company's opt-out mechanism was technically non-functional.",
+      "audio": "week10/day2_vocab_0.mp3"
+    },
+    {
+      "term": "civil penalty",
+      "pronunciation": "/ˈsɪv.əl ˈpen.əl.ti/",
+      "definition_cn": "由政府监管机构就违反法规行为对当事人课处的货币性行政罚款，属民事救济范畴，有别于刑事罚金，通常按违规次数或天数累计计算。",
+      "example": "The $2.75 million civil penalty imposed on Disney represented the largest single such penalty in CCPA enforcement history.",
+      "audio": "week10/day2_vocab_1.mp3"
+    },
+    {
+      "term": "opt-out compliance",
+      "pronunciation": "/ˈɒpt aʊt kəmˈplaɪ.əns/",
+      "definition_cn": "企业依法履行消费者退出同意（数据出售或共享）请求义务的合规状态，要求在技术与流程层面切实响应消费者的退出指令。",
+      "example": "Disney's opt-out compliance failures were systemic, spanning its web forms, browser signals, and connected-TV applications simultaneously.",
+      "audio": "week10/day2_vocab_2.mp3"
+    },
+    {
+      "term": "Global Privacy Control (GPC) signal",
+      "pronunciation": "/ˈɡloʊ.bəl ˈprɪv.ə.si kənˈtroʊl ˈsɪɡ.nəl/",
+      "definition_cn": "消费者通过浏览器或设备设置发送的标准化技术信号，用于全局性地表达拒绝出售或共享个人数据的意愿，CCPA规定企业必须予以遵从。",
+      "example": "Disney's failure to honor the Global Privacy Control (GPC) signal on an account-wide basis formed the second major allegation in the AG's complaint.",
+      "audio": "week10/day2_vocab_3.mp3"
+    },
+    {
+      "term": "account-wide basis",
+      "pronunciation": "/əˈkaʊnt waɪd ˈbeɪ.sɪs/",
+      "definition_cn": "在整个用户账户层面统一执行某一操作或权利，而非局限于单一设备或会话，是CCPA执法中评判退出机制有效性的关键标准。",
+      "example": "Regulators found that a compliant opt-out system must operate on an account-wide basis to be meaningful under California privacy law.",
+      "audio": "week10/day2_vocab_4.mp3"
+    },
+    {
+      "term": "embedded tracking code",
+      "pronunciation": "/ɪmˈbɛd.ɪd ˈtræk.ɪŋ koʊd/",
+      "definition_cn": "嵌入网页或应用程序中的第三方脚本或像素代码，在用户交互过程中持续收集并向广告方传输个人数据，是CCPA执法的核心技术关注点。",
+      "example": "Disney's webform had no technical effect on the embedded tracking code that continued to transmit consumer viewing data to advertising partners.",
+      "audio": "week10/day2_vocab_5.mp3"
+    },
+    {
+      "term": "in-app opt-out mechanisms",
+      "pronunciation": "/ɪn æp ˈɒpt aʊt ˈmek.ə.nɪ.zəmz/",
+      "definition_cn": "直接集成于移动或联网电视应用程序内部的数据退出操作界面或功能，CCPA要求此类机制须便于消费者在使用应用时直接行使退出权。",
+      "example": "The absence of in-app opt-out mechanisms in Disney's connected-TV applications forced users to complete a separate webform on a different device.",
+      "audio": "week10/day2_vocab_6.mp3"
+    },
+    {
+      "term": "investigative sweep",
+      "pronunciation": "/ɪnˈves.tɪ.ɡeɪ.tɪv swiːp/",
+      "definition_cn": "监管机构对某一行业或特定类别企业开展的系统性主动调查行动，旨在识别普遍性合规缺陷，区别于针对单一投诉的被动执法模式。",
+      "example": "The 2024 investigative sweep by the AG's office examined opt-out compliance practices across multiple streaming services simultaneously.",
+      "audio": "week10/day2_vocab_7.mp3"
+    },
+    {
+      "term": "enforcement precedent",
+      "pronunciation": "/ɪnˈfɔːrs.mənt ˈpres.ɪ.dənt/",
+      "definition_cn": "由执法行动所确立的具有示范性或约束性意义的规则或标准，为同类企业的合规义务划定边界，并指引未来执法机构的裁量方向。",
+      "example": "The Disney settlement established an enforcement precedent requiring any business that unifies consumer identity for advertising to unify it equally for opt-out compliance.",
+      "audio": "week10/day2_vocab_8.mp3"
+    },
+    {
+      "term": "sale and sharing of personal information",
+      "pronunciation": "/seɪl ænd ˈʃɛr.ɪŋ əv ˈpɜːr.sən.əl ˌɪn.fərˈmeɪ.ʃən/",
+      "definition_cn": "CCPA框架下的核心监管概念，涵盖企业将消费者个人数据转让给第三方换取对价（出售）或用于跨场景行为广告目的（共享），两者均触发消费者退出权。",
+      "example": "Under the settlement, Disney must immediately halt the sale and sharing of personal information for any consumer who submits a valid account-wide opt-out request.",
+      "audio": "week10/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Regulatory body] simultaneously filed and settled [a statutory enforcement action] against [party], resulting in [remedy] — the largest [descriptor] in [jurisdiction] history.",
+      "example": "California Attorney General Rob Bonta simultaneously filed and settled a landmark CCPA enforcement action against Disney DTC, LLC and ABC Enterprises, Inc., resulting in a $2.75 million civil penalty — the largest CCPA settlement in California history.",
+      "translation_cn": "加州总检察长罗布·邦塔就迪士尼DTC有限责任公司及ABC企业公司同步提起并和解了一项具有里程碑意义的CCPA执法行动，最终裁定275万美元民事罚款——创加州CCPA和解历史最高纪录。"
+    },
+    {
+      "pattern": "Investigators identified [number] distinct, overlapping compliance failures, including [failure #1], [failure #2], and [failure #3].",
+      "example": "Investigators identified three distinct, overlapping compliance failures, including the inoperative web-based opt-out form, the device-limited GPC signal response, and the absence of in-app opt-out mechanisms within connected-TV applications.",
+      "translation_cn": "调查人员发现了三项相互交叉的合规违规行为，包括：无实际效果的网页退出表单、仅限设备层面的GPC信号响应，以及联网电视应用内缺乏退出机制。"
+    },
+    {
+      "pattern": "The settlement establishes a critical enforcement precedent: if [condition], [party] must equally [corresponding obligation].",
+      "example": "The settlement establishes a critical enforcement precedent: if a business can unify consumer identity for advertising purposes, it must equally unify that identity for opt-out compliance.",
+      "translation_cn": "该和解协议确立了一项关键执法先例：若企业能够为广告目的整合消费者身份信息，则必须同等地将该身份整合用于退出合规目的。"
+    }
+  ],
+  "summary_cn": "2026年2月，加州总检察长就迪士尼DTC及ABC企业违反CCPA退出合规义务同步提起并和解执法行动，裁定275万美元民事罚款，创CCPA和解历史最高纪录。违规行为涵盖网页退出表单技术失效、GPC信号仅限设备级响应及联网电视应用缺乏退出机制三项系统性缺陷。和解协议确立重要先例：广告身份整合能力与退出合规义务须对等适用。Netflix、Paramount+等平台仍处调查中。",
+  "legal_analysis": "① 核心法律问题：本案焦点在于CCPA框架下企业是否切实履行了\"以便捷方式响应消费者退出数据出售与共享请求\"的法定义务。迪士尼的三重合规缺陷——技术上失效的退出表单、设备级而非账户级的GPC信号响应、以及应用内退出机制缺失——构成系统性违规，直接侵害消费者的数据自决权。\n\n② 美国法律框架分析：CCPA（Cal. Civ. Code §1798.100 et seq.）赋予消费者拒绝出售或共享个人信息的明确权利，并要求退出途径简便易用。加州隐私保护局（CPPA）及AG均具执法权限。本案中AG采取主动性行业扫描模式，而非单纯回应投诉，标志着执法策略从被动转向主动的重大转变。GPC信号的法定地位经CPPA规则（11 CCR §7025）明确确认，赋予其与显式消费者指令同等效力，要求账户层面统一遵从。\n\n③ 对中国娱乐法律师的实践启示：中国从事跨境业务的娱乐企业若在加州运营或面向加州用户，须建立涵盖全平台、全设备的统一退出机制；数据处理协议中应明确规定第三方广告合作方的技术接入标准；并特别关注GPC信号合规义务，避免因技术层面的\"形式合规、实质失效\"而触发执法风险。",
+  "cn_us_comparison": "美国CCPA赋予消费者拒绝数据出售与共享的\"退出权\"（opt-out right），并通过州检察长主动执法加以保障，本案和解金额及账户级统一退出要求均体现了美国隐私法的强制性与可执行性。\n\n中国《个人信息保护法》（PIPL，2021年）同样确立了个人的撤回同意权（第十五条）及拒绝个性化推荐的权利（第二十四条），但中国法律体系更侧重于\"事先同意\"（opt-in）模式，要求企业在收集敏感个人信息前取得单独同意，而非单纯提供退出机制。《网络安全法》及《数据安全法》亦对数据处理合规构建了多层监管框架。\n\n两者的主要差异在于：CCPA对\"数据出售\"与\"数据共享\"分别界定并赋予退出权，而PIPL侧重于\"处理目的与方式\"的事前告知与同意；在执法主体上，美国依赖州AG的主动行业扫描，而中国由网信办、市场监管总局等多部门协同执法。对于在华运营的流媒体企业，二者均要求建立有效的技术退出机制，但合规设计的逻辑起点存在本质差异。",
+  "discussion_prompt": "Given that the Disney settlement establishes a precedent requiring businesses to unify opt-out compliance wherever they unify consumer identity for advertising, how should courts and regulators address the potential conflict between a platform's technical capacity to implement account-wide opt-outs and its contractual obligations to third-party advertising partners who may resist such unified data-sharing restrictions?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a privacy compliance counsel drafting a memo to a streaming company's executive team. In 2-3 sentences, describe a systemic compliance failure, its legal consequence under CCPA, and the corrective obligation the company must now fulfill — using the sentence patterns from today's lesson.",
+    "model_answer": "Investigators identified three distinct, overlapping compliance failures, including an opt-out webform with no technical effect on embedded tracking code, a GPC signal honored only at the device level rather than on an account-wide basis, and the complete absence of in-app opt-out mechanisms within the company's connected-TV applications. These deficiencies triggered a CCPA enforcement action, resulting in a substantial civil penalty and a consent order mandating immediate remediation. The resolution establishes a critical enforcement precedent: if a business can unify consumer identity for advertising purposes, it must equally unify that identity for opt-out compliance across all devices, services, and third-party advertising partners."
+  },
+  "youtube_rec": {
+    "title": "CCPA Enforcement in 2026: Opt-Out Rights, GPC Signals, and What the Disney Settlement Means for Big Tech",
+    "channel": "CLE International",
+    "summary_cn": "本视频系统讲解CCPA执法最新动态，重点分析加州检察长主动调查模式的转变、全球隐私控制（GPC）信号的法定地位、账户级退出合规要求，以及迪士尼和解案对流媒体及科技企业隐私合规架构的深远影响，适合隐私法律师及合规专业人员参考学习。"
+  },
+  "extended_reading": [
+    {
+      "title": "2025 Video Privacy Protection Act Litigation Year in Review",
+      "url": "https://natlawreview.com/article/2025-video-privacy-protection-act-litigation-year-review",
+      "description_cn": "Squire Patton Boggs对2025年VPPA诉讼全貌的综合回顾，涵盖第二巡回法院\"普通人\"标准裁定及最高法院受理Salazar诉派拉蒙全球案，分析VPPA对流媒体平台日益扩展的适用范围。",
+      "language": "en"
+    },
+    {
+      "title": "2024 Year in Review: Video Privacy Protection Act Litigation Trends",
+      "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250212-2024-year-in-review-video-privacy-protection-act-litigation-trends",
+      "description_cn": "WilmerHale对2024年VPPA集体诉讼浪潮的深度法律分析，聚焦第三方像素追踪工具引发的娱乐企业法律风险及\"订阅者\"与\"个人可识别信息\"的司法解释演变趋势。",
+      "language": "en"
+    }
+  ],
+  "week": 10,
+  "day": 2,
+  "date": "2026-05-27",
+  "phase": 3,
+  "theme_en": "Data Privacy & Entertainment",
+  "theme_cn": "数据隐私与娱乐",
+  "audio_file": "week10/day2.mp3"
+}
