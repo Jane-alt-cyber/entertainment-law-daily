@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Sling TV First to Settle California Data Privacy Lawsuit Amid Sweep of Streaming Services",
+    "source": "Hollywood Reporter, October 30, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sling-tv-settles-california-data-privacy-lawsuit-1236414655/",
+    "text": "On October 30, 2025, California Attorney General Rob Bonta announced a landmark $530,000 settlement with Sling TV LLC and its parent Dish Media Sales LLC, resolving allegations that the streaming service had violated the California Consumer Privacy Act (CCPA). This enforcement action marked the first result of the California Department of Justice's investigative sweep of connected TV platforms, formally launched in January 2024 to examine industry-wide compliance with the CCPA's opt-out-of-sale rights.\n\nThe AG's complaint, filed simultaneously with the settlement, alleged three categories of CCPA violations. First, Sling TV deployed deceptive opt-out design — commonly called 'dark patterns' — by redirecting consumers who sought to halt the sale of their personal data to a cookie preference platform. Crucially, disabling cookies did not fully effectuate a CCPA opt-out, meaning the mechanism constituted a defective consent withdrawal mechanism. Consumers who recognized this inadequacy were then forced to navigate hard-to-find links and submit a separate webform, imposing unreasonable procedural burdens on the exercise of statutory privacy rights.\n\nSecond, Sling TV provided no in-app opt-out mechanism within its living room device applications, compelling users to manually enter a lengthy URL in a separate browser — a friction-laden process the AG characterized as functionally obstructive. Third, and most critically from a children's data protection standpoint, Sling TV failed to impose targeted advertising restrictions on minors under 16 and did not require affirmative parental opt-in consent for children under 13, in direct contravention of the CCPA's special minor protections, which function as a heightened statutory prohibition on certain categories of data processing.\n\nUnder the proposed civil penalties settlement, Sling TV agreed to eliminate the cookie-redirect pathway, cease requiring logged-in users to re-submit information already held by the company, build a functional in-app opt-out mechanism, allow parents to designate 'kids' profiles' that disable data sales and targeted advertising by default, and provide parents with clear disclosures and tools to limit the collection of children's data.\n\nThis settlement — the fifth overall CCPA enforcement action and the first against a streaming operator — signals a decisive expansion of California's enforcement appetite toward media companies and establishes a key compliance benchmark for the broader entertainment sector. Additional enforcement actions against Roku, Paramount's Pluto TV, and other platforms were widely anticipated to follow.",
+    "word_count": 348
+  },
+  "vocabulary": [
+    {
+      "term": "California Consumer Privacy Act (CCPA)",
+      "pronunciation": "/kæˌlɪfɔːrnjə kənˈsuːmər ˈpraɪvəsi ækt/",
+      "definition_cn": "加利福尼亚州《消费者隐私法》，赋予消费者对其个人数据的访问、删除及禁止出售等权利，是美国最具影响力的州级数据隐私立法。",
+      "example": "The streaming operator's failure to honor user opt-out requests exposed it to civil penalties under the California Consumer Privacy Act (CCPA).",
+      "audio": "week10/day3_vocab_0.mp3"
+    },
+    {
+      "term": "opt-out-of-sale rights",
+      "pronunciation": "/ɒpt aʊt əv seɪl raɪts/",
+      "definition_cn": "CCPA赋予消费者禁止企业向第三方出售其个人信息的权利，企业须提供合规且易于操作的退出机制。",
+      "example": "The company's convoluted webform effectively nullified consumers' opt-out-of-sale rights under the statute.",
+      "audio": "week10/day3_vocab_1.mp3"
+    },
+    {
+      "term": "dark patterns",
+      "pronunciation": "/dɑːrk ˈpætərnz/",
+      "definition_cn": "通过欺骗性界面设计误导用户作出不利于自身隐私权的选择，美国和欧盟监管机构均将其认定为违规行为。",
+      "example": "Regulators found that the opt-out flow constituted dark patterns designed to dissuade users from exercising their statutory rights.",
+      "audio": "week10/day3_vocab_2.mp3"
+    },
+    {
+      "term": "consent withdrawal mechanism",
+      "pronunciation": "/kənˈsɛnt wɪðˈdrɔːəl ˈmɛkənɪzəm/",
+      "definition_cn": "允许数据主体随时撤回已授予同意的技术或程序手段，须与原始同意授权同等便捷，是合规数据处理的核心要素。",
+      "example": "A defective consent withdrawal mechanism that routes users through multiple pages will not satisfy CCPA's opt-out requirements.",
+      "audio": "week10/day3_vocab_3.mp3"
+    },
+    {
+      "term": "civil penalties",
+      "pronunciation": "/ˈsɪvəl ˈpɛnəltiz/",
+      "definition_cn": "由行政或司法机关依法对违规主体处以的金钱性罚款，不具有刑事性质，CCPA规定每次故意违规最高可罚款7500美元。",
+      "example": "The $530,000 in civil penalties reflected the cumulative scale of Sling TV's CCPA violations across its user base.",
+      "audio": "week10/day3_vocab_4.mp3"
+    },
+    {
+      "term": "in-app opt-out mechanism",
+      "pronunciation": "/ɪn æp ɒpt aʊt ˈmɛkənɪzəm/",
+      "definition_cn": "直接嵌入应用程序界面、允许用户在使用过程中即时行使数据退出权利的功能模块，CCPA要求其具备可及性和便捷性。",
+      "example": "The AG mandated that the company build an in-app opt-out mechanism accessible directly from the living room device interface.",
+      "audio": "week10/day3_vocab_5.mp3"
+    },
+    {
+      "term": "targeted advertising restrictions",
+      "pronunciation": "/ˈtɑːrɡɪtɪd ˌædvərˈtaɪzɪŋ rɪˈstrɪkʃənz/",
+      "definition_cn": "法律规定禁止或限制对特定群体（尤其是未成年人）使用基于个人数据画像进行精准广告投放的约束性规定。",
+      "example": "Failure to implement targeted advertising restrictions for users under 16 constituted a separate and aggravated CCPA violation.",
+      "audio": "week10/day3_vocab_6.mp3"
+    },
+    {
+      "term": "affirmative parental opt-in consent",
+      "pronunciation": "/əˈfɜːrmətɪv pəˈrɛntl ɒpt ɪn kənˈsɛnt/",
+      "definition_cn": "要求平台在处理13岁以下儿童个人数据前，必须主动征得家长明确同意的法定程序要件，不得以默认授权替代。",
+      "example": "The platform's failure to obtain affirmative parental opt-in consent before collecting data on children under 13 violated both the CCPA and federal children's privacy standards.",
+      "audio": "week10/day3_vocab_7.mp3"
+    },
+    {
+      "term": "investigative sweep",
+      "pronunciation": "/ɪnˈvɛstɪɡeɪtɪv swiːp/",
+      "definition_cn": "执法机关针对某一特定行业或行为模式，同步对多家主体展开的系统性调查行动，旨在形成整体合规威慑效果。",
+      "example": "The Attorney General's investigative sweep of connected TV platforms was designed to identify systemic CCPA non-compliance across the sector.",
+      "audio": "week10/day3_vocab_8.mp3"
+    },
+    {
+      "term": "compliance benchmark",
+      "pronunciation": "/kəmˈplaɪəns ˈbɛntʃmɑːrk/",
+      "definition_cn": "执法机关或监管机构通过具体案件确立的合规参照标准，其他同类主体须据此评估并调整自身隐私实践。",
+      "example": "The Sling TV settlement now serves as a compliance benchmark against which all other streaming operators must measure their CCPA opt-out implementations.",
+      "audio": "week10/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Enforcement body] alleged that [respondent] deployed [specific prohibited practice], in direct contravention of [statutory provision].",
+      "example": "The Attorney General alleged that Sling TV deployed dark patterns in its opt-out flow, in direct contravention of the CCPA's opt-out-of-sale rights provisions.",
+      "translation_cn": "执法机构指控Sling TV在退出流程中使用暗黑设计模式，直接违反了CCPA关于数据出售退出权的相关条款。"
+    },
+    {
+      "pattern": "Under the proposed settlement, [party] agreed to [remedial obligation], [remedial obligation], and [remedial obligation], establishing a compliance benchmark for the broader [sector].",
+      "example": "Under the proposed settlement, Sling TV agreed to eliminate the cookie-redirect pathway, build an in-app opt-out mechanism, and provide parents with clear disclosures, establishing a compliance benchmark for the broader streaming sector.",
+      "translation_cn": "根据拟议和解协议，Sling TV同意消除Cookie重定向路径、建立应用内退出机制并向家长提供清晰披露，为更广泛的流媒体行业树立了合规参照标准。"
+    },
+    {
+      "pattern": "The [agency]'s [investigative/enforcement] action signals a decisive expansion of [regulatory body]'s appetite toward [industry segment], with particular focus on [specific legal concern].",
+      "example": "The Attorney General's enforcement action signals a decisive expansion of California's regulatory appetite toward media operators, with particular focus on the usability of consent withdrawal mechanisms and the protection of minor users.",
+      "translation_cn": "加州总检察长的执法行动标志着加州监管重心决定性地扩展至媒体运营商领域，尤其关注同意撤回机制的可用性及未成年用户保护问题。"
+    }
+  ],
+  "summary_cn": "2025年10月，加州总检察长宣布与Sling TV达成53万美元CCPA和解协议，指控其使用暗黑设计模式阻碍消费者行使数据退出权、缺乏设备内退出机制，并未对未成年用户实施针对性广告限制。此案是加州首次专门针对流媒体平台的CCPA执法行动，为整个行业设立了合规参照标准。",
+  "legal_analysis": "一、核心法律问题：本案涉及CCPA框架下三项独立违规：（1）以暗黑设计模式架空消费者同意撤回机制；（2）跨设备类型的退出机制可及性缺失；（3）未成年人数据的强化保护义务违反。其中第三项最具实践意义，因CCPA对16岁以下用户的定向广告及13岁以下儿童的家长同意设有明确的法定禁止性规定，而非仅依赖一般同意框架。\n\n二、美国法律框架分析：CCPA作为州级立法，与联邦层面的儿童在线隐私保护法（COPPA）形成双层规制结构。本案同时触及两个层面：CCPA的退出机制合规性标准日益从形式合规转向实质有效，即单纯提供退出入口不足，还须消除程序性障碍；同时，AGO的执法方式——以和解形式同步建立行业合规标准——体现了美国AG办公室惯用的\"示范性执法\"策略。\n\n三、对中国娱乐法律师的启示：国内流媒体及OTT平台在出海业务中须重点关注：CCPA下隐私政策披露是否覆盖所有设备端；同意撤回机制是否在各端保持功能对等；针对未成年用户的数据处理是否符合目标市场的强化保护义务。此类合规评估应纳入数据处理协议的标准审查清单。",
+  "cn_us_comparison": "美国CCPA构建了以消费者主动行权为核心的\"退出型\"（opt-out）隐私保护模式，执法主体为州总检察长，以民事罚款为主要制裁工具。相比之下，中国《个人信息保护法》（PIPL）采用以\"告知-同意\"为基础的\"选择加入型\"（opt-in）框架，对敏感个人信息（含儿童信息）要求单独同意，并设有14岁以下未成年人的特别保护条款（第31条），在保护力度上与CCPA的13岁/16岁分级机制存在可比性。\n\n在执法机制上，中国由国家互联网信息办公室（网信办）主导执法，辅以《数据安全法》与《网络安全法》协同规制，而非美国的多州分散执法模式。此外，中国《未成年人网络保护条例》（2023年）进一步细化了平台对未成年用户的数据处理义务，与本案涉及的affirmative parental opt-in consent要求具有制度上的可比性，但中国规定更为严格，且行政处罚幅度更高。",
+  "discussion_prompt": "Given that the Sling TV settlement condemns cookie-based opt-out redirects as legally insufficient consent withdrawal mechanisms, should regulators impose a universal technical standard — such as a mandatory API-level opt-out signal — for all streaming devices, or does prescribing technical architecture risk stifling innovation and creating barriers to entry for smaller platforms?",
+  "writing_exercise": {
+    "prompt": "Imagine you are outside counsel advising a mid-size connected TV operator following the Sling TV settlement. Write 2-3 sentences advising your client on the key compliance obligations it must immediately address, referencing specific legal concepts from the reading.",
+    "model_answer": "In light of the Sling TV settlement establishing a new compliance benchmark under the CCPA, your platform must immediately audit all existing opt-out flows to eliminate any dark patterns that functionally obstruct consumers' opt-out-of-sale rights. You must further deploy a fully functional in-app opt-out mechanism on all living room device applications and implement targeted advertising restrictions for users under 16, while obtaining affirmative parental opt-in consent before processing any data attributable to children under 13. Failure to address these obligations proactively risks attracting the California AG's investigative sweep and exposure to significant civil penalties."
+  },
+  "youtube_rec": {
+    "title": "CCPA Enforcement Deep Dive: Dark Patterns, Children's Data & What Streaming Companies Must Do Now",
+    "channel": "Bloomberg Law",
+    "summary_cn": "本视频深入解析CCPA执法趋势，重点分析暗黑设计模式的法律认定标准、流媒体平台儿童数据保护义务，以及加州总检察长执法行动对整个媒体行业的合规影响，适合希望系统了解美国数据隐私执法实践的法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "States' Privacy Concerns Multiply as Streaming Platforms Boom",
+      "url": "https://news.bloomberglaw.com/privacy-and-data-security/states-privacy-concerns-multiply-as-streaming-platforms-boom",
+      "description_cn": "彭博法律2025年11月报道加州、密歇根州及佛罗里达州同步对Roku、Pluto TV等主要流媒体平台展开执法行动，涵盖儿童数据收集、未经同意定向广告及语音录制等多类违规行为。",
+      "language": "en"
+    },
+    {
+      "title": "2025 Video Privacy Protection Act Litigation Year in Review",
+      "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260123-2025-year-in-review-video-privacy-protection-act-litigation-trends",
+      "description_cn": "WilmerHale律所对2025年视频隐私保护法（VPPA）集体诉讼的全景综述，涵盖\"消费者\"定义的巡回法院分歧、最高法院对Salazar v. Paramount案的调卷令，及像素追踪技术的司法认定趋势。",
+      "language": "en"
+    }
+  ],
+  "week": 10,
+  "day": 3,
+  "date": "2026-05-28",
+  "phase": 3,
+  "theme_en": "Data Privacy & Entertainment",
+  "theme_cn": "数据隐私与娱乐",
+  "audio_file": "week10/day3.mp3"
+}
