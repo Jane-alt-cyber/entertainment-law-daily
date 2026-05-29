@@ -1,0 +1,133 @@
+{
+  "reading": {
+    "title": "Disney Settles Multimillion-Dollar Streaming Data Suit From California Attorney General; More Streamers Still Being Probed",
+    "source": "Deadline Hollywood, February 12, 2026",
+    "url": "https://deadline.com/2026/02/disney-settles-lawsuit-data-california-1236716631/",
+    "text": "On February 11, 2026, California Attorney General Rob Bonta announced a landmark $2.75 million settlement with The Walt Disney Company and ABC Enterprises, resolving allegations that Disney's streaming services violated the California Consumer Privacy Act (CCPA) by systematically failing to honor consumers' opt-out rights over the sale and sharing of their personal data. The penalty is the largest civil penalty in CCPA history, surpassing all prior enforcement actions brought by the Attorney General's office.\n\nThe case originated from a 2024 investigative sweep examining how major streaming operators handled consumer opt-out requests. Investigators determined that Disney had constructed an appearance of CCPA compliance through a web opt-out form, in-app toggle switches, and technical acceptance of the browser-based Global Privacy Control (GPC) signal. However, these mechanisms were fundamentally fragmented. The web opt-out form restricted data sharing only within Disney's proprietary advertising ecosystem while continuing to transmit behavioral data to third-party ad-tech partners. Critically, opt-out elections made via GPC signals or in-app toggles applied solely to the specific device or service through which the request was submitted, rather than propagating account-wide across Disney+, Hulu, and ESPN+. Certain connected TV environments lacked any functional opt-out mechanism whatsoever.\n\nThe Attorney General's complaint, filed simultaneously in Los Angeles Superior Court, alleged that Disney's cross-context behavioral advertising practices triggered mandatory opt-out obligations under the CCPA",
+    "parity principle": "if a business can associate a consumer's devices for targeted advertising purposes, it must deploy that same associative capability to propagate opt-out elections uniformly and account-wide.\n\nBeyond the $2.75 million civil penalty, payable within 30 days, Disney must implement a comprehensive account-wide opt-out mechanism, submit compliance progress reports to the AG's office every 60 days, and maintain an active opt-out compliance monitoring program for no fewer than three years. Attorney General Bonta stated that 'businesses can't force people to go device-by-device or service-by-service.' The settlement marks the seventh CCPA enforcement action from the California AG and signals a new phase of aggressive, sector-specific enforcement targeting entertainment and media enterprises that monetize consumer behavioral data through targeted advertising. Sling TV had earlier settled related charges, and Netflix, Paramount+, and HBO Max reportedly remain under active investigation.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "civil penalty",
+      "pronunciation": "/ˈsɪvəl ˈpenəlti/",
+      "definition_cn": "民事罚款：政府机构依法对违规主体处以的金钱制裁，属于行政或民事救济手段，不涉及刑事追诉。",
+      "example": "The $2.75 million civil penalty imposed on Disney set a new record under CCPA enforcement history.",
+      "audio": "week10/day4_vocab_0.mp3"
+    },
+    {
+      "term": "opt-out",
+      "pronunciation": "/ˈɒpt aʊt/",
+      "definition_cn": "退出选择权：消费者拒绝企业出售或共享其个人数据的法定权利，属于CCPA核心权利之一，须由经营者提供有效行使机制。",
+      "example": "The company's failure to honor consumers' opt-out elections across all devices constituted a CCPA violation.",
+      "audio": "week10/day4_vocab_1.mp3"
+    },
+    {
+      "term": "Global Privacy Control",
+      "pronunciation": "/ˈɡloʊbəl ˈprɪvəsi kənˈtroʊl/",
+      "definition_cn": "全球隐私控制信号（GPC）：一种浏览器端技术信号，消费者可借此向网站批量发出拒绝出售或共享个人数据的指令，CCPA要求经营者识别并遵守该信号。",
+      "example": "Disney's failure to apply the Global Privacy Control signal account-wide was central to the Attorney General's complaint.",
+      "audio": "week10/day4_vocab_2.mp3"
+    },
+    {
+      "term": "cross-context behavioral advertising",
+      "pronunciation": "/krɒs ˈkɒntekst bɪˈheɪvjərəl ˈædvətaɪzɪŋ/",
+      "definition_cn": "跨情境行为广告：基于消费者在不同背景、设备或平台上的行为数据所进行的定向广告投放，在CCPA框架下属于须触发消费者退出权的数据处理活动。",
+      "example": "The complaint alleged that Disney's cross-context behavioral advertising practices triggered mandatory opt-out obligations under California law.",
+      "audio": "week10/day4_vocab_3.mp3"
+    },
+    {
+      "term": "investigative sweep",
+      "pronunciation": "/ɪnˈvestɪɡətɪv swiːp/",
+      "definition_cn": "专项调查：执法机构针对特定行业或特定合规问题同步对多家主体展开系统性调查的执法行动方式。",
+      "example": "The Attorney General's 2024 investigative sweep examined data privacy practices across multiple major streaming operators simultaneously.",
+      "audio": "week10/day4_vocab_4.mp3"
+    },
+    {
+      "term": "parity principle",
+      "pronunciation": "/ˈpærɪti ˈprɪnsɪpəl/",
+      "definition_cn": "对等原则（CCPA语境）：指若经营者能够将消费者的多个设备关联用于广告目的，则必须同等利用该关联能力全账户统一执行消费者的退出请求。",
+      "example": "The settlement gave formal recognition to the CCPA parity principle, requiring businesses to propagate opt-out elections with the same cross-device precision used for ad targeting.",
+      "audio": "week10/day4_vocab_5.mp3"
+    },
+    {
+      "term": "compliance monitoring program",
+      "pronunciation": "/kəmˈplaɪəns ˈmɒnɪtərɪŋ ˈproʊɡræm/",
+      "definition_cn": "合规监控计划：经营者依据和解协议须建立并维持的内部合规跟踪机制，通常需定期向执法机构汇报执行情况。",
+      "example": "Under the settlement terms, Disney must maintain an opt-out compliance monitoring program for no fewer than three years.",
+      "audio": "week10/day4_vocab_6.mp3"
+    },
+    {
+      "term": "enforcement action",
+      "pronunciation": "/ɪnˈfɔːrsmənt ˈækʃən/",
+      "definition_cn": "执法行动：政府监管机构就违法行为对特定主体正式启动的调查、起诉或行政处罚程序。",
+      "example": "This settlement represents the seventh CCPA enforcement action brought by the California Attorney General's office.",
+      "audio": "week10/day4_vocab_7.mp3"
+    },
+    {
+      "term": "ad-tech partners",
+      "pronunciation": "/æd tek ˈpɑːrtnərz/",
+      "definition_cn": "广告技术合作方：提供程序化广告投放、数据管理或用户追踪服务的第三方技术供应商，在隐私法律框架下通常被认定为数据接收方或共同处理者。",
+      "example": "Disney continued transmitting consumer behavioral data to third-party ad-tech partners even after users submitted opt-out requests.",
+      "audio": "week10/day4_vocab_8.mp3"
+    },
+    {
+      "term": "statutory right",
+      "pronunciation": "/ˈstætʃətɔːri raɪt/",
+      "definition_cn": "法定权利：由成文法律明确赋予当事人的权利，与合同权利或普通法权利相对，在CCPA框架下消费者的退出权即属于法定权利。",
+      "example": "Forcing consumers to repeat opt-out requests device-by-device was characterized as a systematic obstruction of a fundamental statutory right.",
+      "audio": "week10/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Enforcement body] alleged that [respondent]'s [practice] triggered [legal obligation] under [statute], and that [conduct] constituted a systematic obstruction of a fundamental [right].",
+      "example": "The Attorney General alleged that Disney's cross-context behavioral advertising practices triggered mandatory opt-out obligations under the CCPA, and that compelling consumers to submit repeated requests device-by-device constituted a systematic obstruction of a fundamental statutory right.",
+      "translation_cn": "执法机关指控，迪士尼的跨情境行为广告行为依据《加州消费者隐私法》触发了强制退出义务，且强迫消费者逐设备提交重复退出请求的做法构成对基本法定权利的系统性妨碍。"
+    },
+    {
+      "pattern": "Beyond the [monetary remedy], [respondent] is required to [remedial obligation #1], [remedial obligation #2], and maintain [ongoing compliance measure] for [duration].",
+      "example": "Beyond the $2.75 million civil penalty, Disney is required to implement a comprehensive account-wide opt-out mechanism, submit compliance progress reports every 60 days, and maintain an active opt-out compliance monitoring program for no fewer than three years.",
+      "translation_cn": "除275万美元民事罚款外，迪士尼还须实施全账户统一退出机制、每60天提交一次合规进展报告，并在不少于三年内持续维持有效的退出合规监控计划。"
+    },
+    {
+      "pattern": "The settlement gave formal recognition to the [doctrine/principle] — the rule that if [condition], [obligated party] must [corresponding obligation].",
+      "example": "The settlement gave formal recognition to the CCPA parity principle — the rule that if a business can associate a consumer's devices for advertising purposes, it must deploy that same associative capability to propagate opt-out elections uniformly and account-wide.",
+      "translation_cn": "该和解协议正式确立了CCPA对等原则——即若企业能够将消费者的多台设备关联用于广告目的，则必须同等运用该关联能力，在全账户范围内统一执行退出选择。"
+    }
+  ],
+  "summary_cn": "2026年2月，加州总检察长宣布与迪士尼达成275万美元和解，创CCPA史上最高民事罚款纪录。调查发现，迪士尼的退出机制仅限于单一设备或服务，未能实现全账户统一执行，且继续向第三方广告技术合作方传输用户行为数据。和解协议确立了CCPA\"对等原则\"，要求经营者以关联设备用于广告的同等能力执行消费者退出请求。网飞、派拉蒙+等流媒体商仍在被调查中。",
+  "legal_analysis": "① 核心法律问题：本案核心在于《加州消费者隐私法》（CCPA）项下消费者退出权的有效行使范围与经营者的合规义务边界。具体争议在于：经营者提供碎片化、设备级退出机制是否构成对法定退出权的实质性妨碍；以及当企业具备跨设备关联能力时，是否负有将退出指令全账户统一传播的积极义务。\n\n② 美国法律框架分析：CCPA第1798.120条赋予消费者拒绝出售或共享个人信息的权利，并要求经营者提供清晰便捷的行权机制。《加州隐私权法》（CPRA）进一步强化了对跨情境行为广告的规制。本案中，检察长援引的\"对等原则\"虽非成文条文，但通过和解协议获得准规范效力，实质上为CCPA合规树立了新的行业标准。全球隐私控制信号（GPC）的法律地位亦得到再次强化，企业须在技术层面确保GPC信号被全面识别和执行。\n\n③ 对中国娱乐法律师的实践启示：中国流媒体及广告技术企业在布局北美市场时，须重视CCPA合规的技术实现层面，尤其是账户级退出机制的统一部署。同时，本案所揭示的\"外观合规\"风险——即形式上建立了退出渠道但实质上未能有效执行——对于中国企业在华开展个人信息处理业务同样具有参考价值，特别是在《个人信息保护法》第44条及第47条关于撤回同意和删除权的合规实践中，技术实现的完整性至关重要。",
+  "cn_us_comparison": "美国CCPA框架以\"退出\"（opt-out）为核心，赋予消费者拒绝出售或共享个人数据的事后权利，并通过检察长执法及私人诉讼双轨推动合规。本案确立的\"对等原则\"进一步要求企业将技术能力平等用于权利保障，而非仅服务于商业目的。\n\n中国《个人信息保护法》（2021年）则采取更接近欧盟GDPR的\"告知—同意\"（opt-in）模式：第14条要求处理个人信息须取得明确同意，第15条要求提供便捷的撤回同意渠道，第44至47条确立了数据主体的查阅、复制、更正、删除及可携带权利。此外，《网络安全法》第43条及《数据安全法》第36条对数据跨境传输附加了额外限制。\n\n两国制度的主要差异在于：中国更注重事前同意与数据本地化，美国CCPA侧重事后退出与执法威慑；中国对广告数据处理设有更严格的专项规定（如《互联网信息服务算法推荐管理规定》），与CCPA对\"行为广告\"的功能性界定路径不同，但实质保护目标趋于一致。",
+  "discussion_prompt": "Given that the CCPA 'parity principle' established in this settlement lacks explicit statutory text but has been operationalized through an Attorney General enforcement agreement, should courts treat it as binding precedent for future CCPA compliance obligations — and what risks does this enforcement-by-settlement approach pose for legal certainty in the ad-tech industry?",
+  "writing_exercise": {
+    "prompt": "Imagine you are outside counsel advising a major streaming operator currently under investigation by the California Attorney General. Write 2-3 sentences, in the style of the reading, describing the compliance obligations your client must urgently implement to avoid the civil penalty and remedial measures imposed on Disney.",
+    "model_answer": "The Attorney General's investigation has revealed that our client's existing opt-out mechanisms — limited to device-level GPC signal recognition and service-specific toggle switches — fail to satisfy CCPA's account-wide propagation requirement as crystallized by the parity principle. Beyond exposure to a civil penalty potentially exceeding $2.75 million, the company must immediately implement a comprehensive account-wide opt-out mechanism capable of transmitting opt-out elections uniformly across all affiliated services and connected TV environments, including to third-party ad-tech partners. Counsel further recommends that the client establish a robust opt-out compliance monitoring program and designate a senior privacy officer to submit bimonthly progress certifications to the Attorney General's office, thereby demonstrating good-faith remediation and mitigating the risk of injunctive relief."
+  },
+  "youtube_rec": {
+    "title": "CCPA Enforcement in 2025–2026: Opt-Out Rights, Behavioral Advertising, and What Every Streaming Company Must Know",
+    "channel": "CLE International",
+    "summary_cn": "本视频系统讲解CCPA退出权的执法新动态，涵盖全球隐私控制信号的法律效力、跨情境行为广告的合规义务，以及2025至2026年加州总检察长针对流媒体企业的系列执法行动对广告技术行业合规实践的深远影响。"
+  },
+  "extended_reading": [
+    {
+      "title": "Companies Hit with Hefty Fines under the GDPR, CCPA, and DSA",
+      "url": "https://www.pearlcohen.com/companies-hit-with-hefty-fines-under-the-gdpr-ccpa-and-dsa/",
+      "description_cn": "Pearl Cohen律所2025年12月综述，梳理欧盟DSA对X的1.2亿欧元罚款、加州对游戏公司Jam City的CCPA处罚及法国CNIL对广告技术公司Optimove的GDPR罚款，揭示跨境数据隐私执法对娱乐及广告技术行业的多维冲击。",
+      "language": "en"
+    },
+    {
+      "title": "An Overview of Privacy Law in 2024 (Privacy Law Fundamentals)",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4962266",
+      "description_cn": "Solove与Schwartz合著的权威学术综述，系统梳理CCPA、VPPA、COPPA、GDPR及州生物特征识别法规等美国隐私法核心框架，为流媒体行业数据合规诉讼提供基础法律理论支撑。",
+      "language": "en"
+    }
+  ],
+  "week": 10,
+  "day": 4,
+  "date": "2026-05-29",
+  "phase": 3,
+  "theme_en": "Data Privacy & Entertainment",
+  "theme_cn": "数据隐私与娱乐",
+  "audio_file": "week10/day4.mp3"
+}
