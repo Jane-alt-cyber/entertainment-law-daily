@@ -422,7 +422,16 @@
       "theme_cn": "数据隐私与娱乐",
       "file": "week10/day4.json",
       "audio": "week10/day4.mp3"
+    },
+    {
+      "week": 10,
+      "day": 5,
+      "date": "2026-06-01",
+      "theme_en": "Data Privacy & Entertainment",
+      "theme_cn": "数据隐私与娱乐",
+      "file": "week10/day5.json",
+      "audio": "week10/day5.mp3"
     }
   ],
-  "last_updated": "2026-05-29"
+  "last_updated": "2026-06-01"
 }
