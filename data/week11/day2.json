@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "NIL and Void: A Legal Analysis of College Athletes' Broadcast Rights of Publicity as Created by the House Settlement",
+    "source": "Journal of College and University Law (NACUA), Vol. 51, No. 1 — April 2026",
+    "url": "https://www.nacua.org/resource/nil-and-void-a-legal-analysis-of-college-athletes-broadcast-rights-of-publicity-as-created-by-the-house-settlement/",
+    "text": "On June 6, 2025, Judge Claudia Wilken of the Northern District Court of California granted final approval of the $2.576 billion class action settlement in In re: College Athlete NIL Litigation — commonly known as the House Settlement. The plaintiffs, led by Grant House and Sedona Prince, had challenged NCAA and Power Five conference rules that restricted or entirely prohibited college athlete compensation for the use of their name, image, or likeness, including NIL as exploited in broadcast contexts.\n\nThe settlement introduced a novel construct termed 'broadcast NIL,' or BNIL — a label engineered within the settlement framework to justify paying athletes a share of broadcast revenue on the theory that their name, image, or likeness is captured and commercially exploited in televised games. However, the authors of this article contend that this construct lacks a cognizable legal foundation. Tracing the historical development of rights of publicity from early 20th-century common law through landmark decisions including O'Bannon v. NCAA and the Keller case, the article demonstrates that courts, including the Ninth Circuit, have consistently declined to recognize a standalone publicity right for athlete-participants in sports broadcasts.\n\nParticularly instructive is Marshall v. ESPN Inc., in which the court found 'no applicable authority for participants in sporting events having a common law right of publicity in broadcasts,' concluding that broadcast protections are designed to compensate producers, not individual athlete-participants. The authors argue that the House Settlement's silence on the legal basis for revenue-sharing consideration — effectively filled by the BNIL construct — is a deliberate attempt to compensate athletes while preserving a version of the NCAA's amateurism model.\n\nWithout a legally enforceable underlying right, the article warns that 'the model will likely not withstand judicial scrutiny and is unsustainable without additional legislative action.' Compliance oversight now falls to the College Sports Commission, operating with Deloitte through the NIL Go platform, which reviews third-party NIL deal reporting and has already rejected hundreds of submissions. The article concludes that Congress must enact a statutory basis for BNIL payments, or the entire revenue-sharing framework risks unraveling in future litigation — leaving both institutions and athletes in a prolonged state of legal uncertainty.",
+    "word_count": 318
+  },
+  "vocabulary": [
+    {
+      "term": "class action settlement",
+      "pronunciation": "/klæs ˈækʃən ˈsɛtlmənt/",
+      "definition_cn": "集体诉讼和解协议：由代表性原告代表全体受影响成员与被告达成的具有约束力的赔偿解决方案，须经法院批准方可生效。",
+      "example": "The $2.576 billion class action settlement in House required judicial approval before any revenue-sharing payments could be distributed to eligible athletes.",
+      "audio": "week11/day2_vocab_0.mp3"
+    },
+    {
+      "term": "rights of publicity",
+      "pronunciation": "/raɪts əv pʌˈblɪsɪti/",
+      "definition_cn": "公开权：个人对其姓名、肖像或形象进行商业利用的专有权利，属于人格权范畴，各州保护范围不尽相同。",
+      "example": "Courts have long debated whether rights of publicity extend to an athlete's appearance in a televised sporting event produced by a third-party broadcaster.",
+      "audio": "week11/day2_vocab_1.mp3"
+    },
+    {
+      "term": "broadcast NIL",
+      "pronunciation": "/ˈbrɔːdkæst ɛn aɪ ɛl/",
+      "definition_cn": "转播姓名肖像权（BNIL）：House和解协议中创设的概念，指运动员在电视转播中被捕捉的姓名、肖像和形象所产生的商业价值权益，目前缺乏独立的法律依据。",
+      "example": "Critics argue that broadcast NIL is a legally invented category with no grounding in existing common law or statute.",
+      "audio": "week11/day2_vocab_2.mp3"
+    },
+    {
+      "term": "revenue-sharing consideration",
+      "pronunciation": "/ˈrɛvənjuː ˈʃɛərɪŋ kənˌsɪdəˈreɪʃən/",
+      "definition_cn": "收益分成对价：合同中一方向另一方支付特定收入比例作为合同约因的条款安排，在此指高校向运动员分配转播收益的法律依据。",
+      "example": "The settlement's silence on the legal basis for revenue-sharing consideration left courts and practitioners questioning the enforceability of the entire framework.",
+      "audio": "week11/day2_vocab_3.mp3"
+    },
+    {
+      "term": "cognizable legal foundation",
+      "pronunciation": "/ˈkɒɡnɪzəbl ˈliːɡəl faʊnˈdeɪʃən/",
+      "definition_cn": "可认知的法律基础：指某项权利主张在现行法律体系下可被法院识别并予以裁判的实质性依据，是权利可执行性的前提条件。",
+      "example": "Without a cognizable legal foundation, the BNIL construct may be dismissed as an extrajudicial fiction in any future challenge.",
+      "audio": "week11/day2_vocab_4.mp3"
+    },
+    {
+      "term": "common law right of publicity",
+      "pronunciation": "/ˈkɒmən lɔː raɪt əv pʌˈblɪsɪti/",
+      "definition_cn": "普通法公开权：在无成文立法的情形下，由法院判例逐步确立的个人对其形象商业利用的保护性权利，各州司法解释存在差异。",
+      "example": "In Marshall v. ESPN Inc., the court rejected the existence of a common law right of publicity for athletes depicted in live sports telecasts.",
+      "audio": "week11/day2_vocab_5.mp3"
+    },
+    {
+      "term": "amateurism model",
+      "pronunciation": "/ˈæmətərɪzəm ˈmɒdəl/",
+      "definition_cn": "业余运动模式：NCAA长期坚持的规则框架，限制大学运动员获取商业报酬，以维持其\"业余运动员\"资格，已在多起反垄断诉讼中受到挑战。",
+      "example": "The House Settlement was designed to preserve a modified version of the amateurism model while simultaneously creating a revenue-sharing mechanism for athletes.",
+      "audio": "week11/day2_vocab_6.mp3"
+    },
+    {
+      "term": "judicial scrutiny",
+      "pronunciation": "/dʒuːˈdɪʃəl skruːˈtɪnɪ/",
+      "definition_cn": "司法审查：法院对法律安排、行政决定或合同条款进行严格审视与合法性评估的程序，强度因涉及权利类型而异。",
+      "example": "The authors warn that without statutory support, the BNIL framework will not withstand judicial scrutiny if challenged in post-settlement litigation.",
+      "audio": "week11/day2_vocab_7.mp3"
+    },
+    {
+      "term": "third-party NIL deal reporting",
+      "pronunciation": "/θɜːd ˈpɑːti ɛn aɪ ɛl diːl rɪˈpɔːtɪŋ/",
+      "definition_cn": "第三方姓名肖像权交易申报：House和解框架下要求运动员向监管机构披露与外部品牌或实体签订的NIL商业合同，以供合规审查的制度安排。",
+      "example": "The College Sports Commission has already rejected hundreds of submissions under its third-party NIL deal reporting protocols.",
+      "audio": "week11/day2_vocab_8.mp3"
+    },
+    {
+      "term": "statutory basis",
+      "pronunciation": "/stəˈtjuːtəri ˈbeɪsɪs/",
+      "definition_cn": "成文法依据：某项权利或制度安排在国会或州立法机关制定的成文法律中的明确授权基础，区别于普通法判例所确立的依据。",
+      "example": "The article concludes that Congress must supply a statutory basis for BNIL payments before the revenue-sharing model can be considered legally sustainable.",
+      "audio": "week11/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] found 'no applicable authority for [subject] having a [right] in [context],' concluding that [legal rationale].",
+      "example": "The court in Marshall v. ESPN Inc. found 'no applicable authority for participants in sporting events having a common law right of publicity in broadcasts,' concluding that broadcast protections are designed to compensate producers, not individual athlete-participants.",
+      "translation_cn": "法院在Marshall诉ESPN案中裁定，\"没有任何适用先例支持体育赛事参与者对转播享有普通法公开权\"，并得出结论认为，转播保护旨在补偿制作方，而非运动员个人。"
+    },
+    {
+      "pattern": "Without a legally enforceable [underlying right/basis], [framework/model] will likely not withstand [judicial scrutiny/challenge] and is unsustainable without [legislative/contractual] action.",
+      "example": "Without a legally enforceable underlying right, the BNIL model will likely not withstand judicial scrutiny and is unsustainable without additional legislative action.",
+      "translation_cn": "在缺乏可执行的法律权利基础的情况下，BNIL模式很可能无法经受司法审查，且在没有额外立法支持的情形下不可持续。"
+    },
+    {
+      "pattern": "[Settlement/Agreement] introduced a novel construct termed '[label]' to justify [commercial mechanism], premised on the theory that [legal proposition].",
+      "example": "The settlement introduced a novel construct termed 'broadcast NIL' to justify paying athletes a share of broadcast revenue, premised on the theory that their name, image, or likeness is captured and commercially exploited in televised games.",
+      "translation_cn": "该和解协议引入了一个名为\"转播姓名肖像权\"的新型概念，以正当化向运动员支付转播收益分成，其理论前提是运动员的姓名、肖像与形象在电视转播中被捕捉并商业化利用。"
+    }
+  ],
+  "summary_cn": "2025年6月，加州北区联邦法院批准了House集体诉讼和解协议（25.76亿美元），该协议创设了\"转播姓名肖像权\"（BNIL）概念以向运动员分配转播收益。然而，学者指出BNIL缺乏普通法依据，Marshall v. ESPN等判例明确拒绝承认运动员对转播享有公开权。合规监管由体育委员会通过NIL Go平台执行，已拒绝数百份申报。文章警告，若国会不提供成文法依据，整个收益分成框架将在未来诉讼中面临瓦解风险。",
+  "legal_analysis": "① 核心法律问题：House和解协议创设的BNIL概念是否具有可执行的法律依据？运动员在体育转播中是否享有独立的公开权？\n\n② 美国法律框架分析：美国公开权（Right of Publicity）属于各州自行立法或由判例法确立的人格财产权。《兰哈姆法》及各州成文法（如加州《民法典》第3344条）保护个人姓名、肖像的商业利用，但均未将体育转播中的运动员参与行为明确纳入保护范畴。Marshall v. ESPN及O'Bannon案均表明，第九巡回法院倾向于认定转播权归属于制作方而非运动员。BNIL的创设实质上是当事方以合同安排替代立法授权，绕开了权利基础缺失的法律困境，但这一路径的可持续性存疑。\n\n③ 对中国娱乐法律师的实践启示：中国代理运动员或赞助商的律师在处理跨境NIL交易时，须注意美国各州公开权保护范围参差不齐，合同中应明确约定适用州法及争议解决机制。此外，BNIL争议揭示出\"合同创设权利\"与\"法律授权权利\"之间的本质张力，这一问题在中国体育赞助及肖像权授权协议中同样存在，值得在合同起草时予以充分关注。",
+  "cn_us_comparison": "在美国，公开权（Right of Publicity）主要由各州立法及判例法规范，联邦层面尚无统一成文法，导致BNIL等新型权利概念处于法律真空。运动员须依赖诉讼或合同安排维权，且如Marshall案所示，法院对转播语境下的公开权保护持保守立场。\n\n在中国，运动员肖像权受《民法典》第1018至1023条明确保护，任何未经授权使用其肖像的行为均构成侵权，权利边界相对清晰。同时，《体育法》（2022年修订）第89条涉及运动员商业权益保护，《反不正当竞争法》亦可作为补充救济依据。\n\n核心差异在于：中国肖像权保护具有统一的成文法基础，而美国公开权高度碎片化，且体育转播语境下的权利归属悬而未决；中国目前尚无类似NIL市场化机制，大学运动员的商业权益开发仍受较多限制，但随着职业体育改革推进，相关立法需求日益迫切。",
+  "discussion_prompt": "Given that courts have consistently refused to recognize a standalone common law right of publicity for athletes in sports broadcasts, should Congress enact federal NIL legislation to provide the statutory basis the House Settlement currently lacks — and if so, what risks does federal preemption of state publicity laws pose to athletes in jurisdictions with stronger existing protections?",
+  "writing_exercise": {
+    "prompt": "Imagine you are advising a college athlete whose NIL deal has been rejected by the College Sports Commission under the House Settlement framework. Write 2-3 sentences explaining the core legal vulnerability of the BNIL construct and what legislative remedy would be required to secure your client's interests.",
+    "model_answer": "The settlement introduced a novel construct termed 'broadcast NIL' to justify your revenue-sharing entitlement, premised on the theory that your name, image, or likeness is commercially exploited in televised games — yet no court has recognized this as a cognizable legal foundation under common law. Without a legally enforceable underlying right, the BNIL framework will likely not withstand judicial scrutiny and is unsustainable without additional legislative action. Accordingly, we recommend advocating for federal statutory intervention that expressly grants college athletes a revenue-sharing consideration tied to broadcast exploitation of their name, image, or likeness."
+  },
+  "youtube_rec": {
+    "title": "NCAA House Settlement Explained: NIL Revenue Sharing, Broadcast Rights & What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统解析House和解协议的核心条款，重点讨论转播收益分成的法律依据争议、NCAA业余运动规则的历史沿革，以及国会立法介入的必要性，适合希望深入理解NIL法律框架的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "NCAA House Settlement Multimedia Rights at Issue in Key Hearing",
+      "url": "https://www.sportico.com/law/analysis/2026/ncaa-house-settlement-multimedia-rights-nil-dispute-1234892391/",
+      "description_cn": "分析联邦法院就Learfield等多媒体版权公司是否属于House和解协议\"关联主体\"召开的关键听证，该裁定将直接影响数百万美元NIL交易的合法性边界。",
+      "language": "en"
+    },
+    {
+      "title": "The Legal and Economic Aspects of the 'Esports Illusion' — Why Competitive Gaming Fails to Become an Independent Industry",
+      "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1636823/full",
+      "description_cn": "同行评审学术文章，分析游戏发行商对赛事组织及转播授权的排他性知识产权控制如何从结构上阻碍电竞实现独立治理，与特许经营独家条款及转播授权争议高度相关。",
+      "language": "en"
+    }
+  ],
+  "week": 11,
+  "day": 2,
+  "date": "2026-06-03",
+  "phase": 3,
+  "theme_en": "Sports & Entertainment Crossover",
+  "theme_cn": "体育与娱乐交叉",
+  "audio_file": "week11/day2.mp3"
+}

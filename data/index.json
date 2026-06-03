@@ -440,7 +440,16 @@
       "theme_cn": "体育与娱乐交叉",
       "file": "week11/day1.json",
       "audio": "week11/day1.mp3"
+    },
+    {
+      "week": 11,
+      "day": 2,
+      "date": "2026-06-03",
+      "theme_en": "Sports & Entertainment Crossover",
+      "theme_cn": "体育与娱乐交叉",
+      "file": "week11/day2.json",
+      "audio": "week11/day2.mp3"
     }
   ],
-  "last_updated": "2026-06-02"
+  "last_updated": "2026-06-03"
 }
