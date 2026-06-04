@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "House Settlement Collides With Multimedia Rights, Sponsorships",
+    "source": "Sportico, April 28, 2026",
+    "url": "https://www.sportico.com/law/analysis/2026/multimedia-rights-companies-nil-house-settlement-csc-legal-1234891274/",
+    "text": "One of the most consequential post-settlement disputes to emerge from the landmark House v. NCAA antitrust class action now centers on a deceptively precise definitional question: which third-party commercial actors qualify as 'associated entities' under the settlement's anti-pay-for-play framework? U.S. District Judge Claudia Wilken of the Northern District of California granted final approval to the settlement on June 6, 2025, establishing a revenue-share cap of $20.5 million per school annually for Division I athlete compensation. Crucially, the settlement mandates that any name image likeness agreement involving an 'associated entity' must serve a valid business purpose and reflect fair market rates, with all NIL payments exceeding $600 subject to mandatory reporting to the College Sports Commission (CSC) for independent review.\n\nThe dispute crystallized ahead of a pivotal hearing scheduled for May 27, 2026, before U.S. Magistrate Judge Nathanael Cousins, designated as the settlement administrator. Athletes' class counsel Steve Berman and Jeffrey Kessler filed a motion contending that multimedia rights companies — including Learfield, Playfly Sports, and JMI Sports — as well as third-party brand sponsors such as banks, apparel companies, airlines, and car dealerships, should fall outside the 'associated entities' classification. Their argument rests on the premise that these commercial actors negotiate name image likeness agreements to generate independent profits, not to serve as payment vehicles facilitating recruitment or retention on behalf of member institutions.\n\nThe NCAA and power conferences, represented by Rakesh Kilaru of Wilkinson Stekloff, countered sharply, arguing that class counsel was effectively seeking to rewrite the settlement. The NCAA's position holds that the anti-pay-for-play framework would be rendered hollow if third-party intermediaries could circumvent the revenue-share cap and independent review mechanisms through nominally arm's-length commercial arrangements.\n\nBeyond the definitional dispute, the CSC's administrative conduct has itself become contested terrain. Athletes' counsel characterized the body as 'over-zealous and over-bureaucratic,' alleging unwarranted delays and unauthorized rejections of legitimate NIL transactions. The broader legal backdrop is the right of publicity — a state-law intellectual property doctrine prohibiting misappropriation of a person's unique and marketable qualities — which underpins NIL as a category of athlete compensation. The settlement remains under review by the U.S. Court of Appeals for the Ninth Circuit, leaving compliance obligations in a state of structured uncertainty across the newly reconstituted college sports landscape overseen by the Charlie Baker-led NCAA.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "name image likeness agreement",
+      "pronunciation": "/neɪm ˈɪmɪdʒ ˈlaɪknəs əˈɡriːmənt/",
+      "definition_cn": "姓名、肖像及形象授权协议，允许运动员将个人可识别特征商业化使用，是大学体育NIL改革的核心法律文件。",
+      "example": "The university's compliance office flagged the name image likeness agreement because it lacked a demonstrable valid business purpose as required under the settlement.",
+      "audio": "week11/day3_vocab_0.mp3"
+    },
+    {
+      "term": "revenue-share cap",
+      "pronunciation": "/ˈrevənjuː ʃɛr kæp/",
+      "definition_cn": "收益分成上限，指每所学校每年可向运动员支付补偿的最高金额，House和解协议设定为每校年均2050万美元。",
+      "example": "Schools scrambling to recruit top talent must now structure all direct athlete payments within the revenue-share cap of $20.5 million annually.",
+      "audio": "week11/day3_vocab_1.mp3"
+    },
+    {
+      "term": "anti-pay-for-play framework",
+      "pronunciation": "/ˈænti peɪ fər pleɪ ˈfreɪmwɜːrk/",
+      "definition_cn": "反竞技报酬框架，禁止将运动员的竞技表现直接与薪酬挂钩，是NCAA合规体系维护业余性原则的核心监管结构。",
+      "example": "Critics argue that loosely defined 'associated entities' can effectively nullify the anti-pay-for-play framework by routing payments through nominally independent commercial channels.",
+      "audio": "week11/day3_vocab_2.mp3"
+    },
+    {
+      "term": "associated entities",
+      "pronunciation": "/əˈsoʊʃieɪtɪd ˈentɪtiz/",
+      "definition_cn": "关联实体，和解协议中特指与学校利益存在关联的第三方主体，其NIL支付须满足合法商业目的并接受独立审查。",
+      "example": "Whether multimedia rights companies constitute associated entities under the settlement is the threshold legal question before the court.",
+      "audio": "week11/day3_vocab_3.mp3"
+    },
+    {
+      "term": "right of publicity",
+      "pronunciation": "/raɪt əv pʌbˈlɪsɪti/",
+      "definition_cn": "公开权，美国州法下的知识产权，禁止他人未经授权使用个人姓名、肖像或形象等可识别特征牟利，是NIL制度的法理基础。",
+      "example": "NIL is properly understood as a commercial application of the right of publicity, a state-law doctrine that courts have recognized for decades outside the collegiate context.",
+      "audio": "week11/day3_vocab_4.mp3"
+    },
+    {
+      "term": "independent review",
+      "pronunciation": "/ˌɪndɪˈpendənt rɪˈvjuː/",
+      "definition_cn": "独立审查程序，指由第三方机构（此处为大学体育委员会）对NIL交易进行合规性与公平市场价值审核，防止变相违规支付。",
+      "example": "Any NIL payment above $600 must pass independent review by the College Sports Commission before the funds are disbursed to the athlete.",
+      "audio": "week11/day3_vocab_5.mp3"
+    },
+    {
+      "term": "fair market rates",
+      "pronunciation": "/fɛr ˈmɑːrkɪt reɪts/",
+      "definition_cn": "公平市场价格，指在正常商业条件下买卖双方自愿交易时形成的合理对价标准，是判断NIL协议是否构成变相薪酬的关键尺度。",
+      "example": "The settlement administrator is empowered to reject any NIL transaction that does not reflect fair market rates for the athlete's promotional services.",
+      "audio": "week11/day3_vocab_6.mp3"
+    },
+    {
+      "term": "multimedia rights companies",
+      "pronunciation": "/ˌmʌltiˈmiːdiə raɪts ˈkʌmpəniz/",
+      "definition_cn": "多媒体版权公司，指管理高校体育赛事转播、赞助及品牌授权的专业商业机构（如Learfield、Playfly），其NIL支付资格目前存在法律争议。",
+      "example": "Learfield and Playfly, as multimedia rights companies holding long-term agreements with universities, argue they operate independently of institutional recruitment interests.",
+      "audio": "week11/day3_vocab_7.mp3"
+    },
+    {
+      "term": "class counsel",
+      "pronunciation": "/klæs ˈkaʊnsəl/",
+      "definition_cn": "集体诉讼代理律师，代表集体诉讼全体成员利益的律师，在House诉讼中由Steve Berman和Jeffrey Kessler担任，负责解释和执行和解协议条款。",
+      "example": "Class counsel moved the court to clarify that third-party sponsors acting for commercial gain should not be swept into the associated entities definition.",
+      "audio": "week11/day3_vocab_8.mp3"
+    },
+    {
+      "term": "settlement administrator",
+      "pronunciation": "/ˈsetəlmənt ədˈmɪnɪstreɪtər/",
+      "definition_cn": "和解管理人，由法院指定负责监督和解协议执行的官员，此处为美国联邦地方法院治安法官Nathanael Cousins，裁决NIL合规争议。",
+      "example": "The settlement administrator scheduled a hearing to resolve whether the existing CSC review procedures exceeded the authority granted under the settlement terms.",
+      "audio": "week11/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] filed a motion contending that [subject] should fall outside the [classification], on the premise that [rationale].",
+      "example": "Athletes' class counsel filed a motion contending that multimedia rights companies should fall outside the 'associated entities' classification, on the premise that these actors negotiate NIL deals to generate independent profits rather than to facilitate institutional recruitment.",
+      "translation_cn": "运动员集体诉讼代理律师提出动议，主张多媒体版权公司不应被纳入\"关联实体\"范畴，理由是这些主体签署NIL协议旨在获取独立商业利润，而非服务于高校的招募目的。"
+    },
+    {
+      "pattern": "[Opposing party] countered that [moving party] was effectively seeking to [undermine/rewrite] [legal instrument], arguing that [consequence] would otherwise follow.",
+      "example": "The NCAA countered that class counsel was effectively seeking to rewrite the settlement, arguing that the anti-pay-for-play framework would be rendered hollow if third-party intermediaries could circumvent the revenue-share cap.",
+      "translation_cn": "NCAA反驳称，集体诉讼代理律师实质上是在寻求重写和解协议，并主张若允许第三方中间人规避收益分成上限，反竞技报酬框架将形同虚设。"
+    },
+    {
+      "pattern": "[Legal doctrine/right] underpins [commercial practice] as a category of [compensation/protection], prohibiting [specific conduct] under [applicable law].",
+      "example": "The right of publicity underpins NIL as a category of athlete compensation, prohibiting misappropriation of a person's unique and marketable qualities under state law.",
+      "translation_cn": "公开权是NIL作为运动员补偿类别的法理基础，依据州法禁止他人擅自挪用当事人独特且具商业价值的个人特征。"
+    }
+  ],
+  "summary_cn": "House诉NCAA和解协议确立了每校年均2050万美元的收益分成上限及NIL交易独立审查制度。当前核心争议在于：Learfield等多媒体版权公司及第三方品牌赞助商是否构成须受监管的\"关联实体\"。运动员代理律师主张将其排除，NCAA则坚持纳入，以防反竞技报酬框架被规避。案件同时折射出公开权在大学体育商业化背景下的深层法律张力。",
+  "legal_analysis": "① 核心法律问题：House和解协议对\"关联实体\"的界定直接决定NIL交易的合规边界——若多媒体版权公司及第三方赞助商被纳入，则其与运动员的所有NIL安排均须满足合法商业目的、公平市场价格并接受独立审查；反之则形成监管真空，为变相薪酬提供通道。\n\n② 美国法律框架分析：NIL制度根植于美国各州公开权（right of publicity）法律，属于州际适用的人格财产权范畴。House和解协议在反垄断法框架下对该权利进行了集体确认，但协议条款的解释权仍属联邦法院。和解协议作为具有判决效力的司法文件，其条款修改须经法院批准，任何一方不得单方\"重写\"。大学体育委员会（CSC）作为独立审查机构，其执法边界亦在司法审查之中。\n\n③ 对中国娱乐法律师的实践启示：中国涉体育明星的商业赞助协议同样面临\"关联方认定\"问题，尤其在俱乐部、经纪公司、赞助商三方共同参与时，合规边界模糊。建议中国律师关注\"有效商业目的\"条款的设计，在协议中明确区分个人NIL性质的肖像授权与赛事转播权授权，以防止监管机构将其混同处理，同时参考CSC独立审查机制构建内部合规审核程序。",
+  "cn_us_comparison": "美国NIL制度以各州《公开权法》为基础，House和解协议在反垄断诉讼框架下对其进行集体性司法确认，形成了私人诉讼驱动的监管变革路径，核心争议通过司法解释厘清。中国则以《民法典》第1023条确立的\"姓名权\"",
+  "discussion_prompt": "If the court rules that multimedia rights companies are not 'associated entities' under the House settlement, what structural safeguards — contractual, regulatory, or judicial — could prevent the anti-pay-for-play framework from being systematically circumvented through nominally independent commercial NIL arrangements?",
+  "writing_exercise": {
+    "prompt": "Draft 2-3 sentences in the style of the reading, arguing either for or against classifying a major athletic apparel sponsor as an 'associated entity' under the House settlement's anti-pay-for-play framework. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The apparel sponsor filed a motion contending that its name image likeness agreements with student-athletes should fall outside the associated entities classification, on the premise that each arrangement reflects fair market rates negotiated at arm's length for genuine promotional services. The NCAA countered that the sponsor was effectively seeking to rewrite the settlement, arguing that the anti-pay-for-play framework would be rendered meaningless if commercially branded payment vehicles could bypass the revenue-share cap and independent review obligations. Because the right of publicity underpins NIL as a recognized category of athlete compensation, the court must determine whether the sponsor's commercial independence is sufficient to sever the institutional nexus that triggers settlement compliance."
+  },
+  "youtube_rec": {
+    "title": "House v. NCAA Settlement Explained: NIL, Revenue Sharing & What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统梳理House诉NCAA反垄断和解协议的核心条款，涵盖收益分成上限、NIL合规审查机制及多媒体版权公司的监管争议，适合希望深入理解大学体育法律改革背景的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Historic NCAA House Settlement Approved as More Legal Issues Await",
+      "url": "https://www.sportico.com/law/analysis/2025/ncaa-house-settlement-approved-1234849259/",
+      "description_cn": "报道Judge Wilken于2025年6月正式批准28亿美元House和解协议，并梳理后续Title IX挑战、运动员雇员身份认定及退出原告诉讼等待解法律问题。",
+      "language": "en"
+    },
+    {
+      "title": "NIL and Void: A Legal Analysis of College Athletes' Broadcast Rights of Publicity as Created by the House Settlement",
+      "url": "https://www.nacua.org/resource/nil-and-void-a-legal-analysis-of-college-athletes-broadcast-rights-of-publicity-as-created-by-the-house-settlement/",
+      "description_cn": "全国高校及大学律师协会发布的学术分析，批判性审视和解协议创设\"广播NIL\"新类别的法律依据，认为该主张历史上缺乏司法支持，长期可持续性存疑。",
+      "language": "en"
+    }
+  ],
+  "week": 11,
+  "day": 3,
+  "date": "2026-06-04",
+  "phase": 3,
+  "theme_en": "Sports & Entertainment Crossover",
+  "theme_cn": "体育与娱乐交叉",
+  "audio_file": "week11/day3.mp3"
+}
