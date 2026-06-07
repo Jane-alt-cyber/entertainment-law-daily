@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "NIL and Void: A Legal Analysis of College Athletes' Broadcast Rights of Publicity as Created by the House Settlement",
+    "source": "Journal of College and University Law (NACUA), April 17, 2026",
+    "url": "https://www.nacua.org/resource/nil-and-void-a-legal-analysis-of-college-athletes-broadcast-rights-of-publicity-as-created-by-the-house-settlement/",
+    "text": "On June 6, 2025, Judge Claudia Wilken of the Northern District of California granted final approval of the settlement agreement in In re: College Athlete NIL Litigation — commonly called the House Settlement — resolving antitrust claims brought against the NCAA and the five Power Five conferences. The plaintiffs, led by former Arizona State swimmer Grant House and TCU basketball player Sedona Prince, challenged rules that restricted college athlete compensation for the use of their name, image, and likeness, including as captured in broadcasts of sporting events. The $2.576–2.8 billion settlement creates a framework under which colleges and universities may directly compensate athletes for what the agreement terms 'Broadcast NIL' or 'BNIL': the use of an athlete's name, image, and likeness via television, radio, internet, and other broadcast media.\n\nThe article's central argument is that the House Settlement has constructed a novel and legally dubious category of rights. The authors contend that NIL is not independently a legally cognizable right under existing doctrine, but rather an NCAA-crafted reworking of traditional rights of publicity. Judicial precedent offers little comfort: in Marshall v. ESPN Inc., a court rejected the proposition that participants in sporting events possess a common law right of publicity in broadcasts. Earlier, the Ninth Circuit's analysis in O'Bannon v. NCAA focused on antitrust injury rather than publicity rights, leaving the doctrinal foundation for BNIL payments dangerously thin.\n\nThe settlement caps direct school-to-athlete payments at $20.5 million per school in the first year (2025–26), increasing approximately 4% annually over the ten-year term. The revenue-share rationale holds that broadcast deal revenue derives from athletes' name, image, and likeness — a justification the authors characterize as legally fragile. Critically, the settlement does not disturb the longstanding prohibition on compensating athletes directly for athletic performance; schools instead compensate athletes 'indirectly' through the BNIL construct, a distinction the authors warn will not survive future judicial scrutiny.\n\nThe settlement is also silent on what constitutes valid consideration for BNIL payments, an omission the authors warn exposes the entire framework to renewed antitrust challenge. Post-settlement, the College Sports Commission, working with Deloitte through a compliance platform called 'NIL Go,' is enforcing third-party NIL deal review, rejecting hundreds of deals for lacking valid business purpose or misrepresenting fair market value. Without congressional legislation to provide structural support, the authors conclude, the BNIL model remains legally unsustainable.",
+    "word_count": 345
+  },
+  "vocabulary": [
+    {
+      "term": "name, image, and likeness",
+      "pronunciation": "/neɪm ˈɪmɪdʒ ænd ˈlaɪknəs/",
+      "definition_cn": "姓名、肖像与形象权，指个人对其身份标识的商业使用所享有的人格权益，在美国体育法和娱乐法语境中通称NIL权利。",
+      "example": "The sponsorship clause expressly granted the brand a limited license to use the athlete's name, image, and likeness on promotional materials for a 12-month term.",
+      "audio": "week11/day5_vocab_0.mp3"
+    },
+    {
+      "term": "rights of publicity",
+      "pronunciation": "/raɪts əv pʌˈblɪsɪti/",
+      "definition_cn": "公示权/形象商业化权，指个人就其姓名、肖像及个人特征的商业利用所享有的财产性权利，各州立法保护范围不一。",
+      "example": "The estate argued that posthumous rights of publicity prevented the streaming service from using the deceased artist's likeness in advertising without consent.",
+      "audio": "week11/day5_vocab_1.mp3"
+    },
+    {
+      "term": "antitrust claims",
+      "pronunciation": "/ˈæntitrʌst kleɪmz/",
+      "definition_cn": "反垄断诉因，指依据《谢尔曼法》等联邦法律主张被告通过限制竞争行为损害原告经济利益而提出的诉讼请求。",
+      "example": "The plaintiffs' antitrust claims alleged that the conference's uniform NIL restrictions constituted an unlawful restraint of trade under Section 1 of the Sherman Act.",
+      "audio": "week11/day5_vocab_2.mp3"
+    },
+    {
+      "term": "settlement agreement",
+      "pronunciation": "/ˈsɛtlmənt əˈɡriːmənt/",
+      "definition_cn": "和解协议，指诉讼各方在判决作出前就争议事项达成的书面妥协文件，经法院批准后具有约束力。",
+      "example": "The parties filed a joint motion requesting that the court grant final approval of the settlement agreement before the scheduled trial date.",
+      "audio": "week11/day5_vocab_3.mp3"
+    },
+    {
+      "term": "legally cognizable right",
+      "pronunciation": "/ˈliːɡəli ˈkɒɡnɪzəbl raɪt/",
+      "definition_cn": "法律上可认定的权利，指在现行法律体系框架内，法院有权管辖并予以救济的明确权利主张，区别于仅具道德意义的诉求。",
+      "example": "The defendant moved to dismiss on the ground that the plaintiff had failed to allege a legally cognizable right capable of supporting an independent cause of action.",
+      "audio": "week11/day5_vocab_4.mp3"
+    },
+    {
+      "term": "common law right of publicity",
+      "pronunciation": "/ˈkɒmən lɔː raɪt əv pʌˈblɪsɪti/",
+      "definition_cn": "普通法公示权，指非依成文法而基于判例法确立的个人商业形象权，各司法管辖区在其范围及可转让性上存在显著差异。",
+      "example": "Because the state had not enacted a publicity statute, the plaintiff was forced to rely on a common law right of publicity recognized through decades of judicial precedent.",
+      "audio": "week11/day5_vocab_5.mp3"
+    },
+    {
+      "term": "antitrust injury",
+      "pronunciation": "/ˈæntitrʌst ˈɪndʒəri/",
+      "definition_cn": "反垄断损害，指原告因被告反竞争行为所遭受的、属于反垄断法意图防止之损害类型的具体经济损失，是提起反垄断诉讼的必要要件。",
+      "example": "The Ninth Circuit held that the plaintiffs had sufficiently demonstrated antitrust injury by showing that the challenged restraints directly suppressed compensation they would otherwise have received.",
+      "audio": "week11/day5_vocab_6.mp3"
+    },
+    {
+      "term": "revenue-share",
+      "pronunciation": "/ˈrɛvənjuː ʃɛər/",
+      "definition_cn": "收益分成，指依据合同约定将特定商业收入按比例分配给多方当事人的付款安排，常见于广播权、商业赞助及流媒体协议中。",
+      "example": "The talent agency negotiated a revenue-share provision entitling the athlete to 15 percent of all broadcast licensing fees generated by use of her likeness.",
+      "audio": "week11/day5_vocab_7.mp3"
+    },
+    {
+      "term": "consideration",
+      "pronunciation": "/kənˌsɪdəˈreɪʃən/",
+      "definition_cn": "对价，合同成立的核心要素之一，指一方为换取他方承诺或给付而提供的利益、权利或利益放弃，缺乏对价将导致合同不可执行。",
+      "example": "The court found the licensing arrangement unenforceable because the agreement failed to specify what consideration the athletes would receive in exchange for the BNIL grant.",
+      "audio": "week11/day5_vocab_8.mp3"
+    },
+    {
+      "term": "fair market value",
+      "pronunciation": "/fɛər ˈmɑːkɪt ˈvæljuː/",
+      "definition_cn": "公平市场价值，指在公开市场上自愿买卖双方在充分知情且无强制情形下达成交易的合理价格，常用于评估NIL交易是否具有真实商业目的。",
+      "example": "The compliance office rejected the sponsorship submission because the compensation offered was ten times the athlete's demonstrable fair market value, suggesting the payment was a disguised recruiting inducement.",
+      "audio": "week11/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] granted final approval of [the settlement agreement] in [case name], resolving [type of claims] brought against [defendant(s)].",
+      "example": "Judge Claudia Wilken granted final approval of the settlement agreement in In re: College Athlete NIL Litigation, resolving antitrust claims brought against the NCAA and the five Power Five conferences.",
+      "translation_cn": "Wilken法官批准了《大学运动员NIL诉讼》中的和解协议，解决了针对NCAA及五大强力联盟提起的反垄断诉讼请求。"
+    },
+    {
+      "pattern": "The [framework/provision] caps [payments/compensation] at [amount] in the first [period], increasing approximately [rate] annually over the [duration] term.",
+      "example": "The settlement caps direct school-to-athlete payments at $20.5 million per school in the first year, increasing approximately 4% annually over the ten-year term.",
+      "translation_cn": "该和解协议将学校直接向运动员的付款上限定为第一年每所学校2050万美元，并在十年期限内每年递增约4%。"
+    },
+    {
+      "pattern": "Without [legislative/judicial action] to provide [structural/doctrinal] support, the [framework/model] remains legally [vulnerable/unsustainable] and susceptible to [challenge].",
+      "example": "Without congressional legislation to provide structural support, the BNIL model remains legally unsustainable and susceptible to renewed antitrust challenge.",
+      "translation_cn": "若无国会立法提供结构性支撑，BNIL模式在法律上将难以为继，并持续面临新一轮反垄断质疑。"
+    }
+  ],
+  "summary_cn": "2025年6月，加州北区法院批准了House案和解协议，NCAA须向大学运动员支付高达28亿美元以补偿其\"广播NIL\"权益。本文作者认为，\"广播NIL\"（BNIL）并非现行法律认可的独立权利，而是对传统公示权的重新包装；和解协议对\"对价\"的界定付之阙如，使整个框架面临新一轮反垄断挑战，亟需国会立法予以补强。",
+  "legal_analysis": "① 核心法律问题：House和解协议创设的\"广播NIL\"（BNIL）付款是否具备充分的法律基础，即大学运动员就其姓名、肖像与形象在体育赛事广播中的商业利用，能否依现行判例法主张独立的公示权。\n\n② 美国法律框架分析：美国公示权（right of publicity）主要由各州法律规制，各州保护范围差异显著。联邦层面，《谢尔曼法》第一条禁止限制贸易的联合行为，O'Bannon案确立了以\"反垄断损害\"而非公示权为核心的分析路径。Marshall v. ESPN案则明确否定了运动员就赛事广播主张普通法公示权的可能，使BNIL的理论基础岌岌可危。和解协议对\"对价\"的沉默进一步削弱了其可执行性——若BNIL付款在法律上不被认定为真实对价，则整个收益分成安排将面临被认定为违法运动员薪酬的风险。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐领域的肖像权授权协议同样需要明确界定许可范围、使用媒介及对价构成。House案的教训提示，模糊的\"广播使用\"条款在法律争议中极易引发对价充分性质疑；律师在起草体育赛事转播或赞助协议时，应在合同中明确区分表演性对价与肖像权对价，以规避将来被认定为无效条款的风险。",
+  "cn_us_comparison": "美国公示权（right of publicity）体系以各州制定法和普通法为基础，联邦层面尚无统一立法，各州保护范围、存续期间及可转让性差异显著；反垄断法（《谢尔曼法》）则在联邦层面对市场限制行为提供补充规制。\n\n中国对运动员及艺人姓名、肖像的保护主要依托《民法典》第一千零一十八条至一千零二十三条所确立的肖像权制度，以及《反不正当竞争法》中对商业标识的保护规则。与美国不同，中国肖像权属于人格权范畴，强调精神性保护，财产性利益的可转让性受到一定限制；美国公示权则更侧重财产权属性，可独立转让甚至传承。此外，中国尚无类似《谢尔曼法》第一条专门规制赛事NIL限制行为的联邦反垄断路径，相关争议更多依赖《反垄断法》第十七条（滥用市场支配地位）或行政监管途径处理。House案提示，清晰界定\"广播肖像使用\"的对价构成在两国法律实践中均具有关键价值。",
+  "discussion_prompt": "Given that courts have already rejected a common law right of publicity for athletes in broadcast contexts, and the House Settlement provides no clear definition of consideration for BNIL payments, should Congress enact a federal NIL statute that expressly codifies athletes' publicity rights in broadcasts — and if so, how should such a statute balance athletes' financial interests against the First Amendment freedoms of broadcasters and media companies?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst advising a university athletic department. Write 2-3 sentences explaining the legal risk created by the House Settlement's silence on what constitutes valid consideration for BNIL payments, using formal legal-writing style.",
+    "model_answer": "The House Settlement caps direct school-to-athlete payments at $20.5 million annually but fails to define what constitutes valid consideration for BNIL payments, leaving the entire revenue-share framework exposed to antitrust challenge. Without a legally cognizable right of publicity anchoring these payments, a reviewing court could determine that BNIL compensation constitutes de facto pay-for-play — a result the settlement expressly sought to avoid. We therefore recommend that the university's BNIL agreements specify, with contractual precision, the scope of the name, image, and likeness use and the fair market value methodology supporting each payment."
+  },
+  "youtube_rec": {
+    "title": "The House Settlement Explained: NIL, Broadcast Rights & the Future of College Sports Law",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频以通俗易懂的方式拆解House和解协议的核心条款，重点分析\"广播NIL\"（BNIL）的法律争议、反垄断诉因与公示权理论之间的张力，以及国会立法缺位对整个框架的潜在冲击，适合有一定法律基础的英语学习者进阶观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "NCAA House Settlement Multimedia Rights at Issue in Key Hearing",
+      "url": "https://www.sportico.com/law/analysis/2026/ncaa-house-settlement-multimedia-rights-nil-dispute-1234892391/",
+      "description_cn": "Sportico分析2026年关键庭审：多媒体版权公司（Learfield、Playfly、JMI Sports）及品牌赞助商是否属于House和解协议下的\"关联实体\"，裁定结果将重塑大学体育NIL合规边界。",
+      "language": "en"
+    },
+    {
+      "title": "Coming Sooner or Later: Congress Considers Bills to Standardize Name, Image, and Likeness Rights (SCORE Act vs. SAFE Act)",
+      "url": "https://www.swlaw.com/publication/coming-sooner-or-later-congress-considers-bills-to-standardize-name-image-and-likeness-rights/",
+      "description_cn": "Snell & Wilmer律所深度比较美国联邦SCORE法案与SAFE法案，聚焦两者对州NIL法律的优先适用、广播权处理方式、反垄断安全港及运动员雇员身份认定等关键分歧。",
+      "language": "en"
+    }
+  ],
+  "week": 11,
+  "day": 5,
+  "date": "2026-06-08",
+  "phase": 3,
+  "theme_en": "Sports & Entertainment Crossover",
+  "theme_cn": "体育与娱乐交叉",
+  "audio_file": "week11/day5.mp3"
+}
