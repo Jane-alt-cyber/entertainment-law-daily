@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision",
+    "source": "Wiley Rein LLP, March 31, 2026",
+    "url": "https://www.wiley.law/alert-Supreme-Court-Reverses-Cox-Communications-Copyright-Infringement-Liability-Ruling-in-Landmark-Unanimous-Decision",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued its unanimous opinion in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), reversing the Fourth Circuit's ruling that Cox was both vicariously liable and contributorily liable for its subscribers' music piracy. Writing for all nine justices, Justice Clarence Thomas held that internet access ISPs cannot be held liable as copyright infringers for 'merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.' The Court found Cox did not face contributory liability because it did not intend for its internet service to be used for copyright infringement — Cox 'simply provided Internet access, which is used for many purposes other than copyright infringement.'\n\nThe background of the case involved Sony enlisting MarkMonitor to track online infringement, identify infringing IP addresses, and send notices to ISPs including Cox. Sony alleged Cox was liable for willfully infringing over 10,000 copyrighted works. Cox countered that its warning and suspension system ended 98% of identified infringement. The Supreme Court granted certiorari in June 2025, and oral arguments were held December 1, 2025.\n\nThe Court also rejected Sony's argument that the DMCA safe harbor under §512 would have no practical effect if ISPs could not be held secondarily liable at all. This reasoning reframes how courts should interpret the relationship between secondary copyright infringement doctrine and the statutory safe harbor regime Congress created for digital intermediaries.\n\nWhile all justices agreed on the judgment, Justice Sonia Sotomayor, joined by Justice Ketanji Brown Jackson, filed a concurring opinion raising concern that the majority's reasoning may have improperly narrowed the scope of secondary copyright infringement liability, potentially shielding bad-faith actors who deliberately turn a blind eye to rampant infringement.\n\nLegal commentators have described the ruling as a significant victory for ISPs and a landmark recalibration of the balance between copyright enforcement and open internet access. The decision is expected to influence ongoing debates over DMCA reform, platform immunity, and the obligations of digital intermediaries in 2026 and beyond, touching directly on the question of when knowledge of infringement is sufficient to strip a service provider of safe harbor protection.",
+    "word_count": 322
+  },
+  "vocabulary": [
+    {
+      "term": "vicariously liable",
+      "pronunciation": "/vɪˈkɛəriəsli ˈlaɪəbl/",
+      "definition_cn": "替代责任；因与直接侵权人存在监督或经济利益关系，而被认定对他人侵权行为承担法律责任的情形",
+      "example": "A record label argued the ISP was vicariously liable because it profited from subscriber fees while failing to terminate repeat infringers.",
+      "audio": "week12/day1_vocab_0.mp3"
+    },
+    {
+      "term": "contributorily liable",
+      "pronunciation": "/kənˈtrɪbjʊtərɪli ˈlaɪəbl/",
+      "definition_cn": "辅助责任；明知他人实施侵权行为仍提供实质性帮助，从而对该侵权行为承担共同责任的法律认定",
+      "example": "The court held the software provider contributorily liable after finding it knowingly induced users to upload unauthorized recordings.",
+      "audio": "week12/day1_vocab_1.mp3"
+    },
+    {
+      "term": "secondary copyright infringement",
+      "pronunciation": "/ˈsɛkəndəri ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "间接版权侵权；包括替代责任与辅助责任两种形式，指并非直接实施侵权但因特定关联而依法承担版权侵权责任",
+      "example": "Proving secondary copyright infringement requires demonstrating either control over the direct infringer or material contribution to the infringing act.",
+      "audio": "week12/day1_vocab_2.mp3"
+    },
+    {
+      "term": "DMCA safe harbor",
+      "pronunciation": "/ˌdiː.ɛm.siːˈeɪ ˈseɪf ˌhɑːrbər/",
+      "definition_cn": "《数字千年版权法》安全港条款（§512）；为符合条件的网络服务提供商提供免于版权侵权索赔的法定保护，前提是履行通知与删除等合规义务",
+      "example": "The hosting provider invoked the DMCA safe harbor after promptly removing flagged content upon receiving a valid takedown notice.",
+      "audio": "week12/day1_vocab_3.mp3"
+    },
+    {
+      "term": "certiorari",
+      "pronunciation": "/ˌsɜːrʃɪəˈrɛəri/",
+      "definition_cn": "调卷令；美国最高法院用于决定是否受理下级法院上诉案件的程序性令状，需至少四位大法官同意方可颁发",
+      "example": "The Supreme Court granted certiorari to resolve the circuit split over the scope of ISP liability for subscriber infringement.",
+      "audio": "week12/day1_vocab_4.mp3"
+    },
+    {
+      "term": "concurring opinion",
+      "pronunciation": "/kənˈkɜːrɪŋ əˈpɪnjən/",
+      "definition_cn": "协同意见书；与多数意见结论一致但理由不同的大法官单独撰写的意见，具有一定说理影响力但不构成具有约束力的判决先例",
+      "example": "Justice Sotomayor's concurring opinion warned that the majority's reasoning risked shielding willfully negligent intermediaries from all copyright accountability.",
+      "audio": "week12/day1_vocab_5.mp3"
+    },
+    {
+      "term": "safe harbor protection",
+      "pronunciation": "/ˈseɪf ˈhɑːrbər prəˈtɛkʃən/",
+      "definition_cn": "安全港保护；法定豁免机制，使满足特定条件的服务提供商免于因第三方行为而承担版权或其他侵权责任",
+      "example": "Failing to implement a repeat-infringer policy can disqualify a platform from safe harbor protection under §512 of the DMCA.",
+      "audio": "week12/day1_vocab_6.mp3"
+    },
+    {
+      "term": "digital intermediaries",
+      "pronunciation": "/ˈdɪdʒɪtl ˌɪntəˈmiːdiəriz/",
+      "definition_cn": "数字中间商；在版权法语境中指互联网服务提供商、托管平台等在内容传输或存储过程中居于中间地位的第三方主体",
+      "example": "Congress enacted §512 to clarify the obligations of digital intermediaries before internet commerce became commercially dominant.",
+      "audio": "week12/day1_vocab_7.mp3"
+    },
+    {
+      "term": "willfully infringing",
+      "pronunciation": "/ˈwɪlfəli ɪnˈfrɪndʒɪŋ/",
+      "definition_cn": "故意侵权；明知行为构成版权侵权仍有意为之，可导致法定损害赔偿金额大幅提升，最高可达每件作品15万美元",
+      "example": "Sony alleged that Cox's failure to terminate repeat offenders amounted to willfully infringing conduct that warranted enhanced statutory damages.",
+      "audio": "week12/day1_vocab_8.mp3"
+    },
+    {
+      "term": "statutory safe harbor",
+      "pronunciation": "/stəˈtjuːtəri ˈseɪf ˌhɑːrbər/",
+      "definition_cn": "法定安全港；由成文法明确规定的责任豁免条款，区别于普通法规则，为符合条件的主体提供明确的法律确定性与诉讼防御依据",
+      "example": "The Court clarified that a statutory safe harbor does not create secondary liability where no such liability would otherwise exist at common law.",
+      "audio": "week12/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] held that [party] cannot be held [type of liability] for [conduct], because [legal reasoning].",
+      "example": "The Supreme Court held that ISPs cannot be held vicariously liable for subscriber infringement because merely providing internet access, without more, does not satisfy the control and financial benefit requirements.",
+      "translation_cn": "最高法院裁定，互联网服务提供商不能因用户侵权行为被认定为替代责任方，因为仅仅提供互联网接入服务本身并不满足控制与经济利益两项要件。"
+    },
+    {
+      "pattern": "While all justices agreed on [the judgment/outcome], Justice [Name] filed a concurring opinion raising concern that [specific risk or doctrinal problem].",
+      "example": "While all justices agreed on the judgment, Justice Sotomayor filed a concurring opinion raising concern that the majority's reasoning may have improperly narrowed the scope of secondary copyright infringement liability.",
+      "translation_cn": "尽管全体大法官对判决结果意见一致，索托马约尔大法官仍提交了协同意见书，表达对多数意见可能不当压缩间接版权侵权责任范围的担忧。"
+    },
+    {
+      "pattern": "The decision is expected to influence [area of law], touching directly on the question of [unresolved legal issue].",
+      "example": "The decision is expected to influence ongoing debates over DMCA reform and platform immunity, touching directly on the question of when knowledge of infringement is sufficient to strip a service provider of safe harbor protection.",
+      "translation_cn": "该判决预计将对DMCA改革及平台豁免的持续争论产生深远影响，直接触及一个尚未解决的核心法律问题：知悉侵权行为达到何种程度方可剥夺服务提供商的安全港保护。"
+    }
+  ],
+  "summary_cn": "2026年3月，美国最高法院以9比0一致裁决，推翻对Cox Communications的替代及辅助版权侵权认定，裁定仅向公众提供互联网接入服务的ISP不因部分用户实施侵权而承担版权责任。该判决重塑了DMCA安全港与间接侵权学说之间的关系，对数字中间商的法律义务边界具有里程碑意义。",
+  "legal_analysis": "① 核心法律问题：本案核心在于互联网服务提供商是否因订阅用户大规模侵权而承担替代责任与辅助责任，以及DMCA §512安全港条款与普通法间接侵权学说之间的逻辑关系。\n\n② 美国法律框架分析：美国版权法下的间接侵权分为两类：辅助责任（要求明知且实质性促成侵权）与替代责任（要求对侵权者具有监督控制权且从中获得直接经济利益）。最高法院在本案中确立，仅提供通用互联网接入服务不构成\"意图促成侵权\"，从而切断辅助责任链条。同时，法院厘清DMCA §512安全港并非创设新的责任基础，而是在已有普通法责任存在的前提下提供豁免机制。这一裁决重新校准了版权权利人与数字基础设施提供商之间的权利义务边界。\n\n③ 对中国娱乐法律师的实践启示：中国企业在美运营内容平台或提供互联网接入服务时，应重新评估其\"通知-删除\"合规体系是否满足DMCA §512要求，尤其是\"终止重复侵权者\"政策的落实情况。该判决亦提示，在跨境版权许可谈判中，权利人索赔主张须更精准地指向直接侵权行为，而非单纯依赖对中间商施压的策略。",
+  "cn_us_comparison": "美国DMCA §512安全港制度与中国《信息网络传播权保护条例》（2022年修订）中的\"避风港\"原则在结构上高度相似：均要求网络服务提供商在收到有效通知后及时删除侵权内容，且不得获得直接经济利益或具有实质性帮助侵权的主观过错。然而，两者存在若干关键差异：第一，中国《著作权法》第二十二条及相关司法解释对\"应知\"标准的认定较美国实践更为宽泛，平台承担主动审查义务的倾向更明显；第二，中国法院在认定替代责任时更侧重平台是否从侵权内容中获得广告或流量收益，而非如美国法那样严格区分直接控制与间接经济利益；第三，本案最高法院判决所体现的\"通用服务豁免\"逻辑，在中国司法实践中尚无对应先例，监管机构对ISP的合规要求整体偏严。中国娱乐律师应注意两种制度框架下举证责任分配的差异。",
+  "discussion_prompt": "Given that the Supreme Court's unanimous ruling in Cox v. Sony effectively insulates ISPs from secondary copyright infringement liability for general internet access, does this outcome create a structural loophole that allows platforms and ISPs to profit passively from mass infringement, and should Congress amend the DMCA to impose affirmative algorithmic monitoring obligations on large-scale intermediaries in response?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new court ruling for a client memo. In 2-3 sentences, describe a hypothetical appellate decision that: (1) addresses a specific type of liability, (2) includes a notable concurring opinion, and (3) identifies the ruling's expected impact on a contested area of digital media law.",
+    "model_answer": "The Ninth Circuit held that a major cloud storage provider cannot be held contributorily liable for users' unauthorized uploads of feature films, because the provider lacked actual knowledge of specific infringing files at the time of storage. While the panel agreed on the judgment, Judge Chen filed a concurring opinion raising concern that the majority's narrow construction of the 'knowledge' element may have improperly narrowed the scope of secondary copyright infringement liability for AI-assisted content platforms. The decision is expected to influence ongoing debates over DMCA reform and algorithmic accountability, touching directly on the question of when automated content detection creates sufficient constructive knowledge to strip a service provider of statutory safe harbor protection."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Supreme Court Ruling Explained: ISP Liability, DMCA Safe Harbor & Secondary Copyright Infringement",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频以通俗易懂的方式解析Cox v. Sony最高法院判决，重点介绍替代责任与辅助责任的区别、DMCA §512安全港的适用条件，以及该裁决对ISP、内容平台及版权权利人的长期影响，适合具备一定法律基础的英语学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Copyright's Big Year: 2025's Defining Rulings and 2026's Flashpoints",
+      "url": "https://www.debevoise.com/insights/publications/2026/01/copyrights-big-year-2025s-defining-rulings-and",
+      "description_cn": "Debevoise & Plimpton法律分析，梳理2025年版权重大判决并预判2026年AI版权诉讼与平台间接侵权学说的走向。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律师事务所2026年娱乐法前瞻，聚焦AI训练数据合法性、合理使用边界及商标Rogers测试的最新动态。",
+      "language": "en"
+    }
+  ],
+  "week": 12,
+  "day": 1,
+  "date": "2026-06-09",
+  "phase": 3,
+  "theme_en": "Emerging Issues & Review",
+  "theme_cn": "综合回顾与前沿展望",
+  "audio_file": "week12/day1.mp3"
+}

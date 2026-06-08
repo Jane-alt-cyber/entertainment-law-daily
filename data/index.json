@@ -476,7 +476,16 @@
       "theme_cn": "体育与娱乐交叉",
       "file": "week11/day5.json",
       "audio": "week11/day5.mp3"
+    },
+    {
+      "week": 12,
+      "day": 1,
+      "date": "2026-06-09",
+      "theme_en": "Emerging Issues & Review",
+      "theme_cn": "综合回顾与前沿展望",
+      "file": "week12/day1.json",
+      "audio": "week12/day1.mp3"
     }
   ],
-  "last_updated": "2026-06-08"
+  "last_updated": "2026-06-09"
 }
