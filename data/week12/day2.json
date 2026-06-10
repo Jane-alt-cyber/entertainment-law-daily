@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision",
+    "source": "Wiley Law (wiley.law), March 31, 2026",
+    "url": "https://www.wiley.law/alert-Supreme-Court-Reverses-Cox-Communications-Copyright-Infringement-Liability-Ruling-in-Landmark-Unanimous-Decision",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued its unanimous opinion in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), reversing the Fourth Circuit's holding that Cox bore contributory and vicarious liability for music piracy committed by its subscribers. Justice Clarence Thomas, writing for seven justices, held that an ISP cannot be held liable as a copyright infringer 'for merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.' The decision reaffirmed that contributory copyright liability requires proof that the defendant intended its service to be used for infringement — demonstrable through either active inducement or by offering a service specifically designed for infringing purposes.\n\nCox, one of the nation's largest ISPs with approximately six million subscribers, had received 163,148 infringement notices from MarkMonitor over a two-year period on behalf of Sony and other major music rights holders. The Court found that Cox merely provided general internet access — a service capable of substantial lawful uses — and took steps to discourage infringement even if imperfectly.\n\nA key structural ruling clarified that DMCA compliance and contributory liability are analytically distinct: a service provider's failure to qualify for a DMCA safe harbor under 17 U.S.C. §512 cannot be used to 'backdoor' a finding of contributory infringement where the substantive elements of liability are not independently met. This curtails a litigation tactic that had transformed DMCA compliance disputes into high-stakes infringement claims.\n\nJustice Sotomayor, joined by Justice Jackson, concurred in the judgment but warned that the majority 'unnecessarily limits secondary liability' and 'dismantles the statutory incentive structure that Congress created' under the DMCA, potentially consigning the safe harbor provision to obsolescence. She acknowledged, however, that Cox prevailed because the infringement notices identified only IP addresses, not actual infringing users — insufficient to prove the specific intent element required for liability.\n\nFor defendants and platforms going forward, the decision provides powerful grounds for early dismissal, as courts are now on clear notice that contributory liability cannot be expanded beyond the Sony and Grokster frameworks. Litigation strategy is expected to shift back toward direct infringers or defendants whose products affirmatively promote infringement.",
+    "word_count": 338
+  },
+  "vocabulary": [
+    {
+      "term": "contributory liability",
+      "pronunciation": "/kənˈtrɪbjʊtəri laɪəˈbɪlɪti/",
+      "definition_cn": "帮助侵权责任：指明知他人实施侵权行为仍予以实质性协助或诱导，从而承担的间接版权侵权法律责任。",
+      "example": "The plaintiff failed to establish contributory liability because it could not show that the defendant intended its platform to facilitate infringement.",
+      "audio": "week12/day2_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious liability",
+      "pronunciation": "/vɪˈkɛəriəs laɪəˈbɪlɪti/",
+      "definition_cn": "替代责任：指一方对其有权控制且从中获得直接经济利益的他方侵权行为承担的间接版权责任。",
+      "example": "Under the vicarious liability doctrine, a concert promoter who profits from infringing performances and has the right to stop them may be held responsible even without direct participation.",
+      "audio": "week12/day2_vocab_1.mp3"
+    },
+    {
+      "term": "safe harbor",
+      "pronunciation": "/seɪf ˈhɑːrbər/",
+      "definition_cn": "避风港条款：《数字千年版权法》第512条规定的法定免责保护，符合条件的服务提供商可免于承担用户侵权的版权责任。",
+      "example": "The hosting company invoked the safe harbor provision, arguing it had promptly removed infringing material upon receiving valid takedown notices.",
+      "audio": "week12/day2_vocab_2.mp3"
+    },
+    {
+      "term": "DMCA compliance",
+      "pronunciation": "/ˌdiː ɛm siː ˈeɪ kəmˈplaɪəns/",
+      "definition_cn": "《数字千年版权法》合规：服务提供商按照该法规定履行通知移除、重复侵权者政策等义务的行为，是申请安全港保护的前提条件。",
+      "example": "The court examined the company's DMCA compliance record, including whether it maintained a functioning notice-and-takedown procedure.",
+      "audio": "week12/day2_vocab_3.mp3"
+    },
+    {
+      "term": "active inducement",
+      "pronunciation": "/ˈæktɪv ɪnˈdjuːsmənt/",
+      "definition_cn": "积极诱导：源自Grokster案的侵权理论，指通过明示宣传或鼓励措施积极引导用户实施版权侵权，从而触发次级侵权责任。",
+      "example": "The file-sharing service was found liable under the active inducement theory because its marketing materials explicitly encouraged users to copy protected works.",
+      "audio": "week12/day2_vocab_4.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndɛri laɪəˈbɪlɪti/",
+      "definition_cn": "次级侵权责任：涵盖帮助侵权责任与替代责任的总称，适用于未亲自实施但间接促成或控制他人版权侵权行为的主体。",
+      "example": "Secondary liability claims against internet infrastructure providers have become increasingly common as rights holders seek deeper-pocket defendants.",
+      "audio": "week12/day2_vocab_5.mp3"
+    },
+    {
+      "term": "infringement notices",
+      "pronunciation": "/ɪnˈfrɪndʒmənt ˈnoʊtɪsɪz/",
+      "definition_cn": "侵权通知：版权持有人依据DMCA向服务提供商发送的正式书面通知，要求其移除或屏蔽被指控侵权内容并识别侵权用户。",
+      "example": "The record labels sent thousands of infringement notices to the ISP, but the notices identified only IP addresses rather than named subscribers.",
+      "audio": "week12/day2_vocab_6.mp3"
+    },
+    {
+      "term": "statutory incentive structure",
+      "pronunciation": "/stəˈtjuːtəri ɪnˈsɛntɪv ˈstrʌktʃər/",
+      "definition_cn": "法定激励机制：国会通过立法设计的权利与义务框架，旨在通过奖惩机制引导服务提供商积极配合版权执法。",
+      "example": "Critics argue that weakening secondary liability undermines the statutory incentive structure Congress built into the DMCA to encourage proactive takedowns.",
+      "audio": "week12/day2_vocab_7.mp3"
+    },
+    {
+      "term": "specific intent",
+      "pronunciation": "/spɪˈsɪfɪk ɪnˈtɛnt/",
+      "definition_cn": "特定故意：指行为人明确意图促成特定侵权结果的主观心理状态，是帮助侵权责任成立的核心主观要件。",
+      "example": "The court dismissed the claim because the plaintiff presented no evidence of specific intent to facilitate the subscribers' unauthorized copying.",
+      "audio": "week12/day2_vocab_8.mp3"
+    },
+    {
+      "term": "early dismissal",
+      "pronunciation": "/ˈɜːrli dɪˈsmɪsəl/",
+      "definition_cn": "早期驳回：指法院在诉讼早期阶段（通常依据联邦民事诉讼规则第12条动议）以诉状未能充分陈述可予救济的诉因为由驳回案件。",
+      "example": "Following the Supreme Court's ruling, defendants in secondary copyright liability cases are expected to pursue early dismissal by challenging the sufficiency of intent allegations.",
+      "audio": "week12/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] held that [party] cannot be held liable for [conduct] absent proof of [required element].",
+      "example": "The Supreme Court held that an ISP cannot be held liable for merely providing a service to the general public absent proof that it specifically intended its service to be used for infringement.",
+      "translation_cn": "最高法院认定，在缺乏证明其特别意图将服务用于侵权的证据的情况下，互联网服务提供商不得仅因向公众提供服务而承担责任。"
+    },
+    {
+      "pattern": "[Statutory provision] and [legal doctrine] are analytically distinct: failure to satisfy [provision] cannot be used to 'backdoor' a finding of [doctrine] where the substantive elements are not independently met.",
+      "example": "DMCA compliance and contributory liability are analytically distinct: a service provider's failure to qualify for a DMCA safe harbor cannot be used to 'backdoor' a finding of contributory infringement where the substantive elements of liability are not independently met.",
+      "translation_cn": "DMCA合规义务与帮助侵权责任在分析层面相互独立：服务提供商未能符合DMCA避风港条件，不得在实质责任要件未独立满足的情况下被借道用于认定帮助侵权。"
+    },
+    {
+      "pattern": "[Dissenting/concurring justice] warned that the majority's ruling [negative consequence], potentially [broader systemic effect].",
+      "example": "Justice Sotomayor warned that the majority's ruling unnecessarily limits secondary liability, potentially consigning the safe harbor provision to obsolescence.",
+      "translation_cn": "索托马约尔大法官警告称，多数意见的裁决不必要地限制了次级侵权责任，可能使避风港条款趋于废置。"
+    }
+  ],
+  "summary_cn": "2026年3月，美国最高法院在Cox Communications诉索尼音乐案中以全票推翻了对科克斯公司的版权帮助侵权与替代责任认定。法院确立：ISP仅凭知悉用户可能侵权而提供通用互联网接入服务，不构成版权侵权；DMCA安全港合规义务与实质侵权责任认定在法律上相互独立。该判决将重构版权执法诉讼策略。",
+  "legal_analysis": "① 核心法律问题：本案聚焦于《数字千年版权法》（DMCA）第512条安全港制度与普通法次级版权侵权责任（帮助侵权、替代侵权）之间的关系边界，以及ISP在用户侵权中的\"知情+不作为\"是否足以触发侵权责任。\n\n② 美国法律框架分析：最高法院在Sony Corp. v. Universal City Studios（1984）确立\"实质性非侵权用途\"标准，MGM Studios v. Grokster（2005）引入\"积极诱导\"理论。本案在此框架内进一步明确：知情本身不等于共谋，帮助侵权须证明特定主观故意；DMCA安全港是独立的法定抗辩，其不适用不能反向推导出普通法侵权责任。两位大法官的协同意见揭示深层张力：国会设计的DMCA激励机制若与实质责任脱钩，安全港可能形同虚设。\n\n③ 对中国娱乐法律师的实践启示：中国客户在美国运营内容平台时，应将DMCA合规体系（通知移除、重复侵权者政策）与美国普通法次级责任风险分开评估；同时，本案\"特定故意\"要件的强化意味着平台产品设计中应避免任何可被解读为\"诱导侵权\"的营销话术或功能设计，否则仍将面临Grokster框架下的实质性法律风险。",
+  "cn_us_comparison": "美国DMCA第512条安全港制度与中国《信息网络传播权保护条例》（2022修订）第20至23条所确立的\"避风港\"规则在结构上高度相似：两者均要求服务提供商具备通知移除机制，且均以\"不知情\"或\"无过错\"为豁免前提。然而差异显著：其一，中国《著作权法》第27条及《民法典》第1197条采用\"知道或应当知道\"的过错标准，法院在实践中对平台负有更积极的主动审查义务（即\"红旗原则\"），而美国本案判决明确拒绝将\"知情\"等同于\"故意\"；其二，中国司法实践中平台替代责任的认定门槛总体低于本案确立的美国标准，权利人较易通过证明平台\"应知\"而获得救济；其三，中国尚无与Grokster\"积极诱导\"理论完全对应的成文规定，相关认定主要依赖法官的自由裁量。因此，跨境娱乐平台须在两套体系下分别构建合规防线。",
+  "discussion_prompt": "Given that the Supreme Court has now analytically separated DMCA safe harbor eligibility from contributory copyright liability, does this structural decoupling effectively incentivize ISPs to invest in robust infringement-deterrence programs, or does it create a moral hazard by allowing providers to profit from subscriber piracy without meaningful legal accountability?",
+  "writing_exercise": {
+    "prompt": "Write 2-3 sentences arguing either for or against the proposition that an ISP's receipt of thousands of infringement notices should, standing alone, satisfy the specific intent element required for contributory copyright liability. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The mere receipt of infringement notices cannot, standing alone, establish the specific intent required for contributory liability, because such notices identify only IP addresses rather than verified infringing actors and therefore fall short of the evidentiary threshold articulated in Cox. To hold otherwise would effectively transform DMCA compliance failures into automatic secondary liability, collapsing the analytically distinct frameworks that the Supreme Court has now expressly preserved. Courts should therefore require rights holders to produce affirmative evidence of active inducement before any secondary liability claim can survive early dismissal."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Explained: ISP Copyright Liability & the DMCA Safe Harbor After the Supreme Court's 2026 Ruling",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深入解析2026年最高法院Cox通讯案判决，阐释DMCA避风港与帮助侵权责任的区别，通过图解方式说明\"特定故意\"标准如何改变版权持有人对ISP的诉讼策略，适合娱乐法从业者与法学生进阶学习。"
+  },
+  "extended_reading": [
+    {
+      "title": "Knowledge is Not Complicity: Cox Communications v. Sony Music Entertainment",
+      "url": "https://www.swlaw.com/blogs/swiplit/2026/04/10/knowledge-is-not-complicity-cox-communications-v-sony-music-entertainment/",
+      "description_cn": "Snell & Wilmer律所对最高法院Cox案判决的深度法律评析，重点梳理多数意见与协同意见在DMCA执法未来走向上的分歧。",
+      "language": "en"
+    },
+    {
+      "title": "Algorithmic Opacity as a Principal-Agent Problem (NYU Journal of Intellectual Property & Entertainment Law, Vol. 15, No. 2)",
+      "url": "https://jipel.law.nyu.edu/",
+      "description_cn": "纽约大学知识产权与娱乐法学刊学术论文，探讨平台算法不透明性产生的委托代理问责缺口及美欧互联网治理分化趋势。",
+      "language": "en"
+    }
+  ],
+  "week": 12,
+  "day": 2,
+  "date": "2026-06-10",
+  "phase": 3,
+  "theme_en": "Emerging Issues & Review",
+  "theme_cn": "综合回顾与前沿展望",
+  "audio_file": "week12/day2.mp3"
+}
