@@ -494,7 +494,16 @@
       "theme_cn": "综合回顾与前沿展望",
       "file": "week12/day2.json",
       "audio": "week12/day2.mp3"
+    },
+    {
+      "week": 12,
+      "day": 3,
+      "date": "2026-06-11",
+      "theme_en": "Emerging Issues & Review",
+      "theme_cn": "综合回顾与前沿展望",
+      "file": "week12/day3.json",
+      "audio": "week12/day3.mp3"
     }
   ],
-  "last_updated": "2026-06-10"
+  "last_updated": "2026-06-11"
 }
