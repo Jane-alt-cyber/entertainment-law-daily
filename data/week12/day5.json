@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Narrows Contributory Copyright Liability and Reframes the DMCA Landscape — Cox Communications, Inc. v. Sony Music Entertainment",
+    "source": "Mintz Levin (Law Firm Client Alert), March 27, 2026",
+    "url": "https://www.mintz.com/insights-center/viewpoints/2251/2026-03-27-supreme-court-narrows-contributory-copyright-liability",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued its landmark ruling in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), fundamentally reshaping the relationship between DMCA safe harbor doctrine and secondary copyright liability for internet service providers and online platforms. The case originated from a jury verdict exceeding $1 billion against Cox Communications for contributory copyright infringement, arising from subscribers' use of peer-to-peer file-sharing networks to reproduce and distribute copyrighted sound recordings without authorization.\n\nSony Music and allied rights holders argued that Cox's so-called 'graduated response' program — which functioned as a thirteen-strike rather than a genuine three-strike framework for repeat infringers — disqualified Cox from DMCA safe harbor protection under 17 U.S.C. § 512. They further contended that such disqualification should itself support a finding of contributory infringement, effectively converting a procedural DMCA compliance failure into substantive secondary liability.\n\nThe Supreme Court rejected that argument in two analytically distinct holdings. First, the Court clarified that a service provider's failure to qualify for a DMCA safe harbor does not 'bear adversely' on whether that provider is secondarily liable at all. DMCA compliance and contributory infringement liability are separate legal inquiries that must each be evaluated on their own merits. Second, the Court held that Congress did not impose secondary liability on service providers simply for continuing to serve repeat infringers, absent evidence that the provider affirmatively fostered or intended to promote infringement. Mere knowledge of users' direct infringement, without more, is legally insufficient to establish contributory liability.\n\nThe ruling additionally addressed the willfulness standard under Section 504 of the Copyright Act, clarifying the degree to which awareness of another's direct infringement can support enhanced statutory damages. This clarification significantly curtails an increasingly common litigation tactic in which rights holders exploit alleged deficiencies in a platform's repeat-infringer policy as a backdoor mechanism to trigger massive statutory damages exposure. The decision is expected to recalibrate risk assessment for every operator that hosts or transmits user-generated content — drawing a protective line around good-faith compliance efforts while signaling that rights holders must satisfy the substantive elements of secondary liability rather than relying on procedural shortcomings as a litigation substitute.",
+    "word_count": 335
+  },
+  "vocabulary": [
+    {
+      "term": "contributory copyright infringement",
+      "pronunciation": "/kənˈtrɪbjʊtəri ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "帮助侵权（版权语境）：指明知他人直接侵犯版权，仍实质性地参与或协助该侵权行为，从而承担共同责任的法律理论。",
+      "example": "The label alleged contributory copyright infringement on the grounds that the ISP knowingly allowed subscribers to distribute unlicensed recordings.",
+      "audio": "week12/day5_vocab_0.mp3"
+    },
+    {
+      "term": "DMCA safe harbor",
+      "pronunciation": "/ˌdiː em siː ˈeɪ seɪf ˈhɑːrbər/",
+      "definition_cn": "《数字千年版权法》安全港条款：指17 U.S.C. § 512规定的免责机制，符合条件的网络服务商可因此免于承担用户侵权的间接版权责任。",
+      "example": "Platforms that promptly remove infringing content upon notice may qualify for DMCA safe harbor protection and avoid secondary liability.",
+      "audio": "week12/day5_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsekənderi laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任：指当事人本身未直接实施侵权行为，而因协助、诱导或控制他人侵权而须承担的法律责任，包括帮助侵权与替代侵权两种形式。",
+      "example": "The Court held that secondary liability requires proof of affirmative intent to promote infringement, not merely awareness of users' unlawful conduct.",
+      "audio": "week12/day5_vocab_2.mp3"
+    },
+    {
+      "term": "repeat infringers",
+      "pronunciation": "/rɪˈpiːt ɪnˈfrɪndʒərz/",
+      "definition_cn": "惯常侵权者：指多次实施版权侵权行为的用户，《数字千年版权法》要求网络服务商须建立针对此类用户的合理终止账户政策，方可享有安全港保护。",
+      "example": "Cox's thirteen-strike policy was criticized for failing to terminate accounts belonging to repeat infringers in a timely and meaningful manner.",
+      "audio": "week12/day5_vocab_3.mp3"
+    },
+    {
+      "term": "graduated response",
+      "pronunciation": "/ˈɡrædʒuːeɪtɪd rɪˈspɒns/",
+      "definition_cn": "梯级响应机制：针对反复侵权用户逐步升级警告与惩罚措施（如警告、限速、封号）的行政程序，旨在符合《数字千年版权法》对终止惯常侵权者账户的要求。",
+      "example": "Rights holders argued that a credible graduated response program must result in actual account termination after a defined number of verified infringement notices.",
+      "audio": "week12/day5_vocab_4.mp3"
+    },
+    {
+      "term": "statutory damages",
+      "pronunciation": "/ˈstætʃutəri ˈdæmɪdʒɪz/",
+      "definition_cn": "法定损害赔偿金：依据版权法（17 U.S.C. § 504）由法院裁量的固定赔偿额，无需原告证明实际损失，故意侵权时金额可大幅提升。",
+      "example": "Because the jury found willful infringement, Sony Music was entitled to seek statutory damages at the enhanced rate of up to $150,000 per work.",
+      "audio": "week12/day5_vocab_5.mp3"
+    },
+    {
+      "term": "willfulness",
+      "pronunciation": "/ˈwɪlfʊlnəs/",
+      "definition_cn": "故意性认定：版权侵权语境下，指被告明知或蓄意漠视其行为构成侵权，该认定可将法定损害赔偿金额提升至每件作品15万美元的上限。",
+      "example": "The Supreme Court scrutinized whether mere knowledge of subscribers' direct infringement is sufficient to establish willfulness for purposes of enhanced damages.",
+      "audio": "week12/day5_vocab_6.mp3"
+    },
+    {
+      "term": "peer-to-peer file-sharing networks",
+      "pronunciation": "/pɪər tə pɪər faɪl ˈʃɛərɪŋ ˈnetwɜːrks/",
+      "definition_cn": "点对点文件共享网络：允许用户直接互相传输数字文件（包括受版权保护的音乐、影视作品）的去中心化技术架构，历来是版权侵权诉讼的核心争议场景。",
+      "example": "The plaintiffs demonstrated that subscribers used peer-to-peer file-sharing networks to reproduce and distribute copyrighted sound recordings on a massive scale.",
+      "audio": "week12/day5_vocab_7.mp3"
+    },
+    {
+      "term": "affirmatively fostered",
+      "pronunciation": "/əˈfɜːrmətɪvli ˈfɒstərd/",
+      "definition_cn": "积极促进（侵权）：指服务商主动采取行动鼓励或培育用户实施侵权行为，区别于单纯知情不制止，是认定引诱侵权责任的核心要件。",
+      "example": "The Court ruled that contributory liability attaches only where a provider affirmatively fostered infringement, not where it merely tolerated known infringing uses.",
+      "audio": "week12/day5_vocab_8.mp3"
+    },
+    {
+      "term": "backdoor mechanism",
+      "pronunciation": "/ˈbækdɔːr ˈmekənɪzəm/",
+      "definition_cn": "后门机制（诉讼策略）：指权利人利用服务商违反DMCA程序性合规规定这一侧面论据，规避须证明实质性侵权要件的正面举证负担，进而主张高额法定赔偿的诉讼手法。",
+      "example": "The Supreme Court's ruling forecloses use of DMCA procedural deficiencies as a backdoor mechanism for establishing secondary liability without proving its substantive elements.",
+      "audio": "week12/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The Court held that [legal standard] requires [substantive element], not merely [insufficient substitute].",
+      "example": "The Court held that contributory liability requires proof that the provider affirmatively fostered infringement, not merely awareness of users' direct infringement.",
+      "translation_cn": "法院裁定，[法律标准]要求满足[实质性要件]，而非仅凭[不充分的替代论据]即可成立。"
+    },
+    {
+      "pattern": "[Plaintiff] argued that [defendant]'s failure to [comply with X] should itself support a finding of [liability/remedy].",
+      "example": "Sony Music argued that Cox's failure to implement a meaningful graduated response program should itself support a finding of contributory copyright infringement.",
+      "translation_cn": "[原告]主张，[被告]未能[履行X义务]的事实本身即应支持认定[责任/救济]。"
+    },
+    {
+      "pattern": "The ruling draws a protective line around [category of actors], signaling that [opposing party] must [meet substantive standard] rather than rely on [procedural shortcut].",
+      "example": "The ruling draws a protective line around good-faith operators, signaling that rights holders must satisfy the substantive elements of secondary liability rather than rely on procedural DMCA shortcomings as a litigation substitute.",
+      "translation_cn": "该裁决为[特定主体]划定保护界限，表明[对立方]必须[满足实质性标准]，而不得依赖[程序性捷径]替代实质举证。"
+    }
+  ],
+  "summary_cn": "2026年3月25日，美国最高法院在Cox诉索尼音乐案中作出重要裁决：服务商未能符合《数字千年版权法》安全港要求，并不当然导致帮助侵权责任；认定帮助侵权须证明服务商积极促进侵权，单纯知晓用户侵权行为不足以成立。该判决重塑了互联网服务商与版权人之间的责任边界。",
+  "legal_analysis": "① 核心法律问题：本案核心在于DMCA安全港资格丧失与版权帮助侵权责任认定之间是否存在必然因果关系，以及服务商主观知情程度能否单独构成\"故意性\"以触发高额法定赔偿。\n\n② 美国法律框架分析：《数字千年版权法》17 U.S.C. § 512构建了服务商侵权责任的程序性免责体系，但最高法院在本案中厘清其与《版权法》第504条实质侵权责任体系之间相互独立的关系。帮助侵权责任（contributory liability）沿袭自Grokster案确立的\"积极促进\"标准，替代侵权（vicarious liability）则须同时满足控制能力与直接经济利益两要件——本案进一步巩固了这一二元框架。\n\n③ 对中国娱乐法律师的实践启示：中国《著作权法》第57条亦规定了教唆、帮助侵权的连带责任，但认定门槛与美国联邦标准存在显著差异。美国本案所确立的\"主动促进\"标准，提示中国律师在代理跨境版权纠纷时，须特别注意平台内部合规政策（如通知-删除机制的执行记录）对主观过错认定的证据价值，避免将程序性违规与实质侵权责任混同。",
+  "cn_us_comparison": "美国《数字千年版权法》（DMCA）第512条建立了\"通知-删除\"安全港制度，将服务商免责资格与其程序性合规行为直接挂钩，并将安全港认定与实质侵权责任在逻辑上严格区分。中国《著作权法》（2020年修订）第57条及《信息网络传播权保护条例》第22至24条同样确立了\"通知-删除\"规则，但中国司法实践中法院倾向于将平台的过错程度（包括\"应知\"标准）与最终赔偿责任更为紧密地关联，缺乏美国式的双轨独立分析框架。此外，美国本案涉及的\"故意侵权\"法定赔偿金上限（每件作品15万美元）远高于中国《著作权法》第54条规定的500万元人民币上限，跨境纠纷中的赔偿风险敞口差异显著，中国娱乐法律师须在尽职调查阶段充分识别。",
+  "discussion_prompt": "Given the Supreme Court's holding that DMCA safe harbor failure and contributory infringement liability are analytically distinct inquiries, should Congress amend Section 512 to expressly define the evidentiary weight — if any — that a platform's repeat-infringer policy deficiencies carry in a subsequent secondary liability analysis, and would such an amendment risk chilling the good-faith compliance efforts the Court sought to protect?",
+  "writing_exercise": {
+    "prompt": "Imagine you are drafting a client alert paragraph advising a video-hosting platform on the implications of the Cox v. Sony ruling. In 2-3 sentences, explain what the ruling requires rights holders to prove, what protection it extends to platforms, and what compliance risk remains. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The Supreme Court's ruling in Cox v. Sony clarifies that rights holders asserting secondary liability must demonstrate that a platform affirmatively fostered infringement among its users, rather than relying on DMCA safe harbor disqualification as a backdoor mechanism to establish contributory copyright infringement by default. Platforms that implement genuine, good-faith graduated response programs — even imperfect ones — now stand on firmer legal ground against claims that mere awareness of repeat infringers is sufficient to trigger statutory damages liability. Nevertheless, operators should audit their repeat-infringer termination policies to ensure documented enforcement, since courts may still evaluate the substantive adequacy of those policies in assessing willfulness under Section 504."
+  },
+  "youtube_rec": {
+    "title": "DMCA Safe Harbor Explained: Secondary Liability, Repeat Infringers & the Cox v. Sony Supreme Court Decision",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解DMCA第512条安全港制度的核心要件，结合Cox诉索尼音乐最高法院案分析帮助侵权与替代侵权的认定标准，适合希望深入理解平台版权责任体系的娱乐法从业者及法学学生。"
+  },
+  "extended_reading": [
+    {
+      "title": "NO FAKES Act Heads to Senate Vote June 18, Putting $750K Platform Liability on the Line",
+      "url": "https://www.techtimes.com/articles/318346/20260613/no-fakes-act-heads-senate-vote-june-18-putting-750k-platform-liability-line.htm",
+      "description_cn": "报道《禁止人工智能伪造法案》2026年参议院投票进程，分析其对平台托管AI生成数字声音与肖像副本所设定的每件作品75万美元赔偿上限及\"滞留\"内容监控义务。",
+      "language": "en"
+    },
+    {
+      "title": "Copyright's Big Year: 2025's Defining Rulings and 2026's Flashpoints",
+      "url": "https://www.debevoise.com/insights/publications/2026/01/copyrights-big-year-2025s-defining-rulings-and",
+      "description_cn": "德普律师事务所2026年1月综合分析报告，梳理后Warhol合理使用原则演变、Vimeo安全港裁决、Cox案待决审查及AI训练数据诉讼浪潮等定义娱乐科技行业的版权法前沿议题。",
+      "language": "en"
+    }
+  ],
+  "week": 12,
+  "day": 5,
+  "date": "2026-06-15",
+  "phase": 3,
+  "theme_en": "Emerging Issues & Review",
+  "theme_cn": "综合回顾与前沿展望",
+  "audio_file": "week12/day5.mp3"
+}
