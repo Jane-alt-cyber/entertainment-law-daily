@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "'It Ends With Us' Settlement Postmortem: Blake Lively Made a Bold Wager on a Legal Theory and Lost",
+    "source": "Hollywood Reporter, June 16, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/it-ends-with-us-settlement-blake-lively-1236622416/",
+    "text": "The legal saga between actress Blake Lively and director Justin Baldoni, arising from the 2024 film 'It Ends With Us,' stands as one of the most legally consequential entertainment disputes of 2025–2026. The case began in December 2024 when Lively filed suit against Baldoni and his production company, Wayfarer Studios, alleging sexual harassment on set and retaliatory conduct — specifically, an orchestrated smear campaign designed to undermine her public reputation after she complained about misconduct. In January 2025, Baldoni countersued Lively, her husband Ryan Reynolds, and their PR team in a $400 million defamation and extortion action, alleging they sought to 'seize control' of the film and destroy his career.\n\nThat countersuit was dismissed by federal Judge Lewis J. Liman in June 2025 after Baldoni failed to file an amended complaint by the court's deadline. A trial was originally scheduled for March 2026, then pushed to May 18, 2026. On April 2, 2026, Judge Liman issued a sweeping 152-page opinion largely granting Baldoni's motion to dismiss, stripping away the bulk of Lively's 13 claims — including sexual harassment, defamation, and false light invasion of privacy — while allowing three claims (breach of contract, retaliation, and aiding and abetting retaliation) to proceed.\n\nThe parties ultimately settled before trial, issuing a joint statement acknowledging Lively's concerns 'deserved to be heard,' though terms were not disclosed. The legal battle's final chapter turned on a novel application of a California #MeToo-era statute, enacted in 2024, which shields sexual harassment and assault victims from retaliatory lawsuits as long as their underlying claims had a reasonable basis. Lively's team argued the statute entitled her to attorneys' fees, treble damages, and punitive damages stemming from Baldoni's dismissed defamation action. Lively's lead attorney called preservation of this claim a 'core issue' of the settlement structure.\n\nHowever, Judge Liman ultimately ruled that while Baldoni must pay Lively's legal fees, her request for additional damages was denied — leaving Lively with no monetary payout beyond fees. Baldoni's team publicly claimed victory. The case also generated collateral litigation, including a breach-of-contract lawsuit by former Baldoni publicist Stephanie Jones against Wayfarer Studios, and insurance coverage disputes involving at least $8 million in policies. The dispute is widely viewed as a test case for how California's emerging survivor-protection statutes apply in federal court.",
+    "word_count": 358
+  },
+  "vocabulary": [
+    {
+      "term": "retaliatory conduct",
+      "pronunciation": "/rɪˈtæliəˌtɔːri ˈkɒndʌkt/",
+      "definition_cn": "报复性行为；指一方因他方行使合法权利或提出投诉而采取的惩罚性或损害性行为，在就业及民权法中受到专门保护。",
+      "example": "The plaintiff alleged retaliatory conduct after her employer demoted her within weeks of her filing an internal harassment complaint.",
+      "audio": "week13/day4_vocab_0.mp3"
+    },
+    {
+      "term": "motion to dismiss",
+      "pronunciation": "/ˈmoʊʃən tə dɪˈsmɪs/",
+      "definition_cn": "驳回动议；被告在诉讼早期提出的程序性动议，主张原告起诉书即便陈述属实也不足以支持法律救济，要求法院驳回诉讼。",
+      "example": "Defense counsel filed a motion to dismiss on the grounds that the complaint failed to state a cognizable claim under federal law.",
+      "audio": "week13/day4_vocab_1.mp3"
+    },
+    {
+      "term": "treble damages",
+      "pronunciation": "/ˈtrɛbəl ˈdæmɪdʒɪz/",
+      "definition_cn": "三倍赔偿；法律规定的惩罚性救济措施，将实际损害赔偿额乘以三倍，通常适用于故意侵权或某些反不正当竞争行为。",
+      "example": "The statute authorizes treble damages when the defendant is found to have engaged in willful and malicious misconduct.",
+      "audio": "week13/day4_vocab_2.mp3"
+    },
+    {
+      "term": "punitive damages",
+      "pronunciation": "/ˈpjuːnɪtɪv ˈdæmɪdʒɪz/",
+      "definition_cn": "惩罚性赔偿；超出补偿性赔偿之外的额外金钱裁决，旨在惩罚被告的极端恶意或鲁莽行为并起到威慑作用。",
+      "example": "The jury awarded punitive damages after finding that the defendant had acted with conscious disregard for the plaintiff's rights.",
+      "audio": "week13/day4_vocab_3.mp3"
+    },
+    {
+      "term": "attorneys' fees",
+      "pronunciation": "/əˈtɜːrniz fiːz/",
+      "definition_cn": "律师费；诉讼中一方当事人为法律代理所支付的费用；在美国通常由各方自行承担，但特定成文法明确规定胜诉方可向败诉方追偿。",
+      "example": "The court ordered the defendant to pay the plaintiff's attorneys' fees pursuant to the fee-shifting provision of the applicable statute.",
+      "audio": "week13/day4_vocab_4.mp3"
+    },
+    {
+      "term": "false light invasion of privacy",
+      "pronunciation": "/fɔːls laɪt ɪnˈveɪʒən əv ˈprɪvəsi/",
+      "definition_cn": "虚假曝光侵犯隐私权；侵权法下的一种诉因，指被告以具有误导性或歪曲性的方式公开描绘原告，使公众对原告产生错误印象并造成实质性伤害。",
+      "example": "The actor's complaint included a claim for false light invasion of privacy after a tabloid published digitally altered photographs alongside fabricated quotes.",
+      "audio": "week13/day4_vocab_5.mp3"
+    },
+    {
+      "term": "aiding and abetting retaliation",
+      "pronunciation": "/ˈeɪdɪŋ ænd əˈbɛtɪŋ ˌrɛtæliˈeɪʃən/",
+      "definition_cn": "协助和教唆报复；指第三方明知主要行为人实施报复行为而予以实质性协助的法律责任，可使辅助参与者与主要侵权方承担连带责任。",
+      "example": "The court permitted the claim for aiding and abetting retaliation to proceed against the publicist who had allegedly coordinated the smear campaign.",
+      "audio": "week13/day4_vocab_6.mp3"
+    },
+    {
+      "term": "collateral litigation",
+      "pronunciation": "/kəˈlætərəl ˌlɪtɪˈɡeɪʃən/",
+      "definition_cn": "附带诉讼；由核心争议派生出的相关但独立的法律程序，通常涉及不同当事人或不同诉因，但与主案在事实上密切关联。",
+      "example": "The merger dispute spawned extensive collateral litigation involving former employees, insurers, and third-party vendors connected to the transaction.",
+      "audio": "week13/day4_vocab_7.mp3"
+    },
+    {
+      "term": "amended complaint",
+      "pronunciation": "/əˈmɛndɪd kəmˈpleɪnt/",
+      "definition_cn": "修正起诉书；原告在法院许可或规定期限内对原始起诉书进行修改后重新提交的诉状，通常用于补充事实陈述或修正法律主张。",
+      "example": "After the court identified pleading deficiencies, plaintiff had thirty days to file an amended complaint curing the identified defects.",
+      "audio": "week13/day4_vocab_8.mp3"
+    },
+    {
+      "term": "survivor-protection statutes",
+      "pronunciation": "/sərˈvaɪvər prəˈtɛkʃən ˈstætʃuːts/",
+      "definition_cn": "幸存者保护法规；专门立法，旨在防止性骚扰或性侵受害者因提出指控而遭受策略性诉讼的打击报复，通常赋予受害者获得律师费及额外赔偿的权利。",
+      "example": "California's survivor-protection statutes were specifically designed to deter well-resourced defendants from weaponizing defamation suits against accusers.",
+      "audio": "week13/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] filed suit against [opposing party], alleging [cause of action] and [additional claim], seeking [remedy].",
+      "example": "Lively filed suit against Baldoni and his production company, alleging sexual harassment on set and retaliatory conduct, seeking attorneys' fees, treble damages, and punitive damages.",
+      "translation_cn": "原告对被告提起诉讼，指控其实施[侵权行为]及[附加主张]，并请求法院判令[救济措施]。"
+    },
+    {
+      "pattern": "The court granted [party]'s motion to dismiss, stripping away [claims], while allowing [remaining claims] to proceed.",
+      "example": "Judge Liman granted Baldoni's motion to dismiss, stripping away the bulk of Lively's 13 claims — including defamation and false light invasion of privacy — while allowing breach of contract, retaliation, and aiding and abetting retaliation to proceed.",
+      "translation_cn": "法院裁准被告的驳回动议，撤销了[相关诉因]，但允许[剩余诉因]继续审理。"
+    },
+    {
+      "pattern": "The dispute is widely viewed as a test case for how [legal framework] applies in [jurisdictional context].",
+      "example": "The dispute is widely viewed as a test case for how California's emerging survivor-protection statutes apply in federal court.",
+      "translation_cn": "本案被广泛视为检验[相关法律框架]在[特定司法管辖语境]下适用方式的标志性案例。"
+    }
+  ],
+  "summary_cn": "本案源于2024年电影《以她之名》拍摄期间布雷克·莱弗利与贾斯汀·鲍尔多尼之间的性骚扰及报复争议。法院先后驳回双方多项主张，仅保留违约、报复及协助教唆报复三项诉因。双方最终庭前和解，但莱弗利除获偿律师费外未获其他赔偿，其基于加州幸存者保护法规主张的三倍赔偿及惩罚性赔偿请求被法院拒绝，本案成为加州新法在联邦法院适用的重要先例。",
+  "legal_analysis": "① 核心法律问题：本案的核心在于加州2024年新颁幸存者保护法规能否在联邦法院被援引以对抗针对性骚扰投诉人的报复性诉讼，以及该法规所赋予的三倍赔偿与惩罚性赔偿救济是否可在联邦程序框架内执行。\n\n② 美国法律框架分析：美国就业歧视法（包括《民权法》第七章）及各州#MeToo立法均明确禁止针对合法申诉的报复行为，并通过费用转移条款（fee-shifting）激励受害者维权。本案中，联邦法院对州法规的适用范围作出限缩解释，拒绝在联邦诉讼框架内直接叠加州法规定的额外惩罚性救济，体现了联邦与州双轨司法体系在新兴保护立法适用上的内在张力。驳回动议制度（Rule 12(b)(6)）的严格适用也使莱弗利大部分诉因在进入实质审理前即被清除。\n\n③ 对中国娱乐法律师的实践启示：在代理涉及中美两地的娱乐项目时，应高度关注目标州（尤其是加州）针对性骚扰和报复行为的特殊成文法保护，在合同中预先设计争议解决管辖条款，并评估联邦与州法院对新兴保护性法规的不同适用立场，以便为当事人提供更精准的风险预判。",
+  "cn_us_comparison": "美国法律框架下，性骚扰受害者可依据《民权法》第七章及各州专项立法（如本案涉及的加州2024年幸存者保护法规）寻求多重救济，包括补偿性赔偿、惩罚性赔偿和律师费转移；而报复行为作为独立侵权诉因受到联邦和州双重保护，受害者亦可主张\"协助教唆报复\"连带责任。\n\n在中国法律框架下，性骚扰规制主要依据《妇女权益保障法》（2022年修订版）及《民法典》第1010条，后者明确将性骚扰列为侵权行为。用人单位承担预防和处理义务，受害者可主张精神损害赔偿，但目前尚无类似美国\"三倍赔偿\"或\"费用转移\"的惩罚性制度设计。此外，中国目前缺乏专门针对报复性诉讼（SLAPP诉讼）的反制立法，而美国多州已设立反SLAPP法规（anti-SLAPP statutes），为被告提供快速驳回和费用补偿机制，两国在这一制度层面存在显著差异。",
+  "discussion_prompt": "Given that Judge Liman denied Lively's claim for treble damages and punitive damages under California's survivor-protection statute, does the federal court's restrictive interpretation of state-enacted victim-protection legislation undermine the deterrent purpose those statutes were designed to achieve — and should federal courts adopt a more expansive approach when applying such statutes in diversity or supplemental jurisdiction?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new entertainment dispute for a trade publication. In 2-3 sentences, describe the core claims, the court's ruling on a motion to dismiss, and the significance of the case as a legal precedent. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The plaintiff filed suit against the production company alleging retaliatory conduct and false light invasion of privacy, seeking punitive damages and attorneys' fees under a newly enacted survivor-protection statute. The court granted the defendant's motion to dismiss on the majority of claims, allowing only the breach of contract and aiding and abetting retaliation causes of action to proceed to trial. The case is widely viewed as a test case for how California's emerging survivor-protection statutes apply in federal court, with the court's restrictive interpretation potentially limiting the deterrent effect the legislature intended."
+  },
+  "youtube_rec": {
+    "title": "Blake Lively vs. Justin Baldoni: The Legal Strategy That Backfired | Entertainment Law Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频详细解析莱弗利诉鲍尔多尼案的诉讼策略，重点讲解驳回动议制度、加州幸存者保护法规在联邦法院的适用争议，以及三倍赔偿与惩罚性赔偿请求被驳回的法律逻辑，适合希望深入理解美国娱乐诉讼程序的观众。"
+  },
+  "extended_reading": [
+    {
+      "title": "Supreme Court Issues Unanimous Decision in Cox Communications, Inc. v. Sony Music Entertainment",
+      "url": "https://www.aipla.org/detail/news/2026/03/25/supreme-court-issues-unanimous-decision-in-cox-communications--inc.-v.-sony-music-entertainment",
+      "description_cn": "美国最高法院2026年3月就考克斯通信诉索尼音乐案作出一致裁决，推翻十亿美元陪审团裁决，认定互联网服务提供商仅在专门为侵权用途设计服务时方可承担帮助侵权责任，对数字版权保护格局影响深远。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法律与技术中心年度综述，涵盖2025至2026年度人工智能训练版权合理使用判决、《数字千年版权法》二次责任最新发展及美国版权局对AI生成内容的政策立场，是把握娱乐与科技法前沿动态的权威参考。",
+      "language": "en"
+    }
+  ],
+  "week": 13,
+  "day": 4,
+  "date": "2026-06-19",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week13/day4.mp3"
+}
