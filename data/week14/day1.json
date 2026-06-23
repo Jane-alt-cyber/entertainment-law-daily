@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "On April 15, 2026, a federal jury in the Southern District of New York returned a landmark verdict finding Live Nation Entertainment and its wholly owned subsidiary Ticketmaster LLC liable on all federal and state antitrust claims. The jury found that the companies had unlawfully monopolized primary ticketing services and amphitheaters, and had illegally tied their amphitheater bookings to concert promotion services — a classic tying arrangement condemned under Section 1 of the Sherman Act.\n\nThe case originated in May 2024, when the U.S. Department of Justice — joined by 39 state attorneys general and the District of Columbia — filed suit alleging monopolization in violation of Section 2 of the Sherman Act, as well as tying and exclusive dealing violations under Section 1. Plaintiffs alleged that Live Nation controlled approximately 78% of large amphitheaters used by artists, while Ticketmaster controlled about 86% of primary ticketing at major concert venues, establishing market dominance well beyond the threshold courts typically associate with monopoly power.\n\nA pivotal development occurred mid-trial in March 2026, when the DOJ reached a settlement with Live Nation that did not require a divestiture of Ticketmaster. That settlement was rejected as insufficient by 33 states and the District of Columbia, who pressed on with litigation independently, demonstrating the robust concurrent enforcement authority that state attorneys general hold under both federal and state antitrust statutes.\n\nAfter a roughly six-week trial featuring testimony from Live Nation CEO Michael Rapino, AEG Presents CEO Jay Marciano, and other major industry stakeholders, the jury ruled in favor of the states on every claim. On damages, the jury determined that Live Nation and Ticketmaster had overcharged fans by $1.72 per ticket — a figure Live Nation argued would translate to a total aggregate single-damages figure below $150 million given the limited scope of affected venues and ticket buyers.\n\nCritically, the verdict now sets the stage for a remedy phase, which could include a structural breakup — meaning a court-ordered divestiture — of Live Nation and Ticketmaster, a far more drastic outcome than what the DOJ's settlement required. Live Nation announced it would pursue post-trial motions and, if necessary, appeal. Legal analysts note that the verdict demonstrates how aggressively state attorneys general can pursue antitrust enforcement independent of — and well beyond — federal action, setting a significant precedent for the live entertainment and sports-ticketing industries going forward.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒp.ə.laɪˈzeɪ.ʃən/",
+      "definition_cn": "垄断行为，指单一市场主体通过非法手段排除竞争、控制市场，违反《谢尔曼法》第二条的反垄断核心罪名",
+      "example": "The plaintiffs bore the burden of proving both the possession of monopoly power and willful monopolization of the relevant market.",
+      "audio": "week14/day1_vocab_0.mp3"
+    },
+    {
+      "term": "tying arrangement",
+      "pronunciation": "/ˈtaɪ.ɪŋ əˈreɪndʒ.mənt/",
+      "definition_cn": "搭售安排，指卖方将一种产品（捆绑品）的出售条件与另一产品的购买相挂钩，受《谢尔曼法》第一条规制",
+      "example": "The court found that conditioning amphitheater bookings on the use of Ticketmaster constituted a per se illegal tying arrangement.",
+      "audio": "week14/day1_vocab_1.mp3"
+    },
+    {
+      "term": "exclusive dealing",
+      "pronunciation": "/ɪkˈskluː.sɪv ˈdiː.lɪŋ/",
+      "definition_cn": "独家交易，指合同要求一方仅与特定供应商或购买方进行交易，可能构成反竞争行为受《谢尔曼法》约束",
+      "example": "The exclusive dealing provisions in venue contracts prevented rival ticketing firms from competing for primary sales.",
+      "audio": "week14/day1_vocab_2.mp3"
+    },
+    {
+      "term": "Sherman Act",
+      "pronunciation": "/ˈʃɜːr.mən ækt/",
+      "definition_cn": "《谢尔曼反托拉斯法》，美国联邦反垄断基础性立法，第一条禁止限制竞争的合谋，第二条禁止垄断及垄断企图",
+      "example": "Section 2 of the Sherman Act prohibits any person from willfully acquiring or maintaining monopoly power through exclusionary conduct.",
+      "audio": "week14/day1_vocab_3.mp3"
+    },
+    {
+      "term": "divestiture",
+      "pronunciation": "/daɪˈves.tɪ.tʃər/",
+      "definition_cn": "剥离，指法院或监管机构命令垄断企业强制出售特定资产或子公司以恢复市场竞争的结构性救济措施",
+      "example": "The states sought a court-ordered divestiture of Ticketmaster as the only remedy capable of restoring meaningful competition.",
+      "audio": "week14/day1_vocab_4.mp3"
+    },
+    {
+      "term": "remedy phase",
+      "pronunciation": "/ˈrem.ə.di feɪz/",
+      "definition_cn": "救济阶段，指陪审团或法官认定被告责任后，法院专门审查并裁定适当救济措施（包括损害赔偿或结构性救济）的诉讼程序阶段",
+      "example": "During the remedy phase, the court will evaluate whether a structural breakup or behavioral injunctions better serve the public interest.",
+      "audio": "week14/day1_vocab_5.mp3"
+    },
+    {
+      "term": "monopoly power",
+      "pronunciation": "/məˈnɒp.ə.li ˈpaʊər/",
+      "definition_cn": "垄断势力，指在相关市场内控制价格或排除竞争对手的能力，通常以市场份额及进入壁垒为判断依据",
+      "example": "Courts generally infer monopoly power when a single firm controls over 70% of the relevant market.",
+      "audio": "week14/day1_vocab_6.mp3"
+    },
+    {
+      "term": "aggregate single-damages",
+      "pronunciation": "/ˈæɡ.rɪ.ɡət ˈsɪŋ.ɡəl ˈdæm.ɪdʒ.ɪz/",
+      "definition_cn": "单倍总损害赔偿，指在反垄断诉讼中陪审团裁定的基础损害金额，经法定三倍损害赔偿规则适用前的原始计算基数",
+      "example": "Live Nation argued that the aggregate single-damages figure would remain below $150 million because only a subset of venues and purchasers were affected.",
+      "audio": "week14/day1_vocab_7.mp3"
+    },
+    {
+      "term": "concurrent enforcement authority",
+      "pronunciation": "/kənˈkɜːr.ənt ɪnˈfɔːrs.mənt ɔːˈθɒr.ɪ.ti/",
+      "definition_cn": "并行执法权，指州检察长与联邦政府就同一违法行为各自独立提起诉讼并执行联邦或州反垄断法的权力",
+      "example": "The states' ability to reject the federal settlement and proceed independently illustrates the breadth of their concurrent enforcement authority under antitrust law.",
+      "audio": "week14/day1_vocab_8.mp3"
+    },
+    {
+      "term": "post-trial motions",
+      "pronunciation": "/ˌpoʊstˈtraɪ.əl ˈmoʊ.ʃənz/",
+      "definition_cn": "审后动议，指陪审团作出裁决后被告向法院提出的正式请求，包括请求撤销裁决（JNOV）或申请重新审判等程序救济",
+      "example": "Live Nation's counsel immediately signaled their intention to file post-trial motions challenging the sufficiency of the evidence supporting the jury's verdict.",
+      "audio": "week14/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff(s)] alleged [unlawful conduct] in violation of [specific statutory provision], as well as [additional claim] under [separate provision].",
+      "example": "The DOJ and state attorneys general alleged monopolization in violation of Section 2 of the Sherman Act, as well as tying and exclusive dealing violations under Section 1.",
+      "translation_cn": "原告指控被告的垄断行为违反《谢尔曼法》第二条，并同时指控其搭售及独家交易行为违反第一条。"
+    },
+    {
+      "pattern": "The verdict sets the stage for a [subsequent proceeding], which could include [structural or monetary remedy] — a far more drastic outcome than [prior settlement or alternative].",
+      "example": "The verdict now sets the stage for a remedy phase, which could include a structural breakup of Live Nation and Ticketmaster — a far more drastic outcome than what the DOJ's settlement required.",
+      "translation_cn": "该裁决为后续救济程序奠定基础，可能包括对Live Nation和Ticketmaster的结构性拆分——这比司法部和解协议所要求的结果严厉得多。"
+    },
+    {
+      "pattern": "[The verdict / decision] demonstrates how aggressively [enforcement body] can pursue [legal action] independent of — and beyond — [federal / higher authority] action.",
+      "example": "The verdict demonstrates how aggressively state attorneys general can pursue antitrust enforcement independent of — and beyond — federal action, setting a significant precedent for the industry.",
+      "translation_cn": "该裁决表明，州检察长可以在完全独立于联邦行动、甚至超越联邦行动的情况下，积极推进反垄断执法，为行业树立了重要先例。"
+    }
+  ],
+  "summary_cn": "2026年4月，纽约南区联邦陪审团裁定Live Nation及Ticketmaster在所有联邦和州反垄断指控中承担责任，认定其非法垄断大型演出场馆及票务市场，并实施违法搭售。司法部此前达成的不要求剥离的和解协议遭33个州拒绝，各州独立追诉并全面胜诉。本案进入救济阶段，法院可能命令强制剥离Ticketmaster，为州级反垄断执法树立重大先例。",
+  "legal_analysis": "① 核心法律问题：本案核心在于Live Nation是否通过控制演出场馆和票务系统，实施《谢尔曼法》第二条所禁止的垄断行为，以及其场馆预订与票务服务的捆绑是否构成第一条下的违法搭售与独家交易。\n\n② 美国法律框架分析：《谢尔曼法》第二条要求原告证明被告同时具备垄断势力（market power）及通过排他性行为维持或获取该势力的主观意图。本案中，Ticketmaster86%的市场份额远超司法实践中70%的推定垄断门槛。搭售分析依据\"人均违法\"（per se）标准或合理原则（rule of reason）进行，而独家交易则须评估其对竞争的实质性封锁效果。救济阶段的结构性剥离是美国反垄断执法中最严厉的司法救济，上次大规模适用可追溯至AT&T拆分案。\n\n③ 对中国娱乐法律师的实践启示：本案提示，掌握娱乐产业链垂直整合业务的中国企业（如同时涉足演出主办、场馆运营和票务销售的企业）在进入美国市场时，须事先评估《谢尔曼法》合规风险，并重视州级反垄断执法的独立性与不可预测性，避免将联邦层面的和解视为全面豁免。",
+  "cn_us_comparison": "美国《谢尔曼法》与中国《反垄断法》均禁止滥用市场支配地位及限制竞争协议，但两者在执法主体和救济手段上存在显著差异。美国实行联邦司法部、联邦贸易委员会及各州检察长的多元并行执法体制，本案中33个州独立于联邦提起诉讼并胜诉，充分体现这一特色；而中国《反垄断法》下，国家市场监督管理总局（国家市监总局）为主要执法机构，尚未形成省级类似并行执法机制。在救济手段上，美国法院可判令结构性剥离（强制出售资产），中国《反垄断法》第五十八条亦规定可采取\"分立\"等结构性措施，但实践中极为罕见。此外，美国《克莱顿法》允许私人提起三倍损害赔偿诉讼，中国私人反垄断诉讼虽日益增多，但惩罚性赔偿倍数及配套制度尚不成熟，整体威慑效果相对有限。",
+  "discussion_prompt": "Given that 33 state attorneys general were able to reject a federal DOJ settlement and independently secure a verdict potentially requiring the structural breakup of Live Nation and Ticketmaster, should federal antitrust settlements be binding on state enforcement actions — and what implications does this jurisdictional fragmentation have for multinational entertainment companies seeking regulatory certainty in the U.S. market?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst writing a brief memo. In 2-3 sentences, describe a hypothetical antitrust scenario in the entertainment or technology sector, identifying the alleged violation, the statutory basis, and the remedy being sought.",
+    "model_answer": "The plaintiffs alleged that StreamDome Inc. had achieved monopoly power over premium sports broadcasting rights in violation of Section 2 of the Sherman Act, as well as exclusive dealing violations under Section 1, by contractually prohibiting arena operators from licensing feeds to rival platforms. The complaint alleged that StreamDome controlled approximately 80% of live premium sports broadcasts, a market share far exceeding the threshold courts typically associate with monopoly power. The states pressed for a remedy phase in which the court could order a divestiture of StreamDome's venue-licensing subsidiary — a far more drastic outcome than the behavioral injunctions the federal agency had initially proposed."
+  },
+  "youtube_rec": {
+    "title": "Live Nation & Ticketmaster Antitrust Verdict Explained: What the Sherman Act Means for Concert Fans",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频系统解析《谢尔曼法》第一、二条的核心条款，结合Live Nation案陪审团裁决，深入讲解垄断势力认定标准、搭售违法性分析及法院可能采取的结构性剥离救济，适合希望快速掌握美国反垄断诉讼框架的法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "'It Ends With Us' Settlement Postmortem: Blake Lively Made a Bold Wager on a Legal Theory and Lost",
+      "url": "https://www.hollywoodreporter.com/business/business-news/it-ends-with-us-settlement-blake-lively-1236622416/",
+      "description_cn": "分析Blake Lively如何依据加州性骚扰受害者保护法寻求赔偿，却因联邦法院认定该州法不支持补偿性及惩罚性损害赔偿而败诉，最终仅余律师费索赔可能。",
+      "language": "en"
+    },
+    {
+      "title": "The Case For AI Authorship In Copyright Law",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108423",
+      "description_cn": "新加坡管理大学学者探讨生成式AI自主创作作品能否获得版权保护，在现行\"人类作者\"要件框架下提出新的学理分析路径，发表于《法律、创新与技术》2026年春季号。",
+      "language": "en"
+    }
+  ],
+  "week": 14,
+  "day": 1,
+  "date": "2026-06-23",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week14/day1.mp3"
+}
