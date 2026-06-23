@@ -575,7 +575,16 @@
       "theme_cn": "娱乐法最新动态",
       "file": "week14/day1.json",
       "audio": "week14/day1.mp3"
+    },
+    {
+      "week": 14,
+      "day": 2,
+      "date": "2026-06-24",
+      "theme_en": "Entertainment Law Current Events",
+      "theme_cn": "娱乐法最新动态",
+      "file": "week14/day2.json",
+      "audio": "week14/day2.mp3"
     }
   ],
-  "last_updated": "2026-06-23"
+  "last_updated": "2026-06-24"
 }
