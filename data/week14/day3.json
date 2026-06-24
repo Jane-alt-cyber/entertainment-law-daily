@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "On April 15, 2026, a federal district court jury in the Southern District of New York found Live Nation Entertainment and its subsidiary Ticketmaster liable on every antitrust count submitted, concluding that the companies had illegally monopolized the live music industry in violation of federal and multiple state antitrust statutes. The lawsuit, originally filed in May 2024 by the U.S. Department of Justice and nearly 40 plaintiff states, alleged that Live Nation had seized monopoly control over concert promotion, artist management, venue operations, and primary ticketing.\n\nAfter a weeks-long trial featuring testimony from Live Nation CEO Michael Rapino, AEG Presents CEO Jay Marciano, and Drake's manager Adel Nur, jurors issued affirmative findings on all 13 core federal antitrust liability issues and on 34 specific questions of harm to competition across each of the 34 state plaintiffs. The jury's specific findings included: Ticketmaster's monopolization of the market for primary ticketing services to major concert venues; Live Nation's monopolization of the market for large amphitheater use by artists; Live Nation's illegal tying of artist promotion services to amphitheater use; and Live Nation \"controlled, dictated, or encouraged\" Ticketmaster's conduct. The jury further determined that Ticketmaster overcharged fans by $1.72 per ticket at major concert venues.\n\nA complicating factor arose from the DOJ's surprise mid-trial settlement with Live Nation in March 2026 — a deal that did not require a breakup of the two companies and was limited to targeted behavioral and structural commitments. More than 30 states rejected that settlement as insufficient and continued trial proceedings. Following the verdict, the states filed a separate brief formally requesting that the court impose structural remedies, including a forced divestiture requiring Live Nation to sell Ticketmaster, sell off large amphitheaters, and unwind exclusive arrangements.\n\nU.S. District Judge Arun Subramanian has ordered the parties to schedule a remedies phase to determine total damages and other relief. The unprecedented situation — where a DOJ settlement under Tunney Act review directly conflicts with a broader state-court jury verdict — presents novel legal questions with no clear precedent. Live Nation has stated it will appeal unfavorable rulings. The case carries major implications for ticket pricing and venue competition across the entire live entertainment ecosystem.",
+    "word_count": 327
+  },
+  "vocabulary": [
+    {
+      "term": "antitrust statutes",
+      "pronunciation": "/ˈæntitrʌst ˈstætʃuːts/",
+      "definition_cn": "反垄断法规；美国联邦及州层面禁止垄断、限制竞争行为的成文法，包括《谢尔曼法》《克莱顿法》等核心法典。",
+      "example": "The plaintiff alleged that the defendant's exclusive dealing arrangements violated both federal and state antitrust statutes.",
+      "audio": "week14/day3_vocab_0.mp3"
+    },
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒpələˈzeɪʃən/",
+      "definition_cn": "垄断化行为；指经营者通过非法手段获取或维持市场支配地位，构成《谢尔曼法》第二条所禁止的垄断罪。",
+      "example": "The jury found that the company's predatory pricing strategy constituted unlawful monopolization of the regional ticketing market.",
+      "audio": "week14/day3_vocab_1.mp3"
+    },
+    {
+      "term": "primary ticketing",
+      "pronunciation": "/ˈpraɪməri ˈtɪkɪtɪŋ/",
+      "definition_cn": "一级票务；指由场馆或演出主办方授权的首次票务销售环节，区别于二级市场转售，是反垄断审查的关键相关市场界定范畴。",
+      "example": "The court defined the relevant market as primary ticketing services to major concert venues, not the broader secondary resale market.",
+      "audio": "week14/day3_vocab_2.mp3"
+    },
+    {
+      "term": "illegal tying",
+      "pronunciation": "/ɪˈliːɡəl ˈtaɪɪŋ/",
+      "definition_cn": "非法捆绑销售；指以购买某一产品或服务为条件强制要求购买另一产品，违反《克莱顿法》第三条及《谢尔曼法》相关规定。",
+      "example": "The plaintiffs argued that requiring artists to use the promoter's venues as a condition of booking constituted illegal tying under federal antitrust law.",
+      "audio": "week14/day3_vocab_3.mp3"
+    },
+    {
+      "term": "structural remedies",
+      "pronunciation": "/ˈstrʌktʃərəl ˈremədiːz/",
+      "definition_cn": "结构性救济措施；指法院在反垄断案件中命令被告分拆、剥离资产或解除合并，以从根本上恢复市场竞争结构的司法救济手段。",
+      "example": "The states' brief argued that behavioral commitments were insufficient and that only structural remedies, including divestiture, could restore competition.",
+      "audio": "week14/day3_vocab_4.mp3"
+    },
+    {
+      "term": "divestiture",
+      "pronunciation": "/daɪˈvestɪtʃər/",
+      "definition_cn": "强制剥离；反垄断救济中要求垄断企业出售部分资产、子公司或业务单元以恢复竞争秩序的法律命令，是结构性救济的核心手段。",
+      "example": "The forced divestiture of the subsidiary was ordered after the court found that less intrusive remedies had repeatedly failed to restore market competition.",
+      "audio": "week14/day3_vocab_5.mp3"
+    },
+    {
+      "term": "Tunney Act",
+      "pronunciation": "/ˈtʌni ækt/",
+      "definition_cn": "《坦尼法》；美国1974年颁布的联邦法律，要求DOJ与被告达成的反垄断和解协议须经联邦法院公众利益审查方可生效，以防止秘密交易损害公共竞争秩序。",
+      "example": "Under Tunney Act review, the district court must independently assess whether the proposed consent decree serves the public interest before entering final judgment.",
+      "audio": "week14/day3_vocab_6.mp3"
+    },
+    {
+      "term": "remedies phase",
+      "pronunciation": "/ˈremədiːz feɪz/",
+      "definition_cn": "救济阶段；反垄断诉讼中在责任认定后单独进行的程序阶段，法院在此阶段裁定赔偿金额、禁令措施及其他法律救济的具体内容。",
+      "example": "Following the liability verdict, Judge Subramanian ordered the parties to submit briefing schedules for the upcoming remedies phase.",
+      "audio": "week14/day3_vocab_7.mp3"
+    },
+    {
+      "term": "exclusive arrangements",
+      "pronunciation": "/ɪkˈskluːsɪv əˈreɪndʒmənts/",
+      "definition_cn": "排他性安排；指一方要求另一方不得与竞争者交易的合同或商业协议，在反垄断法框架下若具有显著排他效果则可能违法。",
+      "example": "The states argued that Live Nation's exclusive arrangements with major venues foreclosed rivals from accessing critical touring infrastructure.",
+      "audio": "week14/day3_vocab_8.mp3"
+    },
+    {
+      "term": "antitrust liability",
+      "pronunciation": "/ˈæntitrʌst ˌlaɪəˈbɪlɪti/",
+      "definition_cn": "反垄断责任；指经法院或陪审团认定被告违反反垄断法所承担的法律责任，可导致三倍损害赔偿、禁令救济及强制剥离等后果。",
+      "example": "The jury's affirmative findings on all 13 core federal antitrust liability issues exposed the defendants to potentially massive treble damages.",
+      "audio": "week14/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The jury found that [party] had illegally [conduct], in violation of [specific statute or legal standard].",
+      "example": "The jury found that Live Nation had illegally tied artist promotion services to amphitheater use, in violation of federal antitrust statutes.",
+      "translation_cn": "陪审团认定Live Nation将艺人宣传服务与剧场使用进行了非法捆绑，违反了联邦反垄断法规。"
+    },
+    {
+      "pattern": "Following the verdict, [party] filed a brief formally requesting that the court impose [specific remedy], including [enumerated measures].",
+      "example": "Following the verdict, the states filed a brief formally requesting that the court impose structural remedies, including a forced divestiture requiring Live Nation to sell Ticketmaster.",
+      "translation_cn": "裁决作出后，各州提交意见书，正式请求法院施加结构性救济，包括强制Live Nation剥离Ticketmaster的强制命令。"
+    },
+    {
+      "pattern": "The unprecedented situation — where [legal event A] directly conflicts with [legal event B] — presents novel legal questions with no clear precedent.",
+      "example": "The unprecedented situation — where a DOJ settlement under Tunney Act review directly conflicts with a broader state-court jury verdict — presents novel legal questions with no clear precedent.",
+      "translation_cn": "这一史无前例的局面——DOJ依《坦尼法》审查中达成的和解与更广泛的州陪审团裁决直接冲突——提出了无先例可循的新型法律问题。"
+    }
+  ],
+  "summary_cn": "2026年4月，纽约南区联邦陪审团裁定Live Nation及Ticketmaster在全部反垄断指控上均负有责任，认定其非法垄断演出推广、票务及场馆市场，并对粉丝多收费1.72美元/张。DOJ此前的和解协议遭30余州拒绝，各州继续推进庭审并请求法院命令强制剥离Ticketmaster。本案在《坦尼法》审查框架下产生了联邦和解与州陪审团裁决冲突的前所未有的法律局面。",
+  "legal_analysis": "① 核心法律问题：本案核心在于《谢尔曼法》第二条下的垄断化认定，以及联邦DOJ和解协议与州级陪审团裁决之间的效力冲突。陪审团对13项联邦反垄断责任议题全部作出肯定认定，尤其是\"非法捆绑\"与\"排他性安排\"两项认定，直接指向Live Nation的垂直一体化商业模式。\n\n② 美国法律框架分析：《谢尔曼法》第二条禁止垄断化行为，第一条禁止限制贸易的合谋；《克莱顿法》第三条针对捆绑销售；《坦尼法》则要求联邦法院对DOJ和解协议进行公共利益独立审查。本案中，DOJ和解未能包括分拆要求，而30余州基于各自州反垄断法继续推进并获胜，凸显了联邦-州双轨制反垄断执法体系的制度张力。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐公司在与Live Nation等巨头进行合作谈判时，应警惕排他性安排的反垄断法律风险；对于已在美上市或开展美国演出业务的中国企业，需评估其票务与场馆垂直整合模式是否触发美国反垄断审查。此外，本案强制剥离请求的走向将深刻影响全球票务市场格局，值得持续追踪。",
+  "cn_us_comparison": "美国反垄断执法采联邦与州双轨并行机制：联邦层面依据《谢尔曼法》《克莱顿法》由DOJ反垄断局或FTC主导，各州可依据本州反垄断法独立提起诉讼，本案30余州拒绝DOJ和解并坚持庭审即为典型体现。中国反垄断执法则相对集权，依据2022年修订的《反垄断法》，由国家市场监督管理总局统一负责调查与处理，不存在类似州级独立执法机制。在救济方式上，美国法院可判令强制剥离等结构性救济，中国《反垄断法》第五十七条亦规定可责令停止违法行为、没收违法所得并处罚款，但强制分拆在实践中极为罕见。此外，美国《坦尼法》要求司法机关对行政和解协议进行独立审查，体现司法对行政权的制衡；中国行政执法和解机制尚不具备同等程度的独立司法审查程序。",
+  "discussion_prompt": "Given that more than 30 states rejected the DOJ's mid-trial settlement and proceeded to obtain a sweeping jury verdict on their own, should U.S. antitrust law be reformed to require mandatory coordination between federal and state enforcement authorities before either party may enter into a consent decree — and what risks does the current dual-track system pose for defendants seeking settlement finality?",
+  "writing_exercise": {
+    "prompt": "Imagine you are counsel for a state plaintiff in a major antitrust case. Write 2-3 sentences arguing why the court should impose structural remedies rather than accept a federal consent decree that falls short of divestiture.",
+    "model_answer": "The jury found that the defendants had illegally tied core promotional services to venue access, in violation of federal antitrust statutes, causing documented harm to competition across every plaintiff state. Following the verdict, the plaintiff states filed a brief formally requesting that the court impose structural remedies, including a forced divestiture of the primary ticketing subsidiary, on the ground that behavioral commitments have historically failed to restore meaningful market competition. The unprecedented situation — where a DOJ settlement under Tunney Act review directly conflicts with a broader state-court jury verdict — underscores precisely why only structural relief can provide a durable remedy."
+  },
+  "youtube_rec": {
+    "title": "Live Nation Antitrust Trial Explained: Monopolization, Tying Claims & the Divestiture Fight",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解Live Nation反垄断陪审团裁决的核心法律问题，涵盖《谢尔曼法》垄断化认定标准、非法捆绑销售的构成要件、强制剥离救济的司法操作，以及《坦尼法》框架下联邦-州和解冲突的制度背景，适合希望快速掌握美国反垄断诉讼程序的法律学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "'It Ends With Us' Settlement Postmortem: Blake Lively Made a Bold Wager on a Legal Theory and Lost",
+      "url": "https://www.hollywoodreporter.com/business/business-news/it-ends-with-us-settlement-blake-lively-1236622416/",
+      "description_cn": "分析Blake Lively依据加州性骚扰反报复法寻求损害赔偿的法律策略如何被联邦法院驳回，最终丧失对Justin Baldoni索赔的最后机会。",
+      "language": "en"
+    },
+    {
+      "title": "Fair Use and the Origin of AI Training",
+      "url": "https://ssrn.com/abstract=5253011",
+      "description_cn": "爱德华·李教授发表于《休斯顿法律评论》的学术论文，考察AI模型训练使用版权作品是否构成合理使用，并建议法院将AI训练的大学起源历史纳入合理使用四要素分析框架。",
+      "language": "en"
+    }
+  ],
+  "week": 14,
+  "day": 3,
+  "date": "2026-06-25",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week14/day3.mp3"
+}
