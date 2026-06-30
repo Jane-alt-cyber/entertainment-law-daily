@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "The Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "On April 15, 2026, a federal jury in the Southern District of New York returned a verdict against Live Nation Entertainment, Inc. and its wholly owned subsidiary Ticketmaster LLC, finding that both companies unlawfully monopolized primary concert ticketing services and amphitheaters, and illegally tied their amphitheater access to concert promotion services. The case was originally filed in May 2024 by the U.S. Department of Justice alongside 39 state attorneys general, alleging monopolization under Section 2 of the Sherman Act and tying and exclusive dealing under Section 1.\n\nPlaintiffs alleged that Live Nation controls over 78% of large amphitheaters and that Ticketmaster commands approximately 86% of primary ticketing at major concert venues. A dramatic mid-trial development occurred in March 2026 when the DOJ reached a surprise settlement with Live Nation without requiring a divestiture of Ticketmaster — a settlement that did not require breaking up the company but did compel Live Nation to open its venues to rival ticketing services and end exclusive booking agreements with 13 amphitheaters.\n\nHowever, 33 states and the District of Columbia rejected the DOJ settlement, retained outside counsel, and pressed forward to trial on their own. After approximately five weeks of testimony and four days of deliberations, the jury found for the plaintiff states on all federal and state antitrust claims. The jury specifically found that Ticketmaster overcharged concert fans by $1.72 per ticket in 22 states due to its unlawful monopolization of primary ticketing markets. The jury also found violations of state antitrust and unfair competition statutes in nine states including California, New York, Florida, Illinois, and Tennessee.\n\nLive Nation responded by noting the damages award is limited to tickets sold at 257 venues representing approximately 20% of total tickets, estimating the aggregate single-damages figure would be below $150 million. However, under the four-year statute of limitations and federal treble damages rules, the ultimate liability could grow substantially. Judge Arun Subramanian will now hold a second remedies trial to determine whether structural relief — including a potential breakup of Live Nation and Ticketmaster — is warranted. Live Nation has stated it will appeal any unfavorable rulings. The verdict is widely regarded as one of the most consequential antitrust rulings against a dominant player in the live entertainment industry in decades.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒpəlaɪˈzeɪʃən/",
+      "definition_cn": "垄断行为，指单一市场主体通过非法手段取得或维持对特定市场的支配地位，违反《谢尔曼法》第二条",
+      "example": "The government's complaint centered on monopolization of primary ticketing markets through exclusionary conduct.",
+      "audio": "week15/day2_vocab_0.mp3"
+    },
+    {
+      "term": "exclusive dealing",
+      "pronunciation": "/ɪkˈskluːsɪv ˈdiːlɪŋ/",
+      "definition_cn": "排他性交易安排，指合同条款要求一方只能与特定当事人进行业务往来，可能构成反竞争行为",
+      "example": "The plaintiffs argued that exclusive dealing arrangements prevented rival promoters from accessing key venues.",
+      "audio": "week15/day2_vocab_1.mp3"
+    },
+    {
+      "term": "divestiture",
+      "pronunciation": "/daɪˈvestɪtʃər/",
+      "definition_cn": "剥离，指作为反垄断救济措施强制企业出售或分离其部分资产或子公司",
+      "example": "The states sought a divestiture of Ticketmaster as the only adequate structural remedy for the proven antitrust violations.",
+      "audio": "week15/day2_vocab_2.mp3"
+    },
+    {
+      "term": "treble damages",
+      "pronunciation": "/ˈtrebəl ˈdæmɪdʒɪz/",
+      "definition_cn": "三倍赔偿，反垄断诉讼中法定救济手段，允许法院将实际损害赔偿额扩大至三倍以惩罚和威慑违法行为",
+      "example": "Under federal antitrust law, prevailing plaintiffs are entitled to treble damages, which could multiply the jury's award significantly.",
+      "audio": "week15/day2_vocab_3.mp3"
+    },
+    {
+      "term": "statute of limitations",
+      "pronunciation": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "definition_cn": "诉讼时效，法律规定的提起诉讼的最长期限；联邦反垄断案件通常为四年",
+      "example": "The court applied the four-year statute of limitations to determine which ticket transactions fell within the compensable damages period.",
+      "audio": "week15/day2_vocab_4.mp3"
+    },
+    {
+      "term": "remedies trial",
+      "pronunciation": "/ˈremədiːz ˈtraɪəl/",
+      "definition_cn": "救济审理，在责任认定后独立进行的庭审程序，专门裁定对胜诉方给予何种法律救济或结构性措施",
+      "example": "Following the liability verdict, Judge Subramanian scheduled a remedies trial to consider whether structural separation was warranted.",
+      "audio": "week15/day2_vocab_5.mp3"
+    },
+    {
+      "term": "structural relief",
+      "pronunciation": "/ˈstrʌktʃərəl rɪˈliːf/",
+      "definition_cn": "结构性救济，反垄断案件中法院强制要求企业重组或分拆以恢复竞争秩序的救济方式",
+      "example": "Structural relief, including a court-ordered breakup, remains the most drastic remedy available in monopolization cases.",
+      "audio": "week15/day2_vocab_6.mp3"
+    },
+    {
+      "term": "tying",
+      "pronunciation": "/ˈtaɪɪŋ/",
+      "definition_cn": "搭售行为，指卖方以购买一种产品或服务为条件强制买方购买另一种产品或服务，可能违反《谢尔曼法》第一条",
+      "example": "The jury upheld the tying claim, finding that Live Nation conditioned amphitheater access on the use of Ticketmaster's primary ticketing services.",
+      "audio": "week15/day2_vocab_7.mp3"
+    },
+    {
+      "term": "unfair competition statutes",
+      "pronunciation": "/ʌnˈfeər ˌkɒmpɪˈtɪʃən ˈstætʃuːts/",
+      "definition_cn": "不正当竞争法规，各州层面补充联邦反垄断法的独立立法，禁止各类欺骗性或妨碍公平竞争的商业行为",
+      "example": "California's unfair competition statutes gave the state attorney general an independent basis to pursue claims beyond federal antitrust law.",
+      "audio": "week15/day2_vocab_8.mp3"
+    },
+    {
+      "term": "attorneys general",
+      "pronunciation": "/əˈtɜːrniz ˈdʒenərəl/",
+      "definition_cn": "各州总检察长，美国各州的最高法律官员，有权代表本州公众提起反垄断及消费者保护诉讼",
+      "example": "Thirty-nine attorneys general joined the original federal complaint, and thirty-three ultimately proceeded to trial independently after the DOJ settled.",
+      "audio": "week15/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff(s)] alleged [unlawful conduct] under [statutory provision], seeking [specific remedy].",
+      "example": "Plaintiffs alleged monopolization under Section 2 of the Sherman Act, seeking both treble damages and structural relief including a divestiture of Ticketmaster.",
+      "translation_cn": "原告依据《谢尔曼法》第二条指控垄断行为，请求三倍赔偿及剥离Ticketmaster等结构性救济。"
+    },
+    {
+      "pattern": "The jury found for [prevailing party] on all [claim category] claims, specifically determining that [factual finding].",
+      "example": "The jury found for the plaintiff states on all federal and state antitrust claims, specifically determining that Ticketmaster overcharged concert fans by $1.72 per ticket in 22 states.",
+      "translation_cn": "陪审团就所有联邦及州反垄断主张裁定原告州胜诉，具体认定Ticketmaster在22个州向演唱会观众多收了每张1.72美元的费用。"
+    },
+    {
+      "pattern": "Under [legal rule], the ultimate [financial exposure / liability] could [outcome], notwithstanding [limiting factor].",
+      "example": "Under the four-year statute of limitations and federal treble damages rules, the ultimate liability could grow substantially, notwithstanding Live Nation's estimate that the single-damages figure would remain below $150 million.",
+      "translation_cn": "依据四年诉讼时效及联邦三倍赔偿规则，尽管Live Nation估计单一损害赔偿低于1.5亿美元，最终责任金额仍可能大幅增加。"
+    }
+  ],
+  "summary_cn": "2026年4月15日，纽约南区联邦陪审团裁定Live Nation及Ticketmaster违反《谢尔曼法》，构成垄断及非法搭售。尽管司法部此前已与Live Nation达成和解，33个州及哥伦比亚特区拒绝接受该和解协议并单独推进庭审，最终在所有联邦及州反垄断指控上全部胜诉。法院随后将举行救济审理，评估是否需要对Live Nation实施结构性拆分。",
+  "legal_analysis": "① 核心法律问题：本案核心在于Live Nation/Ticketmaster是否通过排他性交易、搭售及垄断性定价违反《谢尔曼法》第一条和第二条，以及各州独立于联邦政府提起反垄断诉讼的程序权利。\n\n② 美国法律框架分析：《谢尔曼法》第二条禁止垄断化行为，要求证明被告拥有垄断力量并存在排他性行为。第一条则规制搭售与排他性交易等限制竞争协议。联邦三倍赔偿机制（15 U.S.C. § 15）具有显著威慑效果。本案的突出特点是各州检察长在联邦政府和解后独立行使诉权，体现了美国\"并行执法\"体制的独特优势，州法院及州不正当竞争法规为原告提供了额外的法律依据。\n\n③ 对中国娱乐法律师的实践启示：中国大型演出平台（如大麦网、猫眼演出）已呈现高度集中态势，国家市场监督管理总局在《反垄断法》框架下对此类平台具有监管权。本案提示中国律师关注以下问题：一是演出票务平台的市场支配地位认定标准；二是平台强制搭售问题的合规风险；三是政府与私人原告并行执法模式对中国执法实践的借鉴意义。",
+  "cn_us_comparison": "美国依据《谢尔曼法》构建反垄断框架，允许联邦政府、各州检察长及私人原告并行提起诉讼，且胜诉方可获三倍赔偿，执法力度显著。中国《反垄断法》（2022年修订）同样禁止滥用市场支配地位及排除、限制竞争的垄断协议，但执法主体主要为国家市场监督管理总局，私人诉讼虽有法律依据（第60条），但实践中较为少见。在演出票务领域，中国《营业性演出管理条例》对票务经营有专项规定，但尚无类似本案的结构性拆分先例。此外，美国各州均可独立适用本州不正当竞争法规，而中国执法权高度集中于中央及省级监管机构，地方执法自主性相对有限。两国制度差异的核心在于私人执法激励机制与政府主导执法模式之间的结构性分歧。",
+  "discussion_prompt": "Given that the DOJ settled with Live Nation without requiring a divestiture of Ticketmaster, but 33 states proceeded independently to a full jury verdict, what does this case reveal about the tension between federal regulatory pragmatism and state-level antitrust enforcement, and should federal law preempt state antitrust remedies when the federal government has already negotiated a settlement?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing the Live Nation verdict for a client. Write 2-3 sentences explaining: (1) what the jury found; (2) what legal provisions were violated; and (3) what remedies remain to be determined. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The federal jury found that Live Nation and Ticketmaster engaged in unlawful monopolization under Section 2 of the Sherman Act, as well as illegal tying of amphitheater access to concert promotion services under Section 1. The jury awarded compensatory damages subject to treble damages multipliers under federal antitrust law, with the final figure potentially well exceeding the single-damages estimate of $150 million. Judge Subramanian will now preside over a separate remedies trial to assess whether structural relief, including a court-ordered divestiture of Ticketmaster, is necessary to restore competitive conditions in the primary ticketing market."
+  },
+  "youtube_rec": {
+    "title": "Live Nation Antitrust Trial Explained: Sherman Act, Treble Damages & What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频以深入浅出的方式解析Live Nation反垄断陪审团裁决，涵盖《谢尔曼法》第一条与第二条的适用、三倍赔偿机制的运作原理，以及后续救济审理程序，适合有一定法律基础的中高级英语学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Blake Lively Seeks $8 Million in Legal Fees from Justin Baldoni as Case Winds Down",
+      "url": "https://www.hollywoodreporter.com/business/business-news/blake-lively-legal-fees-justin-baldoni-1236634001/",
+      "description_cn": "Blake Lively依据加州反报复性诽谤法申请向Justin Baldoni追讨逾800万美元律师费，涉及《It Ends With Us》片场性骚扰指控及其后的4亿美元反诉被驳回一事。",
+      "language": "en"
+    },
+    {
+      "title": "The Case For AI Authorship In Copyright Law",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108423",
+      "description_cn": "该学术论文收录于《法律、创新与技术》2026年春季刊，探讨在缺乏人类实质性创作参与的情况下，AI自主生成作品能否获得版权保护的法律理论基础。",
+      "language": "en"
+    }
+  ],
+  "week": 15,
+  "day": 2,
+  "date": "2026-07-01",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week15/day2.mp3"
+}
