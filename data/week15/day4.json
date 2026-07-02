@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "The Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "In a landmark antitrust verdict delivered on April 15, 2026, a federal jury in the Southern District of New York found Live Nation Entertainment and its wholly-owned subsidiary Ticketmaster liable on all monopolization counts, ruling that the concert giant had illegally maintained monopoly power over the live entertainment industry in violation of federal antitrust law. The case originated from a sweeping lawsuit first filed in May 2024 by the U.S. Department of Justice and a coalition of nearly 40 state attorneys general, who alleged that Live Nation used its dominant positions in concert promotion, venue ownership, and ticketing to stifle competition, inflate prices, and harm fans, artists, and independent venues alike.\n\nThe jury concluded, after weeks of trial testimony, that Live Nation functions as a monopoly that squashed competitors and drove up ticket costs. The core of the states' legal argument centered on two major claims: first, that Live Nation required artists performing at its amphitheaters to exclusively use Live Nation as their concert promoter; and second, that Live Nation strong-armed concert venues into adopting Ticketmaster as their ticketing platform, threatening to withhold access to Live Nation's lucrative concert tours if they refused. On the question of damages, the jury determined that Ticketmaster had overcharged consumers by $1.72 per ticket as a direct result of its anticompetitive behavior.\n\nNotably, the DOJ had separately settled with Live Nation prior to the verdict, agreeing to concessions that included ending booking agreements with 13 amphitheaters and opening remaining venues to competing promoters — a deal the state coalition deemed insufficient. Plaintiffs and advocates called for the court to order the divestiture of Ticketmaster from Live Nation, cap Live Nation's share of artist tour promotion at 50%, and remit damages to harmed independent venues, promoters, and fans.\n\nLive Nation vowed to appeal, stating that the jury's verdict is 'not the last word' and that pending motions could overturn both the liability and damages rulings. The judge will next determine remedies, which could include a historic corporate breakup. Legal analysts describe the verdict as a potential 'earthquake' in the live entertainment industry, validating years of complaints that Live Nation's vertical integration across venues, promotion, and ticketing constituted an illegal monopoly under the Sherman Antitrust Act.",
+    "word_count": 332
+  },
+  "vocabulary": [
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒpəlaɪˈzeɪʃən/",
+      "definition_cn": "垄断化行为，指企业通过非法手段取得或维持市场垄断地位，违反《谢尔曼反垄断法》第二条的行为。",
+      "example": "The jury found the defendant liable on all monopolization counts after reviewing extensive evidence of exclusionary conduct.",
+      "audio": "week15/day4_vocab_0.mp3"
+    },
+    {
+      "term": "monopoly power",
+      "pronunciation": "/məˈnɒpəli ˌpaʊər/",
+      "definition_cn": "垄断力量，指企业在相关市场中控制价格或排除竞争对手的能力，是反垄断法分析的核心要素。",
+      "example": "Plaintiffs must demonstrate both the possession of monopoly power and the willful acquisition or maintenance of that power.",
+      "audio": "week15/day4_vocab_1.mp3"
+    },
+    {
+      "term": "antitrust verdict",
+      "pronunciation": "/ˈæntitrʌst ˈvɜːrdɪkt/",
+      "definition_cn": "反垄断裁决，指陪审团或法院就被告是否违反反垄断法所作出的正式法律判定。",
+      "example": "The antitrust verdict against the merged entity sent shockwaves through the ticketing and venue management sectors.",
+      "audio": "week15/day4_vocab_2.mp3"
+    },
+    {
+      "term": "vertical integration",
+      "pronunciation": "/ˈvɜːrtɪkəl ˌɪntɪˈɡreɪʃən/",
+      "definition_cn": "纵向一体化，指同一主体控制供应链多个环节，在反垄断语境中可能构成排他性竞争的结构性证据。",
+      "example": "The court found that vertical integration across venues, promotion, and ticketing gave the defendant an insurmountable competitive advantage.",
+      "audio": "week15/day4_vocab_3.mp3"
+    },
+    {
+      "term": "divestiture",
+      "pronunciation": "/daɪˈvestɪtʃər/",
+      "definition_cn": "剥离，指法院或监管机构命令企业出售或分拆特定资产或子公司，作为反垄断救济措施。",
+      "example": "Advocacy groups urged the court to impose divestiture as the only structural remedy capable of restoring market competition.",
+      "audio": "week15/day4_vocab_4.mp3"
+    },
+    {
+      "term": "anticompetitive behavior",
+      "pronunciation": "/ˌæntiˌkɒmpɪˈtɪtɪv bɪˈheɪvjər/",
+      "definition_cn": "反竞争行为，指企业通过排他性手段阻碍市场竞争的行为，是反垄断侵权诉讼中的核心争议事实。",
+      "example": "The jury's damages award was expressly tied to the financial harm caused by the defendant's anticompetitive behavior.",
+      "audio": "week15/day4_vocab_5.mp3"
+    },
+    {
+      "term": "Sherman Antitrust Act",
+      "pronunciation": "/ˈʃɜːrmən ˈæntitrʌst ækt/",
+      "definition_cn": "《谢尔曼反垄断法》，美国1890年颁布的联邦反垄断基础性法律，禁止限制贸易的合谋及垄断行为。",
+      "example": "Section 2 of the Sherman Antitrust Act prohibits any person from monopolizing or attempting to monopolize any part of interstate commerce.",
+      "audio": "week15/day4_vocab_6.mp3"
+    },
+    {
+      "term": "attorneys general",
+      "pronunciation": "/əˈtɜːrniz ˈdʒenərəl/",
+      "definition_cn": "各州总检察长，美国各州最高法律官员，有权代表州政府提起反垄断及消费者保护诉讼。",
+      "example": "A coalition of state attorneys general joined the DOJ complaint, arguing that consumers across multiple jurisdictions had been harmed.",
+      "audio": "week15/day4_vocab_7.mp3"
+    },
+    {
+      "term": "liability",
+      "pronunciation": "/ˌlaɪəˈbɪlɪti/",
+      "definition_cn": "法律责任，指法律认定一方须对其行为或不作为所造成的损害承担法律上的义务与赔偿责任。",
+      "example": "Once the jury determined liability on all counts, the court moved to the separate phase of calculating compensatory damages.",
+      "audio": "week15/day4_vocab_8.mp3"
+    },
+    {
+      "term": "pending motions",
+      "pronunciation": "/ˈpendɪŋ ˈmoʊʃənz/",
+      "definition_cn": "待决动议，指已向法院提交但尚未裁决的正式申请，可用于要求推翻陪审团裁决或获得即席判决。",
+      "example": "Defense counsel argued that pending motions for judgment as a matter of law could nullify the jury's findings before sentencing.",
+      "audio": "week15/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "A federal jury found [Party] liable on all [claim] counts, ruling that [Party] had illegally [conduct] in violation of [statute].",
+      "example": "A federal jury found Live Nation Entertainment and its wholly-owned subsidiary Ticketmaster liable on all monopolization counts, ruling that the concert giant had illegally maintained monopoly power in violation of federal antitrust law.",
+      "translation_cn": "联邦陪审团认定Live Nation娱乐公司及其全资子公司Ticketmaster在所有垄断化罪名上承担责任，裁定该演出巨头违反联邦反垄断法，非法维持其垄断地位。"
+    },
+    {
+      "pattern": "Plaintiffs called for the court to order [structural remedy], cap [Party]'s [market share metric] at [percentage], and remit damages to [harmed parties].",
+      "example": "Plaintiffs and advocates called for the court to order the divestiture of Ticketmaster from Live Nation, cap Live Nation's share of artist tour promotion at 50%, and remit damages to harmed independent venues, promoters, and fans.",
+      "translation_cn": "原告及倡导者要求法院命令将Ticketmaster从Live Nation剥离，将Live Nation在艺人巡演推广中的市场份额上限设定为50%，并向受损的独立场馆、推广商和歌迷退还赔偿金。"
+    },
+    {
+      "pattern": "[Party] vowed to appeal, stating that [prior ruling] is 'not the last word' and that [pending motions] could overturn both [finding #1] and [finding #2].",
+      "example": "Live Nation vowed to appeal, stating that the jury's verdict is 'not the last word' and that pending motions could overturn both the liability and damages rulings.",
+      "translation_cn": "Live Nation誓言提起上诉，声称陪审团的裁决\"并非最终定论\"，并表示待决动议可能推翻责任认定和损害赔偿两项裁决。"
+    }
+  ],
+  "summary_cn": "2026年4月15日，纽约南区联邦陪审团裁定Live Nation及其子公司Ticketmaster在所有垄断化罪名上承担责任，认定其通过排他性捆绑手段非法维持垄断地位，违反《谢尔曼反垄断法》。陪审团认定Ticketmaster每张票过度收费1.72美元。原告要求法院命令剥离Ticketmaster并设定市场份额上限；Live Nation誓言上诉，法官将就救济措施作出最终裁定，可能引发历史性企业拆分。",
+  "legal_analysis": "① 核心法律问题：本案核心在于Live Nation是否通过纵向一体化结构——同时控制场馆、演出推广和票务——非法维持了《谢尔曼反垄断法》第二条所禁止的垄断地位，以及其排他性捆绑行为是否构成足以触发责任的\"维持垄断\"行为。\n\n② 美国法律框架分析：《谢尔曼反垄断法》第二条要求原告证明两点：其一，被告在相关市场拥有垄断力量；其二，被告通过排他性行为而非凭借卓越经营刻意获取或维持该地位。本案中，陪审团接受了政府关于Live Nation通过排他性预订协议和捆绑推广条件强制排除竞争对手的论点。在救济层面，divestiture（结构性剥离）是美国反垄断法中最具力度的补救措施，历史上仅在AT&T等少数案例中实施。\n\n③ 对中国娱乐法律师的实践启示：中国演出及票务市场同样存在平台高度集中现象，大麦网、猫眼等头部票务平台市场份额显著。本案提醒中国律师在涉及演出推广、场馆运营与票务平台的一体化商业结构设计时，应主动评估《反垄断法》第22条关于市场支配地位滥用的合规风险，尤其是排他性交易条款的合法性边界。",
+  "cn_us_comparison": "美国《谢尔曼反垄断法》第二条与中国《反垄断法》（2022年修订）第22条均禁止具有市场支配地位的经营者实施排他性行为，但两者在执法机制和救济路径上存在显著差异。美国允许联邦与州检察长并行起诉，且私人原告可依法获得三倍损害赔偿（treble damages），极大增强了私人执法激励；中国反垄断执法则以国家市场监督管理总局为主导，私人诉讼较少且损害赔偿标准尚不成熟。在结构性救济方面，美国法院可判令企业强制剥离子公司，而中国《反垄断法》第57条虽规定了相应救济措施，但实践中命令企业拆分的案例极为罕见。此外，中国《反不正当竞争法》对捆绑销售行为亦有规制，但门槛与美国排他性交易理论不尽相同，中国律师在跨境并购及平台合规中应注意两套框架的差异适用。",
+  "discussion_prompt": "Given that the DOJ settled with Live Nation before the jury verdict while nearly 40 state attorneys general pressed the case to judgment, does the proliferation of parallel enforcement actors strengthen or fragment antitrust accountability in the United States — and what structural remedy, divestiture or behavioral remedies, would most effectively restore competition in vertically integrated live entertainment markets?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new antitrust ruling for a client briefing. Write 2-3 sentences describing: (1) what a federal jury found, (2) the core anticompetitive conduct alleged, and (3) the remedies being sought by plaintiffs — using the sentence patterns from today's lesson.",
+    "model_answer": "A federal jury found MegaVenue Corp. and its wholly-owned subsidiary TicketHub liable on all monopolization counts, ruling that the company had illegally maintained monopoly power over the stadium concert sector in violation of the Sherman Antitrust Act. The states alleged that MegaVenue conditioned artist bookings on the exclusive use of TicketHub, a form of anticompetitive behavior that the jury found had directly inflated consumer prices. Plaintiffs and advocates called for the court to order the divestiture of TicketHub from MegaVenue, cap MegaVenue's share of national tour promotion at 40%, and remit damages to harmed independent promoters and fans."
+  },
+  "youtube_rec": {
+    "title": "Live Nation GUILTY: The Antitrust Case That Could Break Up The Concert Industry | Full Legal Breakdown",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频对Live Nation反垄断审判的法律框架进行深度解析，涵盖《谢尔曼反垄断法》第二条的适用标准、垄断力量的认定方法、陪审团裁定的法律意义，以及法院可能采取的结构性救济措施，适合希望理解美国反垄断执法实践的法律从业者观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "'It Ends With Us' Settlement Postmortem: Blake Lively Made a Bold Wager on a Legal Theory and Lost",
+      "url": "https://www.hollywoodreporter.com/business/business-news/it-ends-with-us-settlement-blake-lively-1236622416/",
+      "description_cn": "分析Blake Lively在联邦法院援引加州反SLAPP法规索赔失败的经过，及约800万美元律师费问题悬而未决的法律后果。",
+      "language": "en"
+    },
+    {
+      "title": "Cox Communications, Inc. v. Sony Music Entertainment — Supreme Court Narrows Contributory Copyright Liability and Reframes the DMCA Landscape",
+      "url": "https://www.mintz.com/insights-center/viewpoints/2251/2026-03-27-supreme-court-narrows-contributory-copyright-liability",
+      "description_cn": "Mintz律所分析2026年最高法院一致裁定：ISP仅凭知情不足以承担版权间接侵权责任，须证明其主动诱导侵权，重塑DMCA安全港边界。",
+      "language": "en"
+    }
+  ],
+  "week": 15,
+  "day": 4,
+  "date": "2026-07-03",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week15/day4.mp3"
+}
