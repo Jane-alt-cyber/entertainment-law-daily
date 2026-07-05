@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Narrows Scope of Secondary Copyright Liability in Cox v. Sony — A Landmark Win for Internet Service Providers",
+    "source": "Kirkland & Ellis LLP (Kirkland Alert), April 2, 2026",
+    "url": "https://www.kirkland.com/publications/kirkland-alert/2026/04/supreme-court-narrows-scope-of-contributory-copyright-liability-in-cox-v-sony",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued a unanimous decision in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), reversing the Fourth Circuit's ruling that Cox, a major broadband provider, was contributorily liable for copyright infringement committed by users of its service. The case originated when Sony Music Entertainment and other major record labels hired the tracking firm MarkMonitor to detect infringing activity across the internet. Over two years, MarkMonitor sent Cox over 163,000 notices identifying IP addresses associated with infringing activity. Rather than pursuing individual infringers, Sony sued Cox directly. A jury found Cox liable for willful contributory infringement of 10,017 copyrighted works and awarded $1 billion in statutory damages. The Fourth Circuit vacated the damages award but affirmed the finding of contributory liability, reasoning that supplying a service with knowledge it will be used for infringement was sufficient culpable conduct.\n\nThe Supreme Court, in an opinion authored by Justice Clarence Thomas, reversed and remanded, holding that a company is not liable as a copyright infringer for merely providing a service to the general public with knowledge that it will be used by some to infringe. The Court held that contributory liability requires proven intent, established through only two pathways: (1) the defendant actively induced or encouraged infringement, or (2) the defendant provided a service specifically tailored to infringement. Because Cox's broadband offering has substantial lawful uses and Cox neither induced infringement nor marketed a piracy-focused product, the Court found Cox could not be held liable under either prong.\n\nThe Court also rejected Sony's argument that the DMCA safe harbor provisions were enacted on the assumption that ISPs faced background liability, holding instead that the DMCA merely creates new defenses from liability and does not independently impose it. Justice Sotomayor, joined by Justice Jackson, concurred in the judgment but criticized the majority for unnecessarily narrowing secondary liability and warned that the ruling upends the statutory incentive structure Congress created under the DMCA. She nonetheless agreed Cox prevailed because the notices identified only IP addresses, not actual infringing individuals.\n\nThe ruling has sweeping implications: ISPs are now substantially insulated from copyright liability for user piracy absent proof of affirmative inducement. The Supreme Court also granted certiorari and vacated the Fifth Circuit's decision in Grande Communications v. UMG Recordings, directing reconsideration under the new Cox standard. Content owners now face a significantly narrowed enforcement pathway against internet intermediaries.",
+    "word_count": 358
+  },
+  "vocabulary": [
+    {
+      "term": "contributory liability",
+      "pronunciation": "/kənˈtrɪbjʊtəri laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任中的\"辅助侵权责任\"，指明知他人实施侵权行为仍提供实质性帮助，从而承担连带法律责任。",
+      "example": "The appellate court affirmed the finding of contributory liability even after vacating the original damages award.",
+      "audio": "week15/day5_vocab_0.mp3"
+    },
+    {
+      "term": "statutory damages",
+      "pronunciation": "/ˈstætʃʊtəri ˈdæmɪdʒɪz/",
+      "definition_cn": "法定赔偿金，依据版权法等成文法规定，无需证明实际损失即可主张的固定赔偿额度，可显著高于实际损失。",
+      "example": "The jury awarded $1 billion in statutory damages for willful infringement of over ten thousand copyrighted works.",
+      "audio": "week15/day5_vocab_1.mp3"
+    },
+    {
+      "term": "safe harbor provisions",
+      "pronunciation": "/seɪf ˈhɑːrbər prəˈvɪʒənz/",
+      "definition_cn": "《数字千年版权法》（DMCA）中为符合条件的网络服务提供商提供的免责条款，使其在满足特定条件下免于因用户侵权行为承担版权责任。",
+      "example": "The Court clarified that the DMCA safe harbor provisions create defenses from liability rather than independently imposing it.",
+      "audio": "week15/day5_vocab_2.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndəri laɪəˈbɪlɪti/",
+      "definition_cn": "间接版权侵权责任的总称，涵盖辅助侵权（contributory）和替代侵权（vicarious），指当事人未直接实施但促成他人侵权行为而承担的责任。",
+      "example": "Justice Sotomayor warned that the majority's ruling unnecessarily narrowed the doctrine of secondary liability under existing precedent.",
+      "audio": "week15/day5_vocab_3.mp3"
+    },
+    {
+      "term": "willful infringement",
+      "pronunciation": "/ˈwɪlfʊl ɪnˈfrɪndʒmənt/",
+      "definition_cn": "故意侵权，指侵权方明知其行为构成版权侵犯仍故意为之，可导致法院判处大幅提高的法定赔偿金。",
+      "example": "A finding of willful infringement exposed Cox to the maximum statutory damages permitted under the Copyright Act.",
+      "audio": "week15/day5_vocab_4.mp3"
+    },
+    {
+      "term": "affirmative inducement",
+      "pronunciation": "/əˈfɜːrmətɪv ɪnˈdjuːsmənt/",
+      "definition_cn": "积极引诱行为，指当事方主动采取行动鼓励或促使他人实施侵权，是认定辅助侵权责任的核心要件之一。",
+      "example": "ISPs are now substantially insulated from liability absent proof of affirmative inducement of their subscribers' infringing activity.",
+      "audio": "week15/day5_vocab_5.mp3"
+    },
+    {
+      "term": "certiorari",
+      "pronunciation": "/ˌsɜːrʃiəˈrɛri/",
+      "definition_cn": "调卷令，美国最高法院用于审查下级法院判决的程序性命令，当事方须申请获批方可进入最高法院审理程序。",
+      "example": "The Supreme Court granted certiorari in Grande Communications v. UMG Recordings and vacated the Fifth Circuit's ruling for reconsideration.",
+      "audio": "week15/day5_vocab_6.mp3"
+    },
+    {
+      "term": "reversed and remanded",
+      "pronunciation": "/rɪˈvɜːrst ænd rɪˈmændɪd/",
+      "definition_cn": "撤销原判并发回重审，上级法院推翻下级法院判决并将案件退回下级法院按照新法律标准重新审理的程序性结果。",
+      "example": "The Supreme Court reversed and remanded the Fourth Circuit's decision, directing the lower court to apply the newly articulated standard for contributory liability.",
+      "audio": "week15/day5_vocab_7.mp3"
+    },
+    {
+      "term": "culpable conduct",
+      "pronunciation": "/ˈkʌlpəbəl ˈkɒndʌkt/",
+      "definition_cn": "可归责行为，指在侵权或刑事语境下，足以使当事人承担法律责任的过失或故意行为。",
+      "example": "The Fourth Circuit had held that mere knowledge of infringing use was sufficient culpable conduct to sustain a finding of contributory liability.",
+      "audio": "week15/day5_vocab_8.mp3"
+    },
+    {
+      "term": "statutory incentive structure",
+      "pronunciation": "/ˈstætʃʊtəri ɪnˈsɛntɪv ˈstrʌktʃər/",
+      "definition_cn": "成文法激励机制，指立法机构通过法律条文设计的权利义务框架，旨在引导市场主体采取符合立法目的的行为。",
+      "example": "The concurrence argued that narrowing secondary liability upends the statutory incentive structure that Congress carefully crafted when enacting the DMCA.",
+      "audio": "week15/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The Court held that [legal doctrine] requires [specific element], established through only two pathways: (1) [first prong], or (2) [second prong].",
+      "example": "The Court held that contributory liability requires proven intent, established through only two pathways: (1) the defendant actively induced or encouraged infringement, or (2) the defendant provided a service specifically tailored to infringement.",
+      "translation_cn": "法院认定，辅助侵权责任须具备故意要件，且仅可通过以下两种路径加以证明：（1）被告积极引诱或鼓励侵权行为；或（2）被告提供了专门针对侵权目的的服务。"
+    },
+    {
+      "pattern": "Rather than pursuing [direct party], [plaintiff] sued [defendant] directly in [jurisdiction], arguing that [legal theory].",
+      "example": "Rather than pursuing individual infringers, Sony sued Cox directly in the Eastern District of Virginia, arguing that supplying a service with knowledge it will be used for infringement was sufficient culpable conduct.",
+      "translation_cn": "索尼并未追究个别侵权者的责任，而是直接在弗吉尼亚州东区联邦地方法院起诉科克斯公司，主张明知服务将被用于侵权行为仍提供该服务已构成足够的可归责行为。"
+    },
+    {
+      "pattern": "[Provision] merely creates [legal effect] and does not independently [broader legal consequence].",
+      "example": "The Court held that the DMCA safe harbor provisions merely create new defenses from liability and do not independently impose it.",
+      "translation_cn": "法院认定，《数字千年版权法》安全港条款仅创设了新的免责抗辩事由，并不独立产生施加版权责任的法律效果。"
+    }
+  ],
+  "summary_cn": "2026年3月25日，美国最高法院在Cox诉索尼案中一致裁定，互联网服务提供商仅因知晓用户可能利用其服务侵权，不足以构成辅助版权侵权责任；认定责任须证明被告积极引诱侵权或专门提供侵权导向服务。该判决大幅限缩了版权权利人对网络中间商的追责空间，并导致最高法院随即发回另一起相关上诉案重新审理。",
+  "legal_analysis": "① 核心法律问题：本案的核心在于美国版权法下辅助侵权责任（contributory liability）的认定标准——仅凭\"知情\"是否足以使互联网服务提供商对用户的侵权行为承担责任。\n\n② 美国法律框架分析：最高法院在本案中实质上收窄了自Sony Corp. v. Universal City Studios（1984年\"Betamax案\"）以来的\"实质性非侵权用途\"原则，并将MGM Studios v. Grokster（2005年）确立的\"积极引诱\"标准确认为认定辅助侵权的核心要件。法院明确拒绝将DMCA安全港制度解读为对ISP施加背景性版权责任的依据，澄清了该制度仅属抗辩机制的性质。索托马约尔大法官的协同意见则提示，普通法上的\"帮助与教唆\"理论路径仍存争议空间，未来诉讼策略可沿此方向探索。\n\n③ 对中国娱乐法律师的实践启示：中国企业在进入美国市场或与美国版权持有人谈判时，须了解此判决已显著降低内容权利人通过追责ISP遏制盗版的可能性。同时，在国内代理涉及网络平台版权侵权案件时，可参照此判决中\"主动引诱\"要件的论证框架，评估我国平台是否构成共同侵权。此外，本案凸显了建立健全DMCA式通知-删除机制对平台合规管理的重要性。",
+  "cn_us_comparison": "美国版权法下的辅助侵权责任制度与中国《著作权法》（2020年修订）及《信息网络传播权保护条例》中的\"帮助侵权\"制度存在结构性差异。中国法律框架下，《民法典》第1169条及最高人民法院相关司法解释确立了\"知道或应当知道\"的过错推定标准，平台若未履行合理注意义务即可能承担连带责任，门槛整体低于美国最高法院在本案中确立的\"积极引诱\"标准。《网络安全法》及《互联网信息服务算法推荐管理规定》亦对平台施加主动管理义务，与美国DMCA被动式\"通知-删除\"机制形成鲜明对比。此外，中国司法实践中\"红旗原则\"（即明显可见的侵权事实推定平台知情）的适用范围较宽，与本案中最高法院严格限缩\"知情\"单独归责路径的立场存在显著分歧，值得跨境业务律师重点关注。",
+  "discussion_prompt": "Given that the Supreme Court's decision in Cox v. Sony substantially insulates ISPs from contributory copyright liability absent affirmative inducement, should Congress amend the DMCA to impose a proactive duty on broadband providers to implement repeat-infringer termination policies — and if so, what constitutional and policy constraints should govern the design of such a mandate?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a copyright counsel advising a major record label after the Cox v. Sony decision. Write 2-3 sentences explaining the new legal standard to your client and identifying what evidence would now be required to sustain a claim of contributory liability against an internet service provider.",
+    "model_answer": "The Court held that contributory liability requires proven intent, established through only two pathways: (1) the ISP actively induced or encouraged infringement, or (2) the ISP provided a service specifically tailored to infringement. Rather than pursuing a broad knowledge-based theory, your legal team must now gather direct evidence of affirmative inducement — such as internal communications, promotional materials, or product design choices that demonstrably encouraged infringing use. The DMCA safe harbor provisions, the Court clarified, merely create new defenses from liability and do not independently impose it, meaning we cannot rely on failure to invoke safe harbor as a proxy for culpable conduct."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Explained: How the Supreme Court Rewrote ISP Copyright Liability",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频以通俗易懂的方式拆解最高法院Cox诉索尼案判决，重点解析辅助侵权责任的新认定标准、DMCA安全港条款的适用边界，以及该裁决对唱片公司、互联网服务提供商及内容创作者的深远影响，适合法律从业者和行业人士快速掌握核心要点。"
+  },
+  "extended_reading": [
+    {
+      "title": "Blake Lively Wants $8M In Legal Fees From Justin Baldoni",
+      "url": "https://deadline.com/2026/06/blake-lively-lawyer-fees-millions-justin-baldoni-1236970998/",
+      "description_cn": "报道布莱克·莱弗利依据加州反SLAPP法律申请约800万美元律师费，为反SLAPP费用回收机制提供了典型案例。",
+      "language": "en"
+    },
+    {
+      "title": "The Case For AI Authorship In Copyright Law",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108423",
+      "description_cn": "新加坡管理大学学者发表的同行评审论文，探讨人工智能生成作品能否及应否获得版权法律意义上的作者身份认定。",
+      "language": "en"
+    }
+  ],
+  "week": 15,
+  "day": 5,
+  "date": "2026-07-06",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week15/day5.mp3"
+}
