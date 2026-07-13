@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Jermaine Dupri Sues Sony Music for $18M in Unpaid Royalties on Mariah Carey & Usher Albums",
+    "source": "Billboard, July 7, 2026",
+    "url": "https://www.billboard.com/pro/jermaine-dupri-sues-sony-music-for-18m-in-unpaid-royalties/",
+    "text": "Grammy-winning producer Jermaine Dupri and his label So So Def Recordings filed a federal breach-of-contract lawsuit against Sony Music Entertainment in Manhattan federal court on July 7, 2026, seeking more than $18 million in damages. The complaint alleges that Sony engaged in a systemic pattern of contemptuous accounting practices spanning a 32-year business relationship, deliberately underpaying royalties owed on recordings by artists including Mariah Carey, Usher, Kris Kross, Xscape, Bow Wow, Da Brat, Jagged Edge, J-Kwon, and Bone Crusher.\n\nThe 13-page complaint sets forth multiple distinct contractual theories. Dupri and So So Def allege that Sony systematically underreported royalties; in some instances failed to report royalties at all; quietly revised and amended past royalty statements years after the fact to conceal what had been withheld; applied incorrect royalty rates; and improperly used unrecouped balances to offset payments that were contractually due. A key factual allegation involves Kris Kross — Sony allegedly never reported producer or override royalties from the duo's first two albums prior to 2023, leaving approximately $2.2 million unaccounted for.\n\nXscape's early platinum-certified albums were shown to carry a $1.53 million unrecouped balance as of 2020, despite the group's commercial success. The suit argues this balance should have been forgiven under Sony's own 2021 Artists Forward Legacy Unrecouped Balance Program. Da Brat's platinum debut Funkdafied was similarly listed as unrecouped — a characterization the complaint disputes.\n\nThe full $18 million damages figure includes more than $10 million in interest. The alleged underpayments only came to light in 2023, when new and amended royalty statements first raised suspicions. This prompted a formal 2025 audit by the firm Gelfand, Rennert & Feldman, which specializes in royalty disputes. The parties subsequently entered a tolling agreement in November 2025, but when that process failed to produce a resolution, the lawsuit was filed. Dupri is demanding a jury trial and attorneys' fees. Sony characterized the matter as a royalty accounting dispute the parties were actively engaged in attempting to resolve, expressing disappointment that So So Def chose litigation. The case is widely regarded as a high-profile test of record-label accounting transparency and the enforceability of audit rights under long-term producer and independent label agreements.",
+    "word_count": 341
+  },
+  "vocabulary": [
+    {
+      "term": "breach-of-contract",
+      "pronunciation": "/briːtʃ əv ˈkɒntrækt/",
+      "definition_cn": "违约；指一方当事人未能履行合同规定的义务，是提起民事诉讼的最常见法律依据之一。",
+      "example": "The producer filed a breach-of-contract claim after the label failed to pay royalties owed under their agreement.",
+      "audio": "week17/day1_vocab_0.mp3"
+    },
+    {
+      "term": "unrecouped balances",
+      "pronunciation": "/ʌnrɪˈkuːpt ˈbælənsɪz/",
+      "definition_cn": "未收回余额；指唱片公司向艺人预支但尚未通过版税收入冲抵的款项，常被用于推迟实际付款。",
+      "example": "The label maintained that unrecouped balances justified withholding all royalty payments to the artist.",
+      "audio": "week17/day1_vocab_1.mp3"
+    },
+    {
+      "term": "override royalties",
+      "pronunciation": "/ˌoʊvərˈraɪd ˈrɔɪəltɪz/",
+      "definition_cn": "凌驾版税；制作人在其旗下艺人录音销售中获得的额外版税，通常在标准制作版税之上单独计算。",
+      "example": "The complaint alleged that Sony never reported override royalties from the duo's first two studio albums.",
+      "audio": "week17/day1_vocab_2.mp3"
+    },
+    {
+      "term": "royalty statements",
+      "pronunciation": "/ˈrɔɪəlti ˈsteɪtmənts/",
+      "definition_cn": "版税结算单；唱片公司定期向艺人或制作人提供的书面报告，详列销售数据及相应版税计算结果。",
+      "example": "Amended royalty statements issued years after the original accounting period first alerted counsel to potential underpayments.",
+      "audio": "week17/day1_vocab_3.mp3"
+    },
+    {
+      "term": "tolling agreement",
+      "pronunciation": "/ˈtoʊlɪŋ əˈɡriːmənt/",
+      "definition_cn": "诉讼时效中止协议；双方当事人就暂停诉讼时效计算达成的书面协议，为庭外解决争议争取时间。",
+      "example": "The parties executed a tolling agreement in November 2025 to allow time for settlement negotiations before litigation commenced.",
+      "audio": "week17/day1_vocab_4.mp3"
+    },
+    {
+      "term": "audit rights",
+      "pronunciation": "/ˈɔːdɪt raɪts/",
+      "definition_cn": "审计权；合同中赋予艺人或制作人检查对方财务账簿以核实版税准确性的权利，是娱乐合同的核心条款。",
+      "example": "The enforceability of audit rights under long-term producer agreements is at the heart of the So So Def litigation.",
+      "audio": "week17/day1_vocab_5.mp3"
+    },
+    {
+      "term": "recoupment accounting",
+      "pronunciation": "/rɪˈkuːpmənt əˈkaʊntɪŋ/",
+      "definition_cn": "预付款冲销核算；唱片公司将预付给艺人的款项从版税中逐步扣回的会计处理方式，常引发合同争议。",
+      "example": "Critics argue that opaque recoupment accounting allows major labels to delay royalty payments indefinitely.",
+      "audio": "week17/day1_vocab_6.mp3"
+    },
+    {
+      "term": "attorneys' fees",
+      "pronunciation": "/əˈtɜːrnɪz fiːz/",
+      "definition_cn": "律师费；诉讼中胜诉方要求败诉方承担其合理律师费用的救济请求，须有合同或法律明确依据。",
+      "example": "In addition to damages and interest, the plaintiff is demanding attorneys' fees as part of the requested relief.",
+      "audio": "week17/day1_vocab_7.mp3"
+    },
+    {
+      "term": "jury trial",
+      "pronunciation": "/ˈdʒʊəri ˈtraɪəl/",
+      "definition_cn": "陪审团审判；当事人依据美国宪法第七修正案在民事诉讼中要求由陪审团而非法官裁决事实的程序权利。",
+      "example": "Dupri's complaint explicitly demands a jury trial, signaling an intent to litigate the dispute fully if necessary.",
+      "audio": "week17/day1_vocab_8.mp3"
+    },
+    {
+      "term": "contemptuous accounting practices",
+      "pronunciation": "/kənˈtɛmptʃuəs əˈkaʊntɪŋ ˈpræktɪsɪz/",
+      "definition_cn": "蔑视性会计操作；原告在诉状中用以描述被告故意且系统性错误报告版税的强烈指控性术语。",
+      "example": "The complaint described a decades-long pattern of contemptuous accounting practices that allegedly concealed millions in unpaid royalties.",
+      "audio": "week17/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] filed a federal [cause of action] lawsuit against [Defendant], seeking more than [amount] in damages and alleging a systemic pattern of [alleged conduct].",
+      "example": "Jermaine Dupri and So So Def Recordings filed a federal breach-of-contract lawsuit against Sony Music Entertainment, seeking more than $18 million in damages and alleging a systemic pattern of contemptuous accounting practices.",
+      "translation_cn": "杰曼·杜普里和So So Def录音公司就索尼音乐娱乐公司的系统性蔑视会计操作提起联邦违约诉讼，索赔逾1800万美元。"
+    },
+    {
+      "pattern": "The complaint alleges that [Defendant] [specific wrongful act], leaving approximately [amount] unaccounted for.",
+      "example": "The complaint alleges that Sony never reported producer or override royalties from Kris Kross's first two albums prior to 2023, leaving approximately $2.2 million unaccounted for.",
+      "translation_cn": "诉状指控索尼公司在2023年前从未报告Kris Kross前两张专辑的制作人版税或凌驾版税，导致约220万美元下落不明。"
+    },
+    {
+      "pattern": "After [triggering event] failed to produce a resolution, [Plaintiff] filed suit, demanding [primary remedy] and [secondary remedy].",
+      "example": "After the tolling agreement process failed to produce a resolution, So So Def filed suit, demanding a jury trial and attorneys' fees.",
+      "translation_cn": "诉讼时效中止协议程序未能促成和解后，So So Def提起诉讼，要求陪审团审判并索赔律师费。"
+    }
+  ],
+  "summary_cn": "2026年7月，格莱美获奖制作人杰曼·杜普里及其So So Def录音公司就索尼音乐娱乐公司长达32年的系统性版税少付行为提起联邦违约诉讼，索赔逾1800万美元（含逾1000万美元利息）。诉状指控索尼少报、漏报版税，事后篡改结算单，并不当以未冲销余额抵扣应付款项，涉及玛丽亚·凯莉、厄舍等多位知名艺人录音作品。此案被视为考验唱片公司账务透明度与制作人合同审计权可执行性的标志性案件。",
+  "legal_analysis": "① 核心法律问题：本案涉及长期制作人协议与独立厂牌协议下版税核算义务的违约认定，以及合同审计权的可执行性。诉状还涉及版税结算单事后修改是否构成欺诈性隐瞒，进而影响诉讼时效计算。\n\n② 美国法律框架分析：在美国，唱片公司与制作人/独立厂牌之间的版税协议属于商业合同，受各州合同法及《统一商法典》调整。制作人通常通过合同中的审计条款（audit clause）行使核查权，审计结果具有证据效力。诉讼时效（statute of limitations）通常为3至6年，但欺诈性隐瞒可触发\"发现规则\"（discovery rule），将时效起算点推迟至当事人合理发现损害之时。本案2023年才经修订结算单发现问题，或正是援引该规则的基础。此外，原告主张的\"未冲销余额豁免计划\"若属索尼单方承诺，可能构成允诺禁反言（promissory estoppel）的独立请求权基础。\n\n③ 对中国娱乐法律师的实践启示：中国唱片公司与制作人合作时，应在合同中明确约定版税核算标准、结算周期及审计权条款；对于存在预付款安排的项目，需细化冲销规则并设定豁免条件，防止以\"未冲销\"为由长期拖延付款。同时，中国律师应关注事后修改财务报告可能引发的诚实信用原则违反问题。",
+  "cn_us_comparison": "美国唱片合同中的版税审计权和未冲销余额制度在中国法律体系下有其对应框架，但存在显著差异。\n\n在中国，艺人与制作公司之间的版税安排主要受《著作权法》（2020年修订）及《民法典》合同编调整。《著作权法》第47条确立了著作权人就版税使用情况的知情权，但尚无类似美国合同实践中专门的\"审计条款\"法定化要求，中国合同中的核账权须由当事人自行约定。\n\n在未冲销余额问题上，中国实践中类似的\"预付款扣回\"安排须符合《民法典》第584条关于损失赔偿的一般规定，若预付款扣回条款显失公平，当事人可依第151条申请撤销。\n\n诉讼时效方面，中国《民法典》第188条规定一般诉讼时效为3年，自权利人知道或应当知道权利受损之日起算，与美国\"发现规则\"具有功能上的相似性，但适用标准存在差异。\n\n总体而言，中国法律对制作人和独立厂牌的保护条款尚不如美国合同实践精细，建议中国从业者在谈判时参照本案主动争取明确的审计权和结算争议解决机制。",
+  "discussion_prompt": "Given that Sony's 2021 Artists Forward Legacy Unrecouped Balance Program could potentially have extinguished the contested balances for Xscape and Da Brat, should courts treat a label's voluntary debt-forgiveness program as a binding contractual obligation enforceable by independent label partners, or merely as a discretionary policy — and what are the implications for how major labels structure such programs going forward?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent an independent producer who has discovered potential underpayments in their royalty statements. Write 2-3 sentences describing the legal action taken and the remedies sought, using the sentence patterns from this lesson.",
+    "model_answer": "Our client filed a federal breach-of-contract lawsuit against the label in the Southern District of New York, seeking $5 million in damages and alleging a systemic pattern of contemptuous accounting practices spanning a fifteen-year business relationship. The complaint alleges that the label retroactively amended royalty statements to conceal withheld override royalties, leaving approximately $1.8 million unaccounted for. After a tolling agreement executed in early 2026 failed to produce a resolution, our client filed suit, demanding a jury trial and attorneys' fees."
+  },
+  "youtube_rec": {
+    "title": "Music Producer Royalty Audits Explained: How Labels Account (and Misaccount) for Your Money",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频详解唱片公司对制作人和艺人版税的核算方式，重点介绍审计权条款的实际运作、未冲销余额的法律争议，以及制作人在发现账务异常后如何启动法律程序保护自身权益，对理解杜普里诉索尼案背景具有重要参考价值。"
+  },
+  "extended_reading": [
+    {
+      "title": "Blake Lively Made No Money in Justin Baldoni Settlement, but Legal Fight Is Not Quite Over",
+      "url": "https://variety.com/2026/film/news/blake-lively-settlement-no-money-justin-baldoni-1236738819/",
+      "description_cn": "Variety报道布莱克·莱弗利与贾斯汀·鲍尔多尼达成无金钱赔偿的和解协议，但其索赔750万美元律师费的动议及对方的诽谤反诉仍悬而未决，法律战尚未终结。",
+      "language": "en"
+    },
+    {
+      "title": "The AI Input Class: Constitutional Urgency and Fair Licensing in AI Copyright Class Actions",
+      "url": "https://jipel.law.nyu.edu/the-ai-input-class-constitutional-urgency-and-fair-licensing-in-ai-copyright-class-actions/",
+      "description_cn": "纽约大学知识产权与娱乐法学刊学术文章，论证AI版权集体诉讼具有宪法层面的紧迫性，并主张任何公平许可制度均须实质性保护人类创作主体性，而非仅提供象征性经济补偿。",
+      "language": "en"
+    }
+  ],
+  "week": 17,
+  "day": 1,
+  "date": "2026-07-14",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week17/day1.mp3"
+}
