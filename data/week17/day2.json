@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "On April 15, 2026, a federal jury in the Southern District of New York returned a verdict against Live Nation Entertainment and its wholly owned subsidiary Ticketmaster on all federal and state antitrust claims, finding that the companies had unlawfully monopolized primary ticketing services and amphitheater markets, and had engaged in unlawful tying by conditioning amphitheater access on the use of concert promotion services. The landmark verdict followed a five-week trial before Judge Arun Subramanian that commenced on March 2, 2026.\n\nThe litigation originated in May 2024, when the U.S. Department of Justice and nearly forty state attorneys general filed a civil antitrust complaint alleging violations of the Sherman Act — specifically Section 2 monopolization and Section 1 tying claims — as well as state-level unfair business practice statutes. Plaintiffs demonstrated at trial that Live Nation controls approximately 78% of large amphitheaters relied upon by major touring artists and, through Ticketmaster, commands roughly 86% of primary ticketing at major concert venues.\n\nA pivotal mid-trial development dramatically altered the litigation's trajectory. The DOJ reached a settlement with Live Nation in March 2026 that foregoed any divestiture of Ticketmaster, relying instead on behavioral remedies — chiefly the termination of certain exclusive booking agreements and an extension of an existing consent decree. Thirty-three states and the District of Columbia rejected this settlement as inadequate and proceeded independently to trial. Six U.S. senators urged the presiding judge to reject the DOJ deal, citing sworn testimony that a Live Nation lobbyist had threatened the DOJ's antitrust chief, who was subsequently dismissed — allegations raising grave concerns about political interference with federal enforcement.\n\nThe jury found in favor of the plaintiff states on every claim and fixed aggregate single damages at $1.72 per ticket across approximately 20% of total tickets sold. Live Nation contended that total single damages would fall below $150 million and signaled it would renew its motion for judgment as a matter of law and pursue an appeal. The case now enters a remedy phase in which the court will consider structural relief — potentially including a full breakup of Live Nation and Ticketmaster. Legal analysts observe that the verdict confirms state attorneys general retain independent authority to pursue and prevail on sweeping antitrust actions even following federal settlement, and foreshadows parallel litigation across sports ticketing markets.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒpələˈzeɪʃən/",
+      "definition_cn": "垄断行为，指单一主体通过反竞争手段取得或维持对特定市场的支配地位，违反《谢尔曼法》第2条。",
+      "example": "The jury found that the defendant's acquisition of competing venues constituted unlawful monopolization under Section 2 of the Sherman Act.",
+      "audio": "week17/day2_vocab_0.mp3"
+    },
+    {
+      "term": "tying claims",
+      "pronunciation": "/ˈtaɪɪŋ kleɪmz/",
+      "definition_cn": "捆绑销售诉因，指以购买一种产品为条件强制购买另一种产品，违反《谢尔曼法》第1条的反竞争行为。",
+      "example": "The plaintiff's tying claims alleged that access to the defendant's venues was unlawfully conditioned on the exclusive use of its ticketing subsidiary.",
+      "audio": "week17/day2_vocab_1.mp3"
+    },
+    {
+      "term": "Sherman Act",
+      "pronunciation": "/ˈʃɜːrmən ækt/",
+      "definition_cn": "《谢尔曼反托拉斯法》，美国联邦反垄断基本法，第1条禁止限制贸易的合谋，第2条禁止垄断行为。",
+      "example": "Enforcement authorities alleged that the defendant's bundled pricing arrangements violated both Section 1 and Section 2 of the Sherman Act.",
+      "audio": "week17/day2_vocab_2.mp3"
+    },
+    {
+      "term": "divestiture",
+      "pronunciation": "/daɪˈvɛstɪtʃər/",
+      "definition_cn": "剥离令，反垄断救济手段之一，要求企业出售或分拆特定资产或子公司以恢复竞争格局。",
+      "example": "Regulatory authorities sought divestiture of the subsidiary as the only remedy capable of restoring competitive conditions in the primary ticketing market.",
+      "audio": "week17/day2_vocab_3.mp3"
+    },
+    {
+      "term": "behavioral remedies",
+      "pronunciation": "/bɪˈheɪvjərəl ˈrɛmədiz/",
+      "definition_cn": "行为性救济措施，反垄断和解中以行为规制代替结构性分拆的救济方式，如禁止特定排他性协议。",
+      "example": "Critics argued that behavioral remedies alone were insufficient to dismantle entrenched market power and that only structural relief would deter future violations.",
+      "audio": "week17/day2_vocab_4.mp3"
+    },
+    {
+      "term": "exclusive booking agreements",
+      "pronunciation": "/ɪkˈskluːsɪv ˈbʊkɪŋ əˈɡriːmənts/",
+      "definition_cn": "排他性预订协议，场馆经营者与特定票务或演出推广商签订的协议，禁止使用竞争对手服务，具有封锁市场的效果。",
+      "example": "The consent decree required Live Nation to terminate all exclusive booking agreements that prevented rival promoters from accessing its amphitheater network.",
+      "audio": "week17/day2_vocab_5.mp3"
+    },
+    {
+      "term": "consent decree",
+      "pronunciation": "/kənˈsɛnt dɪˈkriː/",
+      "definition_cn": "同意令，当事方与政府监管机构达成的经法院批准的协议，规定被告须遵守的行为义务，是反托拉斯和解的常见形式。",
+      "example": "The government moved to extend the existing consent decree rather than litigate a new round of structural remedies.",
+      "audio": "week17/day2_vocab_6.mp3"
+    },
+    {
+      "term": "aggregate single damages",
+      "pronunciation": "/ˈæɡrɪɡət ˈsɪŋɡəl ˈdæmɪdʒɪz/",
+      "definition_cn": "累计单倍赔偿，反垄断诉讼中陪审团认定的基础损害赔偿总额，在联邦诉讼中可依法自动扩大为三倍赔偿。",
+      "example": "Before trebling, the jury fixed aggregate single damages at a figure that the defendant insisted fell below the threshold for material financial impact.",
+      "audio": "week17/day2_vocab_7.mp3"
+    },
+    {
+      "term": "motion for judgment as a matter of law",
+      "pronunciation": "/ˈmoʊʃən fər ˈdʒʌdʒmənt æz ə ˈmætər əv lɔː/",
+      "definition_cn": "依法判决动议，当事方在陪审团裁决前后提出的程序性动议，主张对方证据在法律上不足以支持裁决，请求法院径行裁定。",
+      "example": "Following the adverse verdict, defense counsel immediately filed a motion for judgment as a matter of law, arguing that the evidence was legally insufficient to support the jury's findings.",
+      "audio": "week17/day2_vocab_8.mp3"
+    },
+    {
+      "term": "structural relief",
+      "pronunciation": "/ˈstrʌktʃərəl rɪˈliːf/",
+      "definition_cn": "结构性救济，反垄断案件中法院命令企业进行分拆或资产处置的强制性措施，旨在从根本上恢复市场竞争结构。",
+      "example": "The remedy phase will determine whether structural relief — including a potential breakup of the merged entity — is warranted given the jury's monopolization findings.",
+      "audio": "week17/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The jury found in favor of [plaintiff] on [all / specific] claims, fixing [damages] at [amount] per [unit] across [scope].",
+      "example": "The jury found in favor of the plaintiff states on every claim and fixed aggregate single damages at $1.72 per ticket across approximately 20% of total tickets sold.",
+      "translation_cn": "陪审团就原告的全部诉因作出有利裁决，裁定每张票的累计单倍赔偿额为1.72美元，涵盖约20%的总票量。"
+    },
+    {
+      "pattern": "[Party] rejected [settlement / agreement] as inadequate and proceeded independently to [trial / arbitration], arguing that [behavioral / proposed] remedies were insufficient to [restore / remedy] [harm].",
+      "example": "Thirty-three states and the District of Columbia rejected this settlement as inadequate and proceeded independently to trial, arguing that behavioral remedies were insufficient to restore competitive conditions.",
+      "translation_cn": "33个州及哥伦比亚特区拒绝接受该和解协议，认为其不足以恢复竞争秩序，并独立推进至审判阶段。"
+    },
+    {
+      "pattern": "The verdict confirms that [actor] retains independent authority to pursue and prevail on [claim type] even following [federal / regulatory] [settlement / action].",
+      "example": "The verdict confirms that state attorneys general retain independent authority to pursue and prevail on sweeping antitrust actions even following federal settlement.",
+      "translation_cn": "该裁决确认，即便联邦层面已达成和解，各州总检察长仍独立享有提起并胜诉于大规模反垄断诉讼的权力。"
+    }
+  ],
+  "summary_cn": "2026年4月15日，纽约南区联邦陪审团裁定Live Nation及旗下Ticketmaster在所有联邦和州反垄断诉因上败诉，认定其非法垄断主要票务及露天剧场市场并实施捆绑销售。此前DOJ已就行为性救济与其和解，33个州拒绝接受并独立推进审判。法院将在救济阶段决定是否命令分拆该公司，此判决将深刻影响整个现场娱乐行业的竞争格局。",
+  "legal_analysis": "① 核心法律问题：本案核心在于Live Nation是否违反《谢尔曼法》第2条（单方垄断）及第1条（捆绑销售），以及联邦和解后各州是否仍可独立提起并胜诉于反垄断诉讼。\n\n② 美国法律框架分析：《谢尔曼法》第2条禁止通过反竞争行为取得或维持垄断地位，须证明被告拥有垄断力量且以排他性手段维持之。第1条捆绑诉因则要求证明两种独立产品被非法捆绑且对竞争产生实质损害。本案中各州援引州级不公平商业行为法规作为补充，使其在DOJ达成行为性救济和解后仍得独立推进，彰显美国联邦与州双轨并行的反垄断执法体制。结构性救济阶段将检验法院是否愿意援引1974年以来罕见适用的分拆令，意义重大。\n\n③ 对中国娱乐法律师的实践启示：中国企业在美运营票务或演出推广业务时，须警惕排他性预订协议的反垄断风险；同时，本案对捆绑销售的认定思路对在中国《反垄断法》框架下处理类似滥用市场支配地位案件具有重要参考价值。此外，美国各州独立执法机制提示跨境合规须同时应对多层次监管主体。",
+  "cn_us_comparison": "美国《谢尔曼法》以联邦与州双轨并行为特色，本案中各州总检察长在联邦DOJ和解后仍可独立起诉并获胜，体现了美国反垄断执法的多元主体格局。中国《反垄断法》（2022年修订版）同样禁止滥用市场支配地位及强制捆绑交易（第22条），但执法权集中于国家市场监督管理总局，地方市场监管局的独立执法权限远弱于美国各州。在救济层面，美国法院可裁定分拆等结构性救济，中国《反垄断法》第57条虽授权责令停止违法行为并没收违法所得、处以罚款，但尚无实践中命令分拆大型科技或娱乐企业的先例。此外，美国允许私人以三倍赔偿提起反垄断诉讼，中国《反垄断法》第60条虽允许民事索赔，但实践中私人诉讼胜诉率远低于美国。两国制度的根本差异在于司法独立性与多元执法主体的制度设计。",
+  "discussion_prompt": "Given that the DOJ's behavioral remedies settlement was effectively overridden by state-level litigation resulting in a full jury verdict, should federal antitrust settlements in cases involving dominant entertainment platforms be subject to mandatory judicial review for adequacy — and if so, what standard should courts apply to assess whether behavioral remedies sufficiently restore competition?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new antitrust verdict. Write 2-3 sentences describing: (1) what the jury found, (2) what remedy phase comes next, and (3) why the outcome is significant for future enforcement. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The jury found in favor of the plaintiff states on all monopolization and tying claims, fixing aggregate single damages based on a per-ticket overcharge across a defined share of total sales. The case now enters a remedy phase in which the court will consider whether structural relief — including a potential divestiture of the dominant ticketing subsidiary — is necessary to restore competitive conditions. Legal analysts note that the verdict establishes that state attorneys general retain independent authority to litigate and prevail on sweeping antitrust actions even where federal authorities have accepted behavioral remedies in settlement."
+  },
+  "youtube_rec": {
+    "title": "Live Nation Antitrust Verdict Explained: Sherman Act, Tying Claims & What Breakup Could Mean",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深入解析Live Nation反垄断陪审团裁决，涵盖《谢尔曼法》第1、2条的适用逻辑、捆绑销售诉因的构成要件、联邦与州执法分权机制，以及结构性分拆救济在现代反垄断法中的意义与实施难点，适合希望系统理解美国反垄断诉讼程序的法律从业者观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "'It Ends With Us' Settlement Postmortem: Blake Lively Made a Bold Wager on a Legal Theory and Lost",
+      "url": "https://www.hollywoodreporter.com/business/business-news/it-ends-with-us-settlement-blake-lively-1236622416/",
+      "description_cn": "分析Blake Lively援引加州反SLAPP相关法规寻求损害赔偿的法律策略如何被联邦法官驳回，揭示性骚扰受害者诉讼策略的边界与风险。",
+      "language": "en"
+    },
+    {
+      "title": "The Case For AI Authorship In Copyright Law",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5108423",
+      "description_cn": "学术论文探讨AI自主生成作品能否获得版权保护的理论依据，结合美国最高法院拒绝审查Thaler案的最新动态，分析人类作者原则的政策基础与未来走向。",
+      "language": "en"
+    }
+  ],
+  "week": 17,
+  "day": 2,
+  "date": "2026-07-15",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week17/day2.mp3"
+}
