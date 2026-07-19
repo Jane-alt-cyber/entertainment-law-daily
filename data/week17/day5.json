@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Live Nation Loses Jury Trial to States In Monopoly Case",
+    "source": "The Hollywood Reporter, April 15, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/live-nation-trial-verdict-1236561243/",
+    "text": "On April 15, 2026, a federal jury in the Southern District of New York found Live Nation Entertainment and its subsidiary Ticketmaster liable on every antitrust count submitted, delivering a landmark verdict after a five-week trial. The jury found the company liable on counts of monopolization of primary ticketing markets and illegal bundling of its promotions and venue operations — conduct that plaintiffs argued had squashed competitors and driven up ticket costs for fans across the live music business.\n\nThe case originated in May 2024 when the Department of Justice and nearly forty plaintiff states filed suit, making the rare and aggressive call to seek a structural breakup of Live Nation and Ticketmaster — more than a decade after the DOJ had originally permitted their merger. Core allegations centered on Live Nation's booking requirements at its amphitheaters and claims that the company strong-armed concert venues to use Ticketmaster as a condition of receiving access to Live Nation's concert slate. Plaintiffs alleged Live Nation controls 78% of large amphitheaters and, through Ticketmaster, 86% of primary ticketing at major concert venues.\n\nA significant mid-trial development arose when the DOJ reached a separate settlement with Live Nation on approximately March 5, 2026 — requiring the company to create a $280 million settlement fund and terminate booking agreements with 13 amphitheaters — but a coalition of 33 states rejected that deal and pressed forward to verdict. As part of the DOJ settlement, Live Nation also agreed to extend the consent decree originally entered in connection with the Ticketmaster merger, prohibiting it from withholding concerts from venues that use competing ticketing providers.\n\nOn the question of damages, the jury determined Live Nation and Ticketmaster had overcharged fans by $1.72 per ticket across 21 states and Washington D.C., with aggregate single damages estimated below $150 million given the limited scope of affected tickets. A judge will now decide on remedies, which could include a full structural breakup. Live Nation announced it would renew its motion for judgment as a matter of law and appeal any unfavorable rulings. Legal analysts note that pending Rule 50 and Rule 59 motions, a full remedy phase, and an all-but-certain appeal mean that a final outcome will not be known for years — yet the jury's clean sweep on liability gives the plaintiff states significant leverage and opens the door for a parallel wave of sports-ticketing litigation.",
+    "word_count": 354
+  },
+  "vocabulary": [
+    {
+      "term": "monopolization",
+      "pronunciation": "/məˌnɒpələˈzeɪʃən/",
+      "definition_cn": "垄断化行为，指单一主体通过排他性手段非法取得或维持对特定市场的支配地位，违反《谢尔曼法》第二条。",
+      "example": "The jury found that the defendant's monopolization of primary ticketing markets caused direct harm to consumers and rival firms alike.",
+      "audio": "week17/day5_vocab_0.mp3"
+    },
+    {
+      "term": "structural breakup",
+      "pronunciation": "/ˈstrʌktʃərəl ˈbreɪkʌp/",
+      "definition_cn": "结构性拆分，指法院或监管机构强制要求垄断企业将其整合业务分拆为独立实体，作为反托拉斯救济手段。",
+      "example": "Antitrust enforcers rarely seek a structural breakup, preferring behavioral remedies that are easier to monitor and enforce over time.",
+      "audio": "week17/day5_vocab_1.mp3"
+    },
+    {
+      "term": "illegal bundling",
+      "pronunciation": "/ɪˈliːɡəl ˈbʌndlɪŋ/",
+      "definition_cn": "非法捆绑，指企业将独立产品或服务强制捆绑出售，以排斥竞争对手并巩固市场支配地位，构成反竞争行为。",
+      "example": "Regulators argued that the company's illegal bundling of promotion services with venue access foreclosed competition in both markets simultaneously.",
+      "audio": "week17/day5_vocab_2.mp3"
+    },
+    {
+      "term": "consent decree",
+      "pronunciation": "/kənˈsɛnt dɪˈkriː/",
+      "definition_cn": "同意令，是政府与被调查方就反垄断或监管事项达成的具有法院约束力的协议，规定被告须遵守特定行为要求。",
+      "example": "Live Nation agreed to extend the consent decree prohibiting it from conditioning concert access on a venue's choice of ticketing provider.",
+      "audio": "week17/day5_vocab_3.mp3"
+    },
+    {
+      "term": "settlement fund",
+      "pronunciation": "/ˈsɛtlmənt fʌnd/",
+      "definition_cn": "和解基金，指被告方依据和解协议设立的专项资金池，用于向受害方支付赔偿，常见于集体诉讼或政府执法和解。",
+      "example": "The $280 million settlement fund was intended to compensate venues and consumers harmed by the defendant's anticompetitive practices.",
+      "audio": "week17/day5_vocab_4.mp3"
+    },
+    {
+      "term": "booking agreements",
+      "pronunciation": "/ˈbʊkɪŋ əˈɡriːmənts/",
+      "definition_cn": "预订协议，指演出公司与场馆之间约定演出档期、独家安排及相关条件的合同，可成为排他性反竞争安排的载体。",
+      "example": "The settlement required Live Nation to terminate booking agreements with 13 amphitheaters that had effectively locked out rival promoters.",
+      "audio": "week17/day5_vocab_5.mp3"
+    },
+    {
+      "term": "aggregate single damages",
+      "pronunciation": "/ˈæɡrɪɡɪt ˈsɪŋɡəl ˈdæmɪdʒɪz/",
+      "definition_cn": "单倍总损害赔偿，指陪审团在反托拉斯案件中确定的未经三倍惩罚性叠加的基础损害总额，法院可依法三倍化。",
+      "example": "Although aggregate single damages were estimated below $150 million, trebling under Section 4 of the Clayton Act could significantly amplify Live Nation's exposure.",
+      "audio": "week17/day5_vocab_6.mp3"
+    },
+    {
+      "term": "motion for judgment as a matter of law",
+      "pronunciation": "/ˈmoʊʃən fər ˈdʒʌdʒmənt æz ə ˈmætər əv lɔː/",
+      "definition_cn": "法律问题即决判决动议（Rule 50动议），指败诉方主张陪审团裁决缺乏充分证据支持，请求法院推翻裁决的程序性救济。",
+      "example": "Live Nation promptly announced it would renew its motion for judgment as a matter of law, challenging the evidentiary basis of the jury's liability findings.",
+      "audio": "week17/day5_vocab_7.mp3"
+    },
+    {
+      "term": "remedy phase",
+      "pronunciation": "/ˈrɛmədi feɪz/",
+      "definition_cn": "救济阶段，指反垄断诉讼中责任认定后由法官单独裁量救济措施（如拆分、行为禁令或赔偿）的司法程序阶段。",
+      "example": "During the remedy phase, the court will consider whether a full structural breakup is necessary to restore competitive conditions in the affected markets.",
+      "audio": "week17/day5_vocab_8.mp3"
+    },
+    {
+      "term": "plaintiff states",
+      "pronunciation": "/ˈpleɪntɪf steɪts/",
+      "definition_cn": "原告州，指以州检察长为代表、作为联合原告参与联邦反垄断诉讼的各州政府，代表其辖区消费者及公共利益主张权利。",
+      "example": "A coalition of 33 plaintiff states rejected the DOJ's settlement and pressed forward to obtain a full jury verdict on all antitrust counts.",
+      "audio": "week17/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The jury found [party] liable on every [legal count] submitted, including [specific violations].",
+      "example": "The jury found Live Nation Entertainment and its subsidiary Ticketmaster liable on every antitrust count submitted, including monopolization of primary ticketing markets and illegal bundling of its promotions and venue operations.",
+      "translation_cn": "陪审团认定Live Nation娱乐公司及其子公司Ticketmaster在提交的每项反垄断指控上均负有责任，包括对初级票务市场的垄断化以及对演出推广与场馆运营的非法捆绑。"
+    },
+    {
+      "pattern": "Although [party] reached a separate settlement requiring [obligations], a coalition of [number] [parties] rejected that deal and pressed forward to [outcome].",
+      "example": "Although the DOJ reached a separate settlement requiring Live Nation to create a $280 million settlement fund and terminate booking agreements with 13 amphitheaters, a coalition of 33 states rejected that deal and pressed forward to verdict.",
+      "translation_cn": "尽管司法部单独达成了要求Live Nation设立2.8亿美元和解基金并终止与13家露天剧场预订协议的和解，33个州组成的联盟仍拒绝接受该协议并坚持推进至陪审团裁决。"
+    },
+    {
+      "pattern": "Pending [procedural motions], a full [phase], and an all-but-certain [appellate action], the final outcome will not be known for years — yet the [finding] gives [party] significant leverage to [consequence].",
+      "example": "Pending Rule 50 and Rule 59 motions, a full remedy phase, and an all-but-certain appeal, the final outcome will not be known for years — yet the jury's clean sweep on liability gives the plaintiff states significant leverage to pursue a structural breakup.",
+      "translation_cn": "在Rule 50和Rule 59动议、完整救济阶段以及几乎必然发生的上诉均悬而未决的情况下，最终结果可能数年内无法确定——然而陪审团在责任认定上的全面胜诉赋予了原告州追求结构性拆分的重大筹码。"
+    }
+  ],
+  "summary_cn": "2026年4月，纽约南区联邦陪审团裁定Live Nation及Ticketmaster在每项反垄断指控上均负有责任，认定其对初级票务市场存在垄断化行为及非法捆绑。司法部虽已单独达成含2.8亿美元和解基金的和解，但33个州拒绝接受并坚持至裁决。法官将于救济阶段决定是否对两家公司实施结构性拆分，Live Nation宣布将提出即决判决动议并上诉。",
+  "legal_analysis": "① 核心法律问题：本案核心在于Live Nation是否违反《谢尔曼法》第二条，通过垄断化手段维持其在初级票务市场及大型露天剧场领域的支配地位，并以非法捆绑排斥竞争对手。\n\n② 美国法律框架分析：《谢尔曼法》第一条禁止限制贸易的合谋，第二条禁止垄断或企图垄断。《克莱顿法》第四条赋予私人原告三倍损害赔偿权。本案中，政府罕见地寻求结构性拆分救济，而非通常偏好的行为性同意令，体现出拜登及后续政府对反垄断执法态度的强硬转变。陪审团对全部指控的认定为原告在随后的救济阶段确立了坚实基础，法院可依衡平权力命令拆分。\n\n③ 对中国娱乐法律师的实践启示：中国客户若与Live Nation或Ticketmaster存在合作协议，需评估其条款在美国反垄断诉讼后续救济阶段的效力风险。此外，本案揭示垂直整合型娱乐集团在多国市场可能面临的监管压力，提示中国企业赴美投资演出行业时应进行充分的反垄断尽职调查，并在合同中设置监管变化风险条款。",
+  "cn_us_comparison": "美国方面，本案依据《谢尔曼法》第二条追究垄断化责任，救济手段可延伸至强制企业结构性拆分，体现出美国反垄断法对市场竞争结构的直接干预能力。中国方面，《反垄断法》（2022年修订）同样禁止经营者滥用市场支配地位，包括搭售或附加不合理交易条件（第二十二条），并设有行政处罚和责令停止违法行为等救济手段，但中国法院对强制拆分企业结构的运用极为罕见。在执法主体上，中国由国家市场监督管理局负责反垄断审查，而美国则呈现司法部、联邦贸易委员会与各州检察长并行执法的多元格局。本案33州联合原告推进诉讼的模式，与中国集中统一的行政执法模式形成鲜明对比，对跨境娱乐集团的合规策略设计具有重要参考价值。",
+  "discussion_prompt": "Given that the DOJ settled while 33 states pressed forward to a full jury verdict, does the parallel enforcement model — allowing state attorneys general to independently pursue antitrust remedies beyond federal settlements — represent a structural safeguard for competitive markets, or does it create unacceptable legal uncertainty for businesses operating under consent decrees they reasonably believed resolved their regulatory exposure?",
+  "writing_exercise": {
+    "prompt": "Imagine you are drafting a legal brief summary for a client in the live events industry. In 2-3 sentences, describe the jury's findings, the significance of the plaintiff states' decision to reject the DOJ settlement, and the uncertainty that remains ahead.",
+    "model_answer": "The jury found Live Nation Entertainment and its subsidiary Ticketmaster liable on every antitrust count submitted, including monopolization of primary ticketing markets and illegal bundling of promotions and venue operations. Although the DOJ reached a separate settlement requiring the creation of a $280 million settlement fund and termination of booking agreements with 13 amphitheaters, a coalition of 33 plaintiff states rejected that deal and pressed forward to obtain a full verdict on liability. Pending Rule 50 and Rule 59 motions, a full remedy phase, and an all-but-certain appeal, the final outcome — including the possibility of a structural breakup — will not be known for years."
+  },
+  "youtube_rec": {
+    "title": "Live Nation Antitrust Verdict Explained: Monopolization, Structural Breakup & What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频解析Live Nation反垄断陪审团裁决的法律含义，涵盖《谢尔曼法》第二条垄断化认定标准、结构性拆分救济的历史先例（如AT&T案），以及救济阶段和上诉程序对企业的实际影响，适合希望了解美国反垄断执法运作机制的法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+      "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+      "description_cn": "Billboard法律综述涵盖Snoop Dogg NFT未授权使用保密和解、Jay-Z反勒索诉讼败诉，及最高法院受理Cox通信10亿美元音乐盗版裁决复审等重磅娱乐法动态。",
+      "language": "en"
+    },
+    {
+      "title": "The AI Input Class: Constitutional Urgency and Fair Licensing in AI Copyright Class Actions",
+      "url": "https://jipel.law.nyu.edu/the-ai-input-class-constitutional-urgency-and-fair-licensing-in-ai-copyright-class-actions/",
+      "description_cn": "纽约大学知识产权与娱乐法学刊学术文章，主张AI版权集体诉讼具有宪法层面紧迫性，任何公平许可制度须超越单纯货币补偿以保护人类创作主体性。",
+      "language": "en"
+    }
+  ],
+  "week": 17,
+  "day": 5,
+  "date": "2026-07-20",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week17/day5.mp3"
+}
