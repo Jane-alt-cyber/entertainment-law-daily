@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Music Publishers and X Settle Opposing Lawsuits After Three-Year Copyright Battle",
+    "source": "Hollywood Reporter / Music Business Worldwide, July 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-news/music-publishers-x-lawsuit-settlement-discussions-1236292639/",
+    "text": "One of the most significant entertainment law disputes of recent years came to a quiet close in July 2026, when Elon Musk's social media platform X and a coalition of major music publishers filed joint stipulations of dismissal in two separate federal courts, ending a three-year legal war over music copyright infringement on the platform.\n\nThe dispute originated in June 2023, when the National Music Publishers' Association (NMPA), representing 17 member publishers including Universal Music Publishing Group, Sony Music Publishing, and Warner Chappell Music, filed a $250 million copyright infringement lawsuit against X in the U.S. District Court for the Middle District of Tennessee. The publishers alleged that the platform had consistently and knowingly hosted and streamed infringing copies of approximately 1,700 musical compositions without obtaining licenses, while competitors such as TikTok and YouTube had all entered into licensing agreements. The suit sought statutory damages of up to $150,000 per infringed work and asserted claims of direct infringement, contributory infringement, and vicarious infringement.\n\nIn March 2024, Judge Aleta A. Trauger narrowed the case significantly, dismissing the claims of direct and vicarious infringement but allowing the publishers to proceed on a portion of their contributory infringement claim — specifically, the allegation that X extended more lenient treatment to paying \"verified\" users who posted infringing content.\n\nThe legal landscape grew more combative in January 2026 when X escalated the dispute by filing its own antitrust lawsuit against the NMPA and 18 individual music publishers in the U.S. District Court for the Northern District of Texas. X alleged a years-long campaign by publishers to leverage monopoly power and force the platform into acquiring licenses at inflated, non-competitive rates, claiming it had been denied the ability to acquire a U.S. musical-composition license from any individual music publisher on competitive terms.\n\nUltimately, both lawsuits were dismissed with prejudice under Federal Rule of Civil Procedure 41(a)(1)(A)(ii), with each side bearing its own legal costs and attorneys' fees. A dismissal with prejudice is final and bars both sides from refiling — the publishers cannot refile their copyright claims, and X cannot refile its antitrust claims. The terms of any financial settlement, and whether X agreed to enter into forward-looking music licensing arrangements, were not disclosed in the stipulations filed with the courts. The resolution leaves important questions unanswered for the industry, particularly regarding the platform licensing obligations of social media companies and the boundaries of contributory copyright liability in the digital streaming environment.",
+    "word_count": 372
+  },
+  "vocabulary": [
+    {
+      "term": "stipulations of dismissal",
+      "pronunciation": "/ˌstɪp.jʊˈleɪ.ʃənz əv dɪˈsmɪs.əl/",
+      "definition_cn": "撤诉协议，即双方当事人共同签署的终止诉讼文件，向法院提交以正式结案，无需法官裁定。",
+      "example": "The parties filed joint stipulations of dismissal after reaching a confidential financial settlement on the final day of mediation.",
+      "audio": "week18/day2_vocab_0.mp3"
+    },
+    {
+      "term": "contributory infringement",
+      "pronunciation": "/kənˈtrɪb.jʊ.tər.i ɪnˈfrɪndʒ.mənt/",
+      "definition_cn": "辅助侵权，指明知他人实施侵权行为仍予以实质性协助或诱导，从而承担共同侵权责任的法律理论。",
+      "example": "The court found sufficient evidence of contributory infringement because the platform had actual knowledge of infringing uploads and failed to act on takedown requests.",
+      "audio": "week18/day2_vocab_1.mp3"
+    },
+    {
+      "term": "vicarious infringement",
+      "pronunciation": "/vɪˈkeər.i.əs ɪnˈfrɪndʒ.mənt/",
+      "definition_cn": "替代侵权，指对侵权行为具有监控能力且从中获益的当事方所承担的间接侵权责任，无需证明其主观知情。",
+      "example": "Because the operator had both the ability to supervise user uploads and a direct financial benefit from the infringing material, plaintiffs pleaded vicarious infringement alongside their primary claims.",
+      "audio": "week18/day2_vocab_2.mp3"
+    },
+    {
+      "term": "dismissed with prejudice",
+      "pronunciation": "/dɪˈsmɪst wɪð ˈprɛdʒ.ʊ.dɪs/",
+      "definition_cn": "有偏见撤案（终局驳回），指法院永久终结诉讼请求，禁止当事方就同一事由再次提起诉讼。",
+      "example": "Once the claims were dismissed with prejudice, the copyright holders lost their right to seek statutory damages in any future proceeding based on the same alleged infringements.",
+      "audio": "week18/day2_vocab_3.mp3"
+    },
+    {
+      "term": "statutory damages",
+      "pronunciation": "/ˈstætʃ.ʊ.tər.i ˈdæm.ɪdʒ.ɪz/",
+      "definition_cn": "法定赔偿金，依据版权法等成文法规定的固定赔偿金额，无需权利人举证实际损失，每件侵权作品最高可达150,000美元。",
+      "example": "The publishers strategically elected statutory damages rather than actual damages, given the difficulty of quantifying lost royalties across 1,700 individual compositions.",
+      "audio": "week18/day2_vocab_4.mp3"
+    },
+    {
+      "term": "antitrust lawsuit",
+      "pronunciation": "/ˈæn.ti.trʌst ˈlɔː.suːt/",
+      "definition_cn": "反垄断诉讼，依据《谢尔曼法》等反垄断法规提起的诉讼，指控被告滥用市场支配地位、妄图垄断或合谋限制竞争。",
+      "example": "X's antitrust lawsuit accused the publisher coalition of coordinating to deny competitors access to licenses on commercially reasonable terms, in violation of federal competition statutes.",
+      "audio": "week18/day2_vocab_5.mp3"
+    },
+    {
+      "term": "monopoly power",
+      "pronunciation": "/məˈnɒp.ə.li ˈpaʊ.ər/",
+      "definition_cn": "垄断力量，指某一市场主体对特定相关市场具有控制价格或排除竞争的支配能力，是反垄断法规制的核心要件。",
+      "example": "To prevail on its antitrust claim, X would have needed to demonstrate that the publishers collectively possessed monopoly power over the market for U.S. musical-composition licensing.",
+      "audio": "week18/day2_vocab_6.mp3"
+    },
+    {
+      "term": "Federal Rule of Civil Procedure 41(a)(1)(A)(ii)",
+      "pronunciation": "/ˈfɛd.ər.əl ruːl əv ˈsɪv.əl prəˈsiːdʒər ˈfɔːti wʌn eɪ wʌn eɪ tuː/",
+      "definition_cn": "《联邦民事诉讼规则》第41(a)(1)(A)(ii)条，允许原告在对方已答辩后经所有当事方签署书面协议方式撤回诉讼，无需法院批准。",
+      "example": "Counsel confirmed that the dismissal was effectuated under Federal Rule of Civil Procedure 41(a)(1)(A)(ii), requiring only the countersignatures of all appearing parties rather than judicial approval.",
+      "audio": "week18/day2_vocab_7.mp3"
+    },
+    {
+      "term": "direct infringement",
+      "pronunciation": "/dəˈrɛkt ɪnˈfrɪndʒ.mənt/",
+      "definition_cn": "直接侵权，指行为人未经授权直接实施复制、传播或展示受保护作品等行为，是版权侵权最基本的责任形式。",
+      "example": "The court dismissed the direct infringement claim after concluding that X itself did not perform the acts of copying and distributing the protected compositions — its users did.",
+      "audio": "week18/day2_vocab_8.mp3"
+    },
+    {
+      "term": "attorneys' fees",
+      "pronunciation": "/əˈtɜːr.niz fiːz/",
+      "definition_cn": "律师费，指诉讼中一方当事人支付给其代理律师的报酬；在和解协议中约定各自承担律师费意味着败诉方无需补偿胜诉方的诉讼成本。",
+      "example": "The settlement agreement provided that each party would bear its own attorneys' fees, eliminating any fee-shifting obligation under the Copyright Act's prevailing-party provision.",
+      "audio": "week18/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged that [defendant] had [unlawful conduct], while [competitors] had [compliant conduct], and sought [remedy] per [unit of infringement].",
+      "example": "The publishers alleged that X had knowingly hosted infringing compositions without obtaining licenses, while competitors such as TikTok and YouTube had all entered into licensing agreements, and sought statutory damages of up to $150,000 per infringed work.",
+      "translation_cn": "出版商主张X平台在明知情况下托管侵权作品且未取得授权，而TikTok、YouTube等竞争对手均已签署许可协议，并就每件侵权作品主张高达15万美元的法定赔偿金。"
+    },
+    {
+      "pattern": "The court dismissed [claim A] and [claim B] but allowed [party] to proceed on [surviving claim], specifically the allegation that [factual basis].",
+      "example": "The court dismissed the claims of direct and vicarious infringement but allowed the publishers to proceed on a portion of their contributory infringement claim, specifically the allegation that X extended more lenient treatment to paying 'verified' users who posted infringing content.",
+      "translation_cn": "法院驳回了直接侵权与替代侵权的诉求，但允许出版商就辅助侵权主张的部分内容继续推进，具体依据是X对发布侵权内容的付费\"认证\"用户给予了更为宽松的处理。"
+    },
+    {
+      "pattern": "Both [actions] were dismissed with prejudice under [procedural rule], with each side bearing its own [costs], leaving unresolved the broader question of [policy issue].",
+      "example": "Both lawsuits were dismissed with prejudice under Federal Rule of Civil Procedure 41(a)(1)(A)(ii), with each side bearing its own attorneys' fees, leaving unresolved the broader question of platform licensing obligations for social media companies.",
+      "translation_cn": "两起诉讼均依据《联邦民事诉讼规则》第41(a)(1)(A)(ii)条以有偏见撤案方式终结，各方自行承担律师费，而社交媒体平台许可义务这一更宏观的政策问题仍悬而未决。"
+    }
+  ],
+  "summary_cn": "2026年7月，X平台与主要音乐出版商在历经三年的版权与反垄断交叉诉讼后达成和解，双方依据《联邦民事诉讼规则》第41(a)(1)(A)(ii)条共同提交撤诉文件，以有偏见方式终结诉讼。该纠纷源于2023年出版商以辅助侵权为由提起的2.5亿美元诉讼，后因X反诉垄断而激化。财务条款及是否签署前向许可协议均未披露，平台版权责任边界问题仍待厘清。",
+  "legal_analysis": "① 核心法律问题：本案聚焦两个相互交织的议题——社交媒体平台对用户上传侵权内容是否构成辅助侵权（contributory infringement），以及出版商的集体许可行为是否触发反垄断法律风险。法院2024年的部分裁定确认，若平台对付费\"认证\"用户的侵权行为给予差别化宽容处理，则可能成立辅助侵权，这一认定对平台内容审核政策具有深远影响。\n\n② 美国法律框架：版权侵权责任体系以《美国版权法》第501条为基础，区分直接侵权、辅助侵权（知情+实质性协助）与替代侵权（控制能力+直接经济利益）三种形态。平台通常依赖《数字千年版权法》（DMCA）第512条的安全港抗辩；本案的关键在于，X被指对特定用户选择性不作为，可能丧失安全港资格。X的反诉则援引《谢尔曼法》第2条，指控出版商集体拒绝以竞争性条款许可，构成反垄断违法。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理涉及国际平台的版权授权谈判时，应关注\"平台用户行为差别化处理\"是否构成辅助侵权的判断标准；同时，在设计音乐版权集体许可架构时，须评估集体议价行为的反垄断合规风险，与美国实践形成参照。",
+  "cn_us_comparison": "在版权侵权责任体系上，中美两国均区分直接侵权与间接侵权，但制度设计存在显著差异。美国《版权法》第512条（DMCA）为符合条件的网络服务商提供安全港保护，条件包括建立\"重复侵权者\"终止政策及对通知-下架（notice-and-takedown）机制的响应；中国《著作权法》（2020年修订）第53条及《信息网络传播权保护条例》第22至24条亦设有类似的\"通知-删除\"规则，但对\"明知\"或\"应知\"的认定标准更具弹性，司法实践中法院倾向于对大型商业平台适用较高的注意义务标准。\n\n在法定赔偿金方面，美国单件作品最高可达150,000美元（恶意侵权），而中国《著作权法》第54条规定法定赔偿上限为500万元人民币（整体案件），差距悬殊。反垄断层面，中国《反垄断法》（2022年修订）同样规制集体拒绝交易行为，但音乐版权集体管理组织（如中国音乐著作权协会）受国家主管部门监管，其定价机制与美国NMPA的市场化谈判模式存在本质区别，中国律师须注意两套制度逻辑的根本差异。",
+  "discussion_prompt": "Given that the court allowed the contributory infringement claim to survive specifically because X allegedly treated paying 'verified' users more leniently when they posted infringing content, should tiered subscription models on social media platforms be treated as evidence of a platform's ability to 'control' infringing activity for the purposes of copyright liability — and what are the policy implications of that standard for the broader safe harbor framework under the DMCA?",
+  "writing_exercise": {
+    "prompt": "Imagine a streaming platform is sued for copyright infringement by a group of independent film studios. Write 2-3 sentences describing the claims asserted, the court's ruling on those claims, and the procedural outcome, using the sentence patterns from this lesson.",
+    "model_answer": "The studios alleged that the platform had systematically cached and redistributed protected film titles without authorization, while rival platforms had all secured blanket synchronization licenses, and sought statutory damages of up to $150,000 per infringed work under 17 U.S.C. § 504(c). The court dismissed the claims of direct and vicarious infringement but allowed the studios to proceed on their contributory infringement claim, specifically the allegation that the platform had failed to terminate repeat infringers despite repeated written notices. Ultimately, both the infringement action and the platform's retaliatory declaratory judgment action were dismissed with prejudice under Federal Rule of Civil Procedure 41(a)(1)(A)(ii), with each side bearing its own attorneys' fees, leaving unresolved the broader question of whether algorithmic curation constitutes the requisite 'material contribution' to a user's infringing act."
+  },
+  "youtube_rec": {
+    "title": "Platform Copyright Liability Explained: Direct, Contributory & Vicarious Infringement Under U.S. Law",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频系统讲解美国版权法三种侵权责任形态（直接侵权、辅助侵权、替代侵权）的构成要件，并结合DMCA安全港制度分析社交媒体平台如何通过\"通知-下架\"机制规避侵权责任，适合希望理解平台版权合规框架的法律从业者参考。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，深度分析合理使用原则、AI训练数据版权及商标保护三大前沿议题的司法走向。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法学院年度综述，全面梳理2025至2026年AI版权、DMCA重复侵权政策、第230条算法责任及年龄验证立法等互联网娱乐法核心判例与立法动态。",
+      "language": "en"
+    }
+  ],
+  "week": 18,
+  "day": 2,
+  "date": "2026-07-22",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week18/day2.mp3"
+}
