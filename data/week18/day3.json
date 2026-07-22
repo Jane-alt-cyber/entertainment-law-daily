@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Disney, Universal Launch AI Legal Battle, Sue Midjourney Over Copyright Claims",
+    "source": "The Hollywood Reporter, June 12, 2025",
+    "url": "https://www.hollywoodreporter.com/business/business-news/disney-universal-midjourney-1236262563/",
+    "text": "On June 11, 2025, Disney and Universal filed a landmark joint copyright infringement lawsuit against AI image generator Midjourney in the U.S. District Court for the Central District of California. The 110-page complaint was brought by seven major entertainment entities — including Disney Enterprises, Marvel Characters, Inc., Lucasfilm Ltd., 20th Century Fox Film Corporation, Universal City Studios Productions LLLP, and DreamWorks Animation — marking the first major legal action by Hollywood studios against a generative AI company.\n\nAt the core of the complaint is the allegation that Midjourney's AI image generation service functions as a 'virtual vending machine, generating endless unauthorized copies of Disney's and Universal's copyrighted works.' The studios allege that Midjourney trained its AI models on their copyrighted material without authorization and continues to generate, publicly display, and distribute derivative images of iconic characters including Darth Vader, Elsa, Bart Simpson, Shrek, and the Minions — often without users even naming the characters directly in their prompts.\n\nThe complaint further alleges that Midjourney was capable of generating highly realistic depictions of protected characters in response to entirely generic prompts such as 'animated toys' or 'popular movie screencap,' illustrating the depth of the alleged infringement embedded in the model's training data. Despite formal cease-and-desist letters from both studios, Midjourney allegedly 'doubled down' by releasing more advanced versions of its tool and developing a forthcoming commercial video generation service, rather than implementing filtering or screening measures.\n\nThe studios assert claims of both direct and secondary copyright infringement under the Copyright Act. They are seeking a jury trial, an injunction to immediately halt the copying and distribution of infringing content, and unspecified monetary damages. Disney's Chief Legal Officer Horacio Gutierrez stated: 'Piracy is piracy, and the fact that it's done by an AI company does not make it any less infringing.' NBCUniversal's Executive VP and General Counsel Kim Harris added that the lawsuit aims 'to protect the hard work of all the artists whose work entertains and inspires us.' The Motion Picture Association's chief Charles Rivkin also weighed in, emphasizing that strong copyright protection is foundational to the creative industry. The case is widely viewed as a pivotal test of whether AI training on copyrighted material constitutes fair use — a question that could fundamentally reshape both the AI and entertainment industries.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "版权侵权，指未经授权使用、复制或传播受版权保护作品的行为，可追究民事或刑事责任。",
+      "example": "The studios' complaint detailed multiple counts of copyright infringement arising from Midjourney's unauthorized use of protected character images.",
+      "audio": "week18/day3_vocab_0.mp3"
+    },
+    {
+      "term": "derivative images",
+      "pronunciation": "/dɪˈrɪvətɪv ˈɪmɪdʒɪz/",
+      "definition_cn": "衍生图像，指基于原版权作品改编或演绎产生的图像，受《版权法》规制，须经原权利人授权方可制作。",
+      "example": "The complaint alleged that Midjourney's outputs constituted derivative images of iconic characters without the studios' authorization.",
+      "audio": "week18/day3_vocab_1.mp3"
+    },
+    {
+      "term": "cease-and-desist letters",
+      "pronunciation": "/siːs ænd dɪˈzɪst ˈlɛtəz/",
+      "definition_cn": "停止侵权通知函，权利人在正式诉讼前要求侵权方立即停止特定违法行为的书面法律警告。",
+      "example": "Despite receiving cease-and-desist letters from both studios, Midjourney continued to release updated versions of its AI tool.",
+      "audio": "week18/day3_vocab_2.mp3"
+    },
+    {
+      "term": "secondary copyright infringement",
+      "pronunciation": "/ˈsɛkəndri ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "间接版权侵权，指当事人虽未直接实施侵权，但通过协助、诱导或从他人侵权行为中获益而承担的法律责任。",
+      "example": "The studios asserted claims of secondary copyright infringement on the grounds that Midjourney facilitated users in generating unauthorized copies.",
+      "audio": "week18/day3_vocab_3.mp3"
+    },
+    {
+      "term": "injunction",
+      "pronunciation": "/ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "禁令，法院命令当事人立即停止或禁止实施特定行为的司法救济手段，可为临时性或永久性。",
+      "example": "The plaintiffs sought an injunction to immediately halt the copying and distribution of infringing content by Midjourney.",
+      "audio": "week18/day3_vocab_4.mp3"
+    },
+    {
+      "term": "monetary damages",
+      "pronunciation": "/ˈmɒnɪtri ˈdæmɪdʒɪz/",
+      "definition_cn": "金钱赔偿，法院判令侵权方向权利人支付的经济赔偿金，可包括实际损失、法定赔偿及惩罚性赔偿。",
+      "example": "In addition to injunctive relief, Disney and Universal sought unspecified monetary damages for the alleged harm caused by Midjourney.",
+      "audio": "week18/day3_vocab_5.mp3"
+    },
+    {
+      "term": "fair use",
+      "pronunciation": "/fɛr juːs/",
+      "definition_cn": "合理使用原则，《版权法》第107条规定的侵权豁免制度，允许在教育、评论等特定目的下有限使用受保护作品而无需授权。",
+      "example": "The central legal question in the case is whether AI training on copyrighted material constitutes fair use under the Copyright Act.",
+      "audio": "week18/day3_vocab_6.mp3"
+    },
+    {
+      "term": "Copyright Act",
+      "pronunciation": "/ˈkɒpɪraɪt ækt/",
+      "definition_cn": "美国《版权法》，即1976年版权法典（17 U.S.C.），规定版权保护范围、期限、侵权认定及救济措施的联邦成文法。",
+      "example": "The studios asserted both direct and secondary copyright infringement claims under the Copyright Act.",
+      "audio": "week18/day3_vocab_7.mp3"
+    },
+    {
+      "term": "generative AI",
+      "pronunciation": "/ˈdʒɛnərətɪv eɪ aɪ/",
+      "definition_cn": "生成式人工智能，指能够基于训练数据自动生成文本、图像、音频等新内容的AI系统，其法律地位在版权框架下尚存争议。",
+      "example": "The lawsuit against Midjourney represents the first major legal action by Hollywood studios against a generative AI company.",
+      "audio": "week18/day3_vocab_8.mp3"
+    },
+    {
+      "term": "jury trial",
+      "pronunciation": "/ˈdʒʊəri ˈtraɪəl/",
+      "definition_cn": "陪审团审判，美国宪法第七修正案赋予民事当事人就事实争议寻求陪审团裁决的权利，常见于版权和商标侵权案件。",
+      "example": "Disney and Universal demanded a jury trial, seeking to have a panel of jurors determine the facts of the alleged infringement.",
+      "audio": "week18/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] assert[s] claims of [legal theory] under [statute], seeking [remedy].",
+      "example": "The studios assert claims of both direct and secondary copyright infringement under the Copyright Act, seeking an injunction and unspecified monetary damages.",
+      "translation_cn": "原告依据《版权法》主张直接及间接版权侵权责任，寻求禁令救济及不特定金钱赔偿。"
+    },
+    {
+      "pattern": "Despite [prior warning or notice], [defendant] allegedly [continued wrongful conduct] rather than [remedial action].",
+      "example": "Despite formal cease-and-desist letters from both studios, Midjourney allegedly 'doubled down' by releasing more advanced versions of its tool rather than implementing filtering or screening measures.",
+      "translation_cn": "尽管两家制片公司已发出正式停止侵权通知函，Midjourney据称不但未采取过滤措施，反而变本加厉发布更先进的工具版本。"
+    },
+    {
+      "pattern": "The case is widely viewed as a pivotal test of whether [legal doctrine] applies to [novel context] — a question that could fundamentally reshape [affected industries].",
+      "example": "The case is widely viewed as a pivotal test of whether fair use applies to AI training on copyrighted material — a question that could fundamentally reshape both the AI and entertainment industries.",
+      "translation_cn": "本案被广泛视为检验合理使用原则能否适用于AI版权数据训练这一新型场景的关键测试，其结论可能从根本上重塑人工智能与娱乐两大产业。"
+    }
+  ],
+  "summary_cn": "2025年6月，迪士尼与环球影业联合对AI图像生成公司Midjourney提起版权侵权诉讼，指控其未经授权以受版权保护的作品训练AI模型，并持续生成、传播达斯·维达、艾莎等标志性角色的衍生图像。两大制片公司主张直接及间接侵权责任，寻求禁令救济及金钱赔偿，并要求陪审团审判。本案被视为检验AI训练数据能否援引合理使用抗辩的里程碑案件。",
+  "legal_analysis": "① 核心法律问题：本案聚焦两大争点——其一，Midjourney以版权作品训练AI模型是否构成《版权法》第107条项下的合理使用；其二，AI系统自动生成的衍生图像是否构成直接及间接版权侵权。\n\n② 美国法律框架分析：在美国版权法框架下，合理使用抗辩须综合考量四要素：使用目的与性质（是否具有转化性）、原作品性质、使用比例，以及对原作品市场的影响。AI公司通常援引\"转化性使用\"（transformative use）主张，但法院尚未就大规模商业训练场景作出权威裁判。就间接侵权而言，原告需证明被告对他人侵权行为具有引诱、协助或替代责任（contributory or vicarious liability），这与Midjourney明知接获停止侵权通知后仍升级产品的事实高度相关。\n\n③ 对中国娱乐法律师的实践启示：中国IP权利人在授权谈判及合同起草中，应明确约定AI训练场景的使用禁止条款，并在知识产权许可协议中设置针对AI生成内容的使用限制与违约赔偿机制。同时，本案对中国AI企业的海外合规战略具有重要参考价值——未经授权抓取境外版权内容用于模型训练，将面临重大法律风险。",
+  "cn_us_comparison": "在版权保护框架上，中美两国存在显著的制度差异。美国《版权法》（17 U.S.C.）设有合理使用（fair use）弹性例外制度，由法院依四要素灵活认定，为AI训练数据纠纷留下较大司法解释空间。中国《著作权法》（2020年修订）第24条则采\"合理使用\"法定列举模式，明确规定12种免责情形，未列举情形原则上不得豁免，对AI训练场景的适用性更为有限。\n\n就间接侵权责任而言，美国判例法发展出\"引诱侵权\"与\"替代责任\"等精细化理论；中国《著作权法》第53条及《信息网络传播权保护条例》亦规定了帮助侵权责任，但司法实践中认定标准与美国存在差异。此外，中国《生成式人工智能服务管理暂行办法》（2023年）已率先就AI训练数据合规作出专项规定，要求训练数据不得侵犯他人知识产权，在立法回应速度上具有一定先发优势，但执法实践尚待观察。",
+  "discussion_prompt": "If courts ultimately rule that training generative AI models on copyrighted material does not constitute fair use, should legislatures create a new statutory licensing regime specifically for AI training data — and what risks would such a regime pose to both copyright holders and AI developers?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a major animation studio. Write 2-3 sentences in the style of the reading, asserting copyright infringement claims against a hypothetical AI company called 'ImagiBot' and specifying the remedies your client is seeking.",
+    "model_answer": "The studio asserts claims of both direct and secondary copyright infringement under the Copyright Act, alleging that ImagiBot trained its generative AI models on the studio's copyrighted character designs without authorization and continues to distribute derivative images in response to generic user prompts. Despite formal cease-and-desist letters demanding that ImagiBot implement filtering measures, the company allegedly doubled down by launching a new commercial video generation service. The studio is seeking an injunction to immediately halt all infringing activity, a jury trial, and unspecified monetary damages commensurate with the scope of the alleged infringement."
+  },
+  "youtube_rec": {
+    "title": "Disney vs. Midjourney Explained: AI Copyright Infringement, Fair Use & What It Means for Hollywood",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频从版权法视角系统解析迪士尼与Midjourney诉讼案，重点讲解合理使用四要素测试、直接与间接侵权责任认定标准，以及本案裁决对好莱坞创作产业和AI公司商业模式的深远影响，适合具备一定法律基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+      "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+      "description_cn": "Billboard汇总2025年8月重大音乐法律动态，涵盖Snoop Dogg就未授权录音及NFT发行达成保密和解、Diddy刑事审判及Jay-Z敲诈勒索裁决等案件。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律师事务所发布的2026年娱乐法前瞻报告，系统梳理合理使用原则适用于AI训练数据、商标新趋势及2025年遗留未决重大案件的法律走向。",
+      "language": "en"
+    }
+  ],
+  "week": 18,
+  "day": 3,
+  "date": "2026-07-23",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week18/day3.mp3"
+}
