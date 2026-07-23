@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Elon Musk Loses $150 Billion Lawsuit Against OpenAI & Microsoft",
+    "source": "Deadline.com, May 18, 2026",
+    "url": "https://deadline.com/2026/05/elon-musk-verdict-openai-sam-altman-1236914787/",
+    "text": "One of the most consequential technology and corporate governance cases of the decade concluded in May 2026, when a federal jury in Oakland, California rendered a verdict against Elon Musk in his sweeping lawsuit against OpenAI, CEO Sam Altman, co-founder Greg Brockman, and Microsoft. At the core of the dispute was Musk's allegation that Altman and Brockman had abandoned OpenAI's founding charitable mission — effectively 'stealing a charity' — when they engineered the nonprofit-to-for-profit conversion of the organization for personal financial gain.\n\nMusk, who helped co-found OpenAI in 2015 and departed its board in 2018, testified that he contributed approximately $38 million to the organization under the reasonable expectation that AI would be developed for the benefit of humanity, not to enrich individual stakeholders. He sought damages ranging from $134 to $150 billion, asserting claims of wrongful gains derived from his early financial and strategic contributions. Microsoft, a substantial investor in OpenAI since 2019, was named as a co-defendant under a theory of aiding and abetting breach of charitable trust.\n\nThe Phase I jury trial commenced on April 27, 2026, before U.S. District Judge Yvonne Gonzalez Rogers in the Northern District of California. Musk took the witness stand on April 28. Microsoft's counsel argued in opening statements that the company lacked the requisite knowledge to have aided any breach of fiduciary duty.\n\nThe nine-member jury found, on May 18, 2026, that Musk's claims were barred by the statute of limitations. Evidence established that internal discussions regarding the nonprofit-to-for-profit conversion had commenced as early as 2017, and a for-profit subsidiary was formally established in 2019 — after Musk had already exited the organization. Judge Gonzalez Rogers concurred with the jury's findings. Microsoft's claim was likewise dismissed.\n\nMusk characterized the ruling as a 'calendar technicality' on social media and vowed to pursue an appeal. OpenAI's legal team countered that Musk's donations were unrestricted and that the structural reorganization was commercially necessary. Legal commentators observed that the statute of limitations ruling, though procedural in form, reflects settled doctrine and forecloses re-litigation of claims that accrued years prior. The case has raised landmark questions about AI corporate governance, the enforceability of charitable mission commitments, and fiduciary duties in nonprofit-to-for-profit conversions.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "charitable trust",
+      "pronunciation": "/ˈtʃærɪtəbl trʌst/",
+      "definition_cn": "慈善信托，指以公益为目的设立的信托结构，受托人须依据既定的慈善使命管理资产，不得为个人牟利；违反该义务构成信托违约。",
+      "example": "The plaintiff alleged that the defendants' restructuring constituted an aiding and abetting breach of charitable trust, thereby diverting assets from their intended public benefit purpose.",
+      "audio": "week18/day4_vocab_0.mp3"
+    },
+    {
+      "term": "statute of limitations",
+      "pronunciation": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "definition_cn": "诉讼时效，即法律规定当事人提起诉讼的最长期限；一旦超过该期限，权利主张通常被视为丧失，法院将驳回相关诉求。",
+      "example": "The jury found that the statute of limitations barred Musk's claims because the relevant corporate discussions had commenced more than two years before the action was filed.",
+      "audio": "week18/day4_vocab_1.mp3"
+    },
+    {
+      "term": "nonprofit-to-for-profit conversion",
+      "pronunciation": "/ˌnɒnˈprɒfɪt tuː fər ˈprɒfɪt kənˈvɜːʒən/",
+      "definition_cn": "非营利组织转制为营利实体的法律过程，通常需经监管审查，以确保原慈善资产不被私人侵占；该转制行为是本案争议核心。",
+      "example": "Critics argued that the nonprofit-to-for-profit conversion allowed insiders to capture the value of assets that had been donated for charitable purposes.",
+      "audio": "week18/day4_vocab_2.mp3"
+    },
+    {
+      "term": "aiding and abetting",
+      "pronunciation": "/ˈeɪdɪŋ ənd əˈbɛtɪŋ/",
+      "definition_cn": "协助并教唆，指明知他人正在实施违法或违约行为而予以实质性协助；在民事语境中，可据此对非主要责任人追责。",
+      "example": "Microsoft was named as a co-defendant on the theory that its substantial investment constituted aiding and abetting the alleged breach of fiduciary duty.",
+      "audio": "week18/day4_vocab_3.mp3"
+    },
+    {
+      "term": "fiduciary duty",
+      "pronunciation": "/fɪˈdjuːʃieri ˈdjuːti/",
+      "definition_cn": "受信义务，指受信人（如董事、受托人）对委托人须履行的诚信、忠实及审慎义务；违反该义务可引发损害赔偿或衡平救济。",
+      "example": "The complaint alleged that Altman and Brockman breached their fiduciary duty to OpenAI's charitable mission by prioritizing personal financial gain over the organization's stated public purpose.",
+      "audio": "week18/day4_vocab_4.mp3"
+    },
+    {
+      "term": "for-profit subsidiary",
+      "pronunciation": "/fər ˈprɒfɪt səbˈsɪdɪəri/",
+      "definition_cn": "营利性子公司，指由母公司（此处为非营利法人）控制的独立营利法律实体；其设立方式及治理结构是本案争议焦点之一。",
+      "example": "OpenAI established a for-profit subsidiary in 2019, a structural move that Musk's counsel characterized as a deliberate diversion of charitable assets.",
+      "audio": "week18/day4_vocab_5.mp3"
+    },
+    {
+      "term": "wrongful gains",
+      "pronunciation": "/ˈrɒŋfəl ɡeɪnz/",
+      "definition_cn": "不当得利，指因违法或违反信义行为而获取的利益；原告据此主张被告应返还其因不当行为所获得的全部收益，而非仅赔偿原告实际损失。",
+      "example": "Musk's legal team sought disgorgement of wrongful gains, arguing that OpenAI and Microsoft had unjustly enriched themselves through the exploitation of his early contributions.",
+      "audio": "week18/day4_vocab_6.mp3"
+    },
+    {
+      "term": "Phase I jury trial",
+      "pronunciation": "/feɪz wʌn ˈdʒʊəri ˈtraɪəl/",
+      "definition_cn": "第一阶段陪审团审判，指在复杂诉讼中法院将整体审判分阶段进行，第一阶段通常裁定责任认定等前置性法律问题，以提高司法效率。",
+      "example": "Judge Gonzalez Rogers structured the proceedings as a Phase I jury trial to resolve threshold liability questions before addressing the full scope of alleged damages.",
+      "audio": "week18/day4_vocab_7.mp3"
+    },
+    {
+      "term": "opening statements",
+      "pronunciation": "/ˈəʊpənɪŋ ˈsteɪtmənts/",
+      "definition_cn": "开庭陈词，指审判开始时各方律师向陪审团概述己方案件理论及预期证据的程序性发言；本身不构成证据，但对陪审团理解案情具有重要影响。",
+      "example": "In their opening statements, Microsoft's counsel emphasized that the company lacked actual knowledge of any alleged breach, a prerequisite for secondary liability.",
+      "audio": "week18/day4_vocab_8.mp3"
+    },
+    {
+      "term": "corporate governance",
+      "pronunciation": "/ˈkɔːrpərɪt ˈɡʌvənəns/",
+      "definition_cn": "公司治理，指规范公司决策权力分配、董事责任及利益相关方保护的规则体系；本案将其延伸适用于非营利组织向营利实体转型的监管边界问题。",
+      "example": "Legal commentators noted that the case exposed significant gaps in AI corporate governance frameworks, particularly regarding the oversight of nonprofit organizations with substantial commercial assets.",
+      "audio": "week18/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [Defendant] had abandoned [founding obligation], thereby [resulting legal wrong], and sought damages of up to [amount] on a theory of [legal claim].",
+      "example": "Musk alleged that Altman and Brockman had abandoned OpenAI's founding charitable mission, thereby enriching themselves at the expense of the organization's public purpose, and sought damages of up to $150 billion on a theory of wrongful gains.",
+      "translation_cn": "马斯克主张Altman和Brockman违背了OpenAI的创立慈善使命，以此损害该组织的公益目的为代价使自身获益，并以不当得利为由索赔最高1500亿美元。"
+    },
+    {
+      "pattern": "The [finder of fact] found that [claim] was barred by the [procedural doctrine], as [supporting factual basis] had occurred more than [time period] before the action was filed.",
+      "example": "The nine-member jury found that Musk's claims were barred by the statute of limitations, as discussions regarding the nonprofit-to-for-profit conversion had commenced more than two years before the action was filed.",
+      "translation_cn": "九名陪审员裁定，马斯克的诉讼主张因诉讼时效届满而受到阻却，因为有关非营利转营利转制的内部讨论早在诉讼提起两年前便已开始。"
+    },
+    {
+      "pattern": "Although the ruling turned on [procedural ground], legal analysts observed that it reflects [underlying doctrine] and forecloses [practical consequence].",
+      "example": "Although the ruling turned on the statute of limitations, legal analysts observed that it reflects settled doctrine and forecloses re-litigation of claims that accrued years prior to the filing date.",
+      "translation_cn": "尽管该裁决以诉讼时效为由作出，法律分析人士指出，其反映的是已确立的法律原则，并从根本上排除了对多年前已产生的诉权进行重新诉讼的可能性。"
+    }
+  ],
+  "summary_cn": "2026年5月，美国联邦陪审团就马斯克诉OpenAI、微软一案作出裁决，以诉讼时效届满为由驳回马斯克高达1500亿美元的索赔诉求。马斯克指控Altman等人违背OpenAI创立时的慈善使命，将其转制为营利实体以谋取私利，并指控微软协助并教唆违反慈善信托义务。法院认定相关转制讨论早于2017年已发生，诉权早已产生，故诉讼主张不予支持。此案引发外界对AI公司治理及非营利组织转制监管的广泛讨论。",
+  "legal_analysis": "**① 核心法律问题**\n本案涉及三项核心问题：慈善信托违约的认定标准、非营利转营利转制中的受信义务边界，以及共同侵权语境下\"协助并教唆\"的责任构成要件。\n\n**② 美国法律框架分析**\n在美国法律框架下，慈善信托受《统一信托法典》（Uniform Trust Code）及各州非营利法人法规范。受托人或董事若将慈善资产用于非公益目的，可能承担违反受信义务的民事责任，且检察总长通常具有监督权。本案陪审团未就实质性违约作出裁决，而是依据联邦和州层面的诉讼时效规则，认定马斯克的诉权因未在法定期间内行使而消灭。\"协助并教唆\"理论要求原告证明被告具有知情性参与，微软的辩护即针对该\"知情\"要件展开。此外，\"不当得利\"（unjust enrichment）及\"归入救济\"（disgorgement）理论在本案中的适用，反映了美国衡平法对于营利性收益追回的制度逻辑。\n\n**③ 对中国娱乐法律师的实践启示**\n中国娱乐科技企业在境外设立混合架构（VIE或慈善基金会）时，须高度关注美国法项下慈善信托义务的长期约束力。捐赠协议中的限制性条款若未明确约定，可能在组织转制时引发争议。建议中国法律顾问在起草对外捐赠文件或参与美国非营利实体时，就诉讼时效起算点及受信义务披露义务进行专项审查。",
+  "cn_us_comparison": "本案核心涉及非营利组织转制及慈善信托义务，两国制度存在显著差异。\n\n**美国制度**：美国通过《统一信托法典》及各州非营利公司法对慈善信托实施保护，检察总长具有独立监督权，受信人违反慈善使命可被追究民事赔偿责任。诉讼时效制度（Statute of Limitations）为实体权利的程序性屏障，具有强制适用效力。\n\n**中国制度**：中国对应的规范框架主要包括《慈善法》（2016年）、《基金会管理条例》及《民法典》中的信托相关规定。中国《慈善法》第五十二条规定慈善财产须专项用于慈善目的，监管权归属于民政部门而非司法机关，缺乏类似美国检察总长的独立诉权。中国《民法典》第一百八十八条规定一般诉讼时效为三年，与本案适用的美国州法诉讼时效规则在起算方式上亦有差异。此外，中国目前尚无明确对应\"协助并教唆违反信托义务\"的独立民事侵权类型，相关追责主要依赖共同侵权规则（《民法典》第一千一百六十八条）。两国在慈善组织商业化转型的监管边界上均面临制度完善的迫切需求。",
+  "discussion_prompt": "Given that the jury in Musk v. OpenAI never reached the substantive merits of whether a charitable mission constitutes a legally enforceable restriction on donated funds, should legislatures or courts develop a specialized limitations period — or a discovery rule — for claims involving the gradual erosion of nonprofit charitable purpose, and what policy consequences might such a reform have for the governance of AI-focused organizations that begin as nonprofits?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst drafting a brief summary of a hypothetical case in which a major technology foundation converted to a for-profit entity. Write 2–3 sentences describing the plaintiff's core allegations, the procedural outcome, and the broader legal significance of the ruling, using the sentence patterns from this lesson.",
+    "model_answer": "The plaintiff alleged that the foundation's board of directors had abandoned its founding charitable mission, thereby diverting restricted assets for private gain, and sought disgorgement of wrongful gains exceeding $80 billion on a theory of breach of fiduciary duty. The court found that the plaintiff's claims were barred by the statute of limitations, as internal deliberations regarding the nonprofit-to-for-profit conversion had commenced more than three years before the complaint was filed. Although the ruling turned on this procedural ground, legal analysts observed that it reflects the settled discovery-rule doctrine and forecloses re-litigation of claims whose accrual date can be traced to disclosed board minutes."
+  },
+  "youtube_rec": {
+    "title": "Nonprofit to For-Profit Conversions: Charitable Trust Law, Fiduciary Duty & the OpenAI Lawsuit Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统解析非营利组织转制为营利实体所涉及的慈善信托法律框架、受信义务边界及诉讼时效规则，结合马斯克诉OpenAI案，深入探讨美国法院如何界定慈善捐赠的限制性条款及组织转制的合法性边界，适合具备一定法律基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+      "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+      "description_cn": "Billboard 2025年8月音乐法律动态汇总，涵盖Snoop Dogg与录音师就未授权采样及NFT发行达成保密和解等多起重大音乐行业法律事件。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律师事务所2026年1月发布的娱乐法前瞻分析，系统梳理合理使用原则、AI训练数据合法性及商标Rogers测试在2026年面临的核心法律挑战。",
+      "language": "en"
+    }
+  ],
+  "week": 18,
+  "day": 4,
+  "date": "2026-07-24",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week18/day4.mp3"
+}
