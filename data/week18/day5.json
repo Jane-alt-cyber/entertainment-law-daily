@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+    "source": "Billboard Pro, August 5, 2025",
+    "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+    "text": "A closely watched copyright infringement and NFT dispute between rapper Snoop Dogg and veteran studio musician Trevor Lawrence Jr. reached a confidential settlement in April 2025, concluding a legal battle that had raised novel questions about the intersection of music production agreements and blockchain-based digital asset exploitation. Lawrence had filed suit in Los Angeles federal court in 2024 against Snoop Dogg, Death Row Records, and Blockchain Game Partners, alleging that two backing tracks he created — 'Pop Pop Pop Goes My 9' and 'Get This D with Hook' — were used without authorization on Snoop's 2022 album BODR, appearing as the released tracks 'Pop Pop' and 'Get This D–k.'\n\nAt the heart of the dispute was the legal significance of a 'spec' arrangement, a production practice in which an artist is permitted to experiment with unreleased material at no cost, with the explicit understanding that a formal licensing deal — including an upfront fee and ongoing royalties — must be executed before any commercial release. Lawrence alleged that no such agreement was ever finalized beyond an alleged $20,000 producer fee. Snoop's attorneys countered that Lawrence's act of cashing that payment constituted acceptance of a completed arrangement, and characterized the multimillion-dollar damages demand as a 'preposterous windfall.'\n\nThe litigation grew substantially more complex when Lawrence alleged that Snoop released both compositions as non-fungible tokens (NFTs) without his knowledge or consent — a mode of exploitation his attorneys argued was 'never within his prior contemplation' under any reasonable reading of the parties' informal understanding. Lawrence's complaint invoked Sections 106 and 501 of the U.S. Copyright Act, which govern exclusive rights and infringement remedies, respectively, arguing that the NFT bundle generated tens of millions of dollars in profits attributable to unauthorized use of his copyrighted works.\n\nThe case was originally scheduled for trial in September 2025. On June 24, 2025, the parties jointly filed a motion to dismiss the litigation following resolution through a mediator. Terms remain undisclosed. Lawrence's attorney Frank Trechsel confirmed only that 'our client is happy to have resolved the dispute.' The case is now widely regarded as a landmark warning for the music industry: production and recording agreements must contain explicit NFT licensing provisions, or risk costly and unpredictable litigation over blockchain-based exploitation of copyrighted material.",
+    "word_count": 348
+  },
+  "vocabulary": [
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒp.i.raɪt ɪnˈfrɪndʒ.mənt/",
+      "definition_cn": "未经版权所有人授权，擅自复制、发行或使用受版权保护作品的侵权行为，可依《美国版权法》第501条主张救济。",
+      "example": "The producer's complaint detailed multiple acts of copyright infringement arising from the unauthorized commercial release of his backing tracks.",
+      "audio": "week18/day5_vocab_0.mp3"
+    },
+    {
+      "term": "spec arrangement",
+      "pronunciation": "/spɛk əˈreɪndʒ.mənt/",
+      "definition_cn": "音乐制作中一种非正式协议，允许艺人免费试用未发行素材，但明确约定正式商业发行前须另行签署授权协议，不构成最终许可。",
+      "example": "Under the spec arrangement, the artist was permitted to record with the tracks during studio sessions without incurring any fee, but commercial release required a separate executed license.",
+      "audio": "week18/day5_vocab_1.mp3"
+    },
+    {
+      "term": "producer fee",
+      "pronunciation": "/prəˈdjuː.sər fiː/",
+      "definition_cn": "唱片制作中支付给制作人的一次性固定报酬，与版税性质不同，其法律效力及是否构成完整对价在合同争议中常成焦点。",
+      "example": "The defense argued that Lawrence's act of cashing the $20,000 producer fee signified acceptance of the full compensation agreed upon by the parties.",
+      "audio": "week18/day5_vocab_2.mp3"
+    },
+    {
+      "term": "non-fungible tokens",
+      "pronunciation": "/nɒn ˈfʌŋ.dʒɪ.bəl ˈtoʊ.kənz/",
+      "definition_cn": "区块链上代表独特数字资产所有权的加密凭证（NFT），其在版权法框架下的商业利用方式目前仍属法律灰区，常引发授权范围争议。",
+      "example": "Lawrence alleged that the unauthorized sale of non-fungible tokens incorporating his compositions constituted a separate and distinct act of infringement beyond the album release.",
+      "audio": "week18/day5_vocab_3.mp3"
+    },
+    {
+      "term": "exclusive rights",
+      "pronunciation": "/ɪkˈskluː.sɪv raɪts/",
+      "definition_cn": "《美国版权法》第106条赋予版权人的专有权利，包括复制、发行、展示及制作衍生作品等，未经授权利用这些权利即构成侵权。",
+      "example": "Section 106 of the U.S. Copyright Act enumerates the exclusive rights that copyright holders may enforce against unauthorized third-party exploitation.",
+      "audio": "week18/day5_vocab_4.mp3"
+    },
+    {
+      "term": "infringement remedies",
+      "pronunciation": "/ɪnˈfrɪndʒ.mənt ˈrɛm.ɪ.dɪz/",
+      "definition_cn": "《美国版权法》第501条及相关条款规定的版权侵权救济措施，包括实际损害赔偿、侵权利润追缴及法定赔偿金等。",
+      "example": "The plaintiff's complaint sought infringement remedies including disgorgement of all profits the defendants derived from the unauthorized NFT bundle sales.",
+      "audio": "week18/day5_vocab_5.mp3"
+    },
+    {
+      "term": "motion to dismiss",
+      "pronunciation": "/ˈmoʊ.ʃən tə dɪsˈmɪs/",
+      "definition_cn": "当事方向法院申请终结诉讼程序的动议；在和解情形下，双方联合提出该动议以正式撤销案件，具有程序终结效力。",
+      "example": "Following the confidential settlement reached through mediation, both parties jointly filed a motion to dismiss the litigation on June 24, 2025.",
+      "audio": "week18/day5_vocab_6.mp3"
+    },
+    {
+      "term": "confidential settlement",
+      "pronunciation": "/kənˈfɪ.dən.ʃəl ˈsɛt.əl.mənt/",
+      "definition_cn": "当事人私下达成的和解协议，条款受保密义务约束，不对外公开，是高知名度诉讼中控制声誉风险与商业敏感信息的常见机制。",
+      "example": "The terms of the confidential settlement were not disclosed to the public, leaving the industry without specific guidance on the valuation of NFT-related copyright claims.",
+      "audio": "week18/day5_vocab_7.mp3"
+    },
+    {
+      "term": "prior contemplation",
+      "pronunciation": "/ˈpraɪ.ər ˌkɒn.temˈpleɪ.ʃən/",
+      "definition_cn": "合同法中用于判断某一权利或用途是否在缔约时已被合理预见并纳入当事方意图范围内的标准，常用于确定授权范围的边界。",
+      "example": "Counsel argued that the NFT exploitation was 'never within his prior contemplation,' thereby falling entirely outside the scope of any informal licensing understanding between the parties.",
+      "audio": "week18/day5_vocab_8.mp3"
+    },
+    {
+      "term": "preposterous windfall",
+      "pronunciation": "/prɪˈpɒs.tər.əs ˈwɪnd.fɔːl/",
+      "definition_cn": "辩护方用以描述原告主张的赔偿数额严重脱离实际合理预期、明显过高的法律修辞策略，旨在影响法院或陪审团对救济请求的合理性判断。",
+      "example": "Defense counsel characterized the plaintiff's multimillion-dollar damages demand as a 'preposterous windfall' unsupported by the modest economic value of the original spec arrangement.",
+      "audio": "week18/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged that [specific act], invoking Sections [X] and [Y] of [Statute], which govern [legal function] and [legal function], respectively.",
+      "example": "Lawrence alleged that Snoop released the compositions as non-fungible tokens without consent, invoking Sections 106 and 501 of the U.S. Copyright Act, which govern exclusive rights and infringement remedies, respectively.",
+      "translation_cn": "原告主张被告将相关作品以NFT形式发行但未获授权，援引《美国版权法》第106条及第501条，该两条分别规范专有权利与侵权救济事宜。"
+    },
+    {
+      "pattern": "The parties reached a confidential settlement through [mechanism], after which they jointly filed a [procedural motion] on [date], leaving the underlying legal questions unresolved for the broader industry.",
+      "example": "The parties reached a confidential settlement through a mediator, after which they jointly filed a motion to dismiss on June 24, 2025, leaving the underlying legal questions about NFT licensing unresolved for the broader industry.",
+      "translation_cn": "双方经调解人协助达成保密和解，随后于2025年6月24日联合提出撤案动议，但NFT授权的核心法律问题仍未在行业层面得到解决。"
+    },
+    {
+      "pattern": "The [disputed act] was argued to fall outside the scope of the original [arrangement type], on the ground that it was 'never within [party]'s prior contemplation' at the time the informal understanding was formed.",
+      "example": "The NFT bundle sale was argued to fall outside the scope of the original spec arrangement, on the ground that it was 'never within Lawrence's prior contemplation' at the time the informal understanding was formed.",
+      "translation_cn": "NFT捆绑销售行为被主张超出原始试用协议的授权范围，理由是该行为在非正式谅解形成之时，\"从未在劳伦斯的合理预见范围之内\"。"
+    }
+  ],
+  "summary_cn": "2025年4月，说唱歌手Snoop Dogg与制作人Trevor Lawrence Jr.就版权侵权及NFT争议达成保密和解。Lawrence指控其两首制作小样在未获正式许可的情况下被收录于Snoop专辑，并以NFT形式出售，涉嫌违反《美国版权法》第106条及第501条。本案被视为音乐行业关于NFT授权条款必要性的标志性警示。",
+  "legal_analysis": "① 核心法律问题：本案核心在于非正式\"试用协议\"（spec arrangement）能否构成商业发行及NFT销售的有效授权，以及制作人酬劳的接受是否等同于完整合同的成立。\n\n② 美国法律框架分析：《美国版权法》第106条赋予版权人对复制、发行及衍生作品的专有控制权；第501条规定侵权后的民事救济，包括实际损害赔偿与法定赔偿金。本案的特殊性在于NFT作为一种新型数字资产销售形式，是否自动纳入既有音乐许可协议的授权范围，目前尚无明确判例或立法指引。法院将不得不审查\"默示许可\"与\"合理预期\"理论，以判断NFT销售是否在当事人缔约意图范围之内。\n\n③ 对中国娱乐法律师的实践启示：本案提示从事涉外音乐合作的中国律师，应在制作协议中明确列举各类数字资产（包括NFT）的授权条款，避免依赖口头或非正式安排。在跨境合作项目中，应建议客户就区块链商业化利用路径单独谈判并书面确认，防范因技术迭代引发的授权范围争议。",
+  "cn_us_comparison": "在美国，《版权法》（17 U.S.C. §§ 106, 501）采取\"专有权利清单\"模式，版权人对每一类利用方式均享有独立授权权，NFT销售是否构成独立利用方式是本案争议焦点。中国《著作权法》（2020年修订版）第10条同样列举了著作权人的具体权利类型，包括复制权、发行权与信息网络传播权，但NFT是否适用\"信息网络传播权\"目前仍存争议，司法实践尚不统一。\n\n在合同效力层面，美国合同法强调\"要约—承诺—对价\"三要素，本案被告以收款行为作为合同成立的承诺证据；中国《民法典》合同编（第470条以下）同样要求意思表示一致，但对于行业惯例中的非正式安排，中国法院在认定默示合同方面态度相对保守。两国均缺乏针对NFT音乐授权的专项立法，实践中均依赖现行著作权法框架进行类推适用。",
+  "discussion_prompt": "Given that the Snoop Dogg settlement remains confidential and no court issued a ruling on whether a spec arrangement implicitly extends to NFT sales, how should music production attorneys draft future agreements to close this gap — and does the absence of judicial guidance actually benefit the industry by preserving negotiating flexibility, or does it create unacceptable legal uncertainty for creators?",
+  "writing_exercise": {
+    "prompt": "You are drafting a client alert for a music production attorney. In 2-3 sentences, describe the core legal risk the Snoop Dogg case revealed, identify the statutory provisions implicated, and recommend one specific contractual safeguard. Use the sentence patterns from today's lesson.",
+    "model_answer": "The plaintiff alleged that the unauthorized sale of master recordings as non-fungible tokens fell outside the scope of any informal spec arrangement, invoking Sections 106 and 501 of the U.S. Copyright Act, which govern exclusive rights and infringement remedies, respectively. Because the NFT exploitation was argued to be 'never within the producer's prior contemplation' at the time the parties reached their informal understanding, the case exposed a critical drafting gap in standard production agreements. Counsel should therefore ensure that every production agreement contains an explicit, enumerated clause addressing blockchain-based exploitation, specifying whether NFT sales are included within or categorically excluded from the producer's grant of rights."
+  },
+  "youtube_rec": {
+    "title": "NFTs and Music Copyright: What Every Producer Needs to Know After the Snoop Dogg Case",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频以Snoop Dogg NFT版权纠纷为切入点，系统讲解《美国版权法》第106条专有权利框架、制作协议中\"试用安排\"的法律效力，以及制作人如何在合同中明确区块链商业化条款以保护自身权益。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，聚焦合理使用、AI训练数据版权及商标Rogers测试等2025年遗留的核心法律争议。",
+      "language": "en"
+    },
+    {
+      "title": "Who Owns the Stage, the Script, and the Algorithm? Entertainment Law's Wild Year-End",
+      "url": "https://entertainmentlawupdate.com/2025/12/year-end-2025/",
+      "description_cn": "Entertainment Law Update年终回顾，梳理2025年迪士尼演出封禁、AI版权裁决及Netflix收购华纳兄弟等重大娱乐法事件，探讨创意表达控制权的归属问题。",
+      "language": "en"
+    }
+  ],
+  "week": 18,
+  "day": 5,
+  "date": "2026-07-27",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week18/day5.mp3"
+}
