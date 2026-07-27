@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Music Publishers Sued By X in Growing Licensing Battle — And Then Quietly Settle",
+    "source": "The Hollywood Reporter + Bloomberg Law, January 2026 & July 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/x-sues-music-publishers-over-licensing-negotiations-1236468524/",
+    "text": "One of the most consequential intellectual property disputes in recent platform history concluded in July 2026 with a confidential settlement between X Corp. and a coalition of major music publishers. The legal battle originated in June 2023 when the National Music Publishers' Association (NMPA), representing 17 publishers including Universal Music Publishing Group, Sony Music Publishing, and Warner Chappell Music, filed a $250 million copyright infringement lawsuit in federal court in Nashville. The complaint alleged that X knowingly hosted unauthorized copies of musical compositions, allowed copyright infringement to run rampant, and failed to remove infringing content despite receiving hundreds of thousands of DMCA takedown notices covering roughly 1,700 works. The suit advanced claims of direct infringement, contributory infringement, and vicarious infringement, noting that X monetized infringing content through advertising and data licensing. Following X's motion to dismiss, a judge narrowed the NMPA's suit to DMCA-based allegations.\n\nSettlement talks subsequently failed, and in January 2026 X counter-escalated by filing its own antitrust lawsuit in the U.S. District Court for the Northern District of Texas. X's complaint alleged that the NMPA and 18 individual publishers were engaged in anticompetitive conduct by collectively bombarding X with DMCA takedown notices — weaponizing the statute to circumvent individual negotiations and instead force X into industry-wide licenses at allegedly supracompetitive prices. X claimed it had been denied the ability to acquire a U.S. musical-composition license from any individual publisher on competitive terms and sought unspecified damages plus injunctive relief compelling individual negotiations.\n\nLegal observers were skeptical. One expert characterized the filing as 'more a grand gesture at dissatisfaction with the state of play in the music marketplace rather than a cognizable legal claim,' since trade-group-coordinated takedown notices represent standard DMCA safe harbor practice. A trial in the original publishers' suit had been calendared for February 2027. However, court documents filed in July 2026 by both parties confirmed mutual dismissals with prejudice, leaving the settlement terms confidential. Notably, X had been the only major social media platform lacking music publishing licenses — YouTube, TikTok, Facebook, Instagram, and Snapchat had long held such agreements. The dispute left unresolved enduring questions about platform liability, DMCA safe harbor scope, repeat-infringer policy obligations, and the antitrust permissibility of trade-group-coordinated copyright enforcement.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "contributory infringement",
+      "pronunciation": "/kənˈtrɪbjʊtəri ɪnˈfrɪndʒmənt/",
+      "definition_cn": "共同侵权（间接侵权的一种形式）：指当事人明知他人正在实施侵权行为，仍提供实质性协助，从而承担连带侵权责任；常见于版权和专利领域。",
+      "example": "The publishers argued contributory infringement because X knowingly provided the infrastructure through which unlicensed compositions were repeatedly streamed.",
+      "audio": "week19/day1_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious infringement",
+      "pronunciation": "/vɪˈkɛriəs ɪnˈfrɪndʒmənt/",
+      "definition_cn": "替代责任侵权：指当事人对侵权活动具有监控能力并从中直接获益，因而对他人实施的版权侵权行为承担法律责任，无需证明主观知情。",
+      "example": "Because X profited from advertising displayed alongside infringing uploads, the court found a plausible claim of vicarious infringement.",
+      "audio": "week19/day1_vocab_1.mp3"
+    },
+    {
+      "term": "DMCA takedown notices",
+      "pronunciation": "/ˌdiː em siː ˈeɪ ˈteɪkdaʊn ˈnoʊtɪsɪz/",
+      "definition_cn": "《数字千年版权法》撤除通知：版权持有人依据DMCA第512条向网络服务商发出的正式书面通知，要求删除平台上侵权内容，是触发安全港保护的法定程序。",
+      "example": "The NMPA sent hundreds of thousands of DMCA takedown notices to X, yet the platform's removal response times remained allegedly inadequate.",
+      "audio": "week19/day1_vocab_2.mp3"
+    },
+    {
+      "term": "DMCA safe harbor",
+      "pronunciation": "/ˌdiː em siː ˈeɪ seɪf ˈhɑːrbər/",
+      "definition_cn": "DMCA安全港条款：依据《数字千年版权法》第512条，符合条件的网络服务商若及时响应撤除通知并制定重复侵权者政策，可免于承担版权侵权赔偿责任。",
+      "example": "X's failure to implement an adequate repeat-infringer policy may have jeopardized its eligibility for DMCA safe harbor protection.",
+      "audio": "week19/day1_vocab_3.mp3"
+    },
+    {
+      "term": "anticompetitive conduct",
+      "pronunciation": "/ˌæntiˌkəmˈpɛtɪtɪv ˈkɒndʌkt/",
+      "definition_cn": "反竞争行为：指经营者通过协议、联合抵制或滥用市场支配地位等手段，限制、排除市场竞争的行为，可能违反《谢尔曼反托拉斯法》。",
+      "example": "X alleged anticompetitive conduct on the theory that coordinated mass takedown filings were designed to eliminate price competition among publishers.",
+      "audio": "week19/day1_vocab_4.mp3"
+    },
+    {
+      "term": "supracompetitive prices",
+      "pronunciation": "/ˌsuːprəkəmˈpɛtɪtɪv ˈpraɪsɪz/",
+      "definition_cn": "超竞争价格：高于自由竞争市场均衡水平的价格，通常由垄断或价格固定行为造成，是反托拉斯诉讼中认定市场损害的核心要素之一。",
+      "example": "X's antitrust complaint contended that coordinated publisher behavior had resulted in supracompetitive prices for music composition licenses across all major platforms.",
+      "audio": "week19/day1_vocab_5.mp3"
+    },
+    {
+      "term": "motion to dismiss",
+      "pronunciation": "/ˈmoʊʃən tə dɪˈsmɪs/",
+      "definition_cn": "驳回诉讼请求动议：被告在答辩前向法院提出的程序性申请，主张原告起诉书即便所述事实属实也不构成法律上可获救济的诉因，要求法院终止诉讼程序。",
+      "example": "After the judge granted X's motion to dismiss the broader tort claims, only the DMCA-based allegations remained before the court.",
+      "audio": "week19/day1_vocab_6.mp3"
+    },
+    {
+      "term": "mutual dismissals with prejudice",
+      "pronunciation": "/ˈmjuːtʃuəl dɪˈsmɪsəlz wɪð ˈprɛdʒʊdɪs/",
+      "definition_cn": "双方有偏见撤诉：指诉讼双方各自同意终止全部诉讼请求，且此类撤诉具有终局效力，当事方此后不得就同一事项再行提起诉讼。",
+      "example": "Court filings in July 2026 confirmed mutual dismissals with prejudice, signaling that both X and the publishers had reached a binding resolution.",
+      "audio": "week19/day1_vocab_7.mp3"
+    },
+    {
+      "term": "injunctive relief",
+      "pronunciation": "/ɪnˈdʒʌŋktɪv rɪˈliːf/",
+      "definition_cn": "禁令救济：法院命令当事人为或不为某种特定行为的衡平法救济手段，通常用于阻止持续性侵权或违约行为，是金钱赔偿之外的重要司法救济方式。",
+      "example": "In its antitrust complaint, X sought both monetary damages and injunctive relief that would have compelled each publisher to negotiate licenses individually.",
+      "audio": "week19/day1_vocab_8.mp3"
+    },
+    {
+      "term": "platform liability",
+      "pronunciation": "/ˈplætfɔːrm ˌlaɪəˈbɪlɪti/",
+      "definition_cn": "平台责任：网络服务平台因用户上传的侵权或违法内容而被追究的法律责任，涉及DMCA第512条安全港豁免与直接/间接侵权责任之间的边界认定。",
+      "example": "The X v. NMPA litigation reignited the broader debate over platform liability when user-generated uploads systematically incorporate copyrighted musical compositions.",
+      "audio": "week19/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged [specific legal claim], advancing claims of [Claim A], [Claim B], and [Claim C].",
+      "example": "The NMPA alleged systematic copyright infringement, advancing claims of direct infringement, contributory infringement, and vicarious infringement against X Corp.",
+      "translation_cn": "NMPA主张存在系统性版权侵权，提出了直接侵权、共同侵权及替代责任侵权三项诉因，指向X公司。"
+    },
+    {
+      "pattern": "[Party] sought [specific remedy], arguing that [defendant's conduct] constituted [legal violation] under [statute/doctrine].",
+      "example": "X sought injunctive relief compelling individual negotiations, arguing that coordinated mass takedown filings constituted anticompetitive conduct under federal antitrust law.",
+      "translation_cn": "X申请禁令救济，要求强制进行单独谈判，并主张协调一致的大规模撤除通知行为构成联邦反托拉斯法下的反竞争行为。"
+    },
+    {
+      "pattern": "The dispute left unresolved enduring questions about [legal issue A], [legal issue B], and [legal issue C].",
+      "example": "The dispute left unresolved enduring questions about platform liability, DMCA safe harbor scope, and the antitrust permissibility of trade-group-coordinated copyright enforcement.",
+      "translation_cn": "本案留下了若干悬而未决的重大法律问题，涵盖平台责任的边界、DMCA安全港的适用范围，以及行业协会协调版权执法行为在反托拉斯法下的合法性。"
+    }
+  ],
+  "summary_cn": "2023年至2026年间，全国音乐出版商协会（NMPA）代表17家主要出版商以2.5亿美元版权侵权诉X公司，指控其未能及时处理大量DMCA撤除通知。X随后反诉NMPA存在反竞争行为，主张协调一致的撤除通知被用于操控许可谈判价格。2026年7月，双方达成保密和解，以相互有偏见撤诉告终，但平台责任与DMCA安全港边界等核心法律问题仍悬而未决。",
+  "legal_analysis": "① 核心法律问题：本案涉及三个相互交叠的法律议题——用户生成内容平台的DMCA安全港资格认定、间接版权侵权的归责标准，以及行业协会协调执法行为的反托拉斯合法性。\n\n② 美国法律框架分析：依据《数字千年版权法》第512条，网络服务商须履行两项关键义务方可享受安全港保护：及时响应撤除通知，以及制定并执行针对重复侵权者的终止政策。X因未能满足上述要求而面临直接、共同及替代责任三重侵权主张。X的反诉则援引《谢尔曼法》第一条，主张出版商集体协调构成非法合谋，但多数学者认为，行业协会统一发送DMCA通知属于依法授权的集体行动，并不当然违反反托拉斯法。\n\n③ 对中国娱乐法律师的实践启示：此案对中国律师有两层启示：其一，中国《信息网络传播权保护条例》虽设有类似\"通知—删除\"规则，但平台审查与响应标准仍有别于美国DMCA；其二，随着中国平台出海进入美国市场（如TikTok母公司），律师须熟悉美国反托拉斯框架对行业协会集体行动的合法性判断，以规避潜在的跨境法律风险。",
+  "cn_us_comparison": "在版权平台责任领域，中美两国均设有\"通知—删除\"机制，但制度细节存在显著差异。美国《数字千年版权法》（DMCA）第512条为符合资质的网络服务商提供明确的安全港豁免，要求平台建立重复侵权者终止政策并及时处理撤除通知，否则将面临直接赔偿责任。中国方面，《著作权法》第二十条及《信息网络传播权保护条例》第二十二至二十四条亦确立了类似的避风港规则，但平台对通知的响应时限、\"明知\"或\"应知\"的认定标准，以及法院对平台主动审查义务的解释，均与美国实践存在差异。此外，就反托拉斯维度而言，美国《谢尔曼法》明确规制行业协会的横向协调行为，而中国《反垄断法》第十七条虽禁止经营者达成价格固定协议，但对行业协会协调执法行为的规制路径尚在发展之中，执法实践有待进一步明确。",
+  "discussion_prompt": "Given that X was the last major social media platform without music publishing licenses, does the NMPA's coordinated use of DMCA takedown notices to pressure X into industry-wide licensing constitute legitimate copyright enforcement, or does it cross the line into anticompetitive conduct that antitrust law should address — and how should courts distinguish between the two?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a new short-video platform that has received mass DMCA takedown notices from a trade association. Write 2-3 sentences describing the legal claims the platform might assert, the remedies it would seek, and the unresolved legal questions the dispute would raise.",
+    "model_answer": "The platform alleged anticompetitive conduct, advancing claims that coordinated mass DMCA takedown notices were designed to eliminate price competition and impose supracompetitive prices for composition licenses. It sought injunctive relief compelling individual negotiations, arguing that the trade association's collective enforcement strategy constituted an unlawful horizontal restraint under the Sherman Act. The dispute left unresolved enduring questions about DMCA safe harbor scope, platform liability for user-generated content, and the antitrust permissibility of trade-group-coordinated copyright enforcement."
+  },
+  "youtube_rec": {
+    "title": "Platform Copyright Liability Explained: DMCA Safe Harbor, Takedown Notices & Antitrust Risks",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解DMCA第512条安全港条款的适用条件、版权撤除通知的法定程序，以及平台在直接侵权、共同侵权与替代责任下的不同法律风险，并结合近年重大案例分析行业协会协调执法行为的反托拉斯边界，适合希望深入理解美国平台版权责任框架的中高级法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律所2026年度娱乐法前瞻，深度解析公平使用、AI训练数据版权及商标Rogers测试三大核心议题的最新司法走向。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法学院年度综述，全面梳理2025至2026年AI版权公平使用、DMCA重复侵权者政策及第230条司法分歧等关键互联网法律发展动态。",
+      "language": "en"
+    }
+  ],
+  "week": 19,
+  "day": 1,
+  "date": "2026-07-28",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week19/day1.mp3"
+}
