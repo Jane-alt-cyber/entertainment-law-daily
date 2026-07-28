@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Music Publishers Sued By X in Growing Licensing Battle",
+    "source": "The Hollywood Reporter, January 9, 2026",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/x-sues-music-publishers-over-licensing-negotiations-1236468524/",
+    "text": "The legal conflict between X Corp. and the major music publishing industry escalated dramatically in January 2026, when X filed an antitrust lawsuit against the National Music Publishers' Association (NMPA) and 18 individual publishers in the U.S. District Court for the Northern District of Texas. The dispute traces its origins to June 2023, when the NMPA — representing Universal Music Publishing Group, Sony Music Publishing, Warner Chappell Music, Concord, BMG, Kobalt, and approximately 14 other publishers — filed a $250 million copyright infringement lawsuit against X in the U.S. District Court for the Middle District of Tennessee. The publishers alleged that X had consistently and knowingly hosted infringing copies of musical compositions, refused to obtain any music licenses covering user-generated content, and failed to act on hundreds of thousands of DMCA takedown notices submitted on a weekly basis beginning in December 2021. The complaint asserted claims of direct copyright infringement, contributory infringement, and vicarious infringement, seeking up to $150,000 in statutory damages per willfully infringed work.\n\nX's primary legal defense relied on the DMCA's safe harbor provision, which shields qualifying platforms from monetary liability for user-posted infringing content, provided the platform expeditiously removes material upon proper notification and terminates repeat infringers. A court subsequently narrowed the original publishers' case primarily to DMCA-related claims.\n\nIn its January 2026 counterstrike, X alleged that the NMPA and its member publishers engaged in anticompetitive conduct by coordinating a campaign of takedown requests as coercive leverage to compel X into acquiring industry-wide licenses at supracompetitive prices — pricing that X characterized as the product of cartel-like collusion among competitors. X further alleged it had been denied the ability to acquire a U.S. musical-composition license from any individual publisher on competitive terms, a refusal to deal that X argued violated federal antitrust law. The NMPA dismissed these allegations, maintaining that its practices represented standard DMCA procedure and legitimate enforcement of its members' intellectual property.\n\nSettlement negotiations were reported in June 2025, accompanied by a discovery stay, but those talks ultimately broke down. A trial in the original publishers' suit remains scheduled for February 2027. The litigation raises fundamental questions about the boundaries of DMCA safe harbor, platform liability for user-generated infringing content, and whether collective licensing enforcement by trade associations can constitute unlawful anticompetitive conduct under U.S. antitrust law.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "contributory infringement",
+      "pronunciation": "/kənˈtrɪbjʊtəri ɪnˈfrɪndʒmənt/",
+      "definition_cn": "间接侵权中的\"帮助侵权\"：当事方明知他人直接侵权行为仍予以实质性协助，从而承担连带版权责任的法律理论。",
+      "example": "The publishers alleged contributory infringement on the grounds that X knowingly provided the infrastructure through which infringing recordings were repeatedly shared.",
+      "audio": "week19/day2_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious infringement",
+      "pronunciation": "/vɪˈkɛəriəs ɪnˈfrɪndʒmənt/",
+      "definition_cn": "替代侵权：当事方对侵权活动拥有监督控制权且从中直接获得经济利益，即使未亲自实施侵权行为亦须承担版权责任。",
+      "example": "Because X profited from the engagement driven by infringing posts and had the right to police its platform, the complaint included a claim for vicarious infringement.",
+      "audio": "week19/day2_vocab_1.mp3"
+    },
+    {
+      "term": "statutory damages",
+      "pronunciation": "/ˈstætʃʊtəri ˈdæmɪdʒɪz/",
+      "definition_cn": "法定赔偿金：依据版权法条文预先规定的赔偿额度，原告无需证明实际损失，法院可在法定范围内裁量，最高可达每件侵权作品15万美元（故意侵权情形）。",
+      "example": "By seeking statutory damages of up to $150,000 per willfully infringed work, the publishers avoided the evidentiary burden of calculating actual lost revenues.",
+      "audio": "week19/day2_vocab_2.mp3"
+    },
+    {
+      "term": "safe harbor provision",
+      "pronunciation": "/seɪf ˈhɑːrbər prəˈvɪʒən/",
+      "definition_cn": "安全港条款：《数字千年版权法》第512条赋予符合条件的网络服务提供商免于因用户上传侵权内容而承担货币赔偿责任的保护性规则。",
+      "example": "X invoked the safe harbor provision as its central defense, arguing that it removed infringing material upon valid notification and had a policy of terminating repeat offenders.",
+      "audio": "week19/day2_vocab_3.mp3"
+    },
+    {
+      "term": "DMCA takedown notices",
+      "pronunciation": "/ˌdiː ɛm siː ˈeɪ ˈteɪkdaʊn ˈnoʊtɪsɪz/",
+      "definition_cn": "DMCA下架通知：版权权利人依据《数字千年版权法》第512(c)(3)条向平台发出的正式书面通知，要求平台迅速删除或屏蔽特定侵权内容。",
+      "example": "The publishers submitted hundreds of thousands of DMCA takedown notices weekly, arguing that X's systemic failure to act forfeited any claim to safe harbor protection.",
+      "audio": "week19/day2_vocab_4.mp3"
+    },
+    {
+      "term": "anticompetitive conduct",
+      "pronunciation": "/ˌæntiːkəmˈpɛtɪtɪv ˈkɒndʌkt/",
+      "definition_cn": "反竞争行为：违反《谢尔曼法》等联邦反垄断法的市场行为，包括竞争者之间的协调定价、集体抵制或拒绝交易，旨在消除竞争并维持超竞争价格。",
+      "example": "X's antitrust complaint alleged that the publishers' coordinated takedown campaign constituted anticompetitive conduct designed to foreclose the possibility of bilateral licensing negotiations.",
+      "audio": "week19/day2_vocab_5.mp3"
+    },
+    {
+      "term": "supracompetitive prices",
+      "pronunciation": "/ˌsuːprəkəmˈpɛtɪtɪv ˈpraɪsɪz/",
+      "definition_cn": "超竞争价格：反垄断法术语，指因市场竞争被人为抑制而形成的高于竞争均衡水平的价格，是认定垄断损害的核心要素之一。",
+      "example": "X argued that collective refusal to license on individual terms forced it to accept supracompetitive prices that would not exist in a genuinely competitive marketplace.",
+      "audio": "week19/day2_vocab_6.mp3"
+    },
+    {
+      "term": "refusal to deal",
+      "pronunciation": "/rɪˈfjuːzəl tə diːl/",
+      "definition_cn": "拒绝交易：反垄断法中指具有市场支配地位的经营者无正当理由拒绝与竞争者或交易对手进行商业往来，可能构成违反《谢尔曼法》第2条的垄断化行为。",
+      "example": "The heart of X's antitrust theory was that the publishers' coordinated refusal to deal on bilateral terms denied X any competitive alternative to an industry-wide license.",
+      "audio": "week19/day2_vocab_7.mp3"
+    },
+    {
+      "term": "discovery stay",
+      "pronunciation": "/dɪˈskʌvəri steɪ/",
+      "definition_cn": "证据开示中止令：法院或当事方协议暂停民事诉讼中证据开示程序的命令，通常在和解谈判期间适用，以节约诉讼资源并促进庭外解决争议。",
+      "example": "Both sides agreed to a discovery stay in June 2025, signaling genuine intent to settle, but the negotiations ultimately collapsed before any agreement was reached.",
+      "audio": "week19/day2_vocab_8.mp3"
+    },
+    {
+      "term": "platform liability",
+      "pronunciation": "/ˈplætfɔːrm ˌlaɪəˈbɪlɪti/",
+      "definition_cn": "平台责任：网络服务提供商因用户在其平台上实施的侵权或违法行为而承担法律责任的程度，受DMCA安全港条款及《通信规范法》第230条等联邦制度规范。",
+      "example": "The trial scheduled for February 2027 may produce landmark rulings on platform liability that redefine the obligations of user-generated-content hosts under federal copyright law.",
+      "audio": "week19/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] [specific conduct], seeking up to [amount] in [remedy] per [unit of harm].",
+      "example": "The publishers alleged that X consistently and knowingly hosted infringing copies of musical compositions, seeking up to $150,000 in statutory damages per willfully infringed work.",
+      "translation_cn": "出版商指控X持续且明知地托管侵权音乐作品的复制件，就每件故意侵权作品寻求高达15万美元的法定赔偿金。"
+    },
+    {
+      "pattern": "[Party]'s [defense/theory] rested on [legal doctrine], arguing that [specific legal position].",
+      "example": "X's legal defense rested on the DMCA's safe harbor provision, arguing that the platform had adopted a policy of removing infringing content upon notification and terminating repeat infringers.",
+      "translation_cn": "X的法律抗辩依托于DMCA安全港条款，主张该平台已采纳在收到通知后删除侵权内容、并对惯犯实施封禁的政策。"
+    },
+    {
+      "pattern": "The litigation raises fundamental questions about [legal issue #1], [legal issue #2], and whether [contested legal proposition].",
+      "example": "The litigation raises fundamental questions about the boundaries of DMCA safe harbor, platform liability for user-generated infringing content, and whether collective licensing enforcement by trade associations can constitute unlawful anticompetitive conduct under U.S. antitrust law.",
+      "translation_cn": "该诉讼提出了有关DMCA安全港边界、平台对用户生成侵权内容之责任的根本性问题，以及行业协会集体执行许可是否构成美国反垄断法下的非法反竞争行为。"
+    }
+  ],
+  "summary_cn": "2026年1月，X公司对美国国家音乐出版商协会及18家出版商提起反垄断诉讼，指控其协调发出大量DMCA下架通知，以强迫X接受超竞争价格的行业许可，构成集体拒绝交易的垄断行为。此前，出版商已于2023年6月对X提起2.5亿美元版权侵权诉讼，主张直接侵权、帮助侵权及替代侵权三项请求。原案定于2027年2月开庭审理，双方此前的和解谈判已于2025年破裂。",
+  "legal_analysis": "① 核心法律问题：本案涉及两个相互交织的法律问题：其一，X能否援引《数字千年版权法》（DMCA）第512条安全港条款免于版权侵权的货币赔偿责任；其二，出版商通过行业协会协调发出大量下架通知并集体拒绝单独许可的行为，是否构成《谢尔曼法》第1条（横向共谋）或第2条（垄断化）所禁止的反竞争行为。\n\n② 美国法律框架：DMCA安全港保护依赖四项核心条件：平台须无\"红旗知识\"（red flag knowledge）、无直接经济利益归因于侵权活动、对知识产权投诉设有指定代理人，并在收到有效通知后迅速删除内容。若出版商证明X系统性忽视通知，则安全港将丧失。反垄断层面，X须证明出版商间存在协议、该协议具有反竞争效果，且X因此遭受了可归因于反竞争行为的竞争损害。\n\n③ 对中国娱乐法律师的实践启示：中国科技公司在美国经营或与美国版权权利人谈判时，应充分评估DMCA合规体系的建设完整性，避免安全港失效。同时需警惕：若通过行业协会与美国版权权利人进行集体谈判，可能引发反垄断连带风险。建议在进入美国市场前设立专项版权合规审查流程，并预设单独许可谈判备用方案。",
+  "cn_us_comparison": "中美两国均为《伯尔尼公约》成员，在版权保护的基本框架上具有共性，但平台责任制度存在显著差异。美国DMCA第512条确立了\"通知—删除\"避风港制度，平台只要及时响应有效通知、取消惯犯账号即可免责，平台无主动监控义务。中国《信息网络传播权保护条例》（2022年修订）第22至24条建立了类似的\"通知—删除\"规则，但2021年施行的《著作权法》第三次修正案强化了平台的注意义务，要求平台对\"应知\"的侵权行为采取必要措施，更接近美国法中\"红旗知识\"理论所对应的主动审查义务。在集体许可方面，中国依托中国音乐著作权协会（MCSC）等著作权集体管理组织实施强制性集体管理制度，与美国出版商自发组成的NMPA不同，前者受国家版权局监管，具有准公权力属性，因而在中国语境下不存在类似的反垄断争议风险。",
+  "discussion_prompt": "If X's antitrust theory succeeds — that coordinated DMCA enforcement by competing publishers constitutes an unlawful refusal to deal — what structural changes would this impose on how trade associations like the NMPA may collectively enforce their members' copyright interests, and does such a ruling risk creating an irreconcilable tension between copyright law's enforcement mechanisms and federal antitrust policy?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a major video-sharing platform facing a similar copyright infringement suit. Write 2–3 sentences in the style of the reading that describe your client's primary legal defense and the remedy being sought against it, using at least two vocabulary terms from today's lesson.",
+    "model_answer": "The platform's legal defense rested on the DMCA's safe harbor provision, arguing that it had expeditiously processed all valid DMCA takedown notices and maintained a documented policy of terminating repeat infringers. The plaintiffs, a coalition of major record labels, alleged both contributory infringement and vicarious infringement, seeking up to $150,000 in statutory damages per willfully infringed sound recording. The litigation raises fundamental questions about the scope of safe harbor protection for AI-assisted content moderation systems and whether algorithmic delay in processing notices can forfeit a platform's statutory immunity."
+  },
+  "youtube_rec": {
+    "title": "DMCA Safe Harbor Explained: Platform Liability, Takedown Notices & Copyright Law (2025 Update)",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频系统讲解DMCA第512条安全港制度的适用条件与边界，结合近年重大平台版权案例分析\"通知—删除\"机制的实际操作，适合希望深入理解平台版权责任与免责抗辩逻辑的娱乐法从业者观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所于2026年1月发布的年度娱乐法前瞻，梳理AI版权、合理使用原则演变及商标争议等进入2026年仍悬而未决的核心法律问题。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法律与技术中心学术综述，由Greenberg Traurig律师Ian Ballon主讲，深度分析2025至2026年AI版权合理使用、DMCA安全港、第230条电路分歧等互联网与娱乐法最前沿议题。",
+      "language": "en"
+    }
+  ],
+  "week": 19,
+  "day": 2,
+  "date": "2026-07-29",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week19/day2.mp3"
+}
