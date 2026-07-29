@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Narrows Scope of Secondary Copyright Liability in Cox Communications, Inc. v. Sony Music Entertainment",
+    "source": "Kirkland & Ellis LLP (Publications), April 2, 2026",
+    "url": "https://www.kirkland.com/publications/kirkland-alert/2026/04/supreme-court-narrows-scope-of-secondary-copyright-liability-in-cox-v-sony",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued a unanimous decision in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), one of the most consequential copyright rulings of the internet era. The case arose when major music copyright owners led by Sony Music Entertainment sued Cox Communications, a large internet service provider, for failing to terminate the accounts of subscribers repeatedly identified as committing copyright infringement through illegal file-sharing. A third-party monitoring company had notified Cox of over 160,000 instances where its subscribers' IP addresses were linked to alleged copyright violations. Although Cox issued warnings and suspended some accounts, the music labels argued these measures were inadequate. A jury in the Eastern District of Virginia returned a verdict of approximately $1 billion against Cox. The Fourth Circuit Court of Appeals affirmed, finding Cox both contributorily and vicariously liable for its users' infringement.\n\nCox petitioned the Supreme Court, arguing that as an internet service provider it should not be forced to terminate entire households based on the unlawful activity of individual users. The Court granted Cox's petition but declined to review the music labels' cross-petition on vicarious liability, limiting the case solely to contributory infringement questions.\n\nIn reversing the Fourth Circuit, Justice Clarence Thomas wrote that a company 'is not liable as a copyright infringer for merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.' The Court held that contributory liability attaches only when a defendant affirmatively induced infringement or provided a service specifically tailored to infringement — drawing directly on Sony Corp. v. Universal City Studios and MGM v. Grokster. Because Cox's internet access service has substantial lawful uses and Cox did not design or market its service for piracy, the majority found no contributory liability. Justice Sotomayor concurred in the judgment but wrote separately to argue the majority unnecessarily foreclosed other forms of secondary liability, including aiding and abetting. The ruling is considered a landmark victory for internet service providers, reshaping online copyright enforcement and limiting the ability of copyright owners to compel service providers to police subscriber conduct.",
+    "word_count": 318
+  },
+  "vocabulary": [
+    {
+      "term": "contributory liability",
+      "pronunciation": "/kənˈtrɪbjʊtəri laɪəˈbɪlɪti/",
+      "definition_cn": "帮助侵权责任：指当事人虽未直接实施侵权行为，但因知晓他人侵权并实质性地促成该侵权而承担的著作权连带法律责任。",
+      "example": "The Court held that contributory liability attaches only when a defendant has affirmatively induced the infringing acts.",
+      "audio": "week19/day3_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious liability",
+      "pronunciation": "/vɪˈkɛəriəs laɪəˈbɪlɪti/",
+      "definition_cn": "替代责任：指一方在有能力监督直接侵权人且从侵权行为中直接获益的情况下，须对他人版权侵权行为承担法律责任的原则。",
+      "example": "The Fourth Circuit found Cox vicariously liable because it retained the right to terminate infringing subscribers yet failed to do so.",
+      "audio": "week19/day3_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndəri laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任：版权法中指对他人直接侵权行为承担责任的总称，涵盖帮助侵权责任与替代责任两种形态。",
+      "example": "Justice Sotomayor warned that the majority's reasoning unnecessarily foreclosed other forms of secondary liability beyond contributory infringement.",
+      "audio": "week19/day3_vocab_2.mp3"
+    },
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "著作权侵权：未经版权人授权擅自复制、传播或使用受保护作品，违反《美国版权法》第17章的行为。",
+      "example": "The monitoring company identified over 160,000 instances of alleged copyright infringement linked to Cox subscribers' IP addresses.",
+      "audio": "week19/day3_vocab_3.mp3"
+    },
+    {
+      "term": "substantial lawful uses",
+      "pronunciation": "/səbˈstænʃəl ˈlɔːfʊl ˈjuːzɪz/",
+      "definition_cn": "实质性合法用途：源自索尼案的抗辩原则，指若某技术或服务具有重大合法用途，则提供者即便知晓存在侵权用途亦不承担帮助侵权责任。",
+      "example": "The Supreme Court emphasized that Cox's internet access service has substantial lawful uses, shielding it from contributory liability.",
+      "audio": "week19/day3_vocab_4.mp3"
+    },
+    {
+      "term": "cross-petition",
+      "pronunciation": "/krɒs pɪˈtɪʃən/",
+      "definition_cn": "交叉上诉请求：在上诉程序中，被上诉方就下级法院未支持自身主张的部分向上级法院提出的独立复审申请。",
+      "example": "The Court declined to review the music labels' cross-petition on vicarious liability, limiting its analysis to contributory infringement alone.",
+      "audio": "week19/day3_vocab_5.mp3"
+    },
+    {
+      "term": "aiding and abetting",
+      "pronunciation": "/ˈeɪdɪŋ ənd əˈbɛtɪŋ/",
+      "definition_cn": "协助与教唆：指一方故意协助、鼓励或促进他人实施不法行为，由此产生共同连带法律责任的行为理论。",
+      "example": "Justice Sotomayor concurred but cautioned that the majority's holding should not eliminate aiding and abetting as a basis for secondary copyright liability.",
+      "audio": "week19/day3_vocab_6.mp3"
+    },
+    {
+      "term": "affirmatively induced infringement",
+      "pronunciation": "/əˈfɜːmətɪvli ɪnˈdjuːst ɪnˈfrɪndʒmənt/",
+      "definition_cn": "积极诱导侵权：源自Grokster案的侵权认定标准，指被告通过明确行为或推广手段主动促成他人实施版权侵权。",
+      "example": "Under the Grokster standard, contributory liability requires proof that the defendant affirmatively induced infringement, not merely tolerated it.",
+      "audio": "week19/day3_vocab_7.mp3"
+    },
+    {
+      "term": "concurred in the judgment",
+      "pronunciation": "/kənˈkɜːd ɪn ðə ˈdʒʌdʒmənt/",
+      "definition_cn": "附意见同意判决：指法官同意多数意见的最终结论，但另行撰写协同意见，就推理逻辑或法律依据表达不同观点。",
+      "example": "Justice Sotomayor concurred in the judgment but wrote separately to challenge the breadth of the majority's reasoning on secondary liability.",
+      "audio": "week19/day3_vocab_8.mp3"
+    },
+    {
+      "term": "file-sharing",
+      "pronunciation": "/ˈfaɪl ˌʃɛərɪŋ/",
+      "definition_cn": "点对点文件共享：指通过网络协议在用户间直接传输数字文件（尤其是受版权保护的音乐、影像作品），常涉及大规模著作权侵权纠纷。",
+      "example": "The litigation stemmed from subscribers using Cox's broadband network for illegal file-sharing of copyrighted musical works.",
+      "audio": "week19/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Appellate court] affirmed, finding [defendant] both [liability theory A] and [liability theory B] for [party]'s infringement.",
+      "example": "The Fourth Circuit Court of Appeals affirmed, finding Cox both contributorily and vicariously liable for its users' infringement.",
+      "translation_cn": "第四巡回上诉法院维持原判，认定Cox对其用户的侵权行为同时承担帮助侵权责任和替代责任。"
+    },
+    {
+      "pattern": "[Court] held that [legal doctrine] attaches only when a defendant [specific conduct threshold], drawing directly on [precedent].",
+      "example": "The Court held that contributory liability attaches only when a defendant affirmatively induced infringement or provided a service specifically tailored to infringement, drawing directly on Sony Corp. v. Universal City Studios and MGM v. Grokster.",
+      "translation_cn": "法院认定，只有当被告积极诱导侵权或专门为侵权目的提供服务时，帮助侵权责任方可成立，直接援引索尼公司案与Grokster案作为先例依据。"
+    },
+    {
+      "pattern": "[Justice] concurred in the judgment but wrote separately to argue [the majority] unnecessarily foreclosed [legal theory].",
+      "example": "Justice Sotomayor concurred in the judgment but wrote separately to argue the majority unnecessarily foreclosed other forms of secondary liability, including aiding and abetting.",
+      "translation_cn": "索托马约尔大法官同意判决结果，但另行撰写协同意见，认为多数意见不当地封堵了其他间接责任形式，包括协助与教唆理论。"
+    }
+  ],
+  "summary_cn": "2026年3月25日，美国最高法院就Cox通信公司诉索尼音乐娱乐公司案作出一致裁决，推翻第四巡回法院的判决，认定互联网服务提供商Cox对用户的版权侵权行为不承担帮助侵权责任。法院援引索尼案和Grokster案先例，确立了仅在被告积极诱导侵权时方可追究帮助侵权责任的标准，被视为互联网服务提供商在版权执法领域取得的重大胜利。",
+  "legal_analysis": "① 核心法律问题：本案聚焦于互联网服务提供商（ISP）在何种条件下对用户的版权侵权行为承担帮助侵权责任（contributory liability），以及\"实质性合法用途\"抗辩与\"积极诱导\"标准的适用边界。\n\n② 美国法律框架分析：美国版权法（17 U.S.C.）未明文规定间接侵权责任，该制度主要由判例法构建。本案直接承继Sony Corp. v. Universal City Studios（1984年，确立\"实质性合法用途\"抗辩）与MGM Studios v. Grokster（2005年，确立\"积极诱导\"标准）两大里程碑案例，进一步厘清：若服务商仅知悉用户存在侵权行为而未主动促成，则不构成帮助侵权。与此同时，法院拒绝就替代责任（vicarious liability）作出裁决，为该问题留下悬而未决的空间，索托马约尔大法官的协同意见亦提示协助与教唆理论仍有待厘清。\n\n③ 对中国娱乐法律师的实践启示：中国涉外版权谈判及跨境平台合规实务中，理解美国间接侵权责任标准至关重要。中国互联网平台赴美运营或与美国版权方合作时，须评估其内容审核机制是否可能构成\"积极诱导\"，并关注DMCA避风港制度与本案裁决之间的适用关系，以制定更具针对性的版权风险防控策略。",
+  "cn_us_comparison": "在间接版权侵权责任领域，中美两国制度框架存在显著差异。美国通过判例法构建了帮助侵权责任与替代责任两大体系，本案进一步收窄了追责门槛，要求证明被告\"积极诱导\"侵权。与此同时，《数字千年版权法》（DMCA）第512条为符合条件的网络服务提供商提供避风港保护。\n\n中国方面，《著作权法》（2020年修订版）第53条及相关司法解释确立了网络服务提供商的\"通知—删除\"义务，《信息网络传播权保护条例》第22至24条亦规定了类似避风港制度，但适用条件与美国存在差异。中国法院在司法实践中倾向于适用\"应知标准\"（即服务商知道或应当知道侵权行为存在），而非严格要求证明积极诱导行为，整体上对权利人保护力度相对更强。此外，中国《电子商务法》第45条亦规定了平台对\"知道或应当知道\"的侵权行为负有连带责任，与美国Grokster标准形成鲜明对比。",
+  "discussion_prompt": "Given that the Supreme Court in Cox has significantly raised the bar for contributory liability by requiring proof of affirmative inducement, should legislatures intervene to impose statutory 'repeat infringer' termination obligations on ISPs, or does such a mandate risk chilling free expression and due process for accused subscribers?",
+  "writing_exercise": {
+    "prompt": "You are a law clerk drafting a one-paragraph case summary. Write 2-3 sentences describing how a court applied a secondary liability doctrine, referencing a specific legal standard and a controlling precedent.",
+    "model_answer": "The Supreme Court reversed the Fourth Circuit, holding that contributory liability attaches only when a defendant has affirmatively induced infringement, drawing directly on MGM v. Grokster. Because Cox's broadband service has substantial lawful uses and Cox did not design its service for illegal file-sharing, the Court found no basis for contributory liability. Justice Sotomayor concurred in the judgment but wrote separately to caution that the majority's reasoning should not be read to foreclose secondary liability theories such as aiding and abetting in future cases."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Explained: How the Supreme Court Rewrote ISP Copyright Liability",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频系统讲解Cox通信公司诉索尼音乐案的完整诉讼过程，重点分析最高法院如何援引索尼案与Grokster案先例，收窄帮助侵权责任认定标准，并探讨该裁决对互联网服务提供商、科技平台及版权执法格局的深远影响。"
+  },
+  "extended_reading": [
+    {
+      "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+      "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+      "description_cn": "Billboard综述近期重大音乐法律事件，包括Snoop Dogg就NFT未授权发行达成保密和解，以及多起涉及音乐人的版权与刑事案件进展。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律师事务所发布的2026年娱乐法前瞻，梳理合理使用原则、人工智能训练数据责任及商标Rogers测试等核心法律议题的最新走向。",
+      "language": "en"
+    }
+  ],
+  "week": 19,
+  "day": 3,
+  "date": "2026-07-30",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week19/day3.mp3"
+}
