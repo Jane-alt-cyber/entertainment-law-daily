@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Narrows Scope of Secondary Copyright Liability in Cox v. Sony",
+    "source": "Kirkland & Ellis LLP, April 2, 2026",
+    "url": "https://www.kirkland.com/publications/kirkland-alert/2026/04/supreme-court-narrows-scope-of-secondary-copyright-liability-in-cox-v-sony",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued a unanimous landmark decision in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), reversing the Fourth Circuit and dismantling a staggering $1 billion jury verdict against Cox, a major internet service provider. The case turned on whether an ISP can be held secondarily liable — specifically contributorily liable — for copyright infringement committed by subscribers who used Cox's internet access to illegally download and share copyrighted music.\n\nThe Fourth Circuit had found Cox both contributorily and vicariously liable, reasoning that Cox possessed knowledge of repeat infringers on its network yet failed to terminate their accounts as mandated by its own DMCA repeat-infringer policy. The record labels characterized this deliberate inaction as willful blindness sufficient to sustain the full damages award. Cox countered that contributory infringement requires affirmative conduct beyond mere knowledge, and that compelling ISPs to terminate accounts based on automated takedown notices would collaterally sever access for entire households and institutions.\n\nWriting for the unanimous Court, Justice Clarence Thomas articulated a clear controlling rule: a service provider is contributorily liable for a subscriber's infringement only if it either affirmatively induced the infringement or provided a service specifically tailored for infringement. Because Cox neither encouraged infringement nor offered a service primarily designed for piracy — internet access itself possessing substantial lawful uses — the Court found no basis for contributory liability. The opinion's operative holding: 'a company is not liable as a copyright infringer for merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.' The Court anchored its reasoning in Sony Corp. of America v. Universal City Studios and Metro-Goldwyn-Mayer Studios v. Grokster as governing precedents.\n\nJustice Sotomayor, joined by Justice Jackson, issued a concurrence arguing that the material contribution test should be retained and that alternative theories of secondary liability remain viable — a position aligned with an amicus brief filed by the AIPLA in September 2025. The Fourth Circuit's judgment was reversed and remanded. The ruling delivers a definitive win for ISPs and significantly curtails the music industry's ability to pursue secondary liability claims against internet infrastructure providers.",
+    "word_count": 331
+  },
+  "vocabulary": [
+    {
+      "term": "contributorily liable",
+      "pronunciation": "/kənˌtrɪbjətɔːrɪli ˈlaɪəbl/",
+      "definition_cn": "间接侵权责任的一种形式，指当事方虽未直接实施侵权行为，但因知晓他人侵权行为并实质性地促成或诱导该行为而承担的法律责任。",
+      "example": "The appellate court found the platform contributorily liable because it had actual knowledge of infringing uploads and failed to act.",
+      "audio": "week19/day5_vocab_0.mp3"
+    },
+    {
+      "term": "vicariously liable",
+      "pronunciation": "/vɪˈkɛərɪəsli ˈlaɪəbl/",
+      "definition_cn": "替代责任，指当事方因对直接侵权者具有控制能力并从侵权行为中获得直接经济利益而承担的连带法律责任。",
+      "example": "A record label argued the venue was vicariously liable for the cover band's unauthorized performances because it profited from ticket sales.",
+      "audio": "week19/day5_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndri laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任的总称，涵盖协助侵权和替代责任，指对他人直接侵权行为负有法律责任的情形，是版权法中追究平台责任的核心法律理论。",
+      "example": "After the primary infringer absconded, the rights holders pursued secondary liability claims against the hosting provider.",
+      "audio": "week19/day5_vocab_2.mp3"
+    },
+    {
+      "term": "DMCA repeat-infringer policy",
+      "pronunciation": "/ˌdiːɛmsiːˈeɪ rɪˈpiːt ɪnˈfrɪndʒər ˈpɒlɪsi/",
+      "definition_cn": "《数字千年版权法》要求网络服务提供商必须建立并合理执行的针对屡次侵权用户的账户终止政策，是获得安全港保护的前提条件之一。",
+      "example": "The ISP lost its safe harbor defense after failing to enforce its own DMCA repeat-infringer policy against subscribers flagged multiple times.",
+      "audio": "week19/day5_vocab_3.mp3"
+    },
+    {
+      "term": "willful blindness",
+      "pronunciation": "/ˈwɪlfəl ˈblaɪndnəs/",
+      "definition_cn": "故意视而不见原则，指当事方明知存在高度可能的侵权事实，却主动回避获取确认知识的行为，在版权法中可替代主观知情要件构成侵权责任。",
+      "example": "The court held that deliberately ignoring thousands of infringement notices could constitute willful blindness sufficient to defeat the safe harbor defense.",
+      "audio": "week19/day5_vocab_4.mp3"
+    },
+    {
+      "term": "affirmatively induced",
+      "pronunciation": "/əˈfɜːmətɪvli ɪnˈdjuːst/",
+      "definition_cn": "积极诱导，指服务提供商通过明示或暗示的积极行为促使用户实施侵权，是Grokster案确立的认定引诱侵权责任的核心要件。",
+      "example": "The Court in Grokster found that the defendant had affirmatively induced infringement through promotional materials expressly targeting piracy-seeking users.",
+      "audio": "week19/day5_vocab_5.mp3"
+    },
+    {
+      "term": "substantial lawful uses",
+      "pronunciation": "/səbˈstænʃəl ˈlɔːfəl ˈjuːzɪz/",
+      "definition_cn": "实质性合法用途，源自Sony Betamax案确立的标准，若技术产品具有实质性的合法非侵权用途，则单纯销售该产品通常不构成贡献侵权责任。",
+      "example": "Because the dual-purpose software had substantial lawful uses in video editing, the court declined to impose contributory liability on the developer.",
+      "audio": "week19/day5_vocab_6.mp3"
+    },
+    {
+      "term": "certiorari",
+      "pronunciation": "/ˌsɜːʃɪəˈrɛəri/",
+      "definition_cn": "调卷令，美国最高法院受理上诉的正式程序，系下级法院裁决提交最高法院审查的法律文书，获批意味着最高法院同意审理该案。",
+      "example": "The Supreme Court granted certiorari to resolve a circuit split on the scope of contributory liability for internet service providers.",
+      "audio": "week19/day5_vocab_7.mp3"
+    },
+    {
+      "term": "material contribution test",
+      "pronunciation": "/məˈtɪərɪəl kənˈtrɪbjuːʃən tɛst/",
+      "definition_cn": "实质性贡献标准，用于判断第三方是否通过提供实质性帮助而对他人侵权行为负有贡献侵权责任，Sotomayor大法官协同意见主张该标准应予保留。",
+      "example": "Justice Sotomayor argued that abandoning the material contribution test would leave rights holders without recourse against infrastructure providers who knowingly enable mass infringement.",
+      "audio": "week19/day5_vocab_8.mp3"
+    },
+    {
+      "term": "amicus brief",
+      "pronunciation": "/ˈæmɪkəs briːf/",
+      "definition_cn": "法庭之友意见书，由案件当事方以外的第三方（通常为专业协会、学术机构或政府机构）向法院提交的法律意见文件，旨在就重大法律问题提供专业视角。",
+      "example": "The AIPLA filed an amicus brief urging the Supreme Court to preserve the material contribution test as a necessary check on ISP immunity.",
+      "audio": "week19/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] found [party] both [theory A] and [theory B] on the grounds that [factual basis].",
+      "example": "The Fourth Circuit found Cox both contributorily and vicariously liable on the grounds that Cox had knowledge of repeat infringers on its network and failed to terminate their accounts as required by its own DMCA repeat-infringer policy.",
+      "translation_cn": "第四巡回上诉法院认定Cox同时承担帮助侵权责任和替代责任，理由是Cox知晓其网络中存在屡次侵权用户，却未按自身DMCA屡次侵权者政策的要求终止相关账户。"
+    },
+    {
+      "pattern": "[Party] is [liability standard] only if it either [condition A] or [condition B].",
+      "example": "A service provider is contributorily liable for a subscriber's infringement only if it either affirmatively induced the infringement or provided a service specifically tailored for infringement.",
+      "translation_cn": "服务提供商就用户侵权行为承担帮助侵权责任，须以其积极诱导侵权行为或提供专门针对侵权行为的服务为前提。"
+    },
+    {
+      "pattern": "[Justice/Party] issued a concurrence arguing that [legal position] and that [alternative theory] remains viable.",
+      "example": "Justice Sotomayor issued a concurrence arguing that the material contribution test should be retained and that other theories of secondary liability remain viable.",
+      "translation_cn": "Sotomayor大法官发表协同意见，主张实质性贡献标准应予保留，且其他间接侵权责任理论仍具有适用空间。"
+    }
+  ],
+  "summary_cn": "2026年3月，美国最高法院在Cox诉索尼音乐案中一致裁定，互联网服务提供商仅凭知晓用户侵权行为并不构成帮助侵权责任，推翻了第四巡回法院10亿美元的陪审团裁决。法院确立新规则：除非服务商积极诱导侵权或专门为侵权提供服务，否则不承担次要责任。Sotomayor大法官发表协同意见，主张保留实质性贡献标准。该判决对ISP和科技平台具有重大保护意义。",
+  "legal_analysis": "① 核心法律问题：本案核心在于版权法框架下网络服务提供商的次要责任边界，具体争议为帮助侵权责任的构成要件是否以积极诱导行为为必要条件，还是仅凭知情不作为即可成立。\n\n② 美国法律框架分析：最高法院的裁决以Sony Betamax案（1984年）和Grokster案（2005年）为双重先例基础，构建起严格限制次要责任的分析框架。Sony案确立的\"实质性合法用途\"标准为通用技术提供商提供了安全阀；Grokster案则明确引诱侵权须有积极主观意图。本案将两案原则延伸适用于ISP，实质上赋予了提供通用互联网接入的服务商近乎绝对的次要责任豁免。《数字千年版权法》(DMCA)第512条的安全港条款在本案中虽为背景性框架，但法院选择以普通法侵权理论而非安全港分析作为裁判依据，留下了制度性张力。\n\n③ 对中国娱乐法律师的实践启示：中国互联网平台面临类似的平台责任问题，中国法院在涉及\"通知-删除\"义务和平台管理责任方面积累了相当判例。本案提示，在中美两地开展业务的娱乐科技企业在设计版权合规方案时，须区分两套体系下\"知情\"与\"诱导\"的不同法律后果，并注意美国法院可能进一步扩展本案逻辑至流媒体和内容聚合场景。",
+  "cn_us_comparison": "美国版权次要责任体系建立在普通法判例之上，以Sony案和Grokster案为核心判例，同时辅以DMCA第512条安全港制度。其特点是区分积极诱导型帮助侵权与消极知情型不作为，并为具有实质性合法用途的通用服务提供较强保护。\n\n中国版权保护体系则以成文法为核心。《著作权法》（2020年修订）第五十二条、五十三条规定了直接侵权责任，《信息网络传播权保护条例》第二十二至二十五条建立了类似安全港的\"避风港\"制度，要求平台在收到合格侵权通知后及时删除侵权内容。《民法典》第一千一百九十七条则规定了网络服务提供者知道或应当知道侵权行为而未采取必要措施的连带责任。\n\n两套体系的关键差异在于：中国法院在判断平台是否\"知道或应当知道\"方面通常适用较低门槛，平台承担较重的主动审查义务；而美国最新判决则进一步提升了次要责任的认定门槛，倾向于保护互联网基础设施提供商。对于在华运营的平台而言，中国制度对平台主动监控义务的要求更为严格，需在商业模式设计中予以重点关注。",
+  "discussion_prompt": "Given that the Supreme Court's ruling in Cox v. Sony effectively immunizes ISPs from secondary copyright liability absent affirmative inducement, should Congress amend the DMCA to impose affirmative monitoring obligations on large-scale internet infrastructure providers, or would such an obligation create an unacceptable chilling effect on open internet access and due process for subscribers?",
+  "writing_exercise": {
+    "prompt": "Imagine a music publisher is considering whether to bring a secondary liability claim against a cloud storage provider whose platform has been used to store and share infringing music files. Write 2–3 sentences analyzing whether the provider would be contributorily liable under the standard established in Cox v. Sony, using the sentence patterns from this lesson.",
+    "model_answer": "Under the standard established in Cox v. Sony, a cloud storage provider is contributorily liable for a subscriber's infringement only if it either affirmatively induced the infringement or provided a service specifically tailored for infringement. Because general-purpose cloud storage possesses substantial lawful uses — including legitimate backup, collaboration, and archival functions — a court would likely find no basis for contributory liability absent evidence that the provider actively promoted piracy. Unless the music publisher can demonstrate willful blindness combined with affirmative inducement, the secondary liability claim would face a formidable doctrinal barrier under the Court's new controlling rule."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Music: The Supreme Court Decision That Changed ISP Copyright Liability Forever",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统解析美国最高法院Cox诉索尼音乐案的裁决逻辑，深入讲解帮助侵权责任的构成要件、DMCA安全港制度与Sony/Grokster先例的关系，以及该判决对科技平台和版权持有人未来诉讼策略的深远影响，适合具备一定版权法基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "CBS and Sony Settle Legal Fight Over 'Jeopardy!,' 'Wheel of Fortune' Distribution",
+      "url": "https://www.hollywoodreporter.com/business/business-news/cbs-sony-settle-jeopardy-wheel-of-fortune-legal-fight-1236421479/",
+      "description_cn": "《好莱坞报道》报道索尼影视与CBS就《危险边缘》和《幸运转盘》节目的联合播映权归属达成和解，CBS保留至2027-28播季的独家美国发行权，此后由索尼全面接管。",
+      "language": "en"
+    },
+    {
+      "title": "Getting Online Copyright Right: Cox Communications v. Sony Music Entertainment",
+      "url": "https://www.gwlr.org/getting-online-copyright-right/",
+      "description_cn": "乔治华盛顿大学法律评论刊发Cotropia与Gibson两位教授的学术评析，批评最高法院多数意见对先例的误读，并指出该裁决在次要侵权责任领域引入的新不确定性。",
+      "language": "en"
+    }
+  ],
+  "week": 19,
+  "day": 5,
+  "date": "2026-08-03",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week19/day5.mp3"
+}
