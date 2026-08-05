@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision",
+    "source": "Wiley Law (client alert) + Kirkland & Ellis LLP + AIPLA, March 25–April 2, 2026",
+    "url": "https://www.wiley.law/alert-Supreme-Court-Reverses-Cox-Communications-Copyright-Infringement-Liability-Ruling-in-Landmark-Unanimous-Decision",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued a unanimous 9-0 decision in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), reversing the U.S. Court of Appeals for the Fourth Circuit. The Fourth Circuit had previously held Cox Communications vicariously and contributorily liable for its subscribers' music piracy — a ruling that had originally stemmed from a staggering $1 billion jury verdict at the district court level.\n\nThe case arose after major copyright owners, led by Sony Music Entertainment, sought to hold Cox — a large internet service provider — responsible for infringement committed by millions of its customers. A third-party monitoring company had notified Cox of over 160,000 instances where subscribers' IP addresses were linked to alleged violations, including illegal music file sharing. Although Cox had implemented policies prohibiting infringement and had issued warnings and suspended service to repeat offenders, the music labels argued these measures were wholly inadequate, contending that Cox's failure to terminate subscriber access amounted to willful infringement.\n\nThe Supreme Court granted certiorari in June 2025, and oral argument was heard on December 1, 2025. The central question before the Court was whether an ISP could be held willfully liable for copyright infringement based solely on knowledge of infringing activity and a failure to terminate subscriber access.\n\nIn the majority opinion authored by Justice Clarence Thomas, the Court held that 'a company is not liable as a copyright infringer for merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.' The Court further narrowed contributory copyright infringement to only two recognized pathways: (1) the defendant affirmatively induced the infringement, or (2) the defendant sold a service specifically tailored for infringement. Because internet access has substantial lawful uses and Cox neither encouraged infringement nor designed its service primarily for it, the Court found Cox not contributorily liable.\n\nJustice Sotomayor, joined by Justice Jackson, wrote separately in concurrence, arguing that the majority unnecessarily limited secondary liability and that the 'material contribution' test should have been retained. The decision has since been described by Law360 as 'the most notable decision in a copyright case this year,' and is widely regarded as the most significant copyright ruling of 2026. The case was remanded to the Fourth Circuit for further proceedings consistent with the Supreme Court's opinion.",
+    "word_count": 348
+  },
+  "vocabulary": [
+    {
+      "term": "contributory copyright infringement",
+      "pronunciation": "/kənˈtrɪbjətɔːri ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "间接版权侵权（共同侵权的一种形式）：指当事人明知他人正在实施侵权行为，仍给予实质性援助或诱使其侵权，从而承担连带版权责任。",
+      "example": "The labels argued that Cox's failure to terminate repeat infringers satisfied the threshold for contributory copyright infringement.",
+      "audio": "week20/day3_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious liability",
+      "pronunciation": "/vɪˈkɛəriəs laɪəˈbɪlɪti/",
+      "definition_cn": "替代责任：指一方因对侵权行为有控制能力且从中获得直接经济利益，即使未直接实施侵权行为，也须为他人侵权承担法律责任。",
+      "example": "The Fourth Circuit found Cox vicariously liable because it retained the ability to terminate infringing subscribers while continuing to profit from their subscriptions.",
+      "audio": "week20/day3_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndəri laɪəˈbɪlɪti/",
+      "definition_cn": "间接/第二性侵权责任：指并非直接实施侵权行为的一方，因协助、诱导或控制他人侵权行为而依法承担的版权责任，涵盖帮助侵权与替代责任。",
+      "example": "Justice Sotomayor contended that the majority's opinion unduly constricted the doctrine of secondary liability in the digital environment.",
+      "audio": "week20/day3_vocab_2.mp3"
+    },
+    {
+      "term": "certiorari",
+      "pronunciation": "/ˌsɜːrʃiəˈrɛəri/",
+      "definition_cn": "调卷令：美国最高法院向下级法院发出的命令，要求调取案件卷宗以供复审；申请调卷令是案件进入最高法院的主要途径。",
+      "example": "The Supreme Court granted certiorari in June 2025, agreeing to resolve the circuit split over ISP secondary liability standards.",
+      "audio": "week20/day3_vocab_3.mp3"
+    },
+    {
+      "term": "jury verdict",
+      "pronunciation": "/ˈdʒʊəri ˈvɜːdɪkt/",
+      "definition_cn": "陪审团裁决：在民事或刑事诉讼中，由陪审团就事实问题作出的正式裁断，通常包括对原告损害赔偿金额的认定。",
+      "example": "The original $1 billion jury verdict against Cox was subsequently vacated by the Fourth Circuit before the matter reached the Supreme Court.",
+      "audio": "week20/day3_vocab_4.mp3"
+    },
+    {
+      "term": "remanded",
+      "pronunciation": "/rɪˈmɑːndɪd/",
+      "definition_cn": "发回重审：上级法院将案件退回下级法院，要求依照上级法院的裁判意旨进行进一步审理或处置。",
+      "example": "Following its reversal of the Fourth Circuit's ruling, the Supreme Court remanded the case for further proceedings consistent with its opinion.",
+      "audio": "week20/day3_vocab_5.mp3"
+    },
+    {
+      "term": "willful infringement",
+      "pronunciation": "/ˈwɪlfʊl ɪnˈfrɪndʒmənt/",
+      "definition_cn": "故意侵权：指侵权人明知其行为构成版权侵权仍故意为之，或对是否侵权漠然置之；认定故意侵权可大幅提高法定损害赔偿金额。",
+      "example": "The music labels contended that Cox's deliberate inaction in the face of 160,000 infringement notices amounted to willful infringement.",
+      "audio": "week20/day3_vocab_6.mp3"
+    },
+    {
+      "term": "concurrence",
+      "pronunciation": "/kənˈkɜːrəns/",
+      "definition_cn": "协同意见（附议意见）：法官同意多数意见的裁判结果，但就理由或法律分析另行阐述不同见解，不具有与多数意见同等的判例约束力。",
+      "example": "In her concurrence, Justice Sotomayor agreed that Cox should not be held liable but rejected the majority's reasoning as unnecessarily restrictive.",
+      "audio": "week20/day3_vocab_7.mp3"
+    },
+    {
+      "term": "material contribution test",
+      "pronunciation": "/məˈtɪəriəl kənˈtrɪbjuːʃən tɛst/",
+      "definition_cn": "实质性贡献标准：认定间接版权侵权的一种分析框架，要求被告对他人侵权行为作出了实质性贡献，即使未直接诱使侵权，亦可承担责任。",
+      "example": "Justice Sotomayor argued that discarding the material contribution test would leave copyright holders without a meaningful remedy against passive but knowing facilitators.",
+      "audio": "week20/day3_vocab_8.mp3"
+    },
+    {
+      "term": "oral argument",
+      "pronunciation": "/ˈɔːrəl ˈɑːrɡjumənt/",
+      "definition_cn": "口头辩论：在上诉法院审理中，双方律师在法官面前就法律问题进行口头陈述和答辩的正式程序，是美国最高法院审查程序的核心环节。",
+      "example": "During oral argument on December 1, 2025, the Justices pressed counsel on whether knowledge alone could sustain a finding of secondary copyright liability.",
+      "audio": "week20/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The Court held that '[party] is not liable as a [legal category] for merely [conduct], with knowledge that it will be used by some to [harm].'",
+      "example": "The Court held that 'a company is not liable as a copyright infringer for merely providing a service to the general public with knowledge that it will be used by some to infringe copyrights.'",
+      "translation_cn": "法院裁定，\"某一主体仅因向公众提供服务，即使明知该服务将被部分人用于侵权，亦不因此承担版权侵权责任。\""
+    },
+    {
+      "pattern": "[Justice/Judge] wrote separately in concurrence, arguing that the majority [critique of majority reasoning] and that [alternative legal standard] should have been retained.",
+      "example": "Justice Sotomayor wrote separately in concurrence, arguing that the majority unnecessarily limited secondary liability and that the 'material contribution' test should have been retained.",
+      "translation_cn": "索托马约尔大法官另行撰写协同意见，认为多数意见不必要地限缩了间接责任的适用范围，并主张应当保留\"实质性贡献\"标准。"
+    },
+    {
+      "pattern": "The Court further narrowed [legal doctrine] to only [number] recognized pathways: (1) [first pathway], or (2) [second pathway].",
+      "example": "The Court further narrowed contributory copyright infringement to only two recognized pathways: (1) the defendant affirmatively induced the infringement, or (2) the defendant sold a service specifically tailored for infringement.",
+      "translation_cn": "法院进一步将帮助版权侵权的认定范围缩限为仅两种公认路径：（1）被告积极诱使侵权行为的发生；或（2）被告所销售的服务专门为侵权目的而设计。"
+    }
+  ],
+  "summary_cn": "2026年3月25日，美国最高法院以9比0全票推翻第四巡回上诉法院的裁决，裁定互联网服务提供商考克斯通信公司不承担其用户实施音乐盗版的帮助侵权责任及替代责任。法院认定，仅凭知悉侵权行为且未终止用户访问，不足以构成版权故意侵权，并将帮助侵权责任限缩为主动诱使侵权或专门为侵权设计服务两种情形。此案被视为2026年最具影响力的版权判决，深刻重塑了数字时代网络平台的间接版权责任框架。",
+  "legal_analysis": "① 核心法律问题：本案聚焦于互联网服务提供商是否因知悉用户侵权行为却未采取终止访问措施，而须承担帮助版权侵权责任（contributory liability）及替代责任（vicarious liability）。核心争议在于\"知情+不作为\"能否单独构成间接版权侵权的主观要件。\n\n② 美国法律框架分析：美国《版权法》第17编本身未明文规定间接侵权，相关规则主要由判例法发展而来。本案中最高法院援引Sony Corp. v. Universal City Studios（1984年\"Betamax案\"）所确立的\"实质性非侵权用途\"原则，认定凡具有大量合法用途的通用服务，其提供者不因部分用户滥用而承担帮助侵权责任，从而对间接侵权认定设置了更高门槛，并明确排斥单纯的\"实质性贡献\"理论。此外，数字千年版权法（DMCA）第512条避风港条款虽未作为本案裁判基础，但判决结果与其保护ISP的立法精神高度契合。\n\n③ 对中国娱乐法律师的实践启示：中国《信息网络传播权保护条例》第22、23条所建立的\"通知-删除\"避风港制度与美国DMCA框架具有结构性相似性，但中国法院在认定网络服务提供商\"应知\"侵权时通常采用更宽泛的过错推定标准。本案提示中国律师在代理涉及平台责任的跨境版权纠纷时，须重点关注两国在主观要件认定标准上的实质差异，并在合同谈判中明确约定侵权处置义务与免责条件。",
+  "cn_us_comparison": "美国方面，版权间接侵权责任完全依赖判例法构建，核心标准包括帮助侵权（contributory infringement）与替代责任（vicarious liability），《数字千年版权法》（DMCA）第512条则为符合条件的网络服务提供商提供明确的避风港保护。本案进一步将帮助侵权限缩为须有主动诱导行为或专门为侵权设计服务两种情形，大幅提高了原告的举证门槛。\n\n中国方面，《著作权法》第27条（2021年修订）及《信息网络传播权保护条例》第22、23条确立了\"通知-删除\"避风港机制，《民法典》第1197条则规定了网络服务提供者在\"知道或应当知道\"侵权行为时须承担连带责任。相比美国，中国法院在认定\"应知\"过错时具有更大的自由裁量空间，且实践中对大型平台采用了较高的注意义务标准，使平台更难以单纯依赖避风港条款免责。两国制度的核心分歧在于：美国侧重于被告的主动诱导行为，中国则更注重平台对侵权内容的实际管控能力与注意义务。",
+  "discussion_prompt": "Given that the Supreme Court in Cox Communications effectively insulated ISPs from secondary copyright liability absent affirmative inducement or a service tailored for infringement, should Congress intervene to legislatively restore a 'material contribution' standard — and if so, how should lawmakers balance the risk-stifling effect on ISP innovation against the erosion of meaningful copyright enforcement in the streaming era?",
+  "writing_exercise": {
+    "prompt": "You are drafting a client alert paragraph summarizing a hypothetical appellate court ruling. In 2-3 sentences, describe: (1) what the court held regarding secondary liability, (2) the two recognized pathways the court articulated, and (3) the disposition of the case. Use the sentence patterns from this lesson.",
+    "model_answer": "The Ninth Circuit held that a cloud storage provider is not liable as a copyright infringer for merely hosting user-uploaded files with knowledge that some files may constitute infringement. The court further narrowed contributory copyright infringement to only two recognized pathways: (1) the defendant affirmatively induced the infringement, or (2) the defendant sold a service specifically tailored for infringement. Accordingly, the panel reversed the district court's judgment and remanded the case for entry of judgment in the defendant's favor."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Music Explained: The Supreme Court's Landmark ISP Copyright Ruling (2026)",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频以通俗易懂的方式解析2026年最高法院Cox诉索尼音乐案的裁判逻辑，重点讲解帮助版权侵权与替代责任的构成要件、DMCA避风港制度的适用边界，以及此次判决对互联网服务提供商商业模式和版权执法策略的深远影响。适合有一定法律基础的进阶学习者观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，涵盖合理使用、AI训练数据版权合法性及商标Rogers测试等核心议题的最新走向分析。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法学院与Greenberg Traurig联合呈现的学术年度综述，系统梳理2025至2026年AI版权合理使用裁决、第230条CDA巡回分歧及数字娱乐年龄验证立法潮等重大互联网法律发展。",
+      "language": "en"
+    }
+  ],
+  "week": 20,
+  "day": 3,
+  "date": "2026-08-06",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week20/day3.mp3"
+}
