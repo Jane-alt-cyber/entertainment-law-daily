@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Supreme Court Reverses Cox Communications Copyright Infringement Liability Ruling in Landmark Unanimous Decision",
+    "source": "Wiley Law / Kirkland & Ellis LLP, March 25–April 2, 2026",
+    "url": "https://www.wiley.law/alert-Supreme-Court-Reverses-Cox-Communications-Copyright-Infringement-Liability-Ruling-in-Landmark-Unanimous-Decision",
+    "text": "On March 25, 2026, the U.S. Supreme Court issued a landmark opinion in Cox Communications, Inc. v. Sony Music Entertainment (No. 24-171), delivering a decisive win for internet service providers and fundamentally reshaping the secondary liability landscape under federal copyright law. The case arose after major music labels, led by Sony Music Entertainment, sued Cox Communications — one of the nation's largest ISPs with approximately six million subscriber accounts — alleging it had facilitated widespread music piracy by continuing to provide internet access to subscribers known to be repeat infringers. The Fourth Circuit had upheld findings of both contributory liability and vicarious liability against Cox, resulting in a jury verdict of approximately one billion dollars.\n\nIn a 7-2 judgment authored by Justice Thomas, the Supreme Court reversed the Fourth Circuit and established a demanding new standard: an ISP is contributorily liable 'only if it intended' that its service be used for infringement. The Court held that such intent can be demonstrated solely through inducement or by showing the ISP offered a service 'tailored' to infringement. Critically, the majority ruled that mere knowledge of repeated infringement by subscribers is legally insufficient to establish contributory liability. Because Cox's internet access has substantial lawful uses and Cox neither encouraged piracy nor designed its service for infringing purposes, the Court found no basis for imposing liability. The Fourth Circuit's judgment was reversed, and the case was remanded for further proceedings consistent with the majority opinion.\n\nJustice Sotomayor filed a notable concurrence, warning that the majority's ruling dismantles the DMCA's statutory incentive structure and forecloses the material contribution test that prior precedent had left open. She cautioned that under this framework, ISPs could sell internet connections to known serial infringers without incurring secondary liability, effectively neutralizing rights holders' enforcement mechanisms. The decision resets the legal framework governing how copyright owners may pursue secondary copyright infringement claims against online intermediaries, significantly curtailing the practical reach of DMCA-based enforcement against large ISPs and signaling a decisive shift in the balance between platform liability and safe harbor protections under U.S. copyright law.",
+    "word_count": 316
+  },
+  "vocabulary": [
+    {
+      "term": "contributory liability",
+      "pronunciation": "/kənˈtrɪbjʊtəri laɪəˈbɪlɪti/",
+      "definition_cn": "帮助侵权责任：指明知他人侵权行为仍提供实质性协助或诱导，从而对该侵权行为承担连带法律责任的法律原则。",
+      "example": "The court found that merely knowing about infringement on one's platform is insufficient to establish contributory liability under the new standard.",
+      "audio": "week20/day4_vocab_0.mp3"
+    },
+    {
+      "term": "vicarious liability",
+      "pronunciation": "/vɪˈkɛəriəs laɪəˈbɪlɪti/",
+      "definition_cn": "替代责任：指一方因对侵权方具有控制能力且从侵权行为中直接获益，而对他人侵权行为承担法律责任的原则。",
+      "example": "The record labels argued vicarious liability because Cox had the ability to terminate infringing subscriber accounts and directly profited from retaining those customers.",
+      "audio": "week20/day4_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndəri laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任：版权法中对直接侵权行为提供便利、诱导或从中获益的第三方所承担的法律责任，包括帮助侵权和替代责任两种形态。",
+      "example": "The Supreme Court's decision significantly narrows the circumstances under which secondary liability can be imposed on internet service providers.",
+      "audio": "week20/day4_vocab_2.mp3"
+    },
+    {
+      "term": "inducement",
+      "pronunciation": "/ɪnˈdjuːsmənt/",
+      "definition_cn": "引诱/诱导：指故意怂恿或积极促使他人实施侵权行为，是确立帮助侵权责任的核心意图要素之一。",
+      "example": "Without evidence of inducement or a service tailored to piracy, the Court refused to impose liability on the ISP.",
+      "audio": "week20/day4_vocab_3.mp3"
+    },
+    {
+      "term": "material contribution test",
+      "pronunciation": "/məˈtɪəriəl kənˈtrɪbjuːʃən tɛst/",
+      "definition_cn": "实质性贡献标准：判断第三方是否对侵权行为提供了足以构成帮助侵权的重大实质性协助的法律检验标准，此前曾被部分巡回法院采用。",
+      "example": "Justice Sotomayor argued that the majority's ruling improperly forecloses the material contribution test that earlier case law had preserved.",
+      "audio": "week20/day4_vocab_4.mp3"
+    },
+    {
+      "term": "DMCA's statutory incentive structure",
+      "pronunciation": "/ˌdiː.ɛm.siːˈeɪz stəˈtjuːtəri ˈɪnsɛntɪv ˈstrʌktʃər/",
+      "definition_cn": "《数字千年版权法》法定激励机制：DMCA通过安全港条款与侵权通知制度相结合，设计出督促网络服务商积极处理侵权行为的制度激励体系。",
+      "example": "Critics of the decision contend that it dismantles the DMCA's statutory incentive structure by removing meaningful consequences for ISPs that ignore repeat infringers.",
+      "audio": "week20/day4_vocab_5.mp3"
+    },
+    {
+      "term": "safe harbor",
+      "pronunciation": "/seɪf ˈhɑːrbər/",
+      "definition_cn": "安全港条款：《数字千年版权法》中为网络服务商提供的免责保护，前提是服务商须满足及时处理侵权通知等特定合规条件。",
+      "example": "The ruling reinforces the breadth of safe harbor protections available to ISPs that lack specific intent to facilitate infringement.",
+      "audio": "week20/day4_vocab_6.mp3"
+    },
+    {
+      "term": "remanded",
+      "pronunciation": "/rɪˈmɑːndɪd/",
+      "definition_cn": "发回重审：上级法院将案件退回下级法院，依据上级法院确立的新法律标准重新审理部分或全部争议问题的程序性裁定。",
+      "example": "After reversing the Fourth Circuit's judgment on contributory liability, the Supreme Court remanded the case for further proceedings.",
+      "audio": "week20/day4_vocab_7.mp3"
+    },
+    {
+      "term": "jury verdict",
+      "pronunciation": "/ˈdʒʊəri ˈvɜːrdɪkt/",
+      "definition_cn": "陪审团裁决：由陪审团在事实认定基础上作出的正式裁定，包括责任认定及损害赔偿数额，在版权诉讼中具有决定性法律效力。",
+      "example": "The approximately one-billion-dollar jury verdict against Cox was overturned after the Supreme Court established a stricter intent requirement.",
+      "audio": "week20/day4_vocab_8.mp3"
+    },
+    {
+      "term": "online intermediaries",
+      "pronunciation": "/ˈɒnlaɪn ɪntəˈmiːdiəriz/",
+      "definition_cn": "网络中间服务商：在版权法语境下，指提供互联网接入、存储或传输服务的平台或运营商，其法律责任边界受DMCA安全港条款规制。",
+      "example": "The decision resets the legal framework governing how copyright owners may pursue secondary copyright infringement claims against online intermediaries.",
+      "audio": "week20/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The [appellate court] had upheld findings of both [liability theory A] and [liability theory B], resulting in [remedy].",
+      "example": "The Fourth Circuit had upheld findings of both contributory liability and vicarious liability against Cox, resulting in a jury verdict of approximately one billion dollars.",
+      "translation_cn": "上诉法院维持了关于帮助侵权责任与替代责任的双重认定，最终导致了约十亿美元的陪审团裁决。"
+    },
+    {
+      "pattern": "[Party] is [liable/not liable] 'only if it [mental state element],' and such [mental state] can be shown only through [method A] or [method B].",
+      "example": "An ISP is contributorily liable 'only if it intended' that its service be used for infringement, and such intent can be shown only through inducement or by providing a service 'tailored' to infringement.",
+      "translation_cn": "互联网服务提供商仅在'有意图'使其服务被用于侵权时才承担帮助侵权责任，且该意图只能通过诱导行为或提供专门针对侵权的服务两种方式加以证明。"
+    },
+    {
+      "pattern": "[Justice/Judge] filed a [concurrence/dissent], warning that the majority's ruling [negative consequence A] and [negative consequence B].",
+      "example": "Justice Sotomayor filed a notable concurrence, warning that the majority's ruling dismantles the DMCA's statutory incentive structure and forecloses the material contribution test that prior precedent had left open.",
+      "translation_cn": "索托马约尔大法官提交了值得关注的协同意见，警告多数意见将瓦解《数字千年版权法》的法定激励机制，并封堵了先例所保留的实质性贡献标准的适用空间。"
+    }
+  ],
+  "summary_cn": "2026年3月25日，美国最高法院以7比2裁定推翻第四巡回法院对考克斯通信的帮助侵权责任认定。法院确立新标准：互联网服务提供商须具有\"意图\"使服务被用于侵权方可承担帮助侵权责任，仅凭知晓用户重复侵权不足以定责。此判决根本性地重塑了版权持有人对网络中间服务商追究间接侵权责任的法律框架，并削弱了DMCA执法机制的实际效力。",
+  "legal_analysis": "① 核心法律问题：本案聚焦于互联网服务提供商在获悉用户重复实施版权侵权后，是否因继续提供接入服务而承担帮助侵权责任，即版权法中\"意图\"要件与\"知情\"要件的边界划定。\n\n② 美国法律框架分析：美国版权法下的间接侵权责任包含帮助侵权（contributory liability）与替代责任（vicarious liability）两种路径，均为判例法创设。《数字千年版权法》第512条通过安全港机制为合规的网络服务商提供豁免。本案最高法院多数意见采纳严格的意图标准，将帮助侵权责任限定于诱导行为或专门针对侵权设计服务的情形，拒绝将\"知情+不作为\"纳入责任范畴，实质上提升了权利人对ISP追责的举证门槛。\n\n③ 对中国娱乐法律师的实践启示：中国当事人在美国开展版权维权时，需重新评估针对网络服务商的诉讼策略，证明对方主观意图的难度已显著增加。此外，该判决提示中美两国在网络中间服务商责任标准上存在重要差异，跨境维权方案须因地制宜。",
+  "cn_us_comparison": "美国版权法下的帮助侵权责任与替代责任均为判例法构建，《数字千年版权法》第512条安全港制度以\"通知-删除\"机制为核心，本案进一步将主观意图确立为追责前提，大幅提升权利人举证难度。\n\n中国《著作权法》（2020年修订）第53条及《信息网络传播权保护条例》第22、23条同样规定了网络服务提供者的间接侵权责任，亦采\"通知-删除\"规则，但《侵权责任法》及最高人民法院司法解释确立的\"知道或应当知道\"标准（即\"红旗原则\"）较美国新标准更有利于权利人。此外，中国《民法典》第1197条明确规定网络服务提供者在知道侵权事实后未采取必要措施的须承担连带责任，与最高法院此次确立的严格意图标准相比，中国制度对权利人的保护力度更强，这一差异对制定跨境版权维权策略具有重要参考价值。",
+  "discussion_prompt": "Given that the Supreme Court now requires proof of specific intent or a service 'tailored' to infringement before imposing contributory liability on ISPs, does this ruling effectively render the DMCA's repeat-infringer termination policy a voluntary compliance measure with no meaningful legal consequence — and if so, what legislative or judicial mechanisms could restore meaningful accountability for online intermediaries?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a copyright attorney advising a major record label after the Cox Communications ruling. Write 2–3 sentences explaining to your client the new legal standard for contributory liability, what evidence they would now need to establish it, and what the practical implications are for future enforcement actions against ISPs.",
+    "model_answer": "Under the Supreme Court's new standard, an ISP is contributorily liable 'only if it intended' that its service be used for infringement, meaning your evidentiary burden now requires proof of inducement or a service tailored to piracy — mere knowledge of repeated infringement by subscribers is legally insufficient. As a result, the approximately one-billion-dollar jury verdict strategy previously pursued against Cox Communications is no longer viable without direct evidence of the ISP actively encouraging or designing its infrastructure around infringing uses. Going forward, enforcement counsel should focus discovery efforts on internal communications, product design decisions, and subscriber retention policies that could demonstrate specific intent, rather than relying solely on DMCA takedown non-compliance as the basis for secondary liability claims."
+  },
+  "youtube_rec": {
+    "title": "Cox v. Sony Supreme Court Ruling Explained: The End of ISP Copyright Liability?",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频解析最高法院在考克斯通信案中确立的帮助侵权新标准，探讨\"意图要件\"对版权持有人追究网络服务商责任的深远影响，并评估该判决对DMCA安全港制度及互联网生态的整体冲击，适合希望理解平台责任前沿动态的法律从业者观看。"
+  },
+  "extended_reading": [
+    {
+      "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+      "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+      "description_cn": "Billboard汇总2025年8月重大音乐法律事件，包括Snoop Dogg就未经授权使用伴奏及以NFT形式发行达成保密和解，以及Diddy庭审、Jay-Z勒索裁决等案件。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律师事务所发布的2026年娱乐法前瞻报告，系统梳理合理使用、AI训练数据版权诉讼及商标Rogers测试等核心未决法律问题。",
+      "language": "en"
+    }
+  ],
+  "week": 20,
+  "day": 4,
+  "date": "2026-08-07",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week20/day4.mp3"
+}
