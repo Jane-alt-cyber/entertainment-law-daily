@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Snoop Dogg Settlement, Diddy Trial, Jay-Z Extortion Ruling & More Top Music Law News",
+    "source": "Billboard, August 5, 2025",
+    "url": "https://www.billboard.com/pro/snoop-dogg-settlement-diddy-trial-jay-z-music-law-news/",
+    "text": "One of the most closely watched music copyright and NFT disputes of 2024–2025 concluded in a confidential settlement between rapper Snoop Dogg (Calvin Broadus) and veteran studio musician and producer Trevor Lawrence Jr. The case, litigated in Los Angeles federal court, centered on allegations that Snoop Dogg's 2022 album BODR incorporated two backing tracks that Lawrence had created 'on spec' for Snoop to experiment with in the studio in 2020. Lawrence alleged that he made clear at the outset that a proper license would be required before any commercial release. Despite this alleged understanding, the tracks appeared on BODR without Lawrence receiving a formal licensing offer, payment, or production credit in the two years following the album's release.\n\nThe legal dispute raised two distinct copyright theories. First, Lawrence claimed infringement under the U.S. Copyright Act (17 U.S.C. § 106), asserting that Snoop had reproduced and distributed his original musical compositions and sound recordings without authorization. Second — and unusually for a music copyright case — Lawrence alleged that Snoop compounded the infringement by minting and selling the two songs as NFTs (non-fungible tokens) through Blockchain Game Partners, without Lawrence's knowledge or consent. Lawrence's counsel argued that the NFT bundle constituted an entirely separate unauthorized exploitation of his work, one 'never within his prior contemplation,' and alleged that the NFT sales generated 'tens of millions of dollars' in profits.\n\nSnoop's legal team denied all wrongdoing, contending that a draft producer deal had been exchanged and that Lawrence had been paid a $20,000 producer fee prior to the album's release — a payment they argued he accepted, effectively ratifying the agreed terms. Defense counsel further argued that if any additional monies were owed, they should be offset against that payment, and criticized Lawrence's damages demand as a 'preposterous windfall.'\n\nThe case was set for trial in September 2025 in Los Angeles federal court. However, the parties reached a mediated resolution in April 2025, and on June 24, 2025, Snoop and Lawrence filed a joint motion to dismiss all litigation. Settlement terms were not disclosed. The case is significant for establishing that NFT releases of underlying musical compositions can trigger independent copyright claims separate from traditional album distribution — a developing frontier in music law.",
+    "word_count": 334
+  },
+  "vocabulary": [
+    {
+      "term": "on spec",
+      "pronunciation": "/ɒn spɛk/",
+      "definition_cn": "指创作者在未获正式委托或报酬保证的情况下完成作品，寄望于日后获得报酬或使用授权，属于创作领域的非正式合作模式。",
+      "example": "The composer created the backing tracks on spec, expecting a formal licensing agreement before any commercial use.",
+      "audio": "week21/day2_vocab_0.mp3"
+    },
+    {
+      "term": "17 U.S.C. § 106",
+      "pronunciation": "/ˌsɛvənˈtiːn ˌjuː ɛs ˈsiː ˈsɛkʃən wʌn ˈɒ sɪks/",
+      "definition_cn": "美国《版权法》第106条，赋予版权所有人对其作品进行复制、发行、演绎、公开表演及展示等专有权利的核心条款。",
+      "example": "Plaintiff's counsel cited 17 U.S.C. § 106 to establish that the defendant's reproduction of the sound recordings constituted actionable infringement.",
+      "audio": "week21/day2_vocab_1.mp3"
+    },
+    {
+      "term": "sound recordings",
+      "pronunciation": "/saʊnd rɪˈkɔːdɪŋz/",
+      "definition_cn": "指固定于有形媒介中的声音录制版本，在美国版权法下受独立保护，与音乐作品版权相区别，两者可归属不同权利人。",
+      "example": "The producer retained separate copyright ownership over the sound recordings even after licensing the underlying composition.",
+      "audio": "week21/day2_vocab_2.mp3"
+    },
+    {
+      "term": "non-fungible tokens",
+      "pronunciation": "/nɒn ˈfʌndʒɪbəl ˈtoʊkənz/",
+      "definition_cn": "基于区块链技术的数字资产凭证，具有唯一性与不可替代性；在版权法中，未经授权将受保护作品铸造为NFT可构成独立侵权行为。",
+      "example": "The court was asked to determine whether minting protected musical works as non-fungible tokens constitutes an independent act of copyright infringement.",
+      "audio": "week21/day2_vocab_3.mp3"
+    },
+    {
+      "term": "unauthorized exploitation",
+      "pronunciation": "/ʌnˈɔːθəraɪzd ˌɛksplɔɪˈteɪʃən/",
+      "definition_cn": "指在未获版权所有人许可的情况下，对受保护作品进行商业使用或获利，是版权侵权诉讼中的核心指控要素。",
+      "example": "The plaintiff characterized the NFT sales as unauthorized exploitation of his creative work in a digital marketplace.",
+      "audio": "week21/day2_vocab_4.mp3"
+    },
+    {
+      "term": "producer fee",
+      "pronunciation": "/prəˈdjuːsər fiː/",
+      "definition_cn": "指唱片制作人就其录音制作服务所收取的一次性报酬，通常需在书面合同中明确约定，与版税权利相互独立。",
+      "example": "Defendant argued that the $20,000 producer fee paid prior to release effectively settled all outstanding compensation obligations.",
+      "audio": "week21/day2_vocab_5.mp3"
+    },
+    {
+      "term": "ratifying",
+      "pronunciation": "/ˈrætɪfaɪɪŋ/",
+      "definition_cn": "指一方当事人通过明示或默示行为对先前无效或未获授权的行为予以追认，使其产生法律约束力。",
+      "example": "By accepting the producer fee without objection, the plaintiff was arguably ratifying the terms of the informal arrangement.",
+      "audio": "week21/day2_vocab_6.mp3"
+    },
+    {
+      "term": "mediated resolution",
+      "pronunciation": "/ˈmiːdieɪtɪd ˌrɛzəˈluːʃən/",
+      "definition_cn": "通过中立第三方调解人协助当事各方达成的庭外和解，可避免诉讼费用并保持条款保密，在美国联邦民事案件中广泛适用。",
+      "example": "The parties opted for a mediated resolution after discovering that prolonged litigation would expose sensitive business information on both sides.",
+      "audio": "week21/day2_vocab_7.mp3"
+    },
+    {
+      "term": "joint motion to dismiss",
+      "pronunciation": "/dʒɔɪnt ˈmoʊʃən tə dɪsˈmɪs/",
+      "definition_cn": "指诉讼各方共同向法院提交的撤诉申请，通常发生于案件达成和解后，请求法院正式终结全部诉讼程序。",
+      "example": "Following execution of the settlement agreement, both sides filed a joint motion to dismiss all pending claims with prejudice.",
+      "audio": "week21/day2_vocab_8.mp3"
+    },
+    {
+      "term": "windfall",
+      "pronunciation": "/ˈwɪndfɔːl/",
+      "definition_cn": "在损害赔偿语境中，指超出受害方实际损失的过度赔偿请求，被告方通常以此论证原告要求不合理、应予驳减。",
+      "example": "Defense counsel argued that awarding the full amount demanded would constitute an unjustifiable windfall disproportionate to any actual harm suffered.",
+      "audio": "week21/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] compounded the infringement by [specific act], without [plaintiff's] knowledge or consent.",
+      "example": "Lawrence alleged that Snoop compounded the infringement by minting and selling the two songs as NFTs through Blockchain Game Partners, without Lawrence's knowledge or consent.",
+      "translation_cn": "劳伦斯主张斯努普通过Blockchain Game Partners铸造并出售两首歌曲NFT，在未获其知情同意的情况下加重了侵权行为。"
+    },
+    {
+      "pattern": "[Defense] contended that [factual basis], arguing that [plaintiff's] acceptance of [consideration] effectively [legal consequence].",
+      "example": "Snoop's legal team contended that a draft producer deal had been exchanged, arguing that Lawrence's acceptance of the $20,000 producer fee effectively ratified the agreed terms.",
+      "translation_cn": "斯努普法律团队主张双方已交换过制作人协议草案，认为劳伦斯接受两万美元制作费的行为实质上构成对约定条款的追认。"
+    },
+    {
+      "pattern": "The case is significant for establishing that [legal principle], representing a developing frontier in [legal field].",
+      "example": "The case is significant for establishing that NFT releases of underlying musical compositions can trigger independent copyright claims separate from traditional album distribution, representing a developing frontier in music law.",
+      "translation_cn": "本案的重要意义在于确立了以下原则：对基础音乐作品进行NFT发行可独立触发版权索赔，有别于传统专辑发行，代表着音乐法律领域的新兴前沿议题。"
+    }
+  ],
+  "summary_cn": "本案系2024至2025年间颇受关注的音乐版权与NFT纠纷。制作人劳伦斯指控斯努普未经授权将其创作的两首伴奏收录于专辑BODR，并进一步将其铸造为NFT出售，主张两者均构成独立侵权。斯努普方面否认违规，称已支付制作费并已就条款达成默契。2025年4月双方经调解和解，6月24日联合申请撤诉，和解条款保密。此案对NFT版权侵权的独立性认定具有重要先例意义。",
+  "legal_analysis": "① 核心法律问题：本案涉及双重版权侵权理论——其一为传统录音及音乐作品的未授权复制与发行（17 U.S.C. § 106）；其二为将受保护作品铸造并销售为NFT是否构成独立侵权行为。后者是当前美国版权法实践中尚无定论的新兴议题。\n\n② 美国法律框架分析：根据《美国版权法》，版权人对其作品享有复制、发行、演绎等专有权利，任何未经授权的商业利用均可构成直接侵权。NFT铸造行为在法律性质上争议较大——部分学者认为其属于复制行为，另一些则视之为新型发行或公开展示形式。本案中劳伦斯方的论点将NFT销售定性为\"从未在其合理预期范围内\"的全新商业开发，试图绕过已支付制作费可能形成的默示许可抗辩。此外，被告援引的\"追认\"理论在涉及不完整制作协议的情形下同样颇具争议。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理含NFT条款的创作委托协议时，应明确区分链上资产铸造权与传统发行权，建议在合同中单独设立数字资产授权条款，避免因授权范围模糊引发类似纠纷。",
+  "cn_us_comparison": "美国《版权法》（17 U.S.C.）将音乐作品版权与录音制品版权作为两项独立客体分别保护，制作人可就两者分别主张权利，这与中国《著作权法》（2020年修订版）的框架存在结构性差异。中国法下，录音制作者享有录音制作者权（邻接权），与词曲作者的著作权相区分，但实践中二者边界有时不够清晰。就NFT而言，美国尚无专门立法，现有案件依赖对§ 106既有权利的延伸解释；中国亦无NFT专项立法，相关问题散见于《著作权法》及国家互联网信息办公室发布的《互联网信息服务深度合成管理规定》等行政规章中。两国共同面临的核心挑战在于：传统版权授权条款的解释范围能否自动覆盖NFT等新型数字利用形式，均有待司法实践进一步厘清。",
+  "discussion_prompt": "Given that the Snoop Dogg settlement terms were kept confidential, should U.S. federal courts presumptively require public disclosure of settlement terms in copyright cases involving novel technologies like NFTs — and if so, how should courts balance the parties' legitimate confidentiality interests against the public's interest in developing coherent legal precedent?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a music producer whose compositions were minted as NFTs without authorization. Write 2-3 sentences characterizing the defendant's conduct and the legal basis for your client's claims, using the sentence patterns from this lesson.",
+    "model_answer": "Plaintiff alleged that the defendant compounded the infringement by minting and distributing her original compositions as non-fungible tokens through a third-party blockchain platform, without her knowledge or consent. Defense counsel contended that a prior email exchange constituted an implied license, arguing that plaintiff's acceptance of a $5,000 session fee effectively ratified the defendant's subsequent digital exploitation of the works. The case is significant for establishing that NFT releases of underlying musical compositions can trigger independent copyright claims separate from any prior studio arrangement, representing a developing frontier in music law."
+  },
+  "youtube_rec": {
+    "title": "NFTs and Copyright Law: Who Owns the Underlying Work?",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频以通俗易懂的方式解析NFT铸造与版权归属的关系，重点讨论购买NFT与取得版权授权之间的本质区别，并结合美国《版权法》第106条分析未经授权铸造他人作品可能引发的法律责任，适合希望了解区块链资产版权边界的法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，梳理合理使用、AI训练数据责任及商标认定标准等核心未决议题。",
+      "language": "en"
+    },
+    {
+      "title": "The Future of the Movie Industry in the Wake of Generative AI: A Perspective Under EU and UK Copyright Law",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2212473X25000793",
+      "description_cn": "学术论文从欧盟与英国版权法视角分析生成式AI对电影产业的冲击，并援引Disney v. Midjourney等在审案件探讨AI生成内容的版权归属框架。",
+      "language": "en"
+    }
+  ],
+  "week": 21,
+  "day": 2,
+  "date": "2026-08-12",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week21/day2.mp3"
+}
