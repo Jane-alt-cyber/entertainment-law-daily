@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Music Publishers and X Could Settle Lawsuit, Ask Judge to Stay Proceedings",
+    "source": "Hollywood Reporter, June 17, 2025",
+    "url": "https://www.hollywoodreporter.com/music/music-news/music-publishers-x-lawsuit-settlement-discussions-1236292639/",
+    "text": "In June 2023, all three major music publishers — Universal Music Publishing, Sony Music Publishing, and Warner Chappell — together with Concord, BMG, and Kobalt, filed a $250 million copyright infringement lawsuit against X (formerly Twitter) in federal court in the Middle District of Tennessee. The plaintiffs alleged that X had 'consistently and knowingly' hosted and streamed infringing copies of musical compositions while refusing to enter into any licensing arrangements, making it uniquely non-compliant compared to rival platforms such as TikTok and YouTube. The National Music Publishers' Association (NMPA) had been sending formal weekly infringement notices to the platform as early as December 2021 and ultimately identified approximately 300,000 infringing tweets. The publishers pursued claims for direct, contributory, and vicarious copyright infringement, seeking statutory damages of up to $150,000 per infringed work, and requested a jury trial.\n\nIn 2024, Judge Aleta Trauger partially dismissed the case, allowing DMCA-based contributory infringement allegations to proceed — specifically those tied to claims that X provided more lenient copyright enforcement to verified users. By June 2025, the parties filed a joint stay request with discovery scheduled to end July 17, 2025, and expert reports due in August. The NMPA stated publicly that the stay sought to allow negotiation of 'proper compensation to songwriters and publishers for past unlicensed uses' and to explore go-forward licensing.\n\nSettlement talks ultimately collapsed. In January 2026, X filed a counterstrike lawsuit in the U.S. District Court for the Northern District of Texas, accusing the NMPA and 18 individual publishers of leveraging monopoly power to coerce X into acquiring licenses at inflated rates. X argued it had been 'denied the ability to acquire a U.S. musical-composition license from any individual music publisher on competitive terms.' X maintained that its DMCA safe harbor protections — predicated on its policy of removing infringing content upon notification and deplatforming repeat infringers — shielded it from liability. A trial is now scheduled for February 2027. The dispute raises fundamental questions about platform liability under the DMCA, the obligation of social media operators to proactively license musical compositions, and whether coordinated industry-wide licensing pressure constitutes antitrust conduct.",
+    "word_count": 338
+  },
+  "vocabulary": [
+    {
+      "term": "vicarious copyright infringement",
+      "pronunciation": "/vaɪˈkɛriəs ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "替代性版权侵权，指当事方因对直接侵权行为享有控制权且从中获得经济利益，而承担的间接版权侵权责任。",
+      "example": "The publishers alleged vicarious copyright infringement because X profited from infringing uploads while retaining the ability to police them.",
+      "audio": "week21/day3_vocab_0.mp3"
+    },
+    {
+      "term": "contributory infringement",
+      "pronunciation": "/kənˈtrɪbjʊtəri ɪnˈfrɪndʒmənt/",
+      "definition_cn": "辅助侵权，指当事方在明知他人直接侵权的情况下，实质性地协助或促成该侵权行为，从而承担共同责任。",
+      "example": "The court allowed the DMCA-based contributory infringement claims to proceed after finding sufficient allegations of X's actual knowledge.",
+      "audio": "week21/day3_vocab_1.mp3"
+    },
+    {
+      "term": "statutory damages",
+      "pronunciation": "/ˈstætʃʊtəri ˈdæmɪdʒɪz/",
+      "definition_cn": "法定赔偿金，依据版权法明文规定的赔偿数额，权利人无需证明实际损失即可主张，恶意侵权可达每作品15万美元。",
+      "example": "By pursuing statutory damages of up to $150,000 per work, the publishers stood to recover far more than any provable actual loss.",
+      "audio": "week21/day3_vocab_2.mp3"
+    },
+    {
+      "term": "DMCA safe harbor",
+      "pronunciation": "/ˌdiː ɛm siː ˈeɪ seɪf ˈhɑːrbər/",
+      "definition_cn": "《数字千年版权法》安全港条款，规定符合条件的网络服务提供商若及时响应侵权通知并处理惯犯，可免于版权侵权赔偿责任。",
+      "example": "X maintained that its DMCA safe harbor protections shielded it from liability so long as it removed infringing content upon notification.",
+      "audio": "week21/day3_vocab_3.mp3"
+    },
+    {
+      "term": "joint stay request",
+      "pronunciation": "/dʒɔɪnt steɪ rɪˈkwɛst/",
+      "definition_cn": "双方联合申请中止诉讼程序，通常在当事人正进行和解谈判期间向法院提出，以暂停发现程序及相关截止日期。",
+      "example": "The joint stay request asked the judge to pause discovery deadlines while the parties explored a negotiated resolution.",
+      "audio": "week21/day3_vocab_4.mp3"
+    },
+    {
+      "term": "monopoly power",
+      "pronunciation": "/məˈnɒpəli ˈpaʊər/",
+      "definition_cn": "垄断力量，反垄断法中指市场主体对相关市场具有支配地位，能够控制价格或排除竞争，滥用此权力可能构成违法。",
+      "example": "X accused the publishers of leveraging monopoly power to force competitors out of individual licensing negotiations.",
+      "audio": "week21/day3_vocab_5.mp3"
+    },
+    {
+      "term": "antitrust conduct",
+      "pronunciation": "/ˌæntiˈtrʌst ˈkɒndʌkt/",
+      "definition_cn": "反垄断行为，指违反《谢尔曼法》等反托拉斯法律、通过共谋或滥用市场支配地位损害竞争的商业行为。",
+      "example": "X's counterstrike lawsuit framed the publishers' coordinated licensing pressure as antitrust conduct under federal competition law.",
+      "audio": "week21/day3_vocab_6.mp3"
+    },
+    {
+      "term": "repeat infringers",
+      "pronunciation": "/rɪˈpiːt ɪnˈfrɪndʒərz/",
+      "definition_cn": "惯性侵权者，《数字千年版权法》要求网络服务提供商制定并执行终止惯性侵权用户账号的政策，否则丧失安全港保护资格。",
+      "example": "X argued that its policy of deplatforming repeat infringers satisfied the DMCA's threshold requirements for safe harbor eligibility.",
+      "audio": "week21/day3_vocab_7.mp3"
+    },
+    {
+      "term": "partial dismissal",
+      "pronunciation": "/ˈpɑːʃəl dɪˈsmɪsəl/",
+      "definition_cn": "部分驳回，法院在同一诉讼中驳回原告部分诉因或请求，同时允许其余诉因继续推进，属于民事诉讼中常见的程序裁定。",
+      "example": "Following the partial dismissal, only the DMCA-based contributory infringement claims remained viable for trial.",
+      "audio": "week21/day3_vocab_8.mp3"
+    },
+    {
+      "term": "go-forward licensing",
+      "pronunciation": "/ɡəʊ ˈfɔːwəd ˈlaɪsənsɪŋ/",
+      "definition_cn": "前瞻性许可，指在解决历史侵权赔偿问题的同时，就未来使用行为另行谈判正式授权协议，以规范双方持续商业关系。",
+      "example": "The NMPA emphasized that any settlement would need to address both past unlicensed uses and establish a framework for go-forward licensing.",
+      "audio": "week21/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] had [wrongful conduct], pursuing claims for [legal theory #1], [legal theory #2], and [legal theory #3], and seeking [remedy].",
+      "example": "The publishers alleged that X had knowingly hosted infringing compositions, pursuing claims for direct, contributory, and vicarious copyright infringement, and seeking statutory damages of up to $150,000 per infringed work.",
+      "translation_cn": "出版商指控X在明知情况下托管侵权作品，以直接侵权、辅助侵权及替代性侵权为由提起诉讼，并主张每件侵权作品最高15万美元的法定赔偿金。"
+    },
+    {
+      "pattern": "[Party] maintained that [legal protection] shielded it from liability, on the basis that [qualifying conduct].",
+      "example": "X maintained that its DMCA safe harbor protections shielded it from liability, on the basis that it removed infringing content upon notification and deplatformed repeat infringers.",
+      "translation_cn": "X主张其《数字千年版权法》安全港条款使其免于承担责任，理由是该平台在收到侵权通知后及时删除相关内容，并对惯性侵权者实施封号处理。"
+    },
+    {
+      "pattern": "The dispute raises fundamental questions about [legal issue #1], [legal issue #2], and whether [contested conduct] constitutes [legal classification].",
+      "example": "The dispute raises fundamental questions about platform liability under the DMCA, the obligation to proactively license musical compositions, and whether coordinated industry-wide licensing pressure constitutes antitrust conduct.",
+      "translation_cn": "本案引发了关于DMCA框架下平台责任、主动授权义务等根本性法律问题，并涉及协调一致的行业许可施压行为是否构成反垄断行为这一争议核心。"
+    }
+  ],
+  "summary_cn": "美国三大主要音乐出版商联合对X（前Twitter）提起2.5亿美元版权侵权诉讼，指控其未经授权托管大量音乐作品。法院部分驳回诉请后，双方曾申请中止程序以推进和解，但谈判破裂。X随即反诉出版商涉嫌滥用垄断力量。案件将于2027年2月开庭，核心争点涵盖DMCA安全港边界及协调授权施压是否构成反垄断行为。",
+  "legal_analysis": "① 核心法律问题：本案的核心在于社交媒体平台能否仅凭被动响应侵权通知（notice-and-takedown机制）主张DMCA第512条安全港保护，以及对特定用户群体差异化执法是否会导致该保护资格丧失。法院对\"实际知情\"（actual knowledge）与\"应知\"（red flag knowledge）的认定，将直接影响辅助侵权责任的成立。X的反诉则将版权集体许可问题引入反垄断法领域，指控出版商联合抵制单独授权以维持价格，可能触犯《谢尔曼法》第一条。\n\n② 美国法律框架：《数字千年版权法》（17 U.S.C. § 512）为网络服务提供商提供安全港，但要求其对惯性侵权者采取终止账号政策。版权法第504条规定，恶意侵权每件作品最高可判法定赔偿金15万美元。反垄断主张方面，依据《谢尔曼法》第一条，集体拒绝许可若有排除竞争效果，可构成违法。\n\n③ 对中国娱乐法律师的实践启示：中国出海平台在美运营须认真评估DMCA合规体系的完整性，特别是对不同用户类别执行统一版权政策的必要性。同时，集体谈判策略在美国具有显著的反垄断风险，建议中国权利人组织在进行协调许可行动时充分进行竞争法尽职调查。",
+  "cn_us_comparison": "在平台版权责任领域，中美两国均采用\"通知-删除\"机制，但具体规则存在显著差异。美国《数字千年版权法》（DMCA）第512条为满足条件的平台提供明确的安全港免责，但要求平台针对惯性侵权用户制定并执行终止账号政策，且对\"红旗知识\"（red flag knowledge）情形不适用免责。中国《著作权法》第27条及《信息网络传播权保护条例》第22、23条同样规定了\"通知-删除\"规则，但对\"应知\"标准的认定更多依赖司法解释，执行标准不及DMCA体系清晰。在赔偿数额方面，中国《著作权法》第54条规定法定赔偿上限为500万元人民币，远低于美国每件作品15万美元的标准，对权利人威慑效果相对有限。在反垄断层面，中国《反垄断法》同样禁止经营者达成垄断协议，但对版权集体管理组织（如中国音乐著作权协会）的行为给予更多豁免空间，而美国对出版商协调拒绝许可行为的反垄断审查明显更为严格。",
+  "discussion_prompt": "If a court ultimately rules that X's differentiated copyright enforcement for verified users disqualifies it from DMCA safe harbor protection, what systemic incentives does this create for social media platforms — and could such a ruling paradoxically discourage platforms from offering any enhanced copyright compliance tools to premium users?",
+  "writing_exercise": {
+    "prompt": "Imagine you are drafting a legal brief summary for a senior partner. In 2-3 sentences, describe a hypothetical platform's legal position in a copyright dispute, identifying its claimed defense, the legal basis for that defense, and the principal counterargument raised by the opposing party.",
+    "model_answer": "StreamVault maintained that its DMCA safe harbor protections shielded it from liability, on the basis that it removed infringing content upon notification and deplatformed repeat infringers within the statutory timeframe. The plaintiff publishers alleged that StreamVault had knowingly tolerated infringing uploads by premium subscribers, pursuing claims for contributory and vicarious copyright infringement and seeking statutory damages of up to $150,000 per infringed work. The dispute raises fundamental questions about platform liability under the DMCA and whether a tiered enforcement policy — applying stricter takedowns to free users than to paying subscribers — constitutes the kind of 'red flag' knowledge that forfeits safe harbor eligibility."
+  },
+  "youtube_rec": {
+    "title": "DMCA Safe Harbor Explained: How Far Does Platform Immunity Actually Reach?",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解美国《数字千年版权法》第512条安全港条款的适用条件、\"通知-删除\"机制的操作流程，以及法院在认定\"实际知情\"与\"应知\"时所采用的标准，结合近年重大平台版权诉讼案例进行深入分析，适合具备一定法律基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+      "description_cn": "《综艺》2026年法律影响力报告，聚焦好莱坞顶尖娱乐诉讼律师及标志性案件，涵盖AI版权侵权与利润分配争议等前沿议题。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，深入剖析合理使用、AI训练数据版权责任及商标罗杰斯测试三大核心法律争议。",
+      "language": "en"
+    }
+  ],
+  "week": 21,
+  "day": 3,
+  "date": "2026-08-13",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week21/day3.mp3"
+}
