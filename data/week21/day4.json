@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Hollywood Unions Call for Settlement in Paramount-WBD Antitrust Fight",
+    "source": "Hollywood Reporter, August 12, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-unions-settlement-paramount-wbd-antitrust-fight-1236672718/",
+    "text": "In July 2026, California Attorney General Rob Bonta led a coalition of twelve state attorneys general in filing a landmark antitrust lawsuit in the U.S. District Court for the Northern District of California to block what has been described as the largest merger in Hollywood history: the proposed $110 billion acquisition of Warner Bros. Discovery, Inc. by Paramount Skydance Corporation. The complaint alleges that the transaction would violate Section 7 of the Clayton Act by substantially lessening competition across three key markets: the distribution of wide-release theatrical films, the distribution of anticipated top-grossing theatrical films, and the licensing of basic cable channels to distributors.\n\nPlaintiffs assert the merger is presumptively anticompetitive under Herfindahl-Hirschman Index calculations, arguing the combined entity would control nearly one-third of theatrical motion pictures and nearly one-third of basic cable programming in the United States. On July 13, 2026, the states filed a motion for a temporary restraining order; on July 17, the court held a hearing; and on July 20, the court granted the TRO motion. In parallel, the Writers Guild of America also filed a private antitrust action against Paramount and WBD in the same district, seeking to block the deal.\n\nOn August 4, 2026, the court entered a scheduling order consolidating both the state AGs' case and the WGA case into a single 12-day trial set to begin March 2, 2027. Amid this legal standoff, Paramount Skydance CEO David Ellison escalated pressure on California by threatening to begin relocating Paramount operations out of the state as early as October 1, 2026 — the date ticking fees of approximately $7 million per day to Warner Bros. Discovery shareholders would commence — unless AG Bonta agrees to settlement talks. Bonta publicly called this threat \"blackmail.\"\n\nMeanwhile, Hollywood craft unions IATSE and the Directors Guild of America wrote a detailed letter to AG Bonta urging a negotiated settlement, arguing that their members were already losing work as productions were put on hold amid the prolonged antitrust uncertainty, and that a March 2027 trial would further devastate an already strained industry workforce. The case now stands as a critical test of state-level antitrust enforcement power in the era of media consolidation.",
+    "word_count": 334
+  },
+  "vocabulary": [
+    {
+      "term": "Clayton Act",
+      "pronunciation": "/ˈkleɪtən ækt/",
+      "definition_cn": "美国1914年《克莱顿反垄断法》，禁止可能实质性减少竞争的并购交易，是联邦反垄断执法的核心成文法依据。",
+      "example": "The government argued that the proposed merger violated Section 7 of the Clayton Act by eliminating a significant competitor in the pay-television market.",
+      "audio": "week21/day4_vocab_0.mp3"
+    },
+    {
+      "term": "Herfindahl-Hirschman Index",
+      "pronunciation": "/ˌhɜːrfɪndɑːl ˈhɪərʃmən ˈɪndɛks/",
+      "definition_cn": "赫芬达尔-赫希曼指数，反垄断审查中用于量化市场集中度的标准指标，数值越高代表市场竞争越不充分。",
+      "example": "Regulators determined that the post-merger Herfindahl-Hirschman Index would exceed 2,500 points, triggering a presumption of anticompetitive harm.",
+      "audio": "week21/day4_vocab_1.mp3"
+    },
+    {
+      "term": "temporary restraining order",
+      "pronunciation": "/ˈtɛmpərɛri rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "definition_cn": "临时限制令（TRO），法院在初步听证前颁发的紧急禁令，旨在维持现状以防止诉讼期间产生不可弥补的损害。",
+      "example": "The plaintiffs sought a temporary restraining order to halt the asset transfer before the court could conduct a full preliminary injunction hearing.",
+      "audio": "week21/day4_vocab_2.mp3"
+    },
+    {
+      "term": "private antitrust action",
+      "pronunciation": "/ˈpraɪvɪt æntiˈtrʌst ˈækʃən/",
+      "definition_cn": "私人反垄断诉讼，指非政府主体依据反垄断法律以私人原告身份提起的诉讼，可寻求三倍损害赔偿等特殊救济。",
+      "example": "The trade association filed a private antitrust action alleging that the defendants' coordinated pricing strategy suppressed competition in the relevant market.",
+      "audio": "week21/day4_vocab_3.mp3"
+    },
+    {
+      "term": "scheduling order",
+      "pronunciation": "/ˈʃɛdjuːlɪŋ ˈɔːrdər/",
+      "definition_cn": "庭审日程令，法院发布的程序性命令，规定案件各阶段截止日期，包括证据开示、动议申请及开庭审理日期。",
+      "example": "Pursuant to the scheduling order, all dispositive motions must be filed no later than ninety days before the trial date.",
+      "audio": "week21/day4_vocab_4.mp3"
+    },
+    {
+      "term": "ticking fees",
+      "pronunciation": "/ˈtɪkɪŋ fiːz/",
+      "definition_cn": "并购交易中买方向卖方股东支付的递增补偿费用，随交割延迟时间增加而累积，旨在补偿卖方因交割推迟承担的资金成本。",
+      "example": "The merger agreement stipulated that ticking fees of $5 million per day would accrue to the target's shareholders if closing was delayed beyond the outside date.",
+      "audio": "week21/day4_vocab_5.mp3"
+    },
+    {
+      "term": "consolidating",
+      "pronunciation": "/kənˈsɒlɪdeɪtɪŋ/",
+      "definition_cn": "程序合并，指法院将涉及共同事实或法律问题的多个独立诉讼合并为单一程序审理，以提高司法效率、避免裁判矛盾。",
+      "example": "The judge issued an order consolidating the three related actions, appointing lead counsel to coordinate discovery on behalf of all plaintiffs.",
+      "audio": "week21/day4_vocab_6.mp3"
+    },
+    {
+      "term": "Section 7",
+      "pronunciation": "/ˈsɛkʃən ˈsɛvən/",
+      "definition_cn": "《克莱顿法》第7条，明确禁止任何可能实质性减少竞争或形成垄断的股权或资产收购，是美国并购反垄断审查的主要法律依据。",
+      "example": "The Department of Justice invoked Section 7 to challenge the acquisition on the grounds that it would create an unlawful monopoly in the relevant geographic market.",
+      "audio": "week21/day4_vocab_7.mp3"
+    },
+    {
+      "term": "attorneys general",
+      "pronunciation": "/əˈtɜːrniz ˈdʒɛnərəl/",
+      "definition_cn": "各州总检察长，美国各州最高法律执法官员，有权代表州政府就联邦反垄断法律提起执法诉讼，享有独立起诉资格。",
+      "example": "A multistate coalition of attorneys general jointly petitioned the federal court to enjoin the merger, citing its anticipated harm to consumers in their respective jurisdictions.",
+      "audio": "week21/day4_vocab_8.mp3"
+    },
+    {
+      "term": "negotiated settlement",
+      "pronunciation": "/nɪˈɡoʊʃieɪtɪd ˈsɛtlmənt/",
+      "definition_cn": "协商和解，指诉讼各方在法院判决前通过谈判达成的解决方案，通常包含结构性救济措施（如剥离资产）以消除反竞争顾虑。",
+      "example": "The parties reached a negotiated settlement requiring the acquirer to divest three regional cable systems as a condition of closing the merger.",
+      "audio": "week21/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "The complaint alleges that [transaction] would violate [statutory provision] by [anticompetitive conduct] across [defined markets].",
+      "example": "The complaint alleges that the transaction would violate Section 7 of the Clayton Act by substantially lessening competition across three key markets, including the distribution of wide-release theatrical films.",
+      "translation_cn": "投诉书指控该交易将通过在三个关键市场（包括院线宽映影片的发行）实质性削弱竞争，从而违反《克莱顿法》第7条。"
+    },
+    {
+      "pattern": "Plaintiffs assert the [transaction/conduct] is presumptively [legal standard] under [analytical framework], arguing [specific harm].",
+      "example": "Plaintiffs assert the merger is presumptively anticompetitive under Herfindahl-Hirschman Index calculations, arguing the combined entity would control nearly one-third of basic cable programming in the United States.",
+      "translation_cn": "原告主张，根据赫芬达尔-赫希曼指数的计算，该并购在推定上构成反竞争行为，认为合并后实体将控制美国近三分之一的基础有线电视节目。"
+    },
+    {
+      "pattern": "The court entered a [procedural order] consolidating [multiple actions] into a single [proceeding] set to begin [date].",
+      "example": "The court entered a scheduling order consolidating both the state AGs' case and the WGA case into a single 12-day trial set to begin March 2, 2027.",
+      "translation_cn": "法院颁布日程令，将各州总检察长案件与美国编剧工会案件合并为一个12天的庭审，定于2027年3月2日开庭。"
+    }
+  ],
+  "summary_cn": "2026年7月，加州等十二州总检察长联合起诉，寻求阻止派拉蒙天空舞以1100亿美元收购华纳兄弟探索公司，指控该并购违反《克莱顿法》第7条。法院已颁临时限制令，并将编剧工会的独立诉讼合并审理，定于2027年3月开庭。派拉蒙CEO以迁移业务相威胁，工会则呼吁双方寻求协商和解。",
+  "legal_analysis": "① 核心法律问题：本案核心在于州级检察长能否援引《克莱顿法》第7条，通过赫芬达尔-赫希曼指数证明并购在院线发行及基础有线电视频道授权市场构成推定反竞争效果，从而获得联邦法院发布禁令的救济。\n\n② 美国法律框架分析：美国反垄断并购审查呈现\"双轨制\"，联邦层面由司法部反垄断司与联邦贸易委员会依据《哈特-斯科特-罗迪诺法》实施预合并申报审查，但各州总检察长依据《克莱顿法》第16条享有独立的私人执法诉权，可单独寻求禁令救济。本案多州联合起诉模式表明，即便联邦监管机构未提出异议，州级反垄断执法仍可构成并购完成的实质性法律障碍。此外，编剧工会作为私人原告提起平行反垄断诉讼，体现了美国法律允许产业利益相关方通过私人诉讼参与竞争秩序维护的制度设计。\n\n③ 对中国娱乐法律师的实践启示：中国影视并购主要受《反垄断法》及国家市场监督管理总局的《经营者集中审查暂行规定》规制，缺乏类似美国多元主体并行执法的机制。中国律师应关注：在跨境并购中，美国多州联合诉讼可能大幅延长交割时间，并触发并购协议中的终止权及ticking fees条款，须在交易文件中作前瞻性安排。",
+  "cn_us_comparison": "美国《克莱顿法》第7条赋予联邦及州两级主体独立的并购反垄断执法诉权，多州总检察长联合提诉可在联邦审查之外形成独立的司法阻断力量；编剧工会亦可作为私人原告援引《谢尔曼法》或《克莱顿法》提起私人反垄断诉讼，三倍损害赔偿机制进一步强化私人执法激励。\n\n中国《反垄断法》（2022年修订）则采取集中行政执法模式，国家市场监督管理总局对达到申报门槛的经营者集中拥有排他性审查权，不存在地方政府或行业组织独立提起并购阻断诉讼的对应机制。《反垄断法》第53条虽允许当事人对经营者集中审查决定申请行政复议或提起行政诉讼，但司法审查范围有限。此外，中国《广播电视法》（2023年）及主管部门的内容审查权在实践中对跨国影视并购产生叠加规制效应，与美国纯竞争法框架存在本质差异。中国律师处理涉美并购时须同时应对两套执法体系的不确定性。",
+  "discussion_prompt": "Given that ticking fees of $7 million per day begin accruing on October 1, 2026, and trial is not scheduled until March 2027, should courts facing high-stakes media mergers be required to adjudicate antitrust challenges on an expedited basis — and if so, what due process safeguards should apply to defendants facing rushed proceedings?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a coalition of state attorneys general challenging a proposed $85 billion merger in the streaming sector. Write 2-3 sentences describing the legal basis for your challenge and the preliminary relief you are seeking, using the sentence patterns from this lesson.",
+    "model_answer": "The complaint alleges that the transaction would violate Section 7 of the Clayton Act by substantially lessening competition across two key markets: the acquisition of premium original programming and the licensing of bundled subscription services to consumers. Plaintiffs assert the merger is presumptively anticompetitive under Herfindahl-Hirschman Index calculations, arguing the combined entity would control over forty percent of domestic subscription video-on-demand subscribers. Accordingly, the coalition filed a motion for a temporary restraining order to halt the closing while the court evaluates the full merits of the antitrust challenge."
+  },
+  "youtube_rec": {
+    "title": "State AG Antitrust Power Explained: Can States Block Federal Mergers? | Clayton Act Section 7 Deep Dive",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深入解析美国各州总检察长依据《克莱顿法》第7条独立提起并购阻断诉讼的法律依据与历史先例，结合派拉蒙-华纳兄弟探索公司并购案，探讨州级反垄断执法与联邦监管之间的权力边界及司法实践影响。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律所梳理2026年娱乐法重大未决争议，涵盖合理使用、AI训练数据诉讼及《Rogers测试》在电视节目商标案中的最新适用动态。",
+      "language": "en"
+    },
+    {
+      "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+      "description_cn": "《综艺》杂志2026年娱乐法律师影响力报告，聚焦OpenAI诉讼、版权侵权裁决及利润分成诉讼等好莱坞年度标志性法律争议。",
+      "language": "en"
+    }
+  ],
+  "week": 21,
+  "day": 4,
+  "date": "2026-08-14",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week21/day4.mp3"
+}
