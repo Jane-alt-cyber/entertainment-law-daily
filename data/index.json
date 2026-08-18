@@ -935,7 +935,16 @@
       "theme_cn": "娱乐法最新动态",
       "file": "week22/day1.json",
       "audio": "week22/day1.mp3"
+    },
+    {
+      "week": 22,
+      "day": 2,
+      "date": "2026-08-19",
+      "theme_en": "Entertainment Law Current Events",
+      "theme_cn": "娱乐法最新动态",
+      "file": "week22/day2.json",
+      "audio": "week22/day2.mp3"
     }
   ],
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-19"
 }

@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "The War Over Warner Bros. Is Splintering Hollywood's Labor World — Paramount-WBD Antitrust Battle Divides Unions",
+    "source": "Hollywood Reporter, August 14, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/",
+    "text": "At the center of Hollywood's most consequential legal battle of 2026 stands the proposed $111 billion merger between Paramount Skydance and Warner Bros. Discovery — and the antitrust war being waged to stop it. A coalition of 12 state attorneys general, led by California AG Rob Bonta, filed suit to block the merger on antitrust grounds and successfully obtained a temporary restraining order. Rather than contest a preliminary injunction hearing, Paramount agreed to proceed directly to a full trial, which a federal court in the Northern District of California has now scheduled for a single 12-day proceeding beginning March 2, 2027. The court consolidated the state AG case with a separate private antitrust lawsuit filed by the Writers Guild of America in July 2026. Both cases are assigned to Judge Araceli Martinez-Olguin.\n\nParamount's own legal offense escalated dramatically when, on August 17, 2026, it filed a motion demanding a $1.88 billion bond from the plaintiff states — arguing it is statutorily entitled to the bond to help cover approximately $7 million per day in fees it is obligated to pay WBD shareholders under the merger agreement while the deal remains blocked. Paramount has also publicly claimed that it secured antitrust clearances from 68 countries worldwide, leaving the state AG lawsuit as the sole remaining obstacle to closing the deal.\n\nThe legal battle has exposed deep fault lines within Hollywood's labor movement. The Directors Guild of America and IATSE sent a joint letter urging settlement, warning that the prolonged trial timeline is already causing productions to be put on hold or canceled. They argued that beginning after September 30, Paramount is contractually required to pay approximately $650 million per quarter to WBD shareholders — money they say could instead fund productions and create crew jobs. SAG-AFTRA's National Board adopted a resolution formally opposing the merger unless enforceable production guarantees are included, while stopping short of joining the WGA's lawsuit. A stockholder derivative suit was also filed in the Delaware Court of Chancery in July 2026, alleging officers and directors breached fiduciary duties in pursuing the WBD acquisition — though the plaintiff withdrew an expedited request after the trial schedule was confirmed. The legal, financial, and labor dimensions of this case make it arguably the most complex entertainment law dispute of the decade.",
+    "word_count": 347
+  },
+  "vocabulary": [
+    {
+      "term": "temporary restraining order",
+      "pronunciation": "/ˈtempəreri rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "definition_cn": "临时限制令（TRO）：法院在正式听证前紧急颁布的短期禁止令，用以维持现状、防止当事人在审判前采取特定行动造成不可弥补的损害。",
+      "example": "The coalition of attorneys general successfully obtained a temporary restraining order halting the merger before a full trial could be scheduled.",
+      "audio": "week22/day2_vocab_0.mp3"
+    },
+    {
+      "term": "preliminary injunction",
+      "pronunciation": "/prɪˈlɪmɪneri ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "初步禁令：在案件正式判决前由法院颁布的临时禁止令，原告须证明胜诉可能性、难以弥补的损害及利益平衡倾向其一方。",
+      "example": "Rather than contest a preliminary injunction hearing, Paramount elected to proceed directly to a consolidated full trial.",
+      "audio": "week22/day2_vocab_1.mp3"
+    },
+    {
+      "term": "antitrust clearances",
+      "pronunciation": "/ˈæntitrʌst ˈklɪərənsɪz/",
+      "definition_cn": "反垄断审查批准：指并购交易获得相关司法管辖区竞争监管机构的合并许可，确认该交易不会实质性地减少市场竞争。",
+      "example": "Paramount publicly claimed it had secured antitrust clearances from 68 countries, making the California lawsuit the last remaining barrier.",
+      "audio": "week22/day2_vocab_2.mp3"
+    },
+    {
+      "term": "stockholder derivative suit",
+      "pronunciation": "/ˈstɒkhəʊldər dɪˈrɪvətɪv suːt/",
+      "definition_cn": "股东派生诉讼：股东以公司名义提起的诉讼，主张公司高管或董事违反受信义务，所得赔偿归属公司而非原告股东本人。",
+      "example": "A stockholder derivative suit was filed in the Delaware Court of Chancery alleging that officers and directors breached fiduciary duties by pursuing the acquisition.",
+      "audio": "week22/day2_vocab_3.mp3"
+    },
+    {
+      "term": "fiduciary duties",
+      "pronunciation": "/fɪˈdjuːʃieri ˈdjuːtɪz/",
+      "definition_cn": "受信义务：公司董事和高管对股东承担的最高标准忠诚与审慎义务，包括忠实义务（duty of loyalty）和注意义务（duty of care）。",
+      "example": "The derivative complaint alleged that the board breached its fiduciary duties by approving a merger that disadvantaged existing shareholders.",
+      "audio": "week22/day2_vocab_4.mp3"
+    },
+    {
+      "term": "Delaware Court of Chancery",
+      "pronunciation": "/ˈdelərwɛː kɔːrt əv ˈtʃænsəri/",
+      "definition_cn": "特拉华州衡平法院：美国审理公司法纠纷最具权威的专业法院，大多数美国上市公司在此注册，其判决对公司治理具有全国性影响。",
+      "example": "Because Paramount is incorporated in Delaware, the stockholder derivative suit was filed in the Delaware Court of Chancery.",
+      "audio": "week22/day2_vocab_5.mp3"
+    },
+    {
+      "term": "bond",
+      "pronunciation": "/bɒnd/",
+      "definition_cn": "保证金（诉讼担保债券）：法院要求申请禁令的一方提交的财务担保，若禁令被最终认定不当，用以赔偿被限制方因禁令造成的损失。",
+      "example": "Paramount filed a motion demanding a $1.88 billion bond from the plaintiff states to offset daily financial losses caused by the blocked merger.",
+      "audio": "week22/day2_vocab_6.mp3"
+    },
+    {
+      "term": "consolidated",
+      "pronunciation": "/kənˈsɒlɪdeɪtɪd/",
+      "definition_cn": "合并审理：法院将两个或多个涉及共同法律或事实问题的案件合并为一个诉讼程序进行审理，以提高司法效率并避免相互矛盾的判决。",
+      "example": "The court consolidated the state attorneys general case with the WGA's private antitrust lawsuit, assigning both to Judge Martinez-Olguin.",
+      "audio": "week22/day2_vocab_7.mp3"
+    },
+    {
+      "term": "enforceable production guarantees",
+      "pronunciation": "/ɪnˈfɔːrsəbl prəˈdʌkʃən ˌɡærənˈtiːz/",
+      "definition_cn": "可强制执行的制作保障条款：并购协议中具有法律约束力的条款，要求合并后实体履行特定制作数量或投资承诺，违约可追究法律责任。",
+      "example": "SAG-AFTRA's National Board resolved to oppose the merger unless the parties agreed to include enforceable production guarantees in the final transaction documents.",
+      "audio": "week22/day2_vocab_8.mp3"
+    },
+    {
+      "term": "expedited request",
+      "pronunciation": "/ɪkˈspedɪtɪd rɪˈkwest/",
+      "definition_cn": "加速审理申请：当事人向法院申请缩短正常诉讼时间表、优先快速处理特定程序事项的请求，通常以紧迫性或不可弥补的损害为由。",
+      "example": "The derivative plaintiff withdrew its expedited request for accelerated discovery after the court set a firm trial date for March 2027.",
+      "audio": "week22/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] filed a motion demanding [specific relief], arguing it is statutorily entitled to [remedy] on the grounds that [legal basis].",
+      "example": "Paramount filed a motion demanding a $1.88 billion bond from the plaintiff states, arguing it is statutorily entitled to the bond on the grounds that the blocked merger is costing it approximately $7 million per day.",
+      "translation_cn": "派拉蒙向原告各州提出动议，要求提交18.8亿美元保证金，主张依据法律规定其有权获得该保证金，理由是被阻止的合并每天使其损失约700万美元。"
+    },
+    {
+      "pattern": "Rather than contest [procedural stage], [Party] agreed to proceed directly to [alternative proceeding], which [tribunal] has scheduled for [timeframe].",
+      "example": "Rather than contest a preliminary injunction hearing, Paramount agreed to proceed directly to a full trial, which a federal court in the Northern District of California has scheduled for a 12-day proceeding beginning March 2, 2027.",
+      "translation_cn": "派拉蒙没有选择应对初步禁令听证，而是同意直接进入完整庭审程序，加利福尼亚州北区联邦法院已将其安排为自2027年3月2日起为期12天的审判。"
+    },
+    {
+      "pattern": "[Party] formally opposed [transaction or measure] unless [condition], while stopping short of [more extreme action].",
+      "example": "SAG-AFTRA's National Board formally opposed the merger unless enforceable production guarantees were included, while stopping short of joining the WGA's lawsuit.",
+      "translation_cn": "美国演员工会全国委员会正式反对该合并，除非其中包含可强制执行的制作保障条款，但同时未走到加入编剧工会诉讼的一步。"
+    }
+  ],
+  "summary_cn": "2026年好莱坞最重大法律争议围绕派拉蒙天空舞与华纳兄弟探索公司价值1110亿美元的合并展开。12个州总检察长联盟获得临时限制令并起诉阻止合并，WGA亦独立提起反垄断诉讼。法院将两案合并，定于2027年3月开庭。派拉蒙要求各州提交18.8亿美元保证金。劳工界内部就是否支持合并产生严重分裂：DGA与IATSE呼吁和解，WGA坚决反对，SAG-AFTRA附条件反对。特拉华州还存在股东派生诉讼，指控董事违反受信义务。",
+  "legal_analysis": "① 核心法律问题：本案核心涉及《谢尔曼法》及《克莱顿法》下的横向合并反垄断审查，以及诉讼程序中的保证金制度与临时禁令标准。同时涉及特拉华州公司法框架下的股东派生诉讼与董事受信义务问题。\n\n② 美国法律框架分析：在美国反垄断法下，州总检察长依据《哈特-斯科特-罗迪诺法》及州反垄断法享有独立起诉权，可与联邦司法部并行行动。法院在决定是否维持禁令时适用\"冬季因素\"（Winter factors）四要素测试。派拉蒙要求的保证金制度源自《联邦民事诉讼规则》第65(c)条，旨在平衡禁令申请方的诉讼风险。特拉华州衡平法院在公司并购诉讼中具有全球最高权威，其适用的\"整体公平性标准\"（entire fairness standard）是判断董事会行为合法性的关键尺度。\n\n③ 对中国娱乐法律师的实践启示：中国律师代理跨境并购时须重视美国州级反垄断诉权的独立性，不能仅依赖联邦层面审查结论。此外，在设计并购合同时应精心规划终止费（termination fee）与每日费用条款，以避免在诉讼阻断期间形成过大财务敞口。中国当事人若涉及美国上市公司收购，亦须提前评估特拉华州派生诉讼风险。",
+  "cn_us_comparison": "美国反垄断框架下，《谢尔曼法》与《克莱顿法》赋予联邦及州两级检察机关独立起诉权，本案中12个州总检察长得以绕开联邦司法部独立阻止合并，体现了美国多元司法主体并存的特点。中国《反垄断法》（2022年修订版）则由国家市场监督管理总局统一行使经营者集中审查权，不存在省级竞争执法机构独立提起诉讼的机制，权力更为集中。\n\n在股东派生诉讼方面，美国特拉华州衡平法院依据普通法发展出成熟的受信义务体系（包括忠实义务与注意义务），股东可就董事决策独立提起诉讼。中国《公司法》（2023年修订版）第188条虽已明确规定股东代表诉讼制度，但司法实践中适用较为保守，法院对商业判断的司法审查强度远低于特拉华州。\n\n此外，美国诉讼中的保证金制度（Rule 65(c)）在中国民事诉讼框架下无直接对应机制，中国法院通过《民事诉讼法》第103条的财产保全制度实现类似功能，但操作规则与救济路径存在显著差异。",
+  "discussion_prompt": "Given that Paramount has secured antitrust clearances from 68 countries while a single coalition of state attorneys general retains the power to block a $111 billion global transaction, does the current U.S. framework of concurrent federal and state antitrust enforcement create an undue risk of regulatory fragmentation — and if so, should Congress preempt state merger challenges once federal review is complete?",
+  "writing_exercise": {
+    "prompt": "You are a legal analyst writing a brief memo. In 2-3 sentences, describe a hypothetical situation in which a merged media company faces opposition from a labor guild, using the sentence patterns from today's lesson: (1) a party files a motion demanding specific relief on statutory grounds, and (2) a guild formally opposes a transaction unless a specific condition is met, while stopping short of filing its own lawsuit.",
+    "model_answer": "The merged entity filed a motion demanding a $500 million bond from the plaintiff guild, arguing it is statutorily entitled to that relief on the grounds that the production freeze caused by the injunction is costing it $3 million per day in stranded overhead. The Directors Guild formally opposed the restructuring plan unless enforceable minimum staffing guarantees were incorporated into the final consent decree, while stopping short of filing its own antitrust complaint in federal court. Rather than contest a preliminary injunction hearing on an expedited basis, the company agreed to proceed directly to a consolidated trial before the assigned district judge."
+  },
+  "youtube_rec": {
+    "title": "Antitrust Law and Mega-Mergers: How State AGs Can Block Billion-Dollar Deals",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深度解析美国州总检察长如何依据州及联邦反垄断法独立阻止大型并购交易，涵盖临时限制令申请标准、保证金制度及多州联合诉讼的策略运用，适合有志于并购监管与娱乐法领域的法律从业者参考。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻报告，梳理纪录片合理使用争议、AI训练数据版权诉讼及Rogers商标测试的最新动态。",
+      "language": "en"
+    },
+    {
+      "title": "Internet and Computer Law Year in Review 2025–2026: AI Copyright Fair Use, the CDA Circuit Split, and the Age Verification Flood Gate",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/internet-computer-law-s1/",
+      "description_cn": "加州大学伯克利法学院科技法中心发布的2025至2026年度互联网与娱乐法权威综述，涵盖AI训练版权合理使用裁决、DMCA主观故意认定及第230条算法责任巡回法院分歧。",
+      "language": "en"
+    }
+  ],
+  "week": 22,
+  "day": 2,
+  "date": "2026-08-19",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week22/day2.mp3"
+}
