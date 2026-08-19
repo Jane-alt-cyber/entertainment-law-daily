@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Paramount Demands That States Post $1.88 Billion Bond Amid Warner Bros. Antitrust Suit",
+    "source": "The Hollywood Reporter, August 17–18, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/paramount-states-post-billion-dollar-bond-wbd-antitrust-1236675237/",
+    "text": "One of Hollywood's most consequential antitrust battles of 2026 centers on Paramount Skydance's proposed $111 billion acquisition of Warner Bros. Discovery — a transaction that has triggered a sweeping antitrust lawsuit filed by California Attorney General Rob Bonta, joined by eleven other state attorneys general, in the Northern District of California. In one of the most aggressive litigation moves of the year, Paramount Skydance demanded that the plaintiff states post a bond of approximately $1.88 billion ($1,884,726,092) as a condition of their effort to enjoin the merger. Paramount cited both the Clayton Act and settled federal antitrust law as authority, arguing that every month of delay carries 'substantial and quantifiable financial consequences' and that the bond is required so that, if the states lose, there exists a source of recovery for damages caused to Paramount.\n\nCalifornia AG Bonta sharply rejected the demand, calling it 'blackmail' and accusing Paramount of 'lying in a bed of their own making.' Bonta noted that both Paramount and Warner Bros. knowingly included a ticking fee in their merger contract despite full awareness that regulatory review was not guaranteed. The states also sought a temporary restraining order and a preliminary injunction to prevent the merger from closing before trial.\n\nIn a parallel procedural development, Paramount agreed to consolidate the states' antitrust case with a pre-existing subscriber class action, meaning both matters will be heard before Judge Araceli Martinez-Olguin, a Biden appointee in Oakland already overseeing the subscriber suit. That class action alleged the merger will substantially reduce competition in streaming, news, and theatrical distribution, and seeks an order blocking the merger and unwinding Skydance's prior acquisition of Paramount.\n\nDespite securing antitrust clearances from nearly seventy jurisdictions worldwide, Paramount faces a scheduled March 2027 trial date. Hollywood's unions are divided: the WGA has called for an outright block, while the Directors Guild of America and IATSE have advocated for a consent decree–based settlement that would maintain Paramount and Warner Bros. as separate studios and commit to domestic production levels. Paramount CEO David Ellison has also threatened to relocate corporate operations out of California if the suit continues, adding political pressure on Governor Gavin Newsom and other officials who have quietly signaled support for a negotiated resolution.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "Clayton Act",
+      "pronunciation": "/ˈkleɪtən ækt/",
+      "definition_cn": "《克莱顿法》，美国联邦反垄断法核心法规之一，专门规制可能实质性减少竞争的并购交易，并赋予当事方寻求禁令救济的权利。",
+      "example": "Paramount invoked the Clayton Act as statutory authority for requiring the states to post a substantial bond before any injunctive relief could be granted.",
+      "audio": "week22/day3_vocab_0.mp3"
+    },
+    {
+      "term": "enjoin the merger",
+      "pronunciation": "/ɪnˈdʒɔɪn ðə ˈmɜːrdʒər/",
+      "definition_cn": "通过法院禁令阻止并购交易完成，是反垄断诉讼中原告寻求的典型衡平救济手段，旨在在诉讼终结前维持现状。",
+      "example": "The state attorneys general moved swiftly to enjoin the merger, arguing that any completed transaction would be virtually impossible to unwind.",
+      "audio": "week22/day3_vocab_1.mp3"
+    },
+    {
+      "term": "ticking fee",
+      "pronunciation": "/ˈtɪkɪŋ fiː/",
+      "definition_cn": "并购合同中规定的累积费用条款，通常在交割延误时由一方向另一方支付，以补偿等待期间的资金成本和机会损失。",
+      "example": "The inclusion of a ticking fee in the merger contract signaled that both parties had anticipated potential regulatory delays at the time of signing.",
+      "audio": "week22/day3_vocab_2.mp3"
+    },
+    {
+      "term": "temporary restraining order",
+      "pronunciation": "/ˈtɛmpərɛri rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "definition_cn": "临时禁止令（TRO），法院在紧急情况下不经充分听证即可签发的短期命令，禁止特定行为以防止即时不可弥补的损害。",
+      "example": "The states filed for a temporary restraining order to freeze the merger closing date while the court considered the broader preliminary injunction motion.",
+      "audio": "week22/day3_vocab_3.mp3"
+    },
+    {
+      "term": "preliminary injunction",
+      "pronunciation": "/ˌprɛlɪˈmɪnɛri ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "初步禁令，在正式审判前由法院颁发，要求当事方维持或停止某种行为，申请方须证明胜诉可能性、不可弥补损害等要件。",
+      "example": "Securing a preliminary injunction against the merger required the states to demonstrate both a likelihood of success on the merits and irreparable harm.",
+      "audio": "week22/day3_vocab_4.mp3"
+    },
+    {
+      "term": "consolidate",
+      "pronunciation": "/kənˈsɒlɪdeɪt/",
+      "definition_cn": "合并审理，指法院将两个或多个涉及共同法律或事实问题的案件并案处理，以提高司法效率并避免裁判矛盾。",
+      "example": "The court's decision to consolidate the subscriber class action with the state antitrust suit streamlined discovery and eliminated duplicative motion practice.",
+      "audio": "week22/day3_vocab_5.mp3"
+    },
+    {
+      "term": "subscriber class action",
+      "pronunciation": "/səbˈskraɪbər klæs ˈækʃən/",
+      "definition_cn": "用户集体诉讼，由具有共同利益的大量用户作为代表原告提起的诉讼，在娱乐法领域常见于因并购导致服务质量下降或竞争减少的场合。",
+      "example": "The subscriber class action alleged that the proposed merger would eliminate meaningful competition and ultimately harm consumers through higher prices and reduced choice.",
+      "audio": "week22/day3_vocab_6.mp3"
+    },
+    {
+      "term": "antitrust clearances",
+      "pronunciation": "/ˌæntiˈtrʌst ˈklɪərənsɪz/",
+      "definition_cn": "反垄断审查批准，指并购交易获得相关司法管辖区竞争监管机构的许可，确认交易不会实质性损害市场竞争。",
+      "example": "Although Paramount had obtained antitrust clearances from nearly seventy jurisdictions, the domestic state-level challenge remained a significant obstacle to closing.",
+      "audio": "week22/day3_vocab_7.mp3"
+    },
+    {
+      "term": "consent decree",
+      "pronunciation": "/kənˈsɛnt dɪˈkriː/",
+      "definition_cn": "同意判决，是监管机构或原告与被告就反垄断纠纷达成的协议性法院命令，通常包含行为救济措施，以换取被告不争议主要指控。",
+      "example": "DGA and IATSE proposed a consent decree that would allow the merger to proceed on condition that both studios maintain separate creative operations and meet domestic production quotas.",
+      "audio": "week22/day3_vocab_8.mp3"
+    },
+    {
+      "term": "unwinding",
+      "pronunciation": "/ʌnˈwaɪndɪŋ/",
+      "definition_cn": "撤销/解除并购，指法院要求将已完成的并购交易恢复至交割前状态，是反垄断违规的最严厉结构性救济之一。",
+      "example": "The subscriber plaintiffs sought complete unwinding of Skydance's acquisition of Paramount, a remedy courts grant only in the most egregious antitrust violations.",
+      "audio": "week22/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] cited [statute] as authority, arguing that [factual basis] and that [requested remedy] is required so that [justification].",
+      "example": "Paramount cited both the Clayton Act and settled federal antitrust law as authority, arguing that every month of delay carries substantial financial consequences and that the bond is required so that, if the states lose, there exists a source of recovery for damages caused to Paramount.",
+      "translation_cn": "派拉蒙援引《克莱顿法》及联邦既定反垄断法作为法律依据，主张每月延误将产生实质性财务损失，且要求缴纳保证金是必要的，以便在各州败诉时存在可供追偿的来源。"
+    },
+    {
+      "pattern": "[Party] sought a [equitable remedy] to prevent [adverse action] before [procedural milestone].",
+      "example": "The states sought a temporary restraining order and a preliminary injunction to prevent the merger from closing before the scheduled March 2027 trial date.",
+      "translation_cn": "各州申请临时禁止令及初步禁令，以阻止并购在2027年3月预定开庭日期前完成交割。"
+    },
+    {
+      "pattern": "In a parallel procedural development, [party] agreed to [procedural action], meaning [resulting judicial arrangement].",
+      "example": "In a parallel procedural development, Paramount agreed to consolidate the states' antitrust case with a pre-existing subscriber class action, meaning both matters will be heard before Judge Araceli Martinez-Olguin.",
+      "translation_cn": "在一项平行的程序性进展中，派拉蒙同意将各州反垄断案件与既有用户集体诉讼合并审理，这意味着两案均将由法官阿拉塞利·马丁内斯-奥尔金负责审理。"
+    }
+  ],
+  "summary_cn": "派拉蒙Skydance就其拟收购华纳兄弟探索公司一事遭遇十二个州检察长提起反垄断诉讼，并要求各州提交约18.8亿美元的禁令保证金。加州检察长拒绝该要求并斥之为\"勒索\"。两案已合并由联邦法官统一审理，预定2027年3月开庭。工会立场分裂，政治压力促使各方转向寻求协商解决方案。",
+  "legal_analysis": "① 核心法律问题：本案涉及《克莱顿法》第7条下大型横向并购的反垄断审查，以及州检察长是否有权就联邦监管机构已批准的交易申请禁令救济，同时涉及禁令保证金（injunction bond）的合理性认定。\n\n② 美国法律框架分析：根据《克莱顿法》，并购可能实质性减少相关市场竞争时，任何受损方均可申请禁令。要求原告缴纳保证金是联邦民事诉讼规则Rule 65(c)的标准程序，旨在保护被申请方因错误禁令遭受损失时的追偿权利。保证金金额由法院酌情裁量，本案派拉蒙主张的18.8亿美元保证金创历史纪录，折射出大型媒体并购中合并延迟的巨额财务成本。同意判决机制则体现了反垄断执法中结构性救济与行为性救济的典型权衡。\n\n③ 对中国娱乐法律师的实践启示：中国企业赴美并购或参与跨国媒体整合时，须充分评估美国多层次反垄断审查风险，包括联邦和州两级执法叠加的可能性。合并合同中\"ticking fee\"条款的设计应审慎考量监管不确定性，避免在诉讼中被用作\"预知风险\"的不利证据。此外，当并购涉及流媒体、新闻及院线等多个市场时，反垄断暴露面将成倍放大，事前寻求同意判决框架可能优于硬碰硬的诉讼对抗。",
+  "cn_us_comparison": "美国《克莱顿法》赋予联邦及州两级主体就并购交易申请禁令救济的权利，联邦贸易委员会（FTC）与司法部（DOJ）均可独立审查，各州检察长亦可依《克莱顿法》第16条提起独立诉讼，形成多层次执法体系。这与中国《反垄断法》下由国家市场监督管理总局（市监总局）统一负责经营者集中申报审查的单一监管模式形成鲜明对比——中国采用申报前置制度，达到营业额门槛必须事先获批，而美国采用事前申报（HSR法案）结合事后诉讼的双轨并行机制。在救济方式上，美国法院可判令拆分已完成并购（unwinding），而中国《反垄断法》第55条的附条件批准同样可设定结构性救济或行为性承诺，但实践中鲜少出现要求强制解除已完成交易的情形。此外，美国允许私人原告（包括订阅用户）提起集体诉讼，而中国私人反垄断诉讼制度仍处于发展阶段，公共执法仍占主导地位。",
+  "discussion_prompt": "Given that Paramount obtained antitrust clearances from nearly seventy jurisdictions worldwide, should state attorneys general retain independent authority under the Clayton Act to seek injunctive relief against federally reviewed mergers — and does the $1.88 billion bond demand effectively weaponize procedural rules to deter legitimate public enforcement?",
+  "writing_exercise": {
+    "prompt": "You are a junior associate drafting a memo. Write 2–3 sentences describing a hypothetical scenario in which a state attorney general seeks to enjoin a media merger, citing the relevant statute, the procedural remedy sought, and the opposing party's response.",
+    "model_answer": "The state attorney general cited the Clayton Act as authority for her motion, arguing that the proposed acquisition would substantially reduce competition across multiple markets and that a preliminary injunction was necessary to preserve the status quo pending trial. The defendant corporation countered that the states must post a bond commensurate with the financial harm caused by any delay, estimating merger-related losses in excess of two billion dollars for each month the transaction remained blocked. In a parallel procedural development, the court agreed to consolidate the state enforcement action with a pre-existing subscriber class action, centralizing all antitrust challenges before a single federal judge."
+  },
+  "youtube_rec": {
+    "title": "Antitrust Law Explained: How States Can Block Billion-Dollar Mergers Under the Clayton Act",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频详解《克莱顿法》框架下州检察长对大型并购提起反垄断诉讼的法律路径，涵盖初步禁令申请标准、保证金要求及同意判决谈判机制，适合希望深入理解美国多层次反垄断执法体系的法律从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛法学院娱乐法期刊记录2026年研讨会：资深诉讼律师就AI训练数据著作权、合理使用抗辩及明星肖像权保护展开深度辩论。",
+      "language": "en"
+    },
+    {
+      "title": "AI in Litigation Series: An Update on AI Copyright Cases in 2026",
+      "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/ce8eaa5f/ai-in-litigation-series-an-update-on-ai-copyright-cases-in-2026",
+      "description_cn": "Norton Rose Fulbright梳理2026年六起标志性AI著作权案件，分析法院在训练数据合理使用问题上的分歧裁判及正式授权协议的兴起趋势。",
+      "language": "en"
+    }
+  ],
+  "week": 22,
+  "day": 3,
+  "date": "2026-08-20",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week22/day3.mp3"
+}
