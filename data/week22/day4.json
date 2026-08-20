@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+    "source": "Weintraub Tobin / JDSupra, January 22, 2026",
+    "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+    "text": "As 2025 drew to a close, the media and entertainment industry was left grappling with a series of significant, unresolved legal questions now carrying into 2026. Several high-profile cases are poised to redefine the legal landscape across three core issue areas: fair use doctrine as applied to AI training data, copyright ownership of AI-generated outputs, and trademark enforcement in the digital and AI-assisted creative environment.\n\nOn the AI copyright front, 2025 saw the first substantive judicial rulings on fair use arguments raised by AI developers. U.S. District Judge William Alsup issued a pivotal split ruling in the Anthropic matter — Bartz v. Anthropic PBC, No. 3:24-cv-05417, N.D. Cal. — finding that Anthropic's practice of maintaining a permanent library of pirated books to train its large language models did not qualify as fair use. That ruling ultimately led Anthropic to agree to a landmark $1.5 billion class-action settlement with a class of authors and publishers. A federal judge subsequently paused that settlement pending further review, underscoring the procedural complexity of class-wide AI copyright resolutions.\n\nIn a separate escalation, Warner Bros. Discovery sued AI image-generation platform Midjourney in the Central District of California, alleging direct and secondary copyright infringement arising from Midjourney's use of the studio's properties to train its models and enable users to recreate copyrighted characters. Disney — including Lucasfilm, Marvel, and 20th Century Studios — and Universal Pictures similarly filed a complaint against Midjourney on June 11, 2025, alleging direct and secondary copyright infringement, marking a decisive escalation by major entertainment conglomerates into the generative AI litigation space.\n\nOn the music side, Warner Music Group reached a deal with AI music generator Suno in December 2025, signaling a shift from pure litigation toward negotiated licensing frameworks. WMG also reached a separate settlement with Udio that included a collaboration agreement to create a licensed AI music service. Meanwhile, Taylor Swift moved to use trademark law as a tool against AI misuse of her name and likeness. The Elon Musk v. OpenAI antitrust and breach-of-fiduciary-duty case, with Marc Toberoff as lead counsel, is proceeding to a Phase I trial starting April 27, 2026, with antitrust claims preserved for a Phase II trial — a case expected to rewrite the rules governing AI development agreements.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "fair use doctrine",
+      "pronunciation": "/fɛr juːs ˈdɒktrɪn/",
+      "definition_cn": "美国版权法中允许在特定条件下未经许可使用受版权保护作品的法律原则，须综合考量使用目的、作品性质、使用比例及市场影响四项因素。",
+      "example": "The AI developer invoked the fair use doctrine to justify training its models on copyrighted text without obtaining prior authorization.",
+      "audio": "week22/day4_vocab_0.mp3"
+    },
+    {
+      "term": "class-action settlement",
+      "pronunciation": "/klæs ˈækʃən ˈsɛtlmənt/",
+      "definition_cn": "代表具有共同主张的一类原告群体达成的诉讼和解协议，须经法院审查批准，赔偿金按一定标准分配给全体类别成员。",
+      "example": "The $1.5 billion class-action settlement set a new benchmark for how AI developers may be held liable for large-scale copyright infringement.",
+      "audio": "week22/day4_vocab_1.mp3"
+    },
+    {
+      "term": "secondary copyright infringement",
+      "pronunciation": "/ˈsɛkəndri ˈkɒpiraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "指当事人虽未直接实施侵权行为，但因引诱、协助或从他人直接侵权中获益而承担的版权侵权责任，包括辅助侵权与替代侵权两种形式。",
+      "example": "The studios alleged secondary copyright infringement on the grounds that Midjourney knowingly facilitated users in generating infringing replicas of protected characters.",
+      "audio": "week22/day4_vocab_2.mp3"
+    },
+    {
+      "term": "large language models",
+      "pronunciation": "/lɑːrdʒ ˈlæŋɡwɪdʒ ˈmɒdəlz/",
+      "definition_cn": "基于海量文本数据训练的人工智能系统，其训练数据来源的版权合法性是当前娱乐版权诉讼的核心争议焦点之一。",
+      "example": "Courts are now tasked with determining whether ingesting copyrighted works to train large language models constitutes actionable infringement under federal copyright law.",
+      "audio": "week22/day4_vocab_3.mp3"
+    },
+    {
+      "term": "breach-of-fiduciary-duty",
+      "pronunciation": "/briːtʃ əv fɪˈdjuːʃɪəri ˈdjuːti/",
+      "definition_cn": "指受信义务人（如董事、受托人）违反其对委托人所负有的忠实义务与谨慎义务，在美国诉讼中常与合同违约或反垄断主张并列提出。",
+      "example": "Musk's complaint included a breach-of-fiduciary-duty claim, asserting that OpenAI's leadership had abandoned its original nonprofit mission for commercial gain.",
+      "audio": "week22/day4_vocab_4.mp3"
+    },
+    {
+      "term": "antitrust claims",
+      "pronunciation": "/ˈæntitrʌst kleɪmz/",
+      "definition_cn": "依据美国《谢尔曼法》或《克莱顿法》提出的、指控被告从事垄断、合谋定价或其他反竞争行为的诉讼主张。",
+      "example": "The antitrust claims against OpenAI were preserved for a Phase II trial, where Musk's counsel will argue that the organization's conduct distorted competition in the AI market.",
+      "audio": "week22/day4_vocab_5.mp3"
+    },
+    {
+      "term": "trademark enforcement",
+      "pronunciation": "/ˈtreɪdmɑːrk ɪnˈfɔːrsmənt/",
+      "definition_cn": "商标权人通过法律手段阻止他人未经授权使用其注册商标或近似标识的行为，在AI时代已延伸至防止算法生成内容中的姓名与形象滥用。",
+      "example": "Taylor Swift's aggressive trademark enforcement strategy aims to prevent AI tools from generating content that falsely implies her endorsement or identity.",
+      "audio": "week22/day4_vocab_6.mp3"
+    },
+    {
+      "term": "negotiated licensing frameworks",
+      "pronunciation": "/nɪˈɡoʊʃieɪtɪd ˈlaɪsənsɪŋ ˈfreɪmwɜːrks/",
+      "definition_cn": "版权方与技术平台通过商业谈判建立的授权使用结构安排，相较于诉讼具有灵活性，通常包含许可费率、使用范围及合规义务等核心条款。",
+      "example": "The industry's pivot toward negotiated licensing frameworks suggests that major rights holders now view structured commercial deals as preferable to protracted infringement litigation.",
+      "audio": "week22/day4_vocab_7.mp3"
+    },
+    {
+      "term": "split ruling",
+      "pronunciation": "/splɪt ˈruːlɪŋ/",
+      "definition_cn": "法院就同一诉讼中不同争议事项分别作出部分支持、部分驳回的裁定，在多议题AI版权案件中尤为常见，体现司法机关对复杂法律问题的审慎态度。",
+      "example": "The split ruling in Bartz v. Anthropic left both parties claiming partial victory, while creating significant uncertainty for the broader AI training data dispute.",
+      "audio": "week22/day4_vocab_8.mp3"
+    },
+    {
+      "term": "lead counsel",
+      "pronunciation": "/liːd ˈkaʊnsəl/",
+      "definition_cn": "在诉讼中承担主要策略制定与庭审职责的首席律师，在复杂商业诉讼中通常负责协调整个法律团队并直接向法院陈述核心主张。",
+      "example": "Marc Toberoff, serving as lead counsel for Musk, is expected to anchor the Phase I trial arguments around the enforceability of OpenAI's founding governance documents.",
+      "audio": "week22/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court] issued a [type of ruling], finding that [party]'s practice of [conduct] did not qualify as [legal defense].",
+      "example": "U.S. District Judge William Alsup issued a pivotal split ruling, finding that Anthropic's practice of maintaining a permanent library of pirated books to train its large language models did not qualify as fair use.",
+      "translation_cn": "法院作出裁定，认定被告的特定行为不符合某项法律抗辩主张的适用条件。"
+    },
+    {
+      "pattern": "[Party] alleged [type of claim], arising from [defendant]'s use of [subject matter] to [infringing activity].",
+      "example": "Warner Bros. Discovery alleged direct and secondary copyright infringement, arising from Midjourney's use of the studio's properties to train its models and enable users to recreate copyrighted characters.",
+      "translation_cn": "原告主张某类侵权指控，理由是被告将特定受保护客体用于实施侵权行为。"
+    },
+    {
+      "pattern": "The [proceeding] is proceeding to a [Phase X] trial starting [date], with [claims] preserved for [Phase Y] trial.",
+      "example": "The Elon Musk v. OpenAI antitrust and breach-of-fiduciary-duty case is proceeding to a Phase I trial starting April 27, 2026, with antitrust claims preserved for a Phase II trial.",
+      "translation_cn": "该案将按阶段审理，部分诉讼主张留待后续阶段庭审中另行处理。"
+    }
+  ],
+  "summary_cn": "2025年至2026年间，美国娱乐法领域三大核心议题持续发酵：AI训练数据的合理使用抗辩、AI生成内容的版权归属，以及商标权在数字创作环境中的执法边界。Anthropic以15亿美元达成集体诉讼和解，迪士尼、华纳等巨头相继起诉Midjourney，主要唱片公司则转向谈判授权框架，马斯克诉OpenAI案即将进入庭审阶段，上述动向共同标志着AI与娱乐法律生态的深度重构。",
+  "legal_analysis": "① 核心法律问题：本案群涉及AI训练数据是否构成版权侵权、合理使用抗辩在生成式AI场景下的适用边界，以及直接侵权与间接侵权责任的认定标准，三者共同构成当前美国AI版权诉讼的制度核心。\n\n② 美国法律框架分析：根据《美国版权法》第107条，合理使用须综合评估四项要素，其中\"转换性使用\"与\"市场替代效应\"在AI训练场景中争议最大。Alsup法官在Bartz案中否定了Anthropic的合理使用主张，明确将系统性存储盗版书籍用于商业模型训练定性为超出合理使用范畴的行为。就间接侵权而言，Sony Corp. v. Universal City Studios确立的\"实质性非侵权用途\"标准，与Grokster案确立的\"引诱侵权\"理论，将成为Midjourney案件的主要分析框架。此外，集体诉讼和解程序须符合《联邦民事诉讼规则》第23条关于公平性、合理性与充分性的审查要求，法院中止和解批准程序本身亦体现了司法对大规模AI版权和解的审慎立场。\n\n③ 对中国娱乐法律师的实践启示：中国娱乐法律师在处理涉AI版权争议时，应关注美国司法实践中\"转换性使用\"认定标准的演变，评估国内AI企业出海时潜在的间接侵权风险敞口，并建议客户优先探索授权合作框架以规避高额诉讼成本。",
+  "cn_us_comparison": "在AI训练数据版权保护层面，美中两国制度存在显著差异。美国依托《版权法》第107条合理使用条款，通过个案司法裁量动态界定AI训练行为的合法边界，Bartz案已明确否定商业性大规模训练的合理使用抗辩。中国现行《著作权法》（2020年修订）第24条规定了合理使用的法定情形，但未专门针对AI训练场景作出规定，司法实践中尚缺乏类似Bartz案的标志性裁判。在间接侵权认定方面，中国《信息网络传播权保护条例》及最高人民法院相关司法解释确立了\"明知或应知\"标准与避风港规则，与美国《数字千年版权法》第512条的安全港制度存在结构上的相似性，但具体适用门槛与责任豁免条件存在差异。此外，中国《生成式人工智能服务管理暂行办法》（2023年）已要求生成式AI服务提供者承担合法性审查义务，在立法回应速度上一定程度上超前于美国现行立法框架，但执法标准与司法解释仍有待进一步明确。",
+  "discussion_prompt": "Given that U.S. courts are now rejecting broad fair use defenses for AI training while major studios simultaneously pivot toward negotiated licensing frameworks, should regulators establish a statutory compulsory licensing scheme for AI training data — and if so, how should royalty rates be set to avoid stifling AI innovation while adequately compensating rights holders?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a major entertainment studio. Write 2-3 sentences describing your client's legal position in a hypothetical suit against a generative AI developer, using the sentence patterns from today's lesson.",
+    "model_answer": "Our client alleges direct and secondary copyright infringement, arising from the defendant's systematic use of the studio's film library to train its generative models and enable end users to recreate protected characters at scale. The Central District of California issued a preliminary injunction, finding that the defendant's practice of ingesting unlicensed audiovisual works did not qualify as fair use under the four-factor statutory test. The matter is now proceeding to a Phase I trial beginning in the third quarter of 2026, with damages claims preserved for a Phase II trial to be scheduled thereafter."
+  },
+  "youtube_rec": {
+    "title": "AI Copyright Lawsuits Explained: Fair Use, Licensing, and the Future of Generative AI in Entertainment",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统梳理美国生成式AI版权诉讼的法律逻辑，重点解析合理使用四要素在AI训练场景中的适用争议，并结合Anthropic、Midjourney等标志性案件，分析主要娱乐公司从纯粹诉讼转向谈判授权框架的策略转变及其法律含义。"
+  },
+  "extended_reading": [
+    {
+      "title": "Who Owns the Stage, the Script, and the Algorithm? Entertainment Law's Wild Year-End (Entertainment Law Update, Episode 186)",
+      "url": "https://entertainmentlawupdate.com/2025/12/year-end-2025/",
+      "description_cn": "2025年度娱乐法盘点播客，涵盖AI版权裁决、迪士尼预订封杀争议及Netflix收购华纳兄弟等重大事件，深度探讨算法时代创作表达的控制权归属问题。",
+      "language": "en"
+    },
+    {
+      "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+      "description_cn": "《综艺》杂志2026年度好莱坞顶尖娱乐律师报告，聚焦Thomson Reuters诉Ross Intelligence案、马斯克诉OpenAI反垄断庭审及AMC利润分成诉讼等前沿法律战役。",
+      "language": "en"
+    }
+  ],
+  "week": 22,
+  "day": 4,
+  "date": "2026-08-21",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week22/day4.mp3"
+}
