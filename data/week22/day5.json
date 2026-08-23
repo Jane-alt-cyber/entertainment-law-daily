@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+    "source": "Variety, April 10, 2026",
+    "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+    "text": "Variety's 2026 Legal Impact Report identifies three converging forces reshaping Hollywood's legal landscape: AI copyright liability, antitrust enforcement in the tech-entertainment space, and traditional contractual disputes over profit participation. Together, these forces are redefining the obligations of practitioners and the exposure of studios, developers, and creators alike.\n\nOn the AI copyright front, attorney Ghajar secured a significant partial summary judgment victory for Meta in 2025, successfully dismissing plaintiffs' core copyright infringement claims arising from the use of authors' works to train its Llama AI models. The ruling represented a major win for AI developers seeking to establish that large-scale training on copyrighted material may not automatically constitute actionable infringement. In a parallel but contrasting development, a Delaware court ruled in February 2025 that Ross Intelligence's use of Thomson Reuters editorial content to train its AI legal research tool did not constitute fair use and amounted to copyright infringement — the first judicial decision of its kind. The Kirkland & Ellis team litigated that landmark victory, which signals how fact-specific the fair use doctrine remains even as AI applications proliferate.\n\nOn the antitrust and AI governance side, attorney Marc Toberoff serves as lead counsel for Elon Musk in Musk v. Altman, OpenAI, and Microsoft — a case with a Phase I trial commencing April 27, 2026. Antitrust claims against OpenAI and Microsoft have been preserved for Phase II, and the outcome is broadly expected to shape the regulatory rules governing AI competition and market structure across the tech-entertainment sector.\n\nIn the arena of entertainment contracts and profit participation, attorneys Korn and Millett successfully defended New Republic Pictures in a contractual dispute with its former president, while Soltman and Liskin represented 'Fear the Walking Dead' co-creator Dave Erickson in a profit participation lawsuit against AMC. Additionally, Toberoff's rights clearance work — spanning properties including Predator: Badlands, Crystal Lake, the Friday the 13th TV series, and The Thomas Crown Affair — underscores the strategic centrality of intellectual property rights management in modern studio deal-making. Collectively, the 2025–2026 cycle illustrates how entertainment attorneys must now command fluency across copyright doctrine, antitrust theory, and nuanced contractual drafting.",
+    "word_count": 332
+  },
+  "vocabulary": [
+    {
+      "term": "partial summary judgment",
+      "pronunciation": "/ˈpɑːrʃəl ˈsʌməri ˈdʒʌdʒmənt/",
+      "definition_cn": "部分即决判决：法院在无需完整审判的情况下，就诉讼中部分争议事项作出的裁定，仅处置一方或部分主张，而非全部诉求。",
+      "example": "The defendant's motion for partial summary judgment was granted, eliminating the statutory damages claim before trial.",
+      "audio": "week22/day5_vocab_0.mp3"
+    },
+    {
+      "term": "copyright infringement",
+      "pronunciation": "/ˈkɒpɪraɪt ɪnˈfrɪndʒmənt/",
+      "definition_cn": "版权侵权：未经权利人授权擅自复制、传播或使用受版权保护作品的行为，构成民事乃至刑事责任的基础。",
+      "example": "The plaintiff alleged copyright infringement after discovering that its proprietary dataset had been incorporated into the defendant's commercial model without a license.",
+      "audio": "week22/day5_vocab_1.mp3"
+    },
+    {
+      "term": "fair use doctrine",
+      "pronunciation": "/fɛr juːs ˈdɒktrɪn/",
+      "definition_cn": "合理使用原则：美国版权法第107条规定的抗辩原则，允许在特定条件下（如批评、评论、教育）使用受版权保护的作品而无需获得授权。",
+      "example": "The court's rejection of the fair use doctrine as a defense forced the AI developer to negotiate retroactive licensing agreements with all affected publishers.",
+      "audio": "week22/day5_vocab_2.mp3"
+    },
+    {
+      "term": "antitrust claims",
+      "pronunciation": "/ˈæntitrʌst kleɪmz/",
+      "definition_cn": "反垄断主张：基于《谢尔曼法》或《克莱顿法》等反垄断法律提出的诉讼主张，旨在制止垄断行为、限制竞争的协议或市场支配地位的滥用。",
+      "example": "The antitrust claims preserved for Phase II of the trial allege that the defendants conspired to foreclose competition in the AI model deployment market.",
+      "audio": "week22/day5_vocab_3.mp3"
+    },
+    {
+      "term": "lead counsel",
+      "pronunciation": "/liːd ˈkaʊnsəl/",
+      "definition_cn": "首席辩护律师／主诉律师：在多方共同参与的诉讼中，代表当事人承担主要庭审及法律策略责任的资深律师，具有核心指挥权。",
+      "example": "Appointed as lead counsel three weeks before trial, she immediately filed a motion to exclude the opposing expert's testimony on damages.",
+      "audio": "week22/day5_vocab_4.mp3"
+    },
+    {
+      "term": "profit participation",
+      "pronunciation": "/ˈprɒfɪt pɑːˌtɪsɪˈpeɪʃən/",
+      "definition_cn": "利润分成：娱乐行业合同条款，赋予创作者或参与者在项目净利润或总收益中按约定比例分享收益的权利，常引发会计核算争议。",
+      "example": "The producer filed suit after discovering that the studio's creative accounting had effectively zeroed out her contractual profit participation entitlement.",
+      "audio": "week22/day5_vocab_5.mp3"
+    },
+    {
+      "term": "rights clearance",
+      "pronunciation": "/raɪts ˈklɪərəns/",
+      "definition_cn": "权利清查/授权核实：在影视制作前，系统性确认并取得全部相关知识产权授权的法律程序，以确保制作方免受第三方侵权索赔。",
+      "example": "Inadequate rights clearance on the underlying novel exposed the production company to an injunction just days before the theatrical release.",
+      "audio": "week22/day5_vocab_6.mp3"
+    },
+    {
+      "term": "actionable infringement",
+      "pronunciation": "/ˈækʃənəbl ɪnˈfrɪndʒmənt/",
+      "definition_cn": "可诉侵权行为：满足法律规定的诉讼要件、权利人可据此提起民事诉讼并寻求救济的版权或其他知识产权侵权行为。",
+      "example": "The appellate court clarified that mere technical copying without commercial impact does not necessarily rise to the level of actionable infringement.",
+      "audio": "week22/day5_vocab_7.mp3"
+    },
+    {
+      "term": "contractual dispute",
+      "pronunciation": "/kənˈtræktʃuəl dɪˈspjuːt/",
+      "definition_cn": "合同纠纷：因合同条款的解释、履行、违反或终止而产生的当事方之间的法律争议，通常涉及违约救济或损害赔偿请求。",
+      "example": "The contractual dispute centered on whether the studio's unilateral rescheduling of the release date constituted a material breach of the distribution agreement.",
+      "audio": "week22/day5_vocab_8.mp3"
+    },
+    {
+      "term": "regulatory rules",
+      "pronunciation": "/ˌreɡjʊˈleɪtəri ruːlz/",
+      "definition_cn": "监管规则：由政府行政机构依据法定授权制定的具有法律约束力的规范性文件，用以规制特定行业的市场行为、技术标准或竞争秩序。",
+      "example": "The anticipated Phase II verdict could force federal agencies to issue new regulatory rules governing data licensing in AI training pipelines.",
+      "audio": "week22/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Attorney/Team] secured a [type of judgment] for [client], successfully dismissing [claim] arising from [conduct].",
+      "example": "Attorney Ghajar secured a significant partial summary judgment victory for Meta, successfully dismissing plaintiffs' core copyright infringement claims arising from the use of authors' works to train its Llama AI models.",
+      "translation_cn": "Ghajar律师为Meta赢得了重要的部分即决判决，成功驳回了原告因其使用作者作品训练Llama人工智能模型而提出的核心版权侵权主张。"
+    },
+    {
+      "pattern": "The court ruled that [party]'s [conduct] did not constitute [defense] and amounted to [violation] — the first judicial decision of its kind.",
+      "example": "A Delaware court ruled that Ross Intelligence's use of Thomson Reuters editorial content to train its AI legal research tool did not constitute fair use and amounted to copyright infringement — the first judicial decision of its kind.",
+      "translation_cn": "特拉华州法院裁定，Ross Intelligence使用汤森路透编辑内容训练其AI法律研究工具的行为不构成合理使用，且构成版权侵权——这是该类案件中首个司法裁决。"
+    },
+    {
+      "pattern": "The outcome of [proceeding] is expected to [significantly] shape [regulatory/legal framework] governing [subject matter].",
+      "example": "The outcome of Musk v. Altman is expected to significantly shape the regulatory rules governing AI competition and market structure across the tech-entertainment sector.",
+      "translation_cn": "马斯克诉奥特曼案的裁决预计将对规范科技娱乐行业AI竞争与市场结构的监管规则产生深远影响。"
+    }
+  ],
+  "summary_cn": "《综艺》2026年法律影响力报告聚焦好莱坞三大核心法律议题：AI版权责任（Meta获得部分即决判决胜诉，而Ross Intelligence被裁定构成侵权）、反垄断执法（马斯克诉OpenAI案即将进入一审），以及传统娱乐合同与利润分成纠纷。报告揭示了顶尖娱乐律师如何在版权、反垄断与合同法交汇地带开拓实践前沿。",
+  "legal_analysis": "① 核心法律问题：本报告呈现的核心法律问题可归纳为三层：其一，AI模型训练行为是否构成版权侵权，以及合理使用原则在此语境下的边界；其二，AI头部企业的市场行为是否触发《谢尔曼法》第1、2条下的反垄断责任；其三，娱乐行业利润分成条款在制片公司会计操作下的可执行性。\n\n② 美国法律框架分析：就版权层面，Meta案与Ross Intelligence案形成对比——前者暗示训练行为或可构成转化性使用，后者则明确拒绝该辩护，显示《美国版权法》第107条的四因素测试仍高度事实敏感。就反垄断层面，马斯克案第一阶段与第二阶段的切割策略（先处理合同主张，再审查反垄断主张）体现了《谢尔曼法》诉讼的程序复杂性。利润分成纠纷则根植于净利润定义的合同解释争议，美国法院历来倾向于尊重合同明文措辞。\n\n③ 对中国娱乐法律师的实践启示：中国律师应密切关注美国AI版权判例对《伯尔尼公约》框架下国际版权规则的潜在辐射效应；在协助客户进行跨境AI合规时，须同步评估美国反垄断风险；在起草中美合拍或版权授权合同时，应专项审查利润分成条款的定义边界与审计权条款，以防范好莱坞式\"创意会计\"陷阱。",
+  "cn_us_comparison": "美国版权法在AI训练侵权问题上依赖《版权法》第107条合理使用的四因素弹性测试，赋予法院较大自由裁量空间，Meta案与Ross Intelligence案的截然不同结果即体现了这一不确定性。相比之下，中国《著作权法》（2020年修订版）第24条虽列举了合理使用的法定情形，但并未明确涵盖AI训练场景，现行实践中尚无与美国案件直接对应的司法先例，立法层面存在明显空白。\n\n在反垄断领域，美国依赖《谢尔曼法》事后司法审查，而中国《反垄断法》（2022年修订）则同时赋予国家市场监督管理总局行政执法权，对平台经济的监管力度更为主动且具前置性。\n\n在利润分成方面，美国通过普通法合同解释原则及司法强制执行保障创作者权益，中国则可援引《民法典》合同编（第465条、第509条）及《著作权法》中关于报酬权的规定，但实践中创作者维权成本仍较高，行业标准合同条款的规范化亦有待加强。",
+  "discussion_prompt": "Given that U.S. courts have reached opposing conclusions on whether AI training constitutes copyright infringement — with Meta prevailing on a fair use theory while Ross Intelligence failed the same defense — should Congress enact a statutory safe harbor specifically for non-commercial AI training, or would such a provision impermissibly override creators' existing exclusive rights under the Copyright Act?",
+  "writing_exercise": {
+    "prompt": "Imagine you are drafting a legal brief summary for a client. Write 2-3 sentences describing the outcome of a fictional AI copyright case, explaining what the court ruled, why a particular defense failed or succeeded, and what regulatory implications the decision carries.",
+    "model_answer": "The district court granted a partial summary judgment in favor of the defendant AI developer, successfully dismissing the plaintiff's core copyright infringement claims arising from the use of published research articles to train its generative model. The court ruled that the defendant's conduct did not constitute actionable infringement under the fair use doctrine, finding the transformative nature of the training process dispositive. The outcome is expected to significantly shape the regulatory rules governing data ingestion practices, prompting federal agencies to reconsider existing licensing frameworks for machine-learning applications."
+  },
+  "youtube_rec": {
+    "title": "AI, Copyright & Antitrust: How the 2025-2026 Cases Are Rewriting Entertainment Law",
+    "channel": "LegalEagle",
+    "summary_cn": "该视频系统梳理2025至2026年间美国AI版权诉讼（含Meta与Ross Intelligence案）与反垄断执法（马斯克诉OpenAI案）的最新进展，以通俗法律语言解析合理使用原则的司法适用边界，并探讨上述判决对好莱坞利润分成合同实践的连锁影响，适合娱乐法从业者及法学院学生参考。"
+  },
+  "extended_reading": [
+    {
+      "title": "Music Industry AI Lawsuits Tracker 2026: Live Status",
+      "url": "https://www.chartlex.com/blog/business/music-industry-ai-lawsuits-tracker-2026",
+      "description_cn": "实时追踪2026年音乐行业AI版权诉讼全景，涵盖慕尼黑法院对Suno的裁决、华纳与UMG的部分和解，以及索尼诉Udio案进展与合理使用裁决的行业影响分析。",
+      "language": "en"
+    },
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛《体育与娱乐法学刊》2026年4月刊载的学术文章，记录顶尖诉讼律师就AI时代版权教义是否仍具适用性展开的深度辩论，并参照白宫2026年AI国家政策框架进行规范分析。",
+      "language": "en"
+    }
+  ],
+  "week": 22,
+  "day": 5,
+  "date": "2026-08-24",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week22/day5.mp3"
+}
