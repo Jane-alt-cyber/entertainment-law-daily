@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Paramount Sued by States in Bid to Block $111 Billion Warner Bros. Merger",
+    "source": "The Hollywood Reporter, July 13, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/paramount-sued-warner-bros-merger-1236631313/",
+    "text": "In one of the most consequential antitrust disputes of 2026, a coalition of twelve state attorneys general — led by California AG Rob Bonta — filed a landmark lawsuit in California federal court seeking to block Paramount Skydance's $111 billion takeover of Warner Bros. Discovery. The states allege that the merger would combine two of Hollywood's top five studios, violating the Clayton Act by substantially lessening competition in wide-release theatrical distribution and cable licensing markets. Specifically, the states contend the deal would result in higher prices, fewer films in theaters, and a reduction in the variety and quality of creative works available to consumers. California AG Bonta declared that the merger would 'snuff out competition, drive up prices, diminish content quality, and produce fewer movies and shows each year.'\n\nThe legal proceedings moved swiftly. A court first issued a fourteen-day temporary restraining order freezing the transaction, then considered a preliminary injunction. In ruling on that injunction, the court found it could 'presume the proposed merger is likely to violate antitrust laws' because it may 'substantially lessen competition,' citing Paramount's anticipated twenty-seven percent market share in wide-release theatrical distribution. The court also warned that the transaction would be 'difficult, if not impossible, to unwind' if permitted to close before adjudication.\n\nUnder mounting pressure, Paramount voluntarily agreed to hold off on consummating the acquisition until June 2027, or five days after the court issues its final ruling — whichever is earlier. Paramount argued its opponents' market definitions 'bear no relationship to the realities of today's marketplace,' noting the deal had already received DOJ clearance and approval from dozens of competition authorities worldwide. Warner Bros. shareholders face steep financial consequences from the delay, as the merger agreement provides for roughly $650 million per quarter — approximately $6.9 million per day — in liquidated damages if the deal is not closed by September 30, 2026.\n\nThe dispute drew sharp responses from across the industry. Hollywood unions IATSE and the Directors Guild of America wrote to AG Bonta urging settlement, arguing that productions were already being put on hold as companies prepared for a March 2027 antitrust trial. Even Cinema United, the movie theater trade organization, reversed its earlier opposition to the merger, calling on the parties to 'discuss all possible avenues for resolving' the lawsuit. A March 2027 trial date is currently set, with the case expected to define media antitrust law for years to come.",
+    "word_count": 358
+  },
+  "vocabulary": [
+    {
+      "term": "Clayton Act",
+      "pronunciation": "/ˈkleɪtən ækt/",
+      "definition_cn": "《克莱顿法》，美国联邦反垄断法的核心法规之一，禁止可能实质性削减竞争或形成垄断的并购行为。",
+      "example": "The states alleged that the proposed merger violated the Clayton Act by substantially lessening competition in key theatrical markets.",
+      "audio": "week23/day1_vocab_0.mp3"
+    },
+    {
+      "term": "temporary restraining order",
+      "pronunciation": "/ˈtɛmpərɛri rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "definition_cn": "临时限制令（TRO），法院在正式听证前紧急颁布的短期禁令，用以冻结特定行为，通常有效期不超过14天。",
+      "example": "The court issued a fourteen-day temporary restraining order to freeze the transaction pending a full hearing on the preliminary injunction.",
+      "audio": "week23/day1_vocab_1.mp3"
+    },
+    {
+      "term": "preliminary injunction",
+      "pronunciation": "/prɪˈlɪmɪnɛri ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "初步禁令，正式审判前法院颁布的临时救济令，要求当事方暂停或继续某行为，须证明胜诉可能性与不可弥补损害。",
+      "example": "After the temporary restraining order expired, the states sought a preliminary injunction to prevent Paramount from closing the acquisition before trial.",
+      "audio": "week23/day1_vocab_2.mp3"
+    },
+    {
+      "term": "substantially lessening competition",
+      "pronunciation": "/səbˈstænʃəli ˈlɛsənɪŋ ˌkɒmpɪˈtɪʃən/",
+      "definition_cn": "实质性削减竞争，《克莱顿法》第7条禁止标准，指并购行为可能显著减少相关市场内的竞争格局，是反垄断审查的核心判断依据。",
+      "example": "The court held that it could presume the proposed merger would result in substantially lessening competition given the combined entity's dominant market share.",
+      "audio": "week23/day1_vocab_3.mp3"
+    },
+    {
+      "term": "market share",
+      "pronunciation": "/ˈmɑːrkɪt ʃɛr/",
+      "definition_cn": "市场占有率，指某企业在特定相关市场中的销售额或产量占总市场的比例，是反垄断审查中评估市场支配地位的关键量化指标。",
+      "example": "Paramount's anticipated twenty-seven percent market share in wide-release theatrical distribution was cited by the court as evidence of potential anticompetitive harm.",
+      "audio": "week23/day1_vocab_4.mp3"
+    },
+    {
+      "term": "liquidated damages",
+      "pronunciation": "/ˈlɪkwɪdeɪtɪd ˈdæmɪdʒɪz/",
+      "definition_cn": "约定违约金，合同中预先确定的损失赔偿金额，当事方未能按期完成交易时须支付，本案约定每季度约6.5亿美元。",
+      "example": "The merger agreement's liquidated damages clause exposed Warner Bros. to approximately $6.9 million per day in penalties for each day the deal remained unclosed past the deadline.",
+      "audio": "week23/day1_vocab_5.mp3"
+    },
+    {
+      "term": "adjudication",
+      "pronunciation": "/əˌdʒuːdɪˈkeɪʃən/",
+      "definition_cn": "司法裁决，指法院对争议事项作出正式判决的过程，本文中指反垄断诉讼进入最终裁判前，禁止交易完成的司法程序节点。",
+      "example": "The court warned that allowing the merger to close before adjudication would make any subsequent remedy difficult, if not impossible, to implement.",
+      "audio": "week23/day1_vocab_6.mp3"
+    },
+    {
+      "term": "DOJ clearance",
+      "pronunciation": "/ˌdiː oʊ ˈdʒeɪ ˈklɪərəns/",
+      "definition_cn": "美国司法部反垄断司审查通过，指司法部对并购交易完成联邦反垄断审查并批准放行，是大型交易的必要监管前置程序。",
+      "example": "Although the merger had received DOJ clearance and approval from international competition authorities, the state coalition proceeded with its own independent antitrust challenge.",
+      "audio": "week23/day1_vocab_7.mp3"
+    },
+    {
+      "term": "market definitions",
+      "pronunciation": "/ˈmɑːrkɪt ˌdɛfɪˈnɪʃənz/",
+      "definition_cn": "相关市场界定，反垄断分析中确定竞争范围的关键步骤，包括产品市场与地理市场的划定，直接影响市场份额计算与垄断认定结论。",
+      "example": "Paramount argued that its opponents' market definitions bore no relationship to the realities of today's media marketplace, urging the court to adopt a broader competitive lens.",
+      "audio": "week23/day1_vocab_8.mp3"
+    },
+    {
+      "term": "antitrust trial",
+      "pronunciation": "/ˈæntitrʌst ˈtraɪəl/",
+      "definition_cn": "反垄断诉讼正式庭审，指反垄断案件进入全面证据调查与事实裁判阶段的法庭程序，本案定于2027年3月开庭，预计将深刻影响娱乐传媒并购法律格局。",
+      "example": "With the antitrust trial scheduled for March 2027, both studios and labor unions began preparing for a protracted legal battle that could reshape Hollywood's competitive landscape.",
+      "audio": "week23/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Coalition of parties] filed a landmark [type of action] in [court] seeking to [remedy], alleging that [conduct] violated [statute] by [specific anticompetitive effect].",
+      "example": "A coalition of twelve state attorneys general filed a landmark lawsuit in California federal court seeking to block the $111 billion takeover, alleging that the merger violated the Clayton Act by substantially lessening competition in wide-release theatrical distribution markets.",
+      "translation_cn": "由十二位州检察长组成的联盟在加利福尼亚联邦法院提起标志性诉讼，寻求阻止这笔1110亿美元的收购，主张该合并违反《克莱顿法》，实质性削减了宽幅院线发行市场的竞争。"
+    },
+    {
+      "pattern": "The court found it could presume [legal conclusion] because [factual basis], warning that [adverse consequence] if [condition].",
+      "example": "The court found it could presume the proposed merger was likely to violate antitrust laws because it may substantially lessen competition, warning that the transaction would be difficult, if not impossible, to unwind if permitted to close before adjudication.",
+      "translation_cn": "法院认定可推定拟议合并可能违反反垄断法，理由是其可能实质性削减竞争，并警告若允许交易在裁决前完成，则将难以甚至不可能予以撤销。"
+    },
+    {
+      "pattern": "Under [pressure/obligation], [party] voluntarily agreed to [action] until [deadline or triggering event], whichever is earlier.",
+      "example": "Under mounting legal pressure, Paramount voluntarily agreed to hold off on consummating the acquisition until June 2027, or five days after the court issues its final ruling — whichever is earlier.",
+      "translation_cn": "在巨大法律压力下，派拉蒙自愿同意推迟完成收购，直至2027年6月或法院作出终局裁决后五日——以较早者为准。"
+    }
+  ],
+  "summary_cn": "2026年7月，以加州检察长为首的十二州联盟在联邦法院起诉，寻求阻止派拉蒙天空舞者以1110亿美元收购华纳兄弟探索集团。法院认定合并可能违反《克莱顿法》，颁布临时限制令并考虑初步禁令。派拉蒙自愿同意暂缓交割至2027年6月，但面临每日约690万美元的约定违约金压力。案件定于2027年3月开庭审理，预计将深远影响美国娱乐传媒反垄断法律格局。",
+  "legal_analysis": "① 核心法律问题：本案核心在于《克莱顿法》第7条的适用——两大顶级制片厂合并是否构成相关市场内\"实质性削减竞争\"。争议焦点包括相关市场的界定（院线发行与有线授权市场的边界）、合并后市场集中度（HHI指数）以及单边效应与协调效应的评估。\n\n② 美国法律框架分析：美国反垄断审查采用联邦与州并行机制。即便联邦司法部（DOJ）已批准放行，各州检察长依据州反垄断法及联邦Clayton Act仍享有独立起诉权，这体现了美国反垄断执法的去中心化特征。法院在初步禁令审查阶段采用\"胜诉可能性+不可弥补损害\"双重标准，并在涉及重大结构性并购时适用推定违法原则。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理跨境并购时须重视美国州级反垄断诉讼风险——联邦审查通过并不等于诉讼风险消除。此外，合并协议中约定违约金（liquidated damages）条款的设计至关重要，过高的日违约金将在诉讼延误期间造成巨大财务压力，须在交易谈判阶段审慎设计触发条件与金额上限。",
+  "cn_us_comparison": "美国反垄断并购审查以《克莱顿法》第7条为核心，联邦与州两级执法机构均享有独立审查权，司法救济路径包括临时限制令、初步禁令及正式诉讼。相比之下，中国并购反垄断审查依据《反垄断法》（2022年修订）及《经营者集中审查规定》，由国家市场监督管理总局（市监总局）统一负责，不存在地方政府独立提起反垄断诉讼的机制，体现集中审查的行政主导模式。在救济手段上，中国采用附条件批准（行为性或结构性救济）为主，而美国则更依赖司法诉讼与禁令救济。两国均重视相关市场界定与市场份额分析，但美国法院在并购案中可适用\"推定违法\"原则，而中国《反垄断法》尚无明确类似规定。此外，中国《合同法》（现已纳入《民法典》合同编）亦承认约定违约金条款，但法院享有调整过高违约金的自由裁量权，与美国合同实践有所差异。",
+  "discussion_prompt": "Given that the merger had already received DOJ clearance and approval from dozens of international competition authorities, should state attorneys general retain independent authority to block transactions of this scale under the Clayton Act — and does the current framework create undue uncertainty for cross-border media consolidation?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst drafting a brief summary of a new antitrust challenge to a major studio merger. Write 2-3 sentences describing the plaintiffs' claims, the court's initial findings, and the financial consequences of any delay, using the sentence patterns from this lesson.",
+    "model_answer": "A coalition of state attorneys general filed a landmark antitrust complaint in federal court seeking to block the proposed merger, alleging that the transaction violated the Clayton Act by substantially lessening competition in theatrical distribution markets. The court found it could presume the deal was likely to produce anticompetitive harm given the merged entity's projected market share, warning that permitting consummation before adjudication would render any remedy nearly impossible to implement. Under intense legal pressure, the acquiring company voluntarily agreed to hold off on closing the transaction until a final judicial ruling is issued or the contractual deadline arrives — whichever is earlier — while facing liquidated damages of several million dollars per day under the terms of the merger agreement."
+  },
+  "youtube_rec": {
+    "title": "Antitrust Law Explained: How the Clayton Act Applies to Major Media Mergers",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解《克莱顿法》在大型传媒并购中的适用原理，涵盖相关市场界定、市场集中度分析、初步禁令标准及联邦与州级反垄断执法的并行机制，适合希望深入理解美国并购反垄断审查实务的法律学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛娱乐法期刊报道2026年研讨会，顶级诉讼律师就AI版权保护与白宫AI政策框架的充分性展开深度辩论。",
+      "language": "en"
+    },
+    {
+      "title": "The AI Input Class: Constitutional Urgency and Fair Licensing in AI Copyright Class Actions",
+      "url": "https://jipel.law.nyu.edu/the-ai-input-class-constitutional-urgency-and-fair-licensing-in-ai-copyright-class-actions/",
+      "description_cn": "纽约大学知识产权与娱乐法期刊学术文章，论证AI版权集体诉讼具有宪法层面的紧迫性，主张公平许可机制须切实保护创作者权益。",
+      "language": "en"
+    }
+  ],
+  "week": 23,
+  "day": 1,
+  "date": "2026-08-25",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week23/day1.mp3"
+}
