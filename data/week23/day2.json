@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Paramount Agrees to Hold Off on Warner Bros. Merger Until After Antitrust Trial",
+    "source": "The Hollywood Reporter, July 24, 2026",
+    "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-merger-until-after-antitrust-trial-1236656187/",
+    "text": "One of the most consequential media transactions of the decade, Paramount Skydance's proposed $111 billion acquisition of Warner Bros. Discovery (WBD) has become the centerpiece of a fierce antitrust battle in 2026. After the U.S. Department of Justice cleared the deal under the Hart-Scott-Rodino Antitrust Improvements Act — with the statutory waiting period expiring in February 2026 — the parties announced plans to consummate the acquisition by fall 2026. Those plans were swiftly challenged when a coalition of 12 state attorneys general, led by California AG Rob Bonta, filed suit on July 13, 2026, in the U.S. District Court for the Northern District of California.\n\nThe states allege the merger violates Section 7 of the Clayton Act, arguing it would substantially lessen competition in the distribution of wide-release theatrical films and the licensing of basic cable channels to distributors. The coalition immediately sought a temporary restraining order to prevent closing of the deal before the court could rule on the merits. Paramount and WBD filed their opposition on July 16, and a hearing was held the following day. In a significant legal concession, Paramount agreed not to consummate the acquisition until June 2027 — or five days after the court issues its ruling — whichever is earlier. The antitrust trial is currently scheduled for March 2027.\n\nSeparately, the Writers Guild of America filed its own complaint on July 14, 2026, before the same judge, alleging the merger would substantially harm competition for writing services in WGA-covered theatrical productions and episodic television. The WGA sought a preliminary injunction blocking the deal along with attorneys' fees. The Directors Guild of America and IATSE, by contrast, urged a settlement, warning that prolonged uncertainty was causing productions to be suspended or canceled, inflicting serious harm on an already strained workforce. A group of five consumer pay-TV and streaming subscribers also filed a separate antitrust suit in April 2026, asserting imminent personal harm from the deal's anticompetitive effects.\n\nFinancially, the stakes are acute: the deal carries a \"ticking fee\" of approximately $7 million per day payable to WBD shareholders if the merger does not close by October 1, 2026. The case is being watched as a defining test of state-driven antitrust enforcement in the modern era of media consolidation.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "Hart-Scott-Rodino Antitrust Improvements Act",
+      "pronunciation": "/hɑːrt skɒt rɒˈdiːnoʊ ˈæntiˌtrʌst ɪmˈpruːvmənts ækt/",
+      "definition_cn": "美国联邦法律，要求达到一定规模的并购交易在完成前须向联邦贸易委员会和司法部申报并等待审查期届满，是美国并购监管的核心程序法。",
+      "example": "The parties submitted their pre-merger notification under the Hart-Scott-Rodino Antitrust Improvements Act and awaited the expiration of the mandatory waiting period before proceeding.",
+      "audio": "week23/day2_vocab_0.mp3"
+    },
+    {
+      "term": "Section 7 of the Clayton Act",
+      "pronunciation": "/ˈsɛkʃən ˈsɛvən əv ðə ˈkleɪtən ækt/",
+      "definition_cn": "美国《克莱顿法》第7条，禁止可能实质性减少竞争或形成垄断的并购行为，是美国反垄断并购挑战的主要成文法依据。",
+      "example": "The state attorneys general alleged that the proposed acquisition ran afoul of Section 7 of the Clayton Act by substantially lessening competition in key media markets.",
+      "audio": "week23/day2_vocab_1.mp3"
+    },
+    {
+      "term": "temporary restraining order",
+      "pronunciation": "/ˈtɛmpəreri rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "definition_cn": "临时禁令（TRO），法院在完整听审前紧急签发的短期禁止令，用以维持现状、防止在诉讼期间发生不可弥补的损害。",
+      "example": "The plaintiffs moved for a temporary restraining order to prevent the defendants from closing the transaction pending a full hearing on the preliminary injunction.",
+      "audio": "week23/day2_vocab_2.mp3"
+    },
+    {
+      "term": "preliminary injunction",
+      "pronunciation": "/ˌprɛlɪˈmɪnəri ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "初步禁令，法院在案件实体裁决前签发的临时救济措施，申请方须证明胜诉可能性、不可弥补损害及衡平因素。",
+      "example": "The Writers Guild of America sought a preliminary injunction to block consummation of the merger while the antitrust litigation proceeded on the merits.",
+      "audio": "week23/day2_vocab_3.mp3"
+    },
+    {
+      "term": "substantially lessen competition",
+      "pronunciation": "/səbˈstænʃəli ˈlɛsən ˌkɒmpɪˈtɪʃən/",
+      "definition_cn": "实质性减少竞争，《克莱顿法》第7条的核心禁止标准，指一项并购将显著削弱相关市场的竞争格局，是反垄断审查的关键法律要件。",
+      "example": "Regulators must demonstrate that the proposed merger would substantially lessen competition in a properly defined relevant market before a court will enjoin the transaction.",
+      "audio": "week23/day2_vocab_4.mp3"
+    },
+    {
+      "term": "ticking fee",
+      "pronunciation": "/ˈtɪkɪŋ fiː/",
+      "definition_cn": "递增违约金（计时费），并购协议中约定若交易未能在特定日期前完成，买方须按日向卖方股东支付的额外费用，用以补偿延迟造成的损失。",
+      "example": "Because the merger agreement included a ticking fee of $7 million per day after October 1, every week of delay translated into tens of millions of dollars of additional liability for the acquirer.",
+      "audio": "week23/day2_vocab_5.mp3"
+    },
+    {
+      "term": "attorneys' fees",
+      "pronunciation": "/əˈtɜːrniz fiːz/",
+      "definition_cn": "律师费，诉讼中一方请求对方支付己方合理律师费用的救济请求；在美国反垄断诉讼中，胜诉原告可依法申请被告承担其律师费。",
+      "example": "In addition to injunctive relief, the guild's complaint included a demand for attorneys' fees should it prevail on its antitrust claims.",
+      "audio": "week23/day2_vocab_6.mp3"
+    },
+    {
+      "term": "state attorneys general",
+      "pronunciation": "/steɪt əˈtɜːrniz ˈdʒɛnərəl/",
+      "definition_cn": "州总检察长，美国各州最高法律官员，有权代表州及其居民提起联邦反垄断诉讼，是近年反垄断执法的重要力量。",
+      "example": "A coalition of state attorneys general has increasingly stepped in to challenge large corporate mergers when federal regulators decline to act.",
+      "audio": "week23/day2_vocab_7.mp3"
+    },
+    {
+      "term": "consummate the acquisition",
+      "pronunciation": "/ˈkɒnsəmeɪt ði ˌækwɪˈzɪʃən/",
+      "definition_cn": "完成收购交割，指并购各方满足所有先决条件后正式完成股权或资产转让的法律动作，是并购协议的最终履行行为。",
+      "example": "Paramount agreed not to consummate the acquisition until at least five days after the district court issued its ruling on the merits.",
+      "audio": "week23/day2_vocab_8.mp3"
+    },
+    {
+      "term": "antitrust enforcement",
+      "pronunciation": "/ˌæntiˈtrʌst ɪnˈfɔːrsmənt/",
+      "definition_cn": "反垄断执法，指政府机关或私人原告依据反垄断法律对限制竞争行为采取法律行动，包括并购审查、市场支配行为调查及起诉等。",
+      "example": "The case is widely regarded as a watershed moment for state-driven antitrust enforcement in the rapidly consolidating media sector.",
+      "audio": "week23/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] alleged that [conduct] violates [statute], arguing it would [anticompetitive effect] in [relevant market].",
+      "example": "The state attorneys general alleged that the merger violates Section 7 of the Clayton Act, arguing it would substantially lessen competition in the licensing of basic cable channels to distributors.",
+      "translation_cn": "各州总检察长主张该合并违反《克莱顿法》第7条，认为其将实质性减少有线频道授权给分销商这一相关市场的竞争。"
+    },
+    {
+      "pattern": "[Party] sought a [remedy], seeking to [objective] pending [triggering condition].",
+      "example": "The Writers Guild of America sought a preliminary injunction, seeking to block consummation of the deal pending a full trial on the antitrust merits.",
+      "translation_cn": "美国编剧工会申请初步禁令，寻求在反垄断实体案件完整审理期间阻止该交易的交割。"
+    },
+    {
+      "pattern": "In a significant legal concession, [Party] agreed not to [action] until [condition], whichever is earlier.",
+      "example": "In a significant legal concession, Paramount agreed not to consummate the acquisition until June 2027 — or five days after the court issues its ruling — whichever is earlier.",
+      "translation_cn": "作出重大法律让步，派拉蒙同意在2027年6月或法院作出裁决后五日内（以较早者为准）不完成收购交割。"
+    }
+  ],
+  "summary_cn": "派拉蒙天空舞与华纳兄弟探索1110亿美元的并购案引发多方法律挑战：12个州总检察长联合以《克莱顿法》第7条提起诉讼，编剧工会单独起诉，消费者亦提起反垄断诉讼。各方寻求临时禁令阻止交割。派拉蒙最终同意推迟至2027年6月或法院裁决后方可完成收购，但每日约700万美元的违约计时费使拖延代价高昂。本案成为州级反垄断执法权力的重大考验。",
+  "legal_analysis": "① 核心法律问题：本案核心在于一项巨型媒体并购是否因实质性减少相关市场竞争而违反《克莱顿法》第7条，同时涉及州级检察长的联邦反垄断诉讼资格与权力边界，以及初步禁令标准的适用。\n\n② 美国法律框架分析：《哈特-斯科特-罗迪诺反垄断改进法》建立了并购前申报审查制度，但DOJ放行并不排除私人或州级诉讼。《克莱顿法》第7条允许法院在交割前颁发临时禁令，申请方须满足\"胜诉可能性、不可弥补损害、衡平因素及公共利益\"四要件。本案中，多重原告并行起诉（州检察长、工会、消费者）体现了美国反垄断诉讼的多元执法机制。交易中的\"计时费\"条款则凸显并购协议在应对监管不确定性时的风险分配设计。\n\n③ 对中国娱乐法律师的实践启示：中国涉外并购日益面临美国HSR申报义务；熟悉州级反垄断诉讼资格有助于研判交易风险。工会作为诉讼主体在美国具有充分法律依据，而国内劳动团体目前尚无类似诉权，值得关注制度差异。此外，\"计时费\"等风险对冲条款的设计技巧可供中国律师在跨境并购协议草拟中借鉴。",
+  "cn_us_comparison": "美国《克莱顿法》第7条与《哈特-斯科特-罗迪诺法》构成并购反垄断审查的双重框架：前者提供实体禁止标准，后者建立程序申报机制，且州检察长享有独立诉权，私人原告亦可提起反垄断诉讼，形成\"联邦+州+私人\"三轨执法格局。\n\n中国方面，《反垄断法》（2022年修订）第28条确立了经营者集中审查制度，由国家市场监督管理总局统一行使审查权，不存在省级竞争执法机构提起诉讼的机制。《反垄断法》第55条允许私人损害赔偿诉讼，但实践中私人反垄断诉讼较美国少见。此外，中国《反垄断法》申报门槛以营业额为标准，与美国HSR的资产/交易规模标准有所不同。两国均重视相关市场界定与市场支配力评估，但美国州级执法的独立性与多元性在中国尚无对应制度，是中美并购反垄断执法最显著的制度差异之一。",
+  "discussion_prompt": "Given that the DOJ cleared the Paramount-WBD merger under the Hart-Scott-Rodino process yet twelve state attorneys general subsequently filed suit under Section 7 of the Clayton Act, should federal antitrust clearance be given preclusive effect against state-level challenges — and what does the coexistence of guild, consumer, and state plaintiffs in parallel proceedings reveal about the adequacy of current U.S. merger review architecture?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new entertainment merger challenge. Write 2-3 sentences describing: (1) what statute the plaintiffs invoked and what anticompetitive harm they alleged, and (2) what interim relief they sought and on what timeline.",
+    "model_answer": "The coalition of state attorneys general alleged that the proposed acquisition violates Section 7 of the Clayton Act, arguing it would substantially lessen competition in the market for wide-release theatrical distribution and basic cable channel licensing. The states immediately sought a temporary restraining order to prevent the parties from consummating the acquisition before the court could evaluate the merits. In a significant legal concession, the acquirer agreed not to consummate the transaction until the court issued its ruling — or a fixed outside date — whichever came earlier, while a ticking fee of millions of dollars per day continued to accrue."
+  },
+  "youtube_rec": {
+    "title": "State Antitrust Enforcers vs. Big Media: How the Clayton Act Section 7 Works | Merger Law Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深入解析《克莱顿法》第7条的并购反垄断审查机制，重点介绍州总检察长如何独立于联邦政府对大型媒体并购发起诉讼，并通过典型案例说明临时禁令申请标准与并购交割延迟的法律及商业后果。"
+  },
+  "extended_reading": [
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛《体育与娱乐法杂志》2026年4月发布的研讨会综述，收录了包括斯嘉丽·约翰逊代理律师在内的知名诉讼律师就人工智能版权保护与公平使用框架的前沿辩论。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所通过JD Supra发布的2026年娱乐法年度展望，涵盖AI训练数据版权争议、公平使用原则新发展及第十巡回法院商标Rogers测试的最新动向。",
+      "language": "en"
+    }
+  ],
+  "week": 23,
+  "day": 2,
+  "date": "2026-08-26",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week23/day2.mp3"
+}
