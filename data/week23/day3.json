@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+    "source": "Weintraub Tobin / JDSupra, January 22, 2026",
+    "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+    "text": "As 2026 opens, three interlocking legal battlegrounds are defining the entertainment law landscape, each carrying unresolved questions that courts deferred from 2025. Attorney Scott M. Hervey of Weintraub Tobin identifies AI training, AI-generated imagery, and trademark doctrine as the fault lines most likely to produce consequential rulings this year.\n\nOn the AI training front, courts have delivered starkly divergent signals. In February 2025, a Delaware court held in Thomson Reuters v. Ross Intelligence that using editorial content to train an AI legal research tool did not constitute fair use — the first major judicial ruling to find against an AI developer on this theory. Yet in a separate proceeding, Judge Alsup characterized AI model training on copyrighted books as 'transformative — spectacularly so,' analogizing the process to human reading and learning. These irreconcilable precedents leave the fair use doctrine unsettled heading into 2026. Plaintiffs are now escalating their theories to cover 'stealth scraping' — the undeclared deployment of web crawlers and deliberate circumvention of robots.txt directives to harvest protected expression. Courts must decide whether such conduct rises to the level of piracy, a determination that carries enormous implications for how AI developers acquire training data.\n\nThe second battleground is Disney v. Midjourney, filed June 2025 in the Central District of California (Case No. 25-5275). Disney, Warner Bros., and Universal collectively challenge the AI image-generation tool's capacity to reproduce iconic Hollywood characters. Defending Midjourney is Bobby Ghajar, who secured a partial summary judgment for Meta in 2025 that dismissed core copyright claims arising from Llama AI training. A ruling against Midjourney could effectively prohibit AI image tools from generating likenesses of protected characters — reshaping the entire generative AI market.\n\nThe third arena involves trademark law. HomeVestors of America v. Warner Bros. Discovery centers on the HGTV show title 'Ugliest House in America,' which HomeVestors alleges causes consumer confusion with its registered 'We Buy Ugly Houses' trademark. The outcome will test the Rogers Test — the judicial doctrine shielding expressive titles from trademark liability — following the Supreme Court's significant narrowing of that doctrine in Jack Daniel's Properties v. VIP Products (2023). How courts apply Rogers in the post-Jack Daniel's era will redefine title clearance practice across the entertainment sector for years to come.",
+    "word_count": 337
+  },
+  "vocabulary": [
+    {
+      "term": "fair use doctrine",
+      "pronunciation": "/fɛr juːz ˈdɒktrɪn/",
+      "definition_cn": "美国版权法中的\"合理使用\"原则，允许在特定条件下未经授权使用受版权保护的作品而不构成侵权，适用范围须经司法综合衡量。",
+      "example": "The startup argued that its AI model's ingestion of copyrighted novels fell squarely within the fair use doctrine because the output served an entirely different market.",
+      "audio": "week23/day3_vocab_0.mp3"
+    },
+    {
+      "term": "partial summary judgment",
+      "pronunciation": "/ˈpɑːrʃəl ˈsʌməri ˈdʒʌdʒmənt/",
+      "definition_cn": "法院在诉讼中就部分争议事项作出的即决判决，无需就全部主张进行完整审判，可显著缩减诉讼范围。",
+      "example": "The defendant's motion for partial summary judgment was granted on the copyright infringement claims, leaving only the breach of contract allegations for trial.",
+      "audio": "week23/day3_vocab_1.mp3"
+    },
+    {
+      "term": "Rogers Test",
+      "pronunciation": "/ˈrɒdʒərz tɛst/",
+      "definition_cn": "源自Rogers v. Grimaldi案的司法标准，保护具有艺术表达性的作品名称免受商标侵权索赔，除非该名称与作品内容毫无关联或明确误导消费者。",
+      "example": "The studio invoked the Rogers Test to defend its film title against the plaintiff's trademark confusion claim, arguing the title carried clear artistic relevance.",
+      "audio": "week23/day3_vocab_2.mp3"
+    },
+    {
+      "term": "consumer confusion",
+      "pronunciation": "/kənˈsjuːmər kənˈfjuːʒən/",
+      "definition_cn": "商标法核心侵权要件，指消费者因相似商标或名称而误认来源、赞助关系或关联性的可能性，是提起商标侵权之诉的基础。",
+      "example": "HomeVestors alleged that the television show's title created a likelihood of consumer confusion with its nationally recognized trademark.",
+      "audio": "week23/day3_vocab_3.mp3"
+    },
+    {
+      "term": "circumvention of robots.txt directives",
+      "pronunciation": "/ˌsɜːrkəmˈvɛnʃən əv ˈroʊbɒts dɪˈrɛktɪvz/",
+      "definition_cn": "指AI抓取程序故意绕过网站robots.txt文件中限制自动访问指令的行为，原告主张此举构成对受保护内容的非法盗取。",
+      "example": "The plaintiffs contended that circumvention of robots.txt directives to harvest training data constituted willful infringement rather than mere technical oversight.",
+      "audio": "week23/day3_vocab_4.mp3"
+    },
+    {
+      "term": "stealth scraping",
+      "pronunciation": "/stɛlθ ˈskræpɪŋ/",
+      "definition_cn": "指未申报地使用网络爬虫秘密大规模采集受版权保护内容的行为，2026年诉讼中原告主张此行为可上升至盗版的法律认定。",
+      "example": "Plaintiffs framed stealth scraping as a form of systematic piracy, arguing that covert data harvesting was fundamentally distinct from good-faith research access.",
+      "audio": "week23/day3_vocab_5.mp3"
+    },
+    {
+      "term": "title clearance practice",
+      "pronunciation": "/ˈtaɪtəl ˈklɪərəns ˈpræktɪs/",
+      "definition_cn": "娱乐行业在作品发行前对拟用标题进行商标检索和法律核查的程序，旨在规避商标侵权及混淆风险。",
+      "example": "The appeals court's ruling on the Rogers Test dramatically altered title clearance practice by requiring studios to conduct far more extensive trademark searches before greenlighting a project.",
+      "audio": "week23/day3_vocab_6.mp3"
+    },
+    {
+      "term": "web crawlers",
+      "pronunciation": "/wɛb ˈkrɔːlərz/",
+      "definition_cn": "自动化网络索引程序，AI开发商用于大规模抓取网页数据作为训练素材，其未授权使用是2026年版权诉讼的核心争议焦点。",
+      "example": "The complaint alleged that the defendant deployed web crawlers to systematically copy millions of protected articles without authorization or compensation.",
+      "audio": "week23/day3_vocab_7.mp3"
+    },
+    {
+      "term": "copyright claims",
+      "pronunciation": "/ˈkɒpɪraɪt kleɪmz/",
+      "definition_cn": "基于版权法提出的侵权主张，涵盖未经授权复制、传播或衍生使用受保护作品等行为，是AI训练数据诉讼的核心法律主张。",
+      "example": "The court dismissed the core copyright claims against the AI developer, finding that the plaintiffs had failed to demonstrate direct copying of protectable expression.",
+      "audio": "week23/day3_vocab_8.mp3"
+    },
+    {
+      "term": "trademark liability",
+      "pronunciation": "/ˈtreɪdmɑːrk ˌlaɪəˈbɪlɪti/",
+      "definition_cn": "因未经授权使用他人注册商标造成消费者混淆而承担的法律责任，娱乐作品名称是否受保护须依据特定司法标准加以判断。",
+      "example": "The judicial doctrine shielding expressive titles from trademark liability was significantly narrowed after the Supreme Court's 2023 ruling in Jack Daniel's Properties v. VIP Products.",
+      "audio": "week23/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court/Judge] characterized [action] as '[legal standard phrase],' analogizing it to [familiar concept].",
+      "example": "Judge Alsup characterized AI model training on copyrighted books as 'transformative — spectacularly so,' analogizing it to human reading and learning.",
+      "translation_cn": "法官将AI模型对受版权保护书籍的训练定性为\"具有显著转化性\"，并将其类比于人类的阅读与学习过程。"
+    },
+    {
+      "pattern": "A ruling against [party] could effectively prohibit [conduct], reshaping [market/practice] across [scope].",
+      "example": "A ruling against Midjourney could effectively prohibit AI image tools from generating likenesses of protected characters, reshaping the entire generative AI market.",
+      "translation_cn": "针对Midjourney的不利裁决可能实际上禁止AI图像工具生成受保护角色的形象，从而重塑整个生成式AI市场格局。"
+    },
+    {
+      "pattern": "[Plaintiff] alleged that [conduct] causes [legal harm], testing the scope of [doctrine] following [precedent].",
+      "example": "HomeVestors alleged that the HGTV show title causes consumer confusion with its registered trademark, testing the scope of the Rogers Test following the Supreme Court's narrowing of that doctrine in Jack Daniel's Properties v. VIP Products.",
+      "translation_cn": "HomeVestors主张该HGTV节目标题造成消费者对其注册商标的混淆，从而在最高法院收窄罗杰斯测试适用范围后对该原则的边界提出挑战。"
+    }
+  ],
+  "summary_cn": "本文由威因特劳布·托宾律师事务所Scott M. Hervey撰写，梳理了2026年娱乐法三大核心争议：一是AI训练数据是否构成合理使用，法院裁判方向截然分歧；二是Disney v. Midjourney案挑战AI图像生成工具对受保护角色的再现能力；三是HomeVestors v. Warner Bros. Discovery案测试罗杰斯测试在最高法院收窄解释后的新边界，三大议题均将对整个娱乐行业产生深远影响。",
+  "legal_analysis": "① 核心法律问题：本文涉及三项交织的核心法律争议——AI训练数据的合理使用认定、AI生成图像对受版权保护角色的再现是否构成侵权，以及商标法罗杰斯测试在娱乐标题保护领域的适用范围。\n\n② 美国法律框架分析：合理使用分析依据《美国版权法》第107条四因素测试，Thomson Reuters案与Alsup法官裁定之间的分歧凸显了\"转化性\"认定标准的不稳定性。\"隐秘抓取\"理论试图将技术行为升格为盗版，可能触发《计算机欺诈与滥用法》框架。在商标领域，Jack Daniel's案（2023年）限缩了罗杰斯测试的适用，要求法院在更广泛场景下适用标准商标混淆分析，此举对娱乐标题审查实务影响重大。\n\n③ 对中国娱乐法律师的实践启示：中国律师在为AI企业提供跨境合规建议时，须同步追踪美国法院对合理使用的最新解释动向，评估客户AI训练数据采集方式是否符合美国司法实践；同时需关注商标测试标准的演变，在国际合拍或作品出口中提前做好标题审查与商标风险排查。",
+  "cn_us_comparison": "在版权合理使用领域，美国《版权法》第107条确立了以\"转化性\"为核心的四因素测试，赋予法院较大裁量空间，导致AI训练数据案件出现截然相反的裁判结果。中国《著作权法》（2021年修订）第24条虽规定了合理使用的十二种法定情形，但采用封闭式列举模式，并不存在类似\"转化性使用\"的弹性标准，AI训练数据抓取在中国法律框架下缺乏明确的豁免依据。在商标保护方面，美国的罗杰斯测试为具有艺术表达性的作品名称提供特殊保护，而中国《商标法》及相关司法解释并未建立同等的表达性作品豁免机制，商标侵权认定主要依赖混淆可能性判断。此外，中国《网络安全法》及《数据安全法》对数据采集行为设有专项监管要求，企业使用网络爬虫须额外满足合规义务，与美国以版权诉讼为主的规制路径存在显著差异。",
+  "discussion_prompt": "Given that Judge Alsup's 'spectacularly transformative' characterization of AI training directly conflicts with the Delaware court's finding in Thomson Reuters v. Ross Intelligence, should Congress codify a statutory definition of transformative use specifically for AI training data, or would legislative intervention risk freezing a doctrine that needs judicial flexibility to adapt to rapidly evolving technology?",
+  "writing_exercise": {
+    "prompt": "Write 2-3 sentences in the style of the reading, describing a hypothetical new AI lawsuit. Your sentences should: (1) identify the parties and conduct at issue, (2) invoke a specific legal doctrine or test, and (3) explain the potential industry-wide consequence of the ruling.",
+    "model_answer": "In March 2026, a coalition of independent photographers filed suit against a generative AI startup, alleging that its systematic circumvention of robots.txt directives to harvest millions of licensed images constituted willful infringement rather than fair use. The plaintiffs urged the court to reject the transformative use defense, arguing that the startup's conduct was indistinguishable from stealth scraping condemned in prior proceedings. A ruling in the photographers' favor could effectively prohibit AI image-generation tools from ingesting any web-accessible visual content without an explicit licensing framework, reshaping title clearance practice and data procurement across the entire creative technology sector."
+  },
+  "youtube_rec": {
+    "title": "AI Copyright 2026: Fair Use, Transformative Use & the Future of AI Training Data Law Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解2026年AI版权诉讼核心法律问题，涵盖合理使用四因素测试、Thomson Reuters v. Ross Intelligence裁定要点及\"转化性使用\"标准在AI训练数据场景下的争议，适合希望掌握美国版权法前沿动态的法律从业者及高级学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Music Industry AI Lawsuits Tracker 2026: Live Status",
+      "url": "https://www.chartlex.com/blog/business/music-industry-ai-lawsuits-tracker-2026",
+      "description_cn": "持续更新的AI音乐版权诉讼追踪数据库，记录Suno、Udio等平台与主要唱片公司的和解进展及全球首例AI音乐侵权判决，并分析美国合理使用裁定推迟至2027年对AI音乐授权市场的影响。",
+      "language": "en"
+    },
+    {
+      "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+      "description_cn": "《综艺》杂志年度好莱坞顶级娱乐律师报告，记录Meta AI训练版权案部分即决判决、Musk诉Altman/OpenAI反垄断案及重要IP特许经营权利诉讼等2025年度重大法律胜诉事件。",
+      "language": "en"
+    }
+  ],
+  "week": 23,
+  "day": 3,
+  "date": "2026-08-27",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week23/day3.mp3"
+}
