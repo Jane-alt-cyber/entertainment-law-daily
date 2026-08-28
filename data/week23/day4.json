@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Paramount Requests States and WGA Be Required to Post $1.9 Billion Bond to Cover Financial Losses While Warner Bros. Merger Is Stuck on Hold Pending Trial",
+    "source": "Variety, August 18, 2026",
+    "url": "https://variety.com/2026/film/news/paramount-requests-1-9-billion-bond-state-lawsuit-warner-bros-merger-1236836420/",
+    "text": "In one of the most high-stakes antitrust battles in recent entertainment history, Paramount Skydance has filed a motion before Judge Araceli Martinez-Olguin asking the court to compel 12 state attorneys general and the Writers Guild of America to post a $1,884,726,092.73 bond as a condition of maintaining the injunctive relief that is blocking its proposed $110 billion merger with Warner Bros. Discovery. Judge Martinez-Olguin has set a trial date of March 2, 2027.\n\nThe dispute originated when a coalition of 12 state attorneys general — led by California Attorney General Rob Bonta — filed an antitrust lawsuit in July 2026, alleging the merger would unlawfully reduce competition in theatrical distribution and basic cable markets. The WGA filed a parallel lawsuit focused on labor market harm, contending that consolidation of two of Hollywood's five legacy studios would suppress writers' compensation, erode deal terms, and diminish the volume and diversity of programming. The WGA's motion for a preliminary injunction drew upon the precedent set by the blocked Penguin Random House–Simon & Schuster merger, arguing that analogous logic applied to writers' labor markets.\n\nRather than litigate a contested preliminary injunction, Paramount voluntarily agreed to pause closing the deal. However, the company argues this pause has imposed severe financial consequences. Under the merger's terms, CEO David Ellison is contractually obligated to pay Warner Bros. Discovery shareholders a ticking fee of approximately $7 million per day — equivalent to 25 cents per share — commencing October 1, 2026. Paramount estimates it will have accrued approximately $1.3 billion in ticking fees alone by the time trial concludes and final briefs are submitted.\n\nParamount's motion invokes the federal rule requiring plaintiffs who obtain preliminary relief to post security sufficient to cover losses suffered by the restrained party should the injunction later be found to have been wrongfully issued. The company argues that without such a bond, even a complete victory on the merits would leave it unable to recover those extraordinary losses. California AG Bonta characterized Paramount's threats to relocate California operations as 'blackmail,' though he indicated willingness to engage in settlement discussions conditioned on Paramount offering structural remedies — specifically, divestitures — rather than purely behavioral commitments. Judge Martinez-Olguin has directed the parties to identify potential magistrates to oversee mediation. The merger has already secured regulatory clearance from 68 jurisdictions worldwide, leaving the state AG and WGA suits as the sole remaining legal obstacles to closing.",
+    "word_count": 358
+  },
+  "vocabulary": [
+    {
+      "term": "ticking fee",
+      "pronunciation": "/ˈtɪkɪŋ fiː/",
+      "definition_cn": "并购协议中因交易延迟而须按日向目标方股东支付的补偿费用，旨在补偿股东因等待交割而承担的时间成本。",
+      "example": "The acquirer's obligation to pay a ticking fee of $7 million per day created mounting financial pressure to close the deal before trial.",
+      "audio": "week23/day4_vocab_0.mp3"
+    },
+    {
+      "term": "preliminary injunction",
+      "pronunciation": "/ˌprɛlɪˈmɪnəri ɪnˈdʒʌŋkʃən/",
+      "definition_cn": "法院在正式裁决前发布的临时禁令，用于在诉讼期间维持现状或防止一方遭受不可挽回的损害。",
+      "example": "The WGA's motion for a preliminary injunction sought to halt the merger pending a full trial on the antitrust merits.",
+      "audio": "week23/day4_vocab_1.mp3"
+    },
+    {
+      "term": "injunctive relief",
+      "pronunciation": "/ɪnˈdʒʌŋktɪv rɪˈliːf/",
+      "definition_cn": "法院命令当事方作为或不作为特定行为的救济方式，属于衡平法上的非金钱性救济手段。",
+      "example": "Paramount argued that the plaintiffs, having obtained injunctive relief to pause the merger, should be required to post a substantial bond to secure against wrongful issuance.",
+      "audio": "week23/day4_vocab_2.mp3"
+    },
+    {
+      "term": "antitrust lawsuit",
+      "pronunciation": "/ˌæntiˈtrʌst ˈlɔːsuːt/",
+      "definition_cn": "依据反垄断法提起的诉讼，旨在阻止可能实质性减少竞争或形成市场垄断的商业行为或并购交易。",
+      "example": "The coalition of 12 state attorneys general filed an antitrust lawsuit alleging the merger would eliminate meaningful competition in theatrical distribution markets.",
+      "audio": "week23/day4_vocab_3.mp3"
+    },
+    {
+      "term": "structural remedies",
+      "pronunciation": "/ˈstrʌktʃərəl ˈrɛmədiz/",
+      "definition_cn": "反垄断案件中要求当事方剥离资产或重组业务结构的救济措施，与仅规范行为的行为性救济相对。",
+      "example": "The California AG insisted that any settlement must include structural remedies such as divestitures, rather than mere behavioral commitments.",
+      "audio": "week23/day4_vocab_4.mp3"
+    },
+    {
+      "term": "divestitures",
+      "pronunciation": "/daɪˈvɛstɪtʃərz/",
+      "definition_cn": "在反垄断监管语境下，指并购方被要求出售或剥离特定资产、子公司或业务部门，以消除竞争损害。",
+      "example": "Regulators frequently require divestitures as a condition of merger approval when the combined entity would otherwise dominate a relevant market.",
+      "audio": "week23/day4_vocab_5.mp3"
+    },
+    {
+      "term": "labor market harm",
+      "pronunciation": "/ˈleɪbər ˈmɑːrkɪt hɑːrm/",
+      "definition_cn": "反垄断诉讼中的一类损害理论，主张合并后的实体因市场集中度提高而具备压低劳动者薪酬或恶化工作条件的能力。",
+      "example": "The WGA grounded its lawsuit in labor market harm, arguing the merger would give the combined studio outsized power to suppress writers' wages.",
+      "audio": "week23/day4_vocab_6.mp3"
+    },
+    {
+      "term": "security bond",
+      "pronunciation": "/sɪˈkjʊərɪti bɒnd/",
+      "definition_cn": "法院要求申请临时救济的一方当事人缴纳的担保金，若禁令被认定为不当发出，用以赔偿被禁止方的损失。",
+      "example": "Federal procedural rules authorize courts to require plaintiffs to post a security bond commensurate with the potential financial harm their requested injunction may cause the restrained party.",
+      "audio": "week23/day4_vocab_7.mp3"
+    },
+    {
+      "term": "regulatory clearance",
+      "pronunciation": "/ˌrɛɡjʊˈleɪtəri ˈklɪərəns/",
+      "definition_cn": "并购交易获得相关监管机构批准的程序结果，表明该交易符合适用的反垄断及行业监管要求。",
+      "example": "Having secured regulatory clearance from 68 jurisdictions, Paramount faced only the pending state AG and WGA suits as obstacles to closing.",
+      "audio": "week23/day4_vocab_8.mp3"
+    },
+    {
+      "term": "on the merits",
+      "pronunciation": "/ɒn ðə ˈmɛrɪts/",
+      "definition_cn": "指法院基于案件实质内容而非程序性理由作出的裁决，即对争议的核心法律或事实问题进行实质性审查。",
+      "example": "Paramount warned that even a complete victory on the merits would not compensate the company for the billions lost to ticking fees during the delay.",
+      "audio": "week23/day4_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Party] filed a motion asking the court to compel [opposing party] to post a [amount] bond as a condition of maintaining [form of relief].",
+      "example": "Paramount Skydance filed a motion asking the court to compel 12 state attorneys general and the WGA to post a $1,884,726,092.73 bond as a condition of maintaining the injunctive relief blocking its merger with Warner Bros. Discovery.",
+      "translation_cn": "派拉蒙天空舞蹈公司提出动议，要求法院强制12位州检察长及编剧工会缴纳逾18亿美元保证金，作为维持阻止其与华纳兄弟探索公司合并的禁令的条件。"
+    },
+    {
+      "pattern": "[Party] argued that without [procedural protection], even a complete victory on the merits would not restore [specific financial loss].",
+      "example": "Paramount argued that without a security bond posted by the plaintiffs, even a complete victory on the merits would not restore a dollar of the extraordinary losses accrued through ticking fees.",
+      "translation_cn": "派拉蒙主张，若原告未缴纳担保金，即便在实质问题上完全胜诉，也无法追回因计时费所造成的巨额损失。"
+    },
+    {
+      "pattern": "[Official] characterized [action] as '[pejorative term],' while indicating willingness to engage in settlement discussions conditioned on [specific remedy].",
+      "example": "California AG Bonta characterized Paramount's relocation threats as 'blackmail,' while indicating willingness to engage in settlement discussions conditioned on Paramount offering structural remedies rather than purely behavioral commitments.",
+      "translation_cn": "加州检察长博恩塔将派拉蒙的迁址威胁定性为\"勒索\"，同时表示愿意就和解进行讨论，但前提是派拉蒙须提出结构性救济措施，而非单纯的行为性承诺。"
+    }
+  ],
+  "summary_cn": "派拉蒙天空舞蹈公司就其与华纳兄弟探索公司的1100亿美元合并案，向联邦法院申请强制12位州检察长及编剧工会缴纳约18.8亿美元保证金。该合并遭州检察长联盟及编剧工会以反垄断及劳动市场损害为由提诉阻止，试验日期定于2027年3月。派拉蒙主张，在等待审判期间，每日约700万美元的计时费已形成巨额损失，若原告不提供担保，胜诉后亦无法获偿。",
+  "legal_analysis": "① 核心法律问题：本案涉及两项交织的法律争点——其一，多州检察长与编剧工会基于《谢尔曼法》第7条提起的并购反垄断挑战，重点在于横向市场集中是否实质性损害竞争；其二，联邦民事诉讼规则第65(c)条所规定的保证金义务，即申请临时救济的当事方须提供足额担保，以赔偿因错误发出禁令所致的损失。\n\n② 美国法律框架分析：《克莱顿法》第7条禁止可能实质性削弱竞争的并购。编剧工会援引出版业先例（Penguin Random House案），将劳动力市场集中纳入反垄断分析框架，这是近年来\"单买方\"（monopsony）理论在娱乐劳动市场的重要延伸。保证金议题则体现联邦程序法对禁令申请方课以对等财务责任的制衡机制，旨在防止原告滥用临时救济制度。加州检察长坚持以剥离资产等结构性救济替代行为救济，也反映了美国司法部近年反垄断执法的强硬转向。\n\n③ 对中国娱乐法律师的实践启示：中国律师在跨境并购中须重视多辖区监管协同的复杂性——本案18.8亿美元保证金申请，可为中方谈判者在设计合并协议时增设计时费上限条款提供参考。此外，编剧工会以劳动市场损害为由介入反垄断诉讼的路径，对中国影视行业协会的维权策略具有借鉴意义。",
+  "cn_us_comparison": "在并购反垄断审查层面，美国依据《克莱顿法》第7条及《哈特-斯科特-罗迪诺法》实施事前申报与审查，并允许州检察长基于州反垄断法独立提起阻止诉讼，形成联邦与各州双轨并行的执法体系。中国则依据《经营者集中审查办法》（2023年修订）由国家市场监督管理局统一行使审查权，不存在地方政府独立阻止并购的机制。\n\n在临时禁令保证金制度上，美国联邦民事诉讼规则第65(c)条明确要求申请方提供担保；中国《民事诉讼法》第103条及《保全规定》亦要求申请保全的当事人提供相应担保，两国在制度逻辑上具有相似性，但美国在保证金金额的计算方式与司法裁量空间上更为精细。\n\n在劳工组织参与反垄断诉讼方面，美国法律允许工会以独立原告身份提起并购阻止之诉，而中国现行法律框架下，工会尚无类似的独立诉讼资格，相关劳动权益保护主要依赖《劳动合同法》的行政执法路径。",
+  "discussion_prompt": "Given that Paramount voluntarily paused the merger to avoid preliminary injunction litigation, yet now seeks to impose a $1.9 billion bond on the plaintiffs, does the federal security bond requirement under Rule 65(c) serve as an appropriate check on state attorneys general using antitrust litigation as a leverage tool — or does it risk unconstitutionally chilling legitimate public enforcement of competition law?",
+  "writing_exercise": {
+    "prompt": "Imagine you represent a studio facing a state-filed antitrust challenge to its proposed merger. Write 2-3 sentences arguing why the plaintiff states should be required to post a security bond, referencing the financial consequences of the litigation-imposed delay.",
+    "model_answer": "Our client filed a motion asking the court to compel the plaintiff states to post a substantial security bond as a condition of maintaining the injunctive relief that has effectively frozen the proposed transaction. Under the merger's terms, our client accrues a ticking fee of approximately $7 million per day during this court-ordered pause, meaning that even a complete victory on the merits would not restore the hundreds of millions already lost to delay. Federal procedural rules exist precisely to prevent parties from wielding preliminary relief as a costless weapon, and the court should exercise its discretion to require security commensurate with the actual financial harm imposed."
+  },
+  "youtube_rec": {
+    "title": "Merger Injunctions & Antitrust Bonds: How Courts Balance Competition Law and Deal Certainty",
+    "channel": "CLE International",
+    "summary_cn": "本视频系统讲解美国法院在反垄断并购诉讼中如何运用联邦民事诉讼规则第65(c)条的保证金制度，分析州检察长独立提起并购阻止诉讼的法律依据，并结合近年典型案例探讨结构性救济与行为性救济的司法选择标准，适合有志于并购反垄断业务的法律实务人士。"
+  },
+  "extended_reading": [
+    {
+      "title": "Sexual Battery, Retaliation & Hostile Work Environment Lawsuit Against 'Below Deck's Gary King, NBCUniversal & Bravo Can't Be Forced To Arbitration, Judge Rules",
+      "url": "https://deadline.com/2026/02/below-deck-gary-sexual-battery-1236302018/",
+      "description_cn": "洛杉矶法院裁定，依据2021年《终止性侵犯及性骚扰强制仲裁法》，《甲板之下》真人秀相关性骚扰及报复诉讼不得强制提交仲裁，原告可在公开法庭追诉NBC环球及Bravo频道。",
+      "language": "en"
+    },
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.mondaq.com/unitedstates/trademark/1735932/the-2026-entertainment-law-forecast-navigating-fair-use-ai-training-and-trademark-trends",
+      "description_cn": "Weintraub Tobin律师事务所分析2026年娱乐法三大关键待决案件，涵盖纪录片合理使用、AI以\"影子图书馆\"训练模型的版权责任，以及罗杰斯测试在商标侵权认定中的适用走向。",
+      "language": "en"
+    }
+  ],
+  "week": 23,
+  "day": 4,
+  "date": "2026-08-28",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week23/day4.mp3"
+}
