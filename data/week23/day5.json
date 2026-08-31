@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+    "source": "Weintraub Tobin via JDSupra, January 22, 2026",
+    "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+    "text": "As the entertainment industry entered 2026, it carried forward a series of major unresolved legal disputes from 2025, each with the potential to fundamentally reshape how creative content is owned, licensed, and monetized. The year 2025 proved pivotal for AI-related copyright litigation, with the earliest judicial opinions beginning to address the central question of whether using copyrighted works to train AI models constitutes fair use. Cases involving major AI developers — including those touching on Meta's training data practices — began producing rulings, though the doctrine remained far from settled. Courts grappled with whether AI-generated outputs or the training process itself triggers infringement liability under the Copyright Act.\n\nOn the trademark front, the entertainment industry continued to feel the aftershocks of the Supreme Court's Jack Daniel's decision, which tightened the expressive works exception and forced courts to more rigorously analyze trademark uses in creative contexts. Right of publicity cases were similarly in flux, with performers and estates asserting stronger claims against AI-generated likenesses, deepfakes, and voice clones — building on legislative moves like Tennessee's ELVIS Act, which criminalized unauthorized AI voice cloning.\n\nHeading into 2026, several high-profile cases were positioned to deliver landmark rulings. The Supreme Court granted certiorari in Cox Communications v. Sony Music Entertainment, presenting two critical questions: whether internet service providers can be held liable for materially contributing to copyright infringement by failing to terminate repeat infringer accounts, and whether mere knowledge of infringement is sufficient to establish willfulness under the Copyright Act. A jury had already returned a roughly $1 billion verdict against Cox, which the Fourth Circuit partially affirmed before remanding for a new damages trial. The case was expected to redefine secondary liability standards for online platforms industry-wide.\n\nAlso closely watched was the pending phase I trial in Musk v. Altman, OpenAI, and Microsoft, set to begin April 27, 2026, involving antitrust and breach of contract claims arising from OpenAI's alleged departure from its non-profit mission. Entertainment practitioners noted this case's potential to influence how courts govern AI corporate structures — with profound downstream effects for studios, streaming platforms, and content creators relying on or competing with AI tools. The forecast underscored that 2026 would be a defining year for the intersection of IP law, technology, and creative expression.",
+    "word_count": 335
+  },
+  "vocabulary": [
+    {
+      "term": "fair use",
+      "pronunciation": "/fɛr juːs/",
+      "definition_cn": "美国版权法中的合理使用原则，允许在特定条件下未经许可使用受版权保护的作品，须依据四要素测试加以判断。",
+      "example": "The defendant invoked fair use to justify incorporating excerpts of the plaintiff's screenplay into an AI training dataset.",
+      "audio": "week23/day5_vocab_0.mp3"
+    },
+    {
+      "term": "certiorari",
+      "pronunciation": "/ˌsɜːrʃiəˈrɛəri/",
+      "definition_cn": "调卷令，美国最高法院用于审查下级法院判决的程序性令状，当事方须申请且获批准方可进入最高法院审理。",
+      "example": "The Supreme Court granted certiorari to resolve a circuit split over secondary liability for online service providers.",
+      "audio": "week23/day5_vocab_1.mp3"
+    },
+    {
+      "term": "secondary liability",
+      "pronunciation": "/ˈsɛkəndɛri laɪəˈbɪlɪti/",
+      "definition_cn": "间接侵权责任，指未直接实施侵权行为但通过协助、引诱或控制他人侵权而承担的法律责任，包括帮助侵权和替代侵权两种形式。",
+      "example": "The court's analysis of secondary liability centered on whether the ISP had the right and ability to supervise infringing activity.",
+      "audio": "week23/day5_vocab_2.mp3"
+    },
+    {
+      "term": "materially contributing",
+      "pronunciation": "/məˈtɪəriəli kənˈtrɪbjuːtɪŋ/",
+      "definition_cn": "实质性促成，帮助侵权责任的核心标准，指当事方知晓侵权行为且提供了实质性的协助或支持，从而构成版权侵权的共同责任。",
+      "example": "The jury found that the platform materially contributing to widespread piracy by failing to implement an effective repeat-infringer policy.",
+      "audio": "week23/day5_vocab_3.mp3"
+    },
+    {
+      "term": "willfulness",
+      "pronunciation": "/ˈwɪlfʊlnəs/",
+      "definition_cn": "故意性，版权法中指侵权方明知其行为构成侵权或对此漠然置之，法定赔偿可因此大幅提高，最高可达每作品15万美元。",
+      "example": "Establishing willfulness allowed the plaintiffs to seek statutory damages at the enhanced ceiling under the Copyright Act.",
+      "audio": "week23/day5_vocab_4.mp3"
+    },
+    {
+      "term": "right of publicity",
+      "pronunciation": "/raɪt əv pʌbˈlɪsɪti/",
+      "definition_cn": "公开权，赋予个人控制其姓名、肖像、声音及其他可识别个人特征商业使用的权利，属人格权范畴，各州立法规定不一。",
+      "example": "The estate asserted its right of publicity against a tech company that had used the deceased artist's voice clone in a commercial advertisement.",
+      "audio": "week23/day5_vocab_5.mp3"
+    },
+    {
+      "term": "expressive works exception",
+      "pronunciation": "/ɪkˈsprɛsɪv wɜːrks ɪkˈsɛpʃən/",
+      "definition_cn": "表达性作品例外，商标法中基于第一修正案保护的原则，允许在艺术或创意表达中使用他人商标，但不得明确误导消费者来源。",
+      "example": "After the Jack Daniel's decision, defendants could no longer rely automatically on the expressive works exception to shield their use of third-party trademarks in creative projects.",
+      "audio": "week23/day5_vocab_6.mp3"
+    },
+    {
+      "term": "infringement liability",
+      "pronunciation": "/ɪnˈfrɪndʒmənt laɪəˈbɪlɪti/",
+      "definition_cn": "侵权责任，版权法下因未经授权复制、传播或使用受保护作品而产生的法律责任，可导致实际损害赔偿或法定赔偿。",
+      "example": "The question of whether AI training triggers infringement liability under the Copyright Act remains the most consequential unresolved issue of this litigation cycle.",
+      "audio": "week23/day5_vocab_7.mp3"
+    },
+    {
+      "term": "antitrust",
+      "pronunciation": "/ˈæntitrʌst/",
+      "definition_cn": "反垄断法，美国联邦和州层面规制垄断行为、限制竞争协议及市场支配地位滥用的法律体系，核心法规为《谢尔曼法》和《克莱顿法》。",
+      "example": "The antitrust claims in Musk v. Altman alleged that OpenAI's restructuring unlawfully foreclosed competition in the foundational AI model market.",
+      "audio": "week23/day5_vocab_8.mp3"
+    },
+    {
+      "term": "breach of contract",
+      "pronunciation": "/briːtʃ əv ˈkɒntrækt/",
+      "definition_cn": "违约，合同一方当事人未能履行其合同义务，受害方可据此主张损害赔偿、撤销合同或强制履行等救济措施。",
+      "example": "The breach of contract claim alleged that OpenAI's pivot to a for-profit structure violated its foundational charter and commitments to co-founders.",
+      "audio": "week23/day5_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court/Tribunal] granted certiorari to resolve the question of whether [legal standard] is sufficient to establish [liability/right] under [statute].",
+      "example": "The Supreme Court granted certiorari to resolve the question of whether mere knowledge of infringement is sufficient to establish willfulness under the Copyright Act.",
+      "translation_cn": "最高法院批准调卷令，以裁定在《版权法》下，仅凭对侵权行为的知情是否足以认定故意侵权。"
+    },
+    {
+      "pattern": "[Party] asserted [claim] against [defendant], arguing that [conduct] constitutes [legal violation] with profound downstream effects for [affected industry/actors].",
+      "example": "Performers and estates asserted right of publicity claims against AI developers, arguing that unauthorized voice cloning constitutes a legal violation with profound downstream effects for creators and studios alike.",
+      "translation_cn": "表演者及其遗产继承人对AI开发商主张公开权，认为未经授权的声音克隆构成法律违规，对创作者和制片公司均产生深远的下游影响。"
+    },
+    {
+      "pattern": "The central question before the court is whether [act/conduct] triggers [liability/doctrine] under [statute], a question that remains far from settled.",
+      "example": "The central question before the court is whether using copyrighted works to train AI models triggers infringement liability under the Copyright Act, a question that remains far from settled.",
+      "translation_cn": "法院面临的核心问题是，利用受版权保护的作品训练AI模型是否在《版权法》下引发侵权责任——这一问题目前仍悬而未决。"
+    }
+  ],
+  "summary_cn": "2026年娱乐法领域面临多项关键未决争议：AI训练是否构成合理使用尚无定论；最高法院受理Cox通讯案，将厘清网络服务商的间接侵权责任及故意性标准；商标法领域，《杰克丹尼尔斯》判决收紧了表达性作品例外；公开权诉讼因AI声音克隆立法而升温；马斯克诉奥特曼案亦将对AI公司治理产生深远影响。",
+  "legal_analysis": "① 核心法律问题：本文涉及三大核心议题：其一，AI模型训练是否构成版权法下的合理使用；其二，网络服务提供商因未终止重复侵权用户账户而承担间接侵权责任的边界；其三，公开权保护在AI生成内容场景下的适用范围。\n\n② 美国法律框架分析：美国版权法第107条确立了合理使用的四要素测试，但其能否适用于大规模AI训练尚存争议。Cox案涉及帮助侵权责任（contributory infringement），核心争点在于ISP是否\"实质性促成\"侵权及其主观状态是否构成\"故意\"，最终裁决将为《数字千年版权法》安全港条款的适用范围提供重要指引。商标方面，最高法院在Jack Daniel's案中限缩了Rogers测试的适用，进一步压缩了创意作品中商标使用的保护空间。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理涉及中美两国市场的AI内容项目时，须同步评估美国间接侵权风险与中国《著作权法》项下的许可义务；在处理演员肖像及声音授权条款时，应将AI声音克隆的禁止性条款明确纳入合同，以防范公开权及人格权纠纷；同时需密切追踪Cox案判决对跨境平台运营合规策略的影响。",
+  "cn_us_comparison": "在版权间接责任领域，美国法律通过判例法确立了帮助侵权（contributory infringement）与替代侵权（vicarious infringement）两种形态，《数字千年版权法》（DMCA）第512条为符合条件的网络服务商提供安全港保护。中国《著作权法》（2020年修订）第二十六条及《信息网络传播权保护条例》亦规定了网络服务提供者的\"通知—删除\"义务，但对主动审查义务的要求与美国标准存在差异，中国法院近年来在判定平台责任时对\"应知\"标准的适用日趋严格。在公开权保护方面，美国通过各州法律（如田纳西州《ELVIS法》）保护自然人声音与肖像，而中国则主要依据《民法典》第1019至1023条关于姓名权、肖像权的规定，以及《网络信息服务算法推荐管理规定》对AI生成内容的规制加以保护，整体上尚未形成与美国公开权制度完全对应的独立权利体系。两国在AI生成内容的版权归属问题上均处于立法探索阶段。",
+  "discussion_prompt": "Given that the Supreme Court's ruling in Cox Communications v. Sony Music Entertainment could redefine secondary liability standards for all online platforms, should courts draw a meaningful legal distinction between ISPs that passively host infringing content and AI companies that actively use copyrighted works to train commercial models — and if so, what doctrinal framework should govern each?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal analyst summarizing a new court decision. Write 2-3 sentences describing a hypothetical ruling on AI training and fair use, using at least two vocabulary terms from today's lesson and one of the sentence patterns practiced.",
+    "model_answer": "The central question before the court was whether large-scale ingestion of copyrighted musical compositions to train a generative AI model triggers infringement liability under the Copyright Act, a question that remains far from settled among the circuits. The court declined to extend fair use protection to the defendant's training process, finding that the commercial purpose and market substitution effects weighed decisively against it. The ruling is expected to intensify secondary liability exposure for platforms that host or distribute AI-generated outputs derived from unlicensed works."
+  },
+  "youtube_rec": {
+    "title": "AI Copyright Litigation 2026: Fair Use, Secondary Liability & the Future of Platform Law Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统解析2026年美国AI版权诉讼的核心争议，涵盖合理使用四要素测试在AI训练场景下的适用、Cox通讯案确立的ISP间接侵权责任标准，以及平台运营者在版权合规方面的实践策略，适合有一定法律基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Not Just AI: Traditional Copyright Decisions of 2025 That Should Be on Your Radar",
+      "url": "https://ipwatchdog.com/2025/12/22/ai-traditional-copyright-decisions-2025-your-radar/",
+      "description_cn": "IPWatchdog对2025年重大版权判决的深度梳理，重点分析Cox通讯案约10亿美元赔偿裁决及最高法院受理后对间接侵权责任与故意性认定标准的影响。",
+      "language": "en"
+    },
+    {
+      "title": "Navigating Copyright in AI-Enhanced Game Design: Legal Challenges in Multimodal and Dynamic Content Creation",
+      "url": "https://www.anserpress.org/journal/jie/3/1/42",
+      "description_cn": "同行评审学术论文，从版权法视角分析AI生成内容在娱乐及游戏设计中的权利归属难题，引用Zarya of the Dawn等标志性案例，探讨人类作者性要件与AI生成物的法律张力。",
+      "language": "en"
+    }
+  ],
+  "week": 23,
+  "day": 5,
+  "date": "2026-08-31",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week23/day5.mp3"
+}
