@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Elon Musk Loses Lawsuit Against OpenAI & Sam Altman: The Verdict That Shook the AI and Entertainment Industry",
+    "source": "Deadline.com, May 18, 2026",
+    "url": "https://deadline.com/2026/05/elon-musk-verdict-openai-sam-altman-1236914787/",
+    "text": "In one of the most closely watched technology and entertainment law trials of recent years, a federal jury in Oakland, California ruled against Elon Musk on May 18, 2026, in his lawsuit against OpenAI, CEO Sam Altman, and co-founder Greg Brockman. Musk originally filed suit in 2024, alleging that Altman and Brockman had violated OpenAI's founding nonprofit mission by converting the organization into a for-profit enterprise valued at an estimated $850 billion. Musk's central legal argument was that Altman had 'intentionally courted and deceived' him when they co-founded OpenAI in 2015 — promising that the organization would develop artificial general intelligence as a public good and nonprofit counterweight to Google's DeepMind, rather than a commercially driven enterprise.\n\nThe suit further claimed that OpenAI's leaders restructured the organization, created for-profit affiliates, and struck multibillion-dollar deals — including a massive partnership with Microsoft — in direct violation of that founding mission. The three-week jury trial was presided over by U.S. District Judge Yvonne Gonzalez Rogers in the Northern District of California and featured testimony from high-profile witnesses including Altman, Brockman, and Microsoft CEO Satya Nadella. Musk himself also took the stand.\n\nOpenAI's defense argued that Musk's donations were unrestricted, that the restructuring was commercially necessary to compete in the AI race, and portrayed the lawsuit as Musk's attempt to sabotage a rival after failing to gain control of the company — noting Musk had once pushed for OpenAI to merge into Tesla. The nine-person advisory jury deliberated for less than two hours before finding that Musk's claims were barred by the statute of limitations — that he had waited too long to file suit, given that discussions about a for-profit shift dated back to 2017.\n\nJudge Gonzalez Rogers immediately adopted the advisory jury's verdict. The court did not reach the merits of whether Musk's breach of charitable trust claims were legally valid. Musk responded on X calling the outcome a 'calendar technicality' and vowed to appeal. A separate remedies phase, designated Phase II, addressing antitrust claims against OpenAI and Microsoft, is set to proceed. Legal observers note the case carries major implications for nonprofit governance, charitable trust law, and AI corporate accountability — all issues with deep ramifications for the media sector.",
+    "word_count": 342
+  },
+  "vocabulary": [
+    {
+      "term": "statute of limitations",
+      "pronunciation": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "definition_cn": "诉讼时效；法律规定的起诉期限，超过该期限则丧失提起诉讼的权利，是程序性抗辩的核心依据。",
+      "example": "The defendant successfully invoked the statute of limitations, arguing that the plaintiff's claims arose in 2017 and were therefore time-barred by the time suit was filed in 2024.",
+      "audio": "week24/day1_vocab_0.mp3"
+    },
+    {
+      "term": "advisory jury",
+      "pronunciation": "/ədˈvaɪzəri ˈdʒʊəri/",
+      "definition_cn": "咨询性陪审团；在衡平法案件中，法院可召集咨询性陪审团就事实问题提出建议，但法官不受其裁定约束，可自行采纳或拒绝。",
+      "example": "Because the breach of charitable trust claim sounded in equity, the judge empaneled an advisory jury whose findings she then adopted as her own ruling.",
+      "audio": "week24/day1_vocab_1.mp3"
+    },
+    {
+      "term": "breach of charitable trust",
+      "pronunciation": "/briːtʃ əv ˈtʃærɪtəbəl trʌst/",
+      "definition_cn": "违反慈善信托；受托人未按慈善组织章程或捐赠目的使用资产，可能承担民事及衡平法救济责任。",
+      "example": "Musk argued that converting OpenAI into a for-profit enterprise constituted a breach of charitable trust because the founders had represented the organization as a public-benefit nonprofit.",
+      "audio": "week24/day1_vocab_2.mp3"
+    },
+    {
+      "term": "nonprofit governance",
+      "pronunciation": "/ˌnɒnˈprɒfɪt ˈɡʌvənəns/",
+      "definition_cn": "非营利组织治理；指非营利实体在运营、决策和资产管理方面应遵守的法律义务与内部结构规范。",
+      "example": "The verdict raised urgent questions about nonprofit governance, particularly whether boards can unilaterally authorize conversion to a for-profit structure without donor consent.",
+      "audio": "week24/day1_vocab_3.mp3"
+    },
+    {
+      "term": "antitrust claims",
+      "pronunciation": "/ˈæntitrʌst kleɪmz/",
+      "definition_cn": "反垄断诉求；基于《谢尔曼法》等联邦反垄断法律提出的诉讼主张，指控被告存在妨碍竞争的市场行为。",
+      "example": "The Phase II remedies proceeding will address antitrust claims targeting the OpenAI-Microsoft partnership, which critics allege forecloses competition in the AI foundation-model market.",
+      "audio": "week24/day1_vocab_4.mp3"
+    },
+    {
+      "term": "for-profit affiliates",
+      "pronunciation": "/fər ˈprɒfɪt əˈfɪliəts/",
+      "definition_cn": "营利性关联实体；指由非营利母机构控制或关联的营利性子公司，其设立可能引发慈善资产被私人挪用的法律争议。",
+      "example": "The plaintiffs contended that OpenAI's creation of for-profit affiliates funneled assets away from the charitable mission for which donor funds had originally been solicited.",
+      "audio": "week24/day1_vocab_5.mp3"
+    },
+    {
+      "term": "remedies phase",
+      "pronunciation": "/ˈremədiːz feɪz/",
+      "definition_cn": "救济阶段；在诉讼程序中，责任认定之后专门审理原告可获何种法律救济（如损害赔偿、禁令等）的独立诉讼阶段。",
+      "example": "Following the liability determination, the parties proceeded to a separate remedies phase in which the court would assess appropriate injunctive relief and monetary damages.",
+      "audio": "week24/day1_vocab_6.mp3"
+    },
+    {
+      "term": "Northern District of California",
+      "pronunciation": "/ˈnɔːðərn ˈdɪstrɪkt əv ˌkælɪˈfɔːrniə/",
+      "definition_cn": "加利福尼亚州联邦地区法院北区；美国联邦地区法院的一个司法分区，因集中审理科技与知识产权案件而被称为\"科技法律重镇\"。",
+      "example": "The Northern District of California has become the preeminent federal forum for high-stakes technology litigation, attracting cases involving AI, platform liability, and data privacy.",
+      "audio": "week24/day1_vocab_7.mp3"
+    },
+    {
+      "term": "unrestricted donations",
+      "pronunciation": "/ˌʌnrɪˈstrɪktɪd doʊˈneɪʃənz/",
+      "definition_cn": "无限制捐款；捐赠人未附加用途条件的捐款，受赠组织在法律上享有较大的使用自由裁量权，难以据此主张特定目的违约。",
+      "example": "OpenAI's counsel stressed that Musk's contributions constituted unrestricted donations, precluding him from dictating how the organization deployed those funds post-receipt.",
+      "audio": "week24/day1_vocab_8.mp3"
+    },
+    {
+      "term": "artificial general intelligence",
+      "pronunciation": "/ˌɑːrtɪˈfɪʃəl ˈdʒenərəl ɪnˈtelɪdʒəns/",
+      "definition_cn": "通用人工智能；指能够执行人类全范围认知任务的AI系统，其开发目标及监管归属在科技法与公司法领域引发广泛法律争议。",
+      "example": "The founding charter explicitly designated artificial general intelligence as a public good, a characterization that formed the cornerstone of Musk's breach-of-mission argument.",
+      "audio": "week24/day1_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] violated [founding obligation] by [specific restructuring action], in direct violation of [governing instrument or mission].",
+      "example": "Musk alleged that Altman and Brockman violated OpenAI's founding nonprofit mission by creating for-profit affiliates and striking multibillion-dollar deals, in direct violation of the organization's founding charter.",
+      "translation_cn": "马斯克指控奥特曼和布罗克曼通过创建营利性关联实体并签署数十亿美元协议，违反了OpenAI的非营利创始使命及章程规定。"
+    },
+    {
+      "pattern": "The [tribunal] found that [party]'s claims were barred by the [procedural doctrine], declining to reach the merits of [substantive legal theory].",
+      "example": "The advisory jury found that Musk's claims were barred by the statute of limitations, and Judge Gonzalez Rogers accordingly declined to reach the merits of his breach of charitable trust theory.",
+      "translation_cn": "咨询性陪审团认定马斯克的诉讼请求已超过诉讼时效，冈萨雷斯·罗杰斯法官因此未就其违反慈善信托的实质主张作出裁定。"
+    },
+    {
+      "pattern": "A separate [phase/proceeding] addressing [remaining claims] is set to proceed, with significant implications for [broader legal or regulatory framework].",
+      "example": "A separate remedies phase addressing antitrust claims against OpenAI and Microsoft is set to proceed, with significant implications for AI corporate accountability and nonprofit governance across the media sector.",
+      "translation_cn": "针对OpenAI和微软的反垄断诉求将进入独立的救济阶段审理，对整个媒体行业的人工智能企业问责与非营利组织治理具有深远影响。"
+    }
+  ],
+  "summary_cn": "2026年5月，加利福尼亚联邦法院就马斯克诉OpenAI及萨姆·奥特曼案作出裁决，九人咨询性陪审团认定马斯克的诉求因超过诉讼时效而被驳回，法院未就其\"违反慈善信托\"的实质性主张作出评判。该案涉及非营利组织治理、慈善信托法及人工智能企业问责等前沿法律议题，针对OpenAI与微软的反垄断诉求将进入第二阶段审理。",
+  "legal_analysis": "① 核心法律问题：本案涉及三大法律争点：其一，非营利组织能否在未经捐赠人同意的情况下转型为营利实体（慈善信托法核心问题）；其二，马斯克的诉讼主张是否因诉讼时效届满而程序性终结；其三，OpenAI与微软的战略合作是否构成反垄断法意义上的市场封锁行为。\n\n② 美国法律框架：美国慈善信托法（Charitable Trust Doctrine）要求非营利实体依照捐赠目的使用资产，检察长（Attorney General）通常享有主要执法权。本案中法院采用咨询性陪审团机制，体现了衡平法（equity）与普通法（common law）并行的程序特征。《谢尔曼法》（Sherman Act）第1、2条将成为Phase II反垄断审查的核心依据。\n\n③ 对中国娱乐法律师的实践启示：随着中国AI企业赴美寻求合作，其组织架构设计须高度关注美国慈善信托法的域外合规风险。此外，本案的程序性结果（时效抗辩胜诉）提示律师在跨境诉讼策略中应将程序性防御置于优先地位，而非仅聚焦实体权利抗辩。",
+  "cn_us_comparison": "在非营利组织转型问题上，美国依赖慈善信托原则（Charitable Trust Doctrine）及各州检察长的监管权，允许当事人通过诉讼主张创始人利益，但须受诉讼时效约束；而中国《慈善法》（2016年）第14条明确规定慈善组织须依法登记且不得将财产归属于个人，民政部门享有行政监管主导权，私人诉讼空间相对有限。在反垄断层面，美国《谢尔曼法》强调事后司法救济与私人诉权，而中国《反垄断法》（2022年修订）同样规制经营者集中与滥用市场支配地位，但执法主体为国家市场监督管理总局，行政主导色彩更浓。在AI治理层面，中国已出台《生成式人工智能服务管理暂行办法》（2023年），对大模型服务实施备案制，美国目前仍以司法判例和行政指引为主，两者在规制路径上存在显著差异。",
+  "discussion_prompt": "Given that the court dismissed Musk's breach of charitable trust claims on statute of limitations grounds without reaching the merits, does this outcome effectively insulate AI companies from legal accountability when they pivot from nonprofit to for-profit structures — and should legislatures intervene to create a dedicated cause of action with a longer limitations period for charitable mission violations in the AI sector?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal correspondent summarizing a new case in which a nonprofit AI research institute converted to a for-profit entity without donor consent. Write 2-3 sentences describing the plaintiff's core allegation, the procedural barrier the court identified, and the next stage of litigation.",
+    "model_answer": "The plaintiffs alleged that the institute's board violated its founding nonprofit mission by establishing for-profit affiliates and entering into an exclusive commercial partnership, in direct violation of the organization's founding charter. The court, however, found that plaintiffs' breach of charitable trust claims were barred by the statute of limitations, declining to reach the merits of the substantive theory. A separate remedies phase addressing residual antitrust claims is set to proceed, with significant implications for nonprofit governance and AI corporate accountability across the technology sector."
+  },
+  "youtube_rec": {
+    "title": "Musk v. OpenAI Explained: Charitable Trust Law, Statute of Limitations & What Comes Next",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深入解析马斯克诉OpenAI案的法律框架，重点梳理慈善信托原则、诉讼时效抗辩的适用逻辑，以及咨询性陪审团在衡平法案件中的程序地位，适合希望了解美国非营利组织法与AI监管交叉议题的法律从业者收看。"
+  },
+  "extended_reading": [
+    {
+      "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+      "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+      "description_cn": "Weintraub Tobin律所发布的2026年娱乐法前瞻，梳理公平使用纠纷、AI训练版权责任的司法分歧及商标法\"罗杰斯测试\"的最新动态。",
+      "language": "en"
+    },
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛《体育与娱乐法学刊》2026年研讨会学术文章，资深诉讼律师深度探讨版权法能否有效规制AI，并呈现代理斯嘉丽·约翰逊诉OpenAI案的一线律师视角。",
+      "language": "en"
+    }
+  ],
+  "week": 24,
+  "day": 1,
+  "date": "2026-09-01",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week24/day1.mp3"
+}
