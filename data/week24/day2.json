@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "The 2026 Entertainment Law Forecast: Navigating Fair Use, AI Training, and Trademark Trends",
+    "source": "Weintraub Tobin / JDSupra, January 22, 2026",
+    "url": "https://www.jdsupra.com/legalnews/the-2026-entertainment-law-forecast-8460410/",
+    "text": "As 2026 opens, the entertainment and media industry confronts three unresolved legal battlegrounds inherited from 2025, each poised to reach pivotal resolution before year's end. Writing for JDSupra, Scott M. Hervey of Weintraub Tobin identifies these flashpoints and maps the doctrinal terrain that practitioners must navigate.\n\nThe first and most consequential battleground concerns AI training data and the doctrine of fair use. The landmark ruling in Bartz v. Anthropic established a nuanced split holding: training an AI model on copyrighted books constitutes fair use, but storing pirated copies of those same works does not. The case ultimately resolved through a $1.5 billion settlement — one of the largest in AI copyright history — yielding an estimated payout of approximately $3,000 per work. Building on that precedent, plaintiffs in 2026 are advancing novel 'stealth scraping' theories, arguing that undeclared web crawlers and circumvention of robots.txt directives should be treated as conduct analogous to the piracy found actionable in Bartz. Courts are now being asked to draw hard doctrinal lines around such covert data-collection practices.\n\nThe second frontier moves beyond training data into AI-generated outputs. Disney et al. v. Midjourney, currently pending before the Central District of California, presents allegations that copyrighted characters belonging to major entertainment conglomerates are being reproduced in derivative AI-generated images without authorization, raising pressing questions about whether existing statutory provisions adequately address output-stage infringement. Alongside litigation, the emerging Disney-OpenAI formal licensing agreement is being closely watched as a potential industry standard for monetizing intellectual property in AI-driven platforms, possibly displacing costly adversarial proceedings.\n\nThe third area involves trademark law's evolving frontier. Following the U.S. Supreme Court's decision in Jack Daniel's Properties, Inc. v. VIP Products — which significantly narrowed the Rogers Test's application as a threshold defense — the case of HomeVestors v. Warner Bros. is shaping up as a decisive 2026 test of how courts calibrate Rogers to television titles and expressive entertainment content. Together, these three battlegrounds signal that 2026 will force courts to draw hard legal lines at the intersection of creative expression, intellectual property, and emerging technology, with consequences that will reverberate across every sector of the creative economy.",
+    "word_count": 338
+  },
+  "vocabulary": [
+    {
+      "term": "fair use",
+      "pronunciation": "/fɛr juːz/",
+      "definition_cn": "合理使用原则：美国版权法下允许在特定条件下未经授权使用受版权保护作品的法定抗辩，适用须权衡四因素测试。",
+      "example": "The court held that ingesting copyrighted text for model training qualified as fair use under the four-factor statutory analysis.",
+      "audio": "week24/day2_vocab_0.mp3"
+    },
+    {
+      "term": "split holding",
+      "pronunciation": "/splɪt ˈhoʊldɪŋ/",
+      "definition_cn": "分裂判决：法院在同一案件中就不同问题或诉因分别作出不同裁定，部分支持原告、部分支持被告的判决结构。",
+      "example": "The split holding in Bartz v. Anthropic left both sides claiming partial victory, complicating settlement negotiations.",
+      "audio": "week24/day2_vocab_1.mp3"
+    },
+    {
+      "term": "stealth scraping",
+      "pronunciation": "/stɛlθ ˈskreɪpɪŋ/",
+      "definition_cn": "隐蔽抓取：使用未申报的网络爬虫秘密提取受版权保护内容，原告主张此行为应被法律视为与盗版行为等同的侵权行为。",
+      "example": "Plaintiffs argued that stealth scraping via undeclared crawlers was legally indistinguishable from direct misappropriation of copyrighted material.",
+      "audio": "week24/day2_vocab_2.mp3"
+    },
+    {
+      "term": "robots.txt directives",
+      "pronunciation": "/ˈroʊbɒts ˌdɒt ˈtɛkst dɪˈrɛktɪvz/",
+      "definition_cn": "机器人排除协议指令：网站运营方用于告知爬虫程序禁止抓取特定内容的技术指令，绕过该指令正被主张构成可诉侵权行为。",
+      "example": "Circumvention of robots.txt directives was central to the plaintiffs' argument that the defendant's conduct exceeded any permissible fair use.",
+      "audio": "week24/day2_vocab_3.mp3"
+    },
+    {
+      "term": "derivative",
+      "pronunciation": "/dɪˈrɪvətɪv/",
+      "definition_cn": "衍生作品：基于一个或多个既有受版权保护作品创作的新作品，未经授权制作衍生作品构成版权侵权。",
+      "example": "The complaint alleged that AI-generated images constituted unauthorized derivative works of the studio's copyrighted character designs.",
+      "audio": "week24/day2_vocab_4.mp3"
+    },
+    {
+      "term": "statutory provisions",
+      "pronunciation": "/stəˈtjuːtəri prəˈvɪʒənz/",
+      "definition_cn": "法定条款：由立法机关制定并编入成文法典的具体规定，本文语境指《美国版权法》第17编中关于侵权救济的具体条文。",
+      "example": "Counsel questioned whether existing statutory provisions were drafted broadly enough to capture infringement occurring at the AI output stage.",
+      "audio": "week24/day2_vocab_5.mp3"
+    },
+    {
+      "term": "Rogers Test",
+      "pronunciation": "/ˈrɒdʒərz tɛst/",
+      "definition_cn": "罗杰斯测试：源自Rogers v. Grimaldi案的联邦司法标准，用于判断艺术性表达中的商标使用是否构成侵权，近年因最高法院判决而受到限缩。",
+      "example": "The defendant invoked the Rogers Test to argue that use of the disputed mark in a television title was shielded by the First Amendment.",
+      "audio": "week24/day2_vocab_6.mp3"
+    },
+    {
+      "term": "threshold defense",
+      "pronunciation": "/ˈθrɛʃhoʊld dɪˈfɛns/",
+      "definition_cn": "门槛性抗辩：在诉讼初期即可主张以驳回整个请求权的抗辩事由，通常无需进入实质性证据审查阶段。",
+      "example": "After Jack Daniel's, courts can no longer treat the Rogers Test as an automatic threshold defense that forecloses trademark liability analysis.",
+      "audio": "week24/day2_vocab_7.mp3"
+    },
+    {
+      "term": "formal licensing agreement",
+      "pronunciation": "/ˈfɔːrməl ˈlaɪsənsɪŋ əˈɡriːmənt/",
+      "definition_cn": "正式许可协议：授权方与被授权方就知识产权使用条件、报酬及范围订立的书面法律文件，本文指其作为AI时代版权货币化行业标准的潜力。",
+      "example": "The Disney-OpenAI formal licensing agreement is expected to serve as a template for other studios seeking to monetize their IP catalogues in AI-driven environments.",
+      "audio": "week24/day2_vocab_8.mp3"
+    },
+    {
+      "term": "adversarial proceedings",
+      "pronunciation": "/ˌædvərˈsɛriəl prəˈsiːdɪŋz/",
+      "definition_cn": "对抗性诉讼程序：双方当事人各自陈述对立立场、由中立裁判者裁决的诉讼模式，与通过协议解决纠纷的非诉途径相对。",
+      "example": "Industry observers hope that proactive formal licensing agreements will reduce reliance on costly adversarial proceedings to resolve AI copyright disputes.",
+      "audio": "week24/day2_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Court/ruling] established a [adjective] split holding: [conduct A] constitutes [legal conclusion A], but [conduct B] does not.",
+      "example": "The landmark ruling in Bartz v. Anthropic established a nuanced split holding: training an AI model on copyrighted books constitutes fair use, but storing pirated copies of those same works does not.",
+      "translation_cn": "Bartz诉Anthropic案的里程碑裁决确立了一项细致的分裂判决：使用受版权保护的书籍训练AI模型构成合理使用，但存储盗版副本则不然。"
+    },
+    {
+      "pattern": "Building on that precedent, [party/plaintiffs] are advancing novel [theory] theories, arguing that [conduct] should be treated as [legal analogy].",
+      "example": "Building on that precedent, plaintiffs in 2026 are advancing novel 'stealth scraping' theories, arguing that undeclared web crawlers and circumvention of robots.txt directives should be treated as conduct analogous to the piracy found actionable in Bartz.",
+      "translation_cn": "以该先例为基础，2026年的原告们正在推进新颖的\"隐蔽抓取\"理论，主张使用未申报爬虫并绕过robots.txt指令的行为，应被视为与Bartz案中被认定为可诉的盗版行为相类似的行为。"
+    },
+    {
+      "pattern": "[Case/development] is being closely watched as a potential [standard/benchmark] for [objective], possibly displacing [alternative approach].",
+      "example": "The emerging Disney-OpenAI formal licensing agreement is being closely watched as a potential industry standard for monetizing intellectual property in AI-driven platforms, possibly displacing costly adversarial proceedings.",
+      "translation_cn": "新兴的迪士尼与OpenAI正式许可协议正受到密切关注，被视为在AI驱动平台中将知识产权货币化的潜在行业标准，可能取代耗资巨大的对抗性诉讼程序。"
+    }
+  ],
+  "summary_cn": "本文由Weintraub Tobin律所于2026年1月发布，梳理了娱乐法领域三大核心争议：其一，Bartz诉Anthropic案确立AI训练数据合理使用与盗版存储的分裂判决，引发\"隐蔽抓取\"新诉因；其二，Disney诉Midjourney案将AI生成输出物的版权保护推至前台；其三，最高法院收窄罗杰斯测试后，HomeVestors诉华纳兄弟案将检验商标法对电视节目标题的适用边界。",
+  "legal_analysis": "① 核心法律问题：本文涉及三个相互关联的核心问题——AI训练数据的版权合理使用边界、AI生成输出物的衍生作品侵权认定，以及商标法罗杰斯测试在表达性内容中的适用范围收窄。\n\n② 美国法律框架分析：合理使用抗辩依据《美国版权法》第107条四因素测试，Bartz案的分裂判决表明\"转化性使用\"仍是关键变量，但\"盗版存储\"行为不受保护。隐蔽抓取理论尝试将技术行为纳入侵权范畴，挑战现有数字千年版权法（DMCA）框架下的平台责任边界。Jack Daniel's案后，最高法院实质上要求被告在主张罗杰斯测试保护前先过\"明确误导性\"门槛，削弱了该测试作为门槛性抗辩的功能。\n\n③ 对中国娱乐法律师的实践启示：中国律师应重点追踪Bartz判决对AI训练数据许可谈判的影响，建议委托人在AI产品开发协议中明确约定训练数据来源合规条款；同时关注正式许可协议模式，评估迪士尼-OpenAI协议对中国内容方在跨境AI授权谈判中的参考价值；此外，HomeVestors案对罗杰斯测试的适用结果将影响中国娱乐公司在美国市场进行IP命名和商标注册的策略选择。",
+  "cn_us_comparison": "在版权合理使用方面，美国《版权法》第107条确立开放式四因素测试，赋予法院较大自由裁量空间，Bartz案即体现了这种灵活性；而中国《著作权法》第24条采用封闭式列举模式，规定十二种合理使用情形，AI训练使用尚无明确对应条款，2022年修订亦未作出回应，留有立法空白。在平台责任方面，美国DMCA第512条\"安全港\"机制与中国《信息网络传播权保护条例》第22至23条均采\"通知-删除\"规则，但中国近年司法实践对平台\"应知\"标准趋于严格，更接近美国\"红旗标准\"。在商标表达性使用方面，美国罗杰斯测试在中国法律体系中无直接对应制度，中国《商标法》第59条仅就描述性使用提供有限抗辩，对艺术性表达中的商标使用缺乏系统性规则，是显著制度差异所在。",
+  "discussion_prompt": "Given that the Bartz v. Anthropic split holding permits AI training on copyrighted works as fair use while penalizing pirated storage, does this doctrinal distinction provide a coherent and administrable legal framework for AI development, or does it create perverse incentives that undermine the foundational purposes of copyright protection?",
+  "writing_exercise": {
+    "prompt": "Imagine you are a legal commentator summarizing a new AI copyright ruling. Write 2–3 sentences describing a court's split holding, the novel legal theory plaintiffs are advancing in follow-on litigation, and the potential industry-wide implications of a formal licensing agreement that may emerge as an alternative to litigation.",
+    "model_answer": "The court established a consequential split holding: using publicly available datasets for model training constitutes fair use, but retaining unauthorized copies of source materials in model repositories does not. Building on that precedent, plaintiffs in subsequent actions are advancing novel 'output attribution' theories, arguing that AI-generated text reproducing an author's distinctive style should be treated as conduct analogous to the unauthorized reproduction found actionable in the original ruling. The emerging consortium licensing agreement between major publishers and leading AI developers is being closely watched as a potential industry standard for compensating rights holders at scale, possibly displacing the costly adversarial proceedings that have characterized this litigation wave."
+  },
+  "youtube_rec": {
+    "title": "AI Copyright Law in 2026: Fair Use, Stealth Scraping & the Future of the Rogers Test Explained",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频系统讲解2026年AI版权诉讼的核心法律争议，涵盖Bartz诉Anthropic案合理使用分裂判决的实践意义、隐蔽抓取理论的法律逻辑，以及最高法院收窄罗杰斯测试后商标法对娱乐内容的新适用框架，适合希望深入理解美国IP法律前沿的从业者。"
+  },
+  "extended_reading": [
+    {
+      "title": "AI Copyright Lawsuit Developments in 2025: A Year in Review",
+      "url": "https://copyrightalliance.org/ai-copyright-lawsuit-developments-2025/",
+      "description_cn": "版权联盟发布的2025年AI版权诉讼年度回顾，涵盖Bartz诉Anthropic 15亿美元和解、Suno与Udio被诉及ByteDance涉嫌抓取YouTube视频训练MagicVideo模型等重大案件进展。",
+      "language": "en"
+    },
+    {
+      "title": "Generative AI and Copyright Infringement: A Legal-Technical Analysis of AI Music Generation Systems Under 17 U.S.C. Title 17",
+      "url": "https://arxiv.org/html/2606.26111v1",
+      "description_cn": "arXiv学术论文，从法律与技术双重视角分析AI音乐生成系统的版权侵权问题，重点研究声音克隆与\"仿音\"输出在美国《版权法》第17编下的司法认定路径。",
+      "language": "en"
+    }
+  ],
+  "week": 24,
+  "day": 2,
+  "date": "2026-09-02",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week24/day2.mp3"
+}
