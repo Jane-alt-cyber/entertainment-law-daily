@@ -1,0 +1,132 @@
+{
+  "reading": {
+    "title": "Elon Musk Loses $150 Billion Lawsuit Against OpenAI & Microsoft",
+    "source": "Deadline Hollywood, May 18, 2026",
+    "url": "https://deadline.com/2026/05/elon-musk-verdict-openai-sam-altman-1236914787/",
+    "text": "In one of the most consequential technology trials of the decade, a California federal jury ruled against Elon Musk on May 18, 2026, in his high-stakes lawsuit against OpenAI and CEO Sam Altman. The case was heard in the U.S. District Court for the Northern District of California before Judge Yvonne Gonzalez Rogers, and centered on Musk's allegation that Altman and co-founder Greg Brockman violated OpenAI's founding agreement by converting the organization from a nonprofit, safety-focused AI lab into a for-profit enterprise. Musk, who co-founded OpenAI in 2015, originally sought damages estimated between $134 billion and $150 billion, framing the transition as a breach of charitable trust and a betrayal of the organization's stated mission to develop artificial general intelligence for the benefit of humanity rather than corporate profit.\n\nThe nine-member advisory jury deliberated for less than two hours before returning a verdict in favor of OpenAI and its executives. Critically, the jury did not adjudicate the merits of Musk's breach-of-charitable-trust claims. Instead, it found that his claims were barred by California's three-year statute of limitations. Judge Gonzalez Rogers immediately adopted the advisory jury's verdict. The court's reasoning turned on the timeline: Musk and Altman had begun discussing a for-profit restructuring as early as 2017 — meaning Musk had known or should have known about the alleged breach years before filing suit in 2024.\n\nOpenAI's counsel argued that Musk's donations to the organization carried no restrictions, and that the for-profit conversion was a competitive necessity. Notably, they introduced evidence that Musk himself had proposed retaining personal control as a condition of any restructuring, and had even suggested folding OpenAI into Tesla. OpenAI characterized the litigation as a strategic maneuver by Musk — who launched his own competing AI venture, xAI, in 2023 — designed to undermine a rival after he lost influence over the company. High-profile witnesses included Sam Altman, Greg Brockman, Microsoft CEO Satya Nadella, and Musk himself. Following the verdict, Musk posted on X calling the outcome a 'calendar technicality' and vowed to appeal. The case carries broad implications for generative AI governance across creative industries, as OpenAI's technology now underpins tools used widely in film, music, and content production.",
+    "word_count": 352
+  },
+  "vocabulary": [
+    {
+      "term": "breach of charitable trust",
+      "pronunciation": "/briːtʃ əv ˈtʃærɪtəbəl trʌst/",
+      "definition_cn": "违反慈善信托义务，指受托人或创始人违背非营利组织章程所规定的公益目的，将资产或组织用于非慈善目的，属美国非营利法中的重要违规类型。",
+      "example": "The plaintiff's core allegation was a breach of charitable trust arising from the organization's conversion to a for-profit structure.",
+      "audio": "week24/day3_vocab_0.mp3"
+    },
+    {
+      "term": "statute of limitations",
+      "pronunciation": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "definition_cn": "诉讼时效，即法律规定当事人必须在特定期限内提起诉讼的强制性时间限制；加州对此类请求适用三年期限，逾期则丧失起诉权。",
+      "example": "The defendant successfully invoked the statute of limitations to bar claims that had accrued more than three years before the filing date.",
+      "audio": "week24/day3_vocab_1.mp3"
+    },
+    {
+      "term": "advisory jury",
+      "pronunciation": "/ədˈvaɪzəri ˈdʒʊəri/",
+      "definition_cn": "咨询陪审团，在非陪审团审判的衡平法案件中，法院可召集非强制性陪审团就事实问题提供意见，法官可采纳或拒绝其裁定，不同于普通陪审团的约束性裁决。",
+      "example": "Because the claims sounded in equity, the court convened an advisory jury whose findings the judge subsequently adopted in full.",
+      "audio": "week24/day3_vocab_2.mp3"
+    },
+    {
+      "term": "for-profit restructuring",
+      "pronunciation": "/fər ˈprɒfɪt ˌriːˈstrʌktʃərɪŋ/",
+      "definition_cn": "营利性重组，指将非营利实体转变为以盈利为目的的商业主体的法律程序，涉及公司章程修改、资产转移及监管审批，可能引发慈善资产保护方面的法律争议。",
+      "example": "Regulators scrutinized the for-profit restructuring to ensure that charitable assets were not diverted to private benefit.",
+      "audio": "week24/day3_vocab_3.mp3"
+    },
+    {
+      "term": "founding agreement",
+      "pronunciation": "/ˈfaʊndɪŋ əˈɡriːmənt/",
+      "definition_cn": "创始协议，指规定组织设立目的、创始人权利义务及治理架构的原始法律文件，在争议中常被援引以证明当事方的初始意图及义务范围。",
+      "example": "The litigation turned on whether the defendants had departed materially from the obligations set out in the founding agreement.",
+      "audio": "week24/day3_vocab_4.mp3"
+    },
+    {
+      "term": "damages",
+      "pronunciation": "/ˈdæmɪdʒɪz/",
+      "definition_cn": "损害赔偿金，指法院判令违约或侵权方向受损方支付的货币补偿，分为补偿性、惩罚性等类型；本案原告索赔金额高达1500亿美元，属极端高额索赔。",
+      "example": "The plaintiff sought compensatory damages of up to $150 billion, reflecting the alleged economic harm from the defendant's conduct.",
+      "audio": "week24/day3_vocab_5.mp3"
+    },
+    {
+      "term": "for-profit conversion",
+      "pronunciation": "/fər ˈprɒfɪt kənˈvɜːʒən/",
+      "definition_cn": "营利性转换，指组织由非营利法律形式正式变更为营利性公司结构的法律行为，须经州检察长审查，并可能触发相关慈善信托保护法规的适用。",
+      "example": "The state attorney general's office opened an inquiry into the for-profit conversion to assess whether charitable assets had been properly valued.",
+      "audio": "week24/day3_vocab_6.mp3"
+    },
+    {
+      "term": "counsel",
+      "pronunciation": "/ˈkaʊnsəl/",
+      "definition_cn": "（出庭）律师或法律顾问，在正式诉讼场合特指代理当事人出庭的辩护律师或诉讼律师，与'attorney'通用但多见于书面及法庭语境。",
+      "example": "Counsel for the defense introduced documentary evidence showing that the plaintiff had himself proposed a for-profit structure.",
+      "audio": "week24/day3_vocab_7.mp3"
+    },
+    {
+      "term": "artificial general intelligence",
+      "pronunciation": "/ˌɑːtɪˈfɪʃəl ˈdʒenərəl ɪnˈtelɪdʒəns/",
+      "definition_cn": "通用人工智能（AGI），指能执行人类水平认知任务的AI系统；在本案中，其开发目标被载入创始文件，构成判断组织使命是否被违背的核心基准。",
+      "example": "The organization's charter explicitly dedicated its resources to the safe development of artificial general intelligence for broad public benefit.",
+      "audio": "week24/day3_vocab_8.mp3"
+    },
+    {
+      "term": "litigation",
+      "pronunciation": "/ˌlɪtɪˈɡeɪʃən/",
+      "definition_cn": "诉讼程序，泛指当事方通过法院解决争议的全部法律程序；在商业语境中也指策略性运用诉讼手段实现竞争或商业目的，本案被告即援引此论点反驳原告动机。",
+      "example": "The defendants argued that the litigation was a competitive tactic rather than a good-faith effort to vindicate legal rights.",
+      "audio": "week24/day3_vocab_9.mp3"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "pattern": "[Plaintiff] alleged that [defendant] violated [founding instrument] by [specific conduct], seeking damages of [amount].",
+      "example": "Musk alleged that Altman and Brockman violated OpenAI's founding agreement by converting the organization from a nonprofit into a for-profit enterprise, seeking damages estimated at $150 billion.",
+      "translation_cn": "马斯克主张奥特曼和布罗克曼违反了OpenAI的创始协议，将该组织从非营利机构转变为营利性企业，索赔金额高达1500亿美元。"
+    },
+    {
+      "pattern": "The jury found that [claims] were barred by [procedural doctrine], without reaching the merits of [substantive allegation].",
+      "example": "The jury found that Musk's claims were barred by California's three-year statute of limitations, without reaching the merits of his breach-of-charitable-trust allegations.",
+      "translation_cn": "陪审团认定马斯克的请求已超过加州三年诉讼时效而不予受理，无需就其违反慈善信托的实质性主张作出裁定。"
+    },
+    {
+      "pattern": "[Party] characterized the [legal action] as a strategic [maneuver/tactic] intended to [anticompetitive purpose] after [triggering event].",
+      "example": "OpenAI characterized the litigation as a strategic maneuver by Musk intended to undermine a rival after he lost influence over the company.",
+      "translation_cn": "OpenAI将此次诉讼定性为马斯克在失去对该公司影响力后，为打压竞争对手而采取的策略性手段。"
+    }
+  ],
+  "summary_cn": "2026年5月，加州联邦陪审团裁定马斯克对OpenAI及其CEO奥特曼提起的高达1500亿美元诉讼败诉。陪审团未就违反慈善信托的实质主张作出裁定，而是认定马斯克的请求已超过加州三年诉讼时效，法官随即采纳咨询陪审团裁决。OpenAI主张马斯克发起诉讼意在打压竞争对手，马斯克则誓言提出上诉。本案对生成式AI治理及娱乐创意产业具有深远影响。",
+  "legal_analysis": "① 核心法律问题：本案涉及三项交叉性法律争议：其一，非营利组织进行营利性重组时是否构成对慈善信托义务的违反；其二，诉讼时效的起算点——即原告何时\"知道或应当知道\"违约事实——是否足以封堵实质性主张；其三，创始人捐款是否附有可执行的限制性条件。\n\n② 美国法律框架：依据加州公司法典及《统一信托法典》，慈善信托的受托人负有忠实履行信托目的之义务，违反者可面临检察长提起的衡平救济。然而，诉讼时效制度（加州《民事诉讼法典》第338条）同样适用于慈善信托主张，且\"发现规则\"（discovery rule）将起算时点提前至原告合理发现损害之日。本案法院认定，2017年双方讨论营利化转型时，诉讼时效即已开始计算，至2024年起诉时已然届满。\n\n③ 对中国娱乐法律师的实践启示：中国律师在代理涉AI公司治理或非营利转型项目时，须特别关注创始文件的目的条款措辞精确性，以及诉讼时效与\"知道或应当知道\"起算标准的把握。此外，本案揭示了将诉讼时效作为程序性防线的重要防御价值，值得在跨境争议策略中加以借鉴。",
+  "cn_us_comparison": "美国法律框架下，非营利组织的慈善资产受州检察长监督，营利性转换须经严格审批，违反慈善信托义务可依衡平法原则追究受托人责任；诉讼时效方面，加州《民事诉讼法典》第338条规定三年期限，并适用\"发现规则\"灵活确定起算点。\n\n中国方面，《民法典》第一百八十八条规定一般诉讼时效为三年，同样适用\"知道或应当知道\"之起算标准，与美国发现规则存在形式上的相似性。然而，中国对非营利组织（依据《慈善法》及《基金会管理条例》）的监管权归属于民政部门而非司法机关，慈善资产的保护路径以行政监管为主，缺乏美国检察长主导的衡平诉讼机制。此外，中国尚未建立类似美国\"咨询陪审团\"的制度，法官在事实认定上享有更大自由裁量空间。两国制度差异提示跨境项目律师须充分评估各自司法管辖区的程序性风险。",
+  "discussion_prompt": "Given that the jury bypassed the substantive merits of Musk's breach-of-charitable-trust claims entirely, should procedural bars like the statute of limitations be permitted to insulate potentially significant violations of nonprofit governance obligations from judicial scrutiny — and what reforms, if any, would you propose to balance finality against accountability in high-stakes AI governance disputes?",
+  "writing_exercise": {
+    "prompt": "Imagine you are drafting a legal brief summary for a client. In 2-3 sentences, describe a scenario in which a co-founder's claims against a technology organization are dismissed on procedural grounds, without the court reaching the substantive allegations. Use at least two vocabulary terms from today's lesson.",
+    "model_answer": "The plaintiff alleged that the defendants had violated the founding agreement by executing a for-profit conversion without authorization, seeking substantial damages for breach of charitable trust. However, the court found that the claims were barred by the applicable statute of limitations, as the plaintiff had been aware of the restructuring discussions for over three years prior to filing. Accordingly, the advisory jury's verdict in favor of the defendants was adopted by the presiding judge without adjudication of the underlying substantive merits."
+  },
+  "youtube_rec": {
+    "title": "Musk v. OpenAI Explained: Statute of Limitations, Charitable Trusts & AI Governance Law",
+    "channel": "LegalEagle",
+    "summary_cn": "本视频深度解析马斯克诉OpenAI案的程序性焦点，涵盖加州诉讼时效规则、慈善信托法律框架及咨询陪审团制度，并探讨该判决对AI公司治理与创始人法律责任的长远影响，适合有一定法律基础的进阶学习者。"
+  },
+  "extended_reading": [
+    {
+      "title": "Variety's Legal Impact Report 2026: Meet Hollywood's Top Entertainment Attorneys",
+      "url": "https://variety.com/lists/legal-impact-report-2026-hollywood-top-attorneys/",
+      "description_cn": "《综艺》2026年度好莱坞顶级娱乐律师榜单，涵盖AI版权诉讼、马斯克案及制片厂利润分配诉讼等标志性案件点评。",
+      "language": "en"
+    },
+    {
+      "title": "Entertainment Litigators Discuss AI, Copyright, and the Future of Entertainment Law",
+      "url": "https://journals.law.harvard.edu/jsel/2026/04/entertainment-litigators-discuss-ai-copyright-and-the-future-of-entertainment-law/",
+      "description_cn": "哈佛《体育与娱乐法杂志》2026年学术文章，记录顶级诉讼律师就AI训练数据版权保护与合理使用原则的前沿辩论，并参照白宫AI政策框架展开深度分析。",
+      "language": "en"
+    }
+  ],
+  "week": 24,
+  "day": 3,
+  "date": "2026-09-03",
+  "phase": 3,
+  "theme_en": "Entertainment Law Current Events",
+  "theme_cn": "娱乐法最新动态",
+  "audio_file": "week24/day3.mp3"
+}
